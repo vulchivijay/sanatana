@@ -96,7 +96,7 @@ jobs:
       - name: Ensure compiled SCSS is present in `out/`
         run: |
           set -ex
-          CSS_SRC=public/globals.css
+          CSS_SRC=public/globals.from-scss.css
           # If compiled CSS isn't present, try building it now
           if [ ! -f "$CSS_SRC" ]; then
             echo "Compiled SCSS not found at $CSS_SRC — building now"

@@ -14,6 +14,7 @@ import Loader from './components/loader/loader';
 import TopProgress from './components/progress/TopProgress';
 import { headers } from 'next/headers';
 import { DEFAULT_LOCALE, SUPPORTED_LOCALES } from '../lib/i18n';
+import "./globals.css";
 
 const playfair = Playfair_Display({ subsets: ["latin"], weight: ["700"] });
 const poppins = Poppins({ subsets: ["latin"], weight: ["400"] });

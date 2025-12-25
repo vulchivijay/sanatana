@@ -342,6 +342,30 @@ button,
   var(--color-blue));
 }
 
+.image-shiva-wrapper,
+.image-krishna-wrapper {
+  background-attachment: fixed, scroll;
+  background-size: cover, cover;
+  background-position: center, center;
+  background-repeat: no-repeat;
+}
+
+.image-shiva-wrapper {
+  background-color: rgb(5, 11, 24);
+}
+
+.image-krishna-wrapper {
+  background-color: rgb(5, 5, 5);
+}
+
+.section-gradient.image-bg-shiva {
+  background-image: radial-gradient(circle farthest-corner at 0% 100%, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.14) 31%, var(--color--blue) 73%);
+}
+
+.section-gradient.image-bg-krishna {
+  background-image: radial-gradient(circle farthest-corner at 0% 100%, var(--color--blue), var(--color--blue) 31%, rgba(0, 0, 0, 0) 73%);
+}
+
 .background-alternative {
   background-color: var(--color-bg-alt);
 }
@@ -468,8 +492,28 @@ button,
   .social-icons {
     padding-bottom: 0;
   }
+
   .map-wrapper {
     padding: 0 var(--space-md);
+  }
+
+  .border-gradient-vertical {
+    border-right: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to bottom, red, rgba(0, 0, 0, 0)) 1 100%;
+  }
+
+  .image-shiva-wrapper,
+  .image-krishna-wrapper {
+    background-size: 88%, 100%;
+  }
+
+  .image-shiva-wrapper {
+    background-position: -200% 0, 0 0;
+  }
+
+  .image-krishna-wrapper {
+    background-position: 200% 0, 0 0;
   }
 }
 
