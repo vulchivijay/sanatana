@@ -13,8 +13,7 @@ import CookieConsent from './components/cookie-consent/CookieConsent';
 import Loader from './components/loader/loader';
 import TopProgress from './components/progress/TopProgress';
 import { headers } from 'next/headers';
-import { getMeta, DEFAULT_LOCALE, SUPPORTED_LOCALES } from '../lib/i18n';
-import "./globals.css";
+import { DEFAULT_LOCALE, SUPPORTED_LOCALES } from '../lib/i18n';
 
 const playfair = Playfair_Display({ subsets: ["latin"], weight: ["700"] });
 const poppins = Poppins({ subsets: ["latin"], weight: ["400"] });
@@ -101,26 +100,7 @@ export const metadata: Metadata = {
     canonical: SITE_URL,
     languages: {
       en: SITE_URL,
-      hi: `${SITE_URL}/?lang=hi`,
-      ta: `${SITE_URL}/?lang=ta`,
-      te: `${SITE_URL}/?lang=te`,
-      kn: `${SITE_URL}/?lang=kn`,
-      ml: `${SITE_URL}/?lang=ml`,
-      mr: `${SITE_URL}/?lang=mr`,
-      bn: `${SITE_URL}/?lang=bn`,
-      gu: `${SITE_URL}/?lang=gu`,
-      pa: `${SITE_URL}/?lang=pa`,
-      or: `${SITE_URL}/?lang=or`,
-      as: `${SITE_URL}/?lang=as`,
-      ur: `${SITE_URL}/?lang=ur`,
-      sa: `${SITE_URL}/?lang=sa`,
-      ru: `${SITE_URL}/?lang=ru`,
-      fr: `${SITE_URL}/?lang=fr`,
-      nl: `${SITE_URL}/?lang=nl`,
-      de: `${SITE_URL}/?lang=de`,
-      ja: `${SITE_URL}/?lang=ja`,
-      zh: `${SITE_URL}/?lang=zh`,
-      es: `${SITE_URL}/?lang=es`
+      te: `${SITE_URL}/?lang=te`
     }
   },
   // robots handled per-page to avoid duplicate tags when pages also set robots
@@ -179,9 +159,7 @@ export default async function RootLayout({
         <link rel="preload" as="image" href="/images/lord-krishna.png" />
         {/* Per-page canonical is set via per-page `generateMetadata` using meta.json;
           remove static canonical here to avoid duplicate canonical tags. */}
-        {(process.env.NODE_ENV === "development" || process.env.NEXT_PUBLIC_INCLUDE_SCSS === "true") && (
-          <link rel="stylesheet" href="/globals.from-scss.css" />
-        )}
+        <link rel="stylesheet" href="/globals.css" />
         {/* JSON-LD structured data for Website/Organization */}
         <Script
           type="application/ld+json"
