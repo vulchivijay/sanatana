@@ -159,7 +159,7 @@ export default async function RootLayout({
         <link rel="preload" as="image" href="/images/lord-krishna.png" />
         {/* Per-page canonical is set via per-page `generateMetadata` using meta.json;
           remove static canonical here to avoid duplicate canonical tags. */}
-        <link rel="stylesheet" href="/globals.css" />
+        <link rel="stylesheet" href="/globals.from-scss.css" />
         {/* JSON-LD structured data for Website/Organization */}
         <Script
           type="application/ld+json"

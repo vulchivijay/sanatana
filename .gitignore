@@ -43,7 +43,7 @@ yarn-error.log*
 next-env.d.ts
 
 # dev options
-public/globals.css
+public/globals.from-scss.css
 lighthouse-report.html
 
 # Additional build / cache artifacts
