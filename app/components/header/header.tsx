@@ -176,7 +176,7 @@ export default function Header() {
                 if (typeof val === "string") {
                   const href = key === "home" ? "/" : `/${key}`;
                   const className = key === "donate"
-                    ? `rounded-sm hover: hover:theme-text-color no-underline ${isActive(href) ? " " : " "}`
+                    ? `rounded-md! hover: hover:theme-text-color no-underline ${isActive(href) ? " " : " "}`
                     : `${isActive(href) ? "active" : ""}`;
                   return (
                     <Link role="menuitem" key={key} href={href} className={className}>
