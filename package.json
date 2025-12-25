@@ -5,13 +5,12 @@
   "license": "SEE LICENSE IN LICENSE",
   "scripts": {
     "dev": "next dev",
-    "build": "npm run generate:analytics && cross-env NEXT_TELEMETRY_DISABLED=1 node --max-old-space-size=8192 ./node_modules/next/dist/bin/next build",
-    "prebuild": "npm run generate:analytics && node scripts/generate-sitemap.js",
+    "build": "cross-env NEXT_TELEMETRY_DISABLED=1 node --max-old-space-size=8192 ./node_modules/next/dist/bin/next build",
+    "prebuild": "node scripts/generate-sitemap.js",
     "build:server": "cross-env NEXT_TELEMETRY_DISABLED=1 node --max-old-space-size=8192 ./node_modules/next/dist/bin/next build",
     "scss:build": "sass app/globals.scss public/globals.from-scss.css --no-source-map",
     "scss:watch": "sass --watch app/globals.scss:public/globals.from-scss.css --no-source-map",
     "predeploy": "npm run scss:build && npm run build",
-    "generate:page-from-locale": "node scripts/generate-page.js",
     "export": "next build",
     "postinstall": "npx next telemetry disable || true",
     "deploy": "gh-pages -d out",
@@ -22,6 +21,7 @@
     "noEmit": "npx tsc --noEmit"
   },
   "custom": {
+    "generate:page-from-locale": "node scripts/generate-page.js",
     "build:analyze": "cross-env ANALYZE=true next build",
     "build:analyze:bigmem": "cross-env ANALYZE=true node --max-old-space-size=12288 ./node_modules/next/dist/bin/next build --webpack",
     "i18n:check": "node scripts/check-hardcoded.js",
