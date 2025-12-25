@@ -1,0 +1,13 @@
+{
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "intro": "This Privacy Policy outlines how we collect, use and protect your personal information.",
+    "informationHeading": "Information we collect",
+    "informationDesc": "We collect information you provide, cookies, and anonymized analytics data to improve the service.",
+    "howWeUse": "How we use information",
+    "howWeUseDesc": "Information is used to operate, maintain and provide the features of the website, and to analyze usage patterns.",
+    "yourRights": "Your rights",
+    "yourRightsDesc": "You can request access, correction or deletion of your personal data by contacting us on the site.",
+    "lastUpdated": "Last updated: {date}"
+  }
+}

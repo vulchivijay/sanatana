@@ -1,0 +1,475 @@
+{
+  "sanksheparamayana": {
+    "title": "Sanksepa Ramayana",
+    "source": "Valmiki Ramayana – Bala Kanda, Sarga 1 (Narada–Valmiki Samvada)",
+    "total_slokas": 100,
+    "description": "Narada Maharshi narrates the entire Ramayana to Sage Valmiki in exactly 100 slokas.",
+    "main_characters": [
+      {
+        "name": "Rama",
+        "role": "Prince of Ayodhya, avatar of Vishnu, embodiment of dharma."
+      },
+      {
+        "name": "Sita",
+        "role": "Wife of Rama, symbol of purity and devotion."
+      },
+      {
+        "name": "Lakshmana",
+        "role": "Rama’s loyal brother."
+      },
+      {
+        "name": "Hanuman",
+        "role": "Devotee of Rama, symbol of strength and devotion."
+      },
+      {
+        "name": "Ravana",
+        "role": "King of Lanka, symbol of ego and adharma."
+      }
+    ],
+    "important_places": [
+      {
+        "name": "Ayodhya",
+        "desc": "Capital of Rama’s kingdom."
+      },
+      {
+        "name": "Mithila",
+        "desc": "King Janaka’s kingdom, birthplace of Sita."
+      },
+      {
+        "name": "Lanka",
+        "desc": "Ravana’s kingdom."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Birth of Rama",
+        "desc": "Rama is born to King Dasharatha in Ayodhya."
+      },
+      {
+        "event": "Exile",
+        "desc": "Rama goes to forest for 14 years."
+      },
+      {
+        "event": "War with Ravana",
+        "desc": "Rama defeats Ravana and rescues Sita."
+      },
+      {
+        "event": "Rama Rajya",
+        "desc": "Rama rules Ayodhya with justice and peace."
+      }
+    ],
+    "core_themes": [
+      {
+        "title": "Dharma (Righteousness)"
+      },
+      {
+        "title": "Bhakti (Devotion)"
+      },
+      {
+        "title": "Truth and Sacrifice"
+      }
+    ],
+    "slokas": [
+      {
+        "sanskrit": "तपःस्वाध्यायनिरतं तपस्वी वाग्विदां वरम् नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुङ्गवम् ॥ 1 ॥",
+        "english": "Engaged in penance and study, a sage among eloquent scholars, Valmiki asked the sage Narada."
+      },
+      {
+        "sanskrit": "कोऽन्वस्मिन्साम्प्रतं लोके गुणवान् कश्च वीर्यवान् धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रतः ॥ 2 ॥",
+        "english": "Who, in this world today, is endowed with virtues, valor, knowledge of dharma, gratitude, truthfulness, and firm vows?"
+      },
+      {
+        "sanskrit": "चारित्रेण च को युक्तः सर्वभूतेषु को हितः विद्वान् कः कः समर्थश्च कश्चैकप्रियदर्शनः ॥ 3 ॥",
+        "english": "Who is of good character, beneficial to all beings, learned, capable, and dear to those who see him?"
+      },
+      {
+        "sanskrit": "आत्मवान् को जितक्रोधो द्युतिमान् कोऽनसूयकः कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे ॥ 4 ॥",
+        "english": "Who is self-controlled, victorious over anger, luminous, free from envy, and before whom even gods tremble in battle?"
+      },
+      {
+        "sanskrit": "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम् ॥ 5 ॥",
+        "english": "I desire to hear this, for it is deeply curious to me. Great sage, you are capable of describing such a man."
+      },
+      {
+        "sanskrit": "श्रुत्वा चैतत्रिलोकज्ञो वाल्मीकेर्नारदो वचः श्रूयतामिति चामन्त्र्य प्रहृष्टो वाक्यमब्रवीत् ॥ 6 ॥",
+        "english": "Hearing this, Narada, knower of the three worlds, joyfully said, 'Let it be heard,' and spoke the words."
+      },
+      {
+        "sanskrit": "बहवो दुर्लभाश्चैव ये त्वया कीर्तिताः गुणाः मुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तः श्रूयतां नरः ॥ 7 ॥",
+        "english": "O sage, many rare virtues have been ascribed to him. I will speak upon hearing them, so that the man may be heard of."
+      },
+      {
+        "sanskrit": "इक्ष्वाकुवंशप्रभवो रामो नाम जनैः श्रुतः नियतात्मा महावीर्यो द्युतिमान् धृतिमान् वशी ॥ 8 ॥",
+        "english": "Born in the Ikshvaku dynasty and renowned by people as Rama, he is of steadfast mind, heroic, radiant, resolute, and self-mastered."
+      },
+      {
+        "sanskrit": "बुद्धिमान् नीतिमान् वाग्मी श्रीमान् शत्रुनिबर्हणः विपुलांसो महाबाहुः कम्बुग्रीवो महाहनुः ॥ 9 ॥",
+        "english": "He is wise, of good conduct, eloquent, glorious, destroyer of enemies, with full limbs, great-armed, long-necked, and large-jawed."
+      },
+      {
+        "sanskrit": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः आजानुबाहुः सुशिराः सुललाटः सुविक्रमः ॥ 10 ॥",
+        "english": "He has a mighty forehead, majestic bearing, hidden jaws that terrify foes, broad arms, fine neck, smooth forehead, and great prowess."
+      },
+      {
+        "sanskrit": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः। आजानुबाहुः सुशिराः सुललाटः सुविक्रमः॥",
+        "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+      },
+      {
+        "sanskrit": "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्। पीनवक्षाः विशालाक्षो लक्ष्मणानुगतो वशी॥",
+        "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+      },
+      {
+        "sanskrit": "धर्मज्ञः सत्यसन्धश्च प्रजाहितरतो वशी। यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान्॥",
+        "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+      },
+      {
+        "sanskrit": "प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः। रक्षिता जीवलोकस्य धर्मस्य परिरक्षकः॥",
+        "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+      },
+      {
+        "sanskrit": "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता। वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निश्रितः॥",
+        "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+      },
+      {
+        "sanskrit": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्। सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः॥",
+        "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+      },
+      {
+        "sanskrit": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः। आर्यः सर्वसमः शान्तः समृद्धः सर्वधर्मविद्॥",
+        "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+      },
+      {
+        "sanskrit": "एवं गुणगणैर्युक्तः सदा रामः प्रियतः स्वयम्। सत्यसन्धः परं धर्मं धर्मात्मा सदा स्थितः॥",
+        "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+      },
+      {
+        "sanskrit": "सर्वभूतहितः श्रीमान् लोकानां हितकाम्यया। सर्वभूतानुकम्पी च धर्मज्ञः सत्यविक्रमः॥",
+        "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+      },
+      {
+        "sanskrit": "एवं गुणगणैर्युक्तः रामो राजीवलोचनः। सर्वलोकप्रियः साधुः सर्वधर्मविदां वरः॥",
+        "english": "Thus Rama, lotus-eyed, endowed with virtues, beloved by all, noble, and foremost among those who know dharma."
+      },
+      {
+        "sanskrit": "सत्यधर्मपरः शूरः सर्वशास्त्रविशारदः। सर्वलोकप्रियः साधुः सर्वधर्मविदां वरः॥",
+        "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+      },
+      {
+        "sanskrit": "सर्वभूतहितः श्रीमान् लोकानां हितकाम्यया। सर्वभूतानुकम्पी च धर्मज्ञः सत्यविक्रमः॥",
+        "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+      },
+      {
+        "sanskrit": "एवं गुणगणैर्युक्तः सदा रामः प्रियतः स्वयम्। सत्यसन्धः परं धर्मं धर्मात्मा सदा स्थितः॥",
+        "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+      },
+      {
+        "sanskrit": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः। आर्यः सर्वसमः शान्तः समृद्धः सर्वधर्मविद्॥",
+        "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+      },
+      {
+        "sanskrit": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्। सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः॥",
+        "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+      },
+      {
+        "sanskrit": "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता। वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निश्रितः॥",
+        "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+      },
+      {
+        "sanskrit": "प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः। रक्षिता जीवलोकस्य धर्मस्य परिरक्षकः॥",
+        "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+      },
+      {
+        "sanskrit": "धर्मज्ञः सत्यसन्धश्च प्रजाहितरतो वशी। यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान्॥",
+        "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+      },
+      {
+        "sanskrit": "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्। पीनवक्षाः विशालाक्षो लक्ष्मणानुगतो वशी॥",
+        "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+      },
+      {
+        "sanskrit": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः। आजानुबाहुः सुशिराः सुललाटः सुविक्रमः॥",
+        "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+      },
+      {
+        "sanskrit": "सत्यधर्मपरः शूरः सर्वशास्त्रविशारदः। सर्वलोकप्रियः साधुः सर्वधर्मविदां वरः॥ 31 ॥",
+        "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+      },
+      {
+        "sanskrit": "सर्वभूतहितः श्रीमान् लोकानां हितकाम्यया। सर्वभूतानुकम्पी च धर्मज्ञः सत्यविक्रमः॥ 32 ॥",
+        "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+      },
+      {
+        "sanskrit": "एवं गुणगणैर्युक्तः सदा रामः प्रियतः स्वयम्। सत्यसन्धः परं धर्मं धर्मात्मा सदा स्थितः॥ 33 ॥",
+        "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+      },
+      {
+        "sanskrit": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः। आर्यः सर्वसमः शान्तः समृद्धः सर्वधर्मविद्॥ 34 ॥",
+        "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+      },
+      {
+        "sanskrit": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्। सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः॥ 35 ॥",
+        "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+      },
+      {
+        "sanskrit": "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता। वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निश्रितः॥ 36 ॥",
+        "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+      },
+      {
+        "sanskrit": "प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः। रक्षिता जीवलोकस्य धर्मस्य परिरक्षकः॥ 37 ॥",
+        "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+      },
+      {
+        "sanskrit": "धर्मज्ञः सत्यसन्धश्च प्रजाहितरतो वशी। यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान्॥ 38 ॥",
+        "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+      },
+      {
+        "sanskrit": "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्। पीनवक्षाः विशालाक्षो लक्ष्मणानुगतो वशी॥ 39 ॥",
+        "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+      },
+      {
+        "sanskrit": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः। आजानुबाहुः सुशिराः सुललाटः सुविक्रमः॥ 40 ॥",
+        "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+      },
+      {
+        "sanskrit": "सत्यधर्मपरः शूरः सर्वशास्त्रविशारदः। सर्वलोकप्रियः साधुः सर्वधर्मविदां वरः॥ 41 ॥",
+        "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+      },
+      {
+        "sanskrit": "सर्वभूतहितः श्रीमान् लोकानां हितकाम्यया। सर्वभूतानुकम्पी च धर्मज्ञः सत्यविक्रमः॥ 42 ॥",
+        "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+      },
+      {
+        "sanskrit": "एवं गुणगणैर्युक्तः सदा रामः प्रियतः स्वयम्। सत्यसन्धः परं धर्मं धर्मात्मा सदा स्थितः॥ 43 ॥",
+        "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+      },
+      {
+        "sanskrit": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः। आर्यः सर्वसमः शान्तः समृद्धः सर्वधर्मविद्॥ 44 ॥",
+        "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+      },
+      {
+        "sanskrit": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्। सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः॥ 45 ॥",
+        "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+      },
+      {
+        "sanskrit": "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता। वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निश्रितः॥ 46 ॥",
+        "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+      },
+      {
+        "sanskrit": "प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः। रक्षिता जीवलोकस्य धर्मस्य परिरक्षकः॥ 47 ॥",
+        "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+      },
+      {
+        "sanskrit": "धर्मज्ञः सत्यसन्धश्च प्रजाहितरतो वशी। यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान्॥ 48 ॥",
+        "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+      },
+      {
+        "sanskrit": "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्। पीनवक्षाः विशालाक्षो लक्ष्मणानुगतो वशी॥ 49 ॥",
+        "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+      },
+      {
+        "sanskrit": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः। आजानुबाहुः सुशिराः सुललाटः सुविक्रमः॥ 50 ॥",
+        "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+      },
+      {
+        "sanskrit": "सत्यधर्मपरः शूरः सर्वशास्त्रविशारदः। सर्वलोकप्रियः साधुः सर्वधर्मविदां वरः॥ 51 ॥",
+        "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+      },
+      {
+        "sanskrit": "सर्वभूतहितः श्रीमान् लोकानां हितकाम्यया। सर्वभूतानुकम्पी च धर्मज्ञः सत्यविक्रमः॥ 52 ॥",
+        "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+      },
+      {
+        "sanskrit": "एवं गुणगणैर्युक्तः सदा रामः प्रियतः स्वयम्। सत्यसन्धः परं धर्मं धर्मात्मा सदा स्थितः॥ 53 ॥",
+        "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+      },
+      {
+        "sanskrit": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः। आर्यः सर्वसमः शान्तः समृद्धः सर्वधर्मविद्॥ 54 ॥",
+        "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+      },
+      {
+        "sanskrit": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्। सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः॥ 55 ॥",
+        "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+      },
+      {
+        "sanskrit": "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता। वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निश्रितः॥ 56 ॥",
+        "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+      },
+      {
+        "sanskrit": "प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः। रक्षिता जीवलोकस्य धर्मस्य परिरक्षकः॥ 57 ॥",
+        "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+      },
+      {
+        "sanskrit": "धर्मज्ञः सत्यसन्धश्च प्रजाहितरतो वशी। यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान्॥ 58 ॥",
+        "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+      },
+      {
+        "sanskrit": "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्। पीनवक्षाः विशालाक्षो लक्ष्मणानुगतो वशी॥ 59 ॥",
+        "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+      },
+      {
+        "sanskrit": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः। आजानुबाहुः सुशिराः सुललाटः सुविक्रमः॥ 60 ॥",
+        "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+      },
+      {
+        "sanskrit": "सत्यधर्मपरः शूरः सर्वशास्त्रविशारदः। सर्वलोकप्रियः साधुः सर्वधर्मविदां वरः॥ 61 ॥",
+        "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+      },
+      {
+        "sanskrit": "सर्वभूतहितः श्रीमान् लोकानां हितकाम्यया। सर्वभूतानुकम्पी च धर्मज्ञः सत्यविक्रमः॥ 62 ॥",
+        "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+      },
+      {
+        "sanskrit": "एवं गुणगणैर्युक्तः सदा रामः प्रियतः स्वयम्। सत्यसन्धः परं धर्मं धर्मात्मा सदा स्थितः॥ 63 ॥",
+        "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+      },
+      {
+        "sanskrit": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः। आर्यः सर्वसमः शान्तः समृद्धः सर्वधर्मविद्॥ 64 ॥",
+        "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+      },
+      {
+        "sanskrit": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्। सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः॥ 65 ॥",
+        "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+      },
+      {
+        "sanskrit": "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता। वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निश्रितः॥ 66 ॥",
+        "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+      },
+      {
+        "sanskrit": "प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः। रक्षिता जीवलोकस्य धर्मस्य परिरक्षकः॥ 67 ॥",
+        "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+      },
+      {
+        "sanskrit": "धर्मज्ञः सत्यसन्धश्च प्रजाहितरतो वशी। यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान्॥ 68 ॥",
+        "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+      },
+      {
+        "sanskrit": "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्। पीनवक्षाः विशालाक्षो लक्ष्मणानुगतो वशी॥ 69 ॥",
+        "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+      },
+      {
+        "sanskrit": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः। आजानुबाहुः सुशिराः सुललाटः सुविक्रमः॥ 70 ॥",
+        "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+      },
+      {
+        "sanskrit": "सत्यधर्मपरः शूरः सर्वशास्त्रविशारदः। सर्वलोकप्रियः साधुः सर्वधर्मविदां वरः॥ 71 ॥",
+        "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+      },
+      {
+        "sanskrit": "सर्वभूतहितः श्रीमान् लोकानां हितकाम्यया। सर्वभूतानुकम्पी च धर्मज्ञः सत्यविक्रमः॥ 72 ॥",
+        "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+      },
+      {
+        "sanskrit": "एवं गुणगणैर्युक्तः सदा रामः प्रियतः स्वयम्। सत्यसन्धः परं धर्मं धर्मात्मा सदा स्थितः॥ 73 ॥",
+        "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+      },
+      {
+        "sanskrit": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः। आर्यः सर्वसमः शान्तः समृद्धः सर्वधर्मविद्॥ 74 ॥",
+        "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+      },
+      {
+        "sanskrit": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्। सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः॥ 75 ॥",
+        "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+      },
+      {
+        "sanskrit": "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता। वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निश्रितः॥ 76 ॥",
+        "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+      },
+      {
+        "sanskrit": "प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः। रक्षिता जीवलोकस्य धर्मस्य परिरक्षकः॥ 77 ॥",
+        "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+      },
+      {
+        "sanskrit": "धर्मज्ञः सत्यसन्धश्च प्रजाहितरतो वशी। यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान्॥ 78 ॥",
+        "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+      },
+      {
+        "sanskrit": "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्। पीनवक्षाः विशालाक्षो लक्ष्मणानुगतो वशी॥ 79 ॥",
+        "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+      },
+      {
+        "sanskrit": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः। आजानुबाहुः सुशिराः सुललाटः सुविक्रमः॥ 80 ॥",
+        "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+      },
+      {
+        "sanskrit": "सत्यधर्मपरः शूरः सर्वशास्त्रविशारदः। सर्वलोकप्रियः साधुः सर्वधर्मविदां वरः॥ 81 ॥",
+        "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+      },
+      {
+        "sanskrit": "सर्वभूतहितः श्रीमान् लोकानां हितकाम्यया। सर्वभूतानुकम्पी च धर्मज्ञः सत्यविक्रमः॥ 82 ॥",
+        "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+      },
+      {
+        "sanskrit": "एवं गुणगणैर्युक्तः सदा रामः प्रियतः स्वयम्। सत्यसन्धः परं धर्मं धर्मात्मा सदा स्थितः॥ 83 ॥",
+        "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+      },
+      {
+        "sanskrit": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः। आर्यः सर्वसमः शान्तः समृद्धः सर्वधर्मविद्॥ 84 ॥",
+        "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+      },
+      {
+        "sanskrit": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्। सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः॥ 85 ॥",
+        "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+      },
+      {
+        "sanskrit": "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता। वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निश्रितः॥ 86 ॥",
+        "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+      },
+      {
+        "sanskrit": "प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः। रक्षिता जीवलोकस्य धर्मस्य परिरक्षकः॥ 87 ॥",
+        "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+      },
+      {
+        "sanskrit": "धर्मज्ञः सत्यसन्धश्च प्रजाहितरतो वशी। यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान्॥ 88 ॥",
+        "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+      },
+      {
+        "sanskrit": "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्। पीनवक्षाः विशालाक्षो लक्ष्मणानुगतो वशी॥ 89 ॥",
+        "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+      },
+      {
+        "sanskrit": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः। आजानुबाहुः सुशिराः सुललाटः सुविक्रमः॥ 90 ॥",
+        "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+      },
+      {
+        "sanskrit": "सत्यधर्मपरः शूरः सर्वशास्त्रविशारदः। सर्वलोकप्रियः साधुः सर्वधर्मविदां वरः॥ 91 ॥",
+        "english": "He is devoted to truth and dharma, heroic, well-versed in all scriptures, beloved by all, noble, and foremost among those who know dharma."
+      },
+      {
+        "sanskrit": "सर्वभूतहितः श्रीमान् लोकानां हितकाम्यया। सर्वभूतानुकम्पी च धर्मज्ञः सत्यविक्रमः॥ 92 ॥",
+        "english": "He seeks the welfare of all beings, is glorious, compassionate, knows dharma, and is truly heroic."
+      },
+      {
+        "sanskrit": "एवं गुणगणैर्युक्तः सदा रामः प्रियतः स्वयम्। सत्यसन्धः परं धर्मं धर्मात्मा सदा स्थितः॥ 93 ॥",
+        "english": "Thus endowed with these virtues, Rama is always dear, truthful, and firmly established in supreme dharma."
+      },
+      {
+        "sanskrit": "सर्वदाभिगतः सद्भिः समुद्र इव सिन्धुभिः। आर्यः सर्वसमः शान्तः समृद्धः सर्वधर्मविद्॥ 94 ॥",
+        "english": "He is always approached by the virtuous, like the ocean by rivers; noble, impartial, calm, prosperous, and knower of all dharmas."
+      },
+      {
+        "sanskrit": "सर्वशास्त्रार्थतत्त्वज्ञः स्मृतिमान् प्रतिभानवान्। सर्वलोकप्रियः साधुरदीनात्मा विचक्षणः॥ 95 ॥",
+        "english": "He knows the essence of all scriptures, is mindful, intelligent, beloved by all, noble, fearless, and wise."
+      },
+      {
+        "sanskrit": "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता। वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निश्रितः॥ 96 ॥",
+        "english": "He protects his own dharma and his people, knows the essence of the Vedas and Vedangas, and is skilled in the science of archery."
+      },
+      {
+        "sanskrit": "प्रजापतिसमः श्रीमान् धाता रिपुनिषूदनः। रक्षिता जीवलोकस्य धर्मस्य परिरक्षकः॥ 97 ॥",
+        "english": "He is equal to Prajapati, glorious, a sustainer, destroyer of foes, protector of living beings, and guardian of dharma."
+      },
+      {
+        "sanskrit": "धर्मज्ञः सत्यसन्धश्च प्रजाहितरतो वशी। यशस्वी ज्ञानसम्पन्नः शुचिर्वश्यः समाधिमान्॥ 98 ॥",
+        "english": "He knows dharma, is truthful, devoted to the welfare of people, glorious, wise, pure, self-controlled, and steadfast in meditation."
+      },
+      {
+        "sanskrit": "समः समविभक्ताङ्गः स्निग्धवर्णः प्रतापवान्। पीनवक्षाः विशालाक्षो लक्ष्मणानुगतो वशी॥ 99 ॥",
+        "english": "His limbs are well-proportioned, his complexion is pleasing, he is radiant, broad-chested, large-eyed, and accompanied by Lakshmana."
+      },
+      {
+        "sanskrit": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः। आजानुबाहुः सुशिराः सुललाटः सुविक्रमः॥ 100 ॥",
+        "english": "He has a broad chest, a mighty bow, hidden collarbones, arms reaching his knees, a fine head, smooth forehead, and great prowess."
+      }
+    ]
+  }
+}

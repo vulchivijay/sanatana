@@ -1,0 +1,218 @@
+// body {
+//   position: relative;
+//   margin: 0;
+//   padding: 0;
+//   min-height: 100%;
+//   background-color: var(--theme-background-color);
+//   color: var(--theme-body-text-color);
+//   -webkit-font-smoothing: antialiased;
+//   -moz-osx-font-smoothing: grayscale;
+// }
+
+// .site-title,
+// .notification-background-color {
+//   color: var(--theme-title-color);
+// }
+
+// .site-sub-title {
+//   color: var(--theme-icon-color);
+// }
+
+// a {
+//   position: relative;
+//   color: var(--theme-body-text-color);
+//   &::after {
+//     content: '';
+//     position: absolute;
+//     left: 0;
+//     bottom: -2px;
+//     width: 0;
+//     height: 1px;
+//     opacity: 0;
+//     background-color: var(--theme-body-text-color);
+//     transition: all 0.3s ease-in-out;
+//   }
+//   &.active::after,
+//   &:hover::after {
+//     width: 100%;
+//     opacity: 1;
+//   }
+//   &.no-underline::after,
+//   &.no-underline:hover::after {
+//     display: none;
+//   }
+//   &.no-underline.active {
+//     background-color: var(--color-white);
+//     color: var(--color-black);
+//   }
+// }
+
+// /* Styles for odd-numbered rows */
+// .dropdown-animate ul li:nth-child(even) {
+//   background-color: var(--theme-background-color);
+// }
+
+// /* Styles for even-numbered rows */
+// .dropdown-animate ul li:nth-child(odd) {
+//   background-color: var(--theme-alternative-background-color);
+// }
+
+// .notification-alternative-background-color {
+//   background-color: var(--theme-alternative-background-color);
+// }
+
+// header,
+// .notification-background-color,
+// .theme-background-color {
+//   background-color: var(--theme-background-color);
+// }
+
+// .theme-border-color {
+//   border-color: var(--theme-color);
+// }
+
+// .theme-text-color {
+//   color: var(--theme-body-text-color);
+// }
+
+// .gradient-background {
+//   background-image: radial-gradient(circle farthest-corner at 90% 0%,
+//   var(--color-yellow),
+//   var(--color-red) 18%,
+//   var(--color-orange) 46%,
+//   var(--color-violet) 87%,
+//   var(--color-blue));
+// }
+
+// footer {
+//   // background-color: var(--theme-footer-background-color);
+//   //color: var(--theme-footer-text-color);
+//   background-image: radial-gradient(circle farthest-corner at 50% 0%,
+//   var(--color-yellow),
+//   var(--color-orange) 31%,
+//   var(--color-blue) 73%);
+//   color: var(--color-white);
+
+//   .text-white {
+//     color: var(--color-white);
+//   }
+// }
+
+// .underline-text-color {
+//   text-decoration-color: var(--theme-color);
+// }
+
+// .disable {
+//   opacity: 0.30;
+// }
+
+// .theme-background-color {
+//   background-color: var(--theme-background-color);
+// }
+
+// .theme-body-text-color {
+//   color: var(--theme-body-text-color);
+// }
+
+// .theme-title-color {
+//   color: var(--theme-title-color);
+// }
+
+// .theme-sub-title-color {
+//   color: var(--theme-sub-title-color);
+// }
+
+// .theme-action-button-color {
+//   background-color: var(--theme-action-button-color);
+// }
+
+// .theme-alternative-background-color {
+//   background-color: var(--theme-alternative-background-color);
+// }
+
+// .theme-primary-text-color {
+//   // background-image: radial-gradient(235.95% 147.91% at -13.54% -13.18%,
+//   // rgb(253, 174, 80) 0%,
+//   // rgb(250, 89, 82) 20.67%,
+//   // rgb(250, 89, 82) 46.15%,
+//   // rgb(64, 62, 135) 86.54%,
+//   // rgb(50, 84, 146) 100%);
+//   span:first-child {
+//     color: rgb(253, 174, 80);
+//   }
+//   span:nth-child(2) {
+//     color: rgb(250, 89, 82);
+//   }
+//   span:nth-child(3) {
+//     color: rgb(64, 62, 135);
+//   }
+//   span:last-child {
+//     color: rgb(50, 84, 146);
+//   }
+// }
+
+// .image-shiva-wrapper,
+// .image-krishna-wrapper {
+//   background-attachment: fixed, scroll;
+//   background-size: 180% auto;
+//   background-position: top, left;
+//   background-repeat: no-repeat;
+// }
+
+// .image-shiva-wrapper {
+//   background-color: rgb(13, 16, 27);
+// }
+
+// .image-krishna-wrapper {
+//   background-color: rgb(8, 10, 17);
+// }
+
+// .section-gradient.image-bg-shiva {
+//   background-image: radial-gradient(circle farthest-corner at 0% 100%,
+//   rgba(0,0,0,0),
+//   rgba(0,0,0,0.14) 31%,
+//   var(--color--blue) 73%);
+// }
+
+// .section-gradient.image-bg-krishna {
+//   background-image: radial-gradient(circle farthest-corner at 0% 100%,
+//   var(--color--blue),
+//   var(--color--blue) 31%,
+//   rgba(0,0,0,0) 73%);
+// }
+
+// /* Use preview font for headings */
+// h1, h2, h3, .site-title {
+//   font-family: var(--preview-font, inherit);
+// }
+
+// @keyframes scroll-left {
+//   0% { transform: translateX(0); }
+//   100% { transform: translateX(-100%); }
+// }
+
+// @keyframes scroll-right {
+//   0% { transform: translateX(-100%); }
+//   100% { transform: translateX(0); }
+// }
+
+// @media screen and (min-width: 768px) {
+//   .border-gradient-vertical {
+//     border-right: 4px;
+//     border-style: solid;
+//     border-image: linear-gradient( to bottom, red, rgba(0, 0, 0, 0)) 1 100%;
+//   }
+
+//   .image-shiva-wrapper,
+//   .image-krishna-wrapper {
+//     background-size: 88%, 100%;
+//   }
+
+//   .image-shiva-wrapper {
+//     background-position: -140% 0, 0 0;
+//   }
+
+//   .image-krishna-wrapper {
+//     background-position: 240% 0, 0 0;
+//   } 
+// }

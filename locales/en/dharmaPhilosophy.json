@@ -1,0 +1,180 @@
+{
+  "dharma_philosophy": {
+    "title": "",
+    "definition": [
+      "righteousness",
+      "duty",
+      "cosmic order",
+      "moral law",
+      "way of life"
+    ],
+    "categories_of_dharma": {
+      "sadharana_dharma": {
+        "meaning": "Universal duties applicable to all",
+        "examples": [
+          "Ahimsa (non-violence)",
+          "Satya (truthfulness)",
+          "Asteya (non-stealing)",
+          "Shaucha (cleanliness)",
+          "Daya (compassion)"
+        ]
+      },
+      "varnashrama_dharma": {
+        "meaning": "Duties based on one's stage of life and role in society",
+        "components": {
+          "varna_duties": [
+            "Brahmana",
+            "Kshatriya",
+            "Vaishya",
+            "Shudra"
+          ],
+          "ashrama_duties": [
+            "Brahmacharya",
+            "Grihastha",
+            "Vanaprastha",
+            "Sannyasa"
+          ]
+        }
+      },
+      "svadharma": {
+        "meaning": "Personal duty according to one’s nature, abilities, and circumstances",
+        "examples": "Highly emphasized in the Bhagavad Gita."
+      },
+      "apad_dharma": {
+        "meaning": "Duties during emergencies",
+        "examples": [
+          "Self-defense",
+          "Breaking normal rules to preserve life"
+        ]
+      },
+      "yugadharma": {
+        "meaning": "Dharma suited to the era (Yuga) based on societal needs.",
+        "examples": [
+          "Satya Yuga",
+          "Treta",
+          "Dvapara",
+          "Kali Yuga"
+        ]
+      }
+    },
+    "scriptural_sources": {
+      "shruti": [
+        "Vedas",
+        "Upanishads"
+      ],
+      "smriti": [
+        "Manusmriti",
+        "Yajnavalkya Smriti",
+        "Narada Smriti"
+      ],
+      "epics": [
+        "Ramayana",
+        "Mahabharata",
+        "Bhagavad Gita"
+      ],
+      "puranas": [
+        "Bhagavata Purana",
+        "Padma Purana",
+        "Vishnu Purana",
+        "Skanda Purana"
+      ]
+    },
+    "philosophical_dimensions": {
+      "cosmic_dharma": "Universal order (Rta) that governs nature and balance.",
+      "social_dharma": "Ethical frameworks for society, relations, justice, and governance.",
+      "individual_dharma": "Personal conduct based on ethics, duty, and inner nature.",
+      "spiritual_dharma": "Path towards liberation — self-realization and purity."
+    }, 
+    "core_principles": {
+      "ahimsa": "Non-violence in thought, word, and action",
+      "satya": "Commitment to truth",
+      "dama": "Control of senses",
+      "dana": "Charity and generosity",
+      "daya": "Compassion",
+      "kshama": "Forgiveness",
+      "asteya": "Non-stealing",
+      "aparigraha": "Non-possessiveness",
+      "tapas": "Self-discipline",
+      "swadhyaya": "Self-study and reflection"
+    },
+    "dharma_in_bhagavad_gita": {
+      "key_ideas": {
+        "svadharma_supremacy": "Better to follow one's own duty imperfectly than another’s perfectly.",
+        "nishkama_karma": "Performing duty without attachment to outcomes.",
+        "yoga_as_dharma": "Selfless action aligned with divine order.",
+        "detachment": "Letting go of ego and desires to act righteously."
+      },
+      "important_verses": [
+        "Chapter 2.47 — Karmanye vadhikaraste...",
+        "Chapter 3 — Karma Yoga",
+        "Chapter 18.66 — Surrender to Divine Dharma"
+      ]
+    },
+    "dharma_in_ramayana": {
+      "rama_dharma": "Ideal king, ideal son, ideal human (Maryada Purushottama)",
+      "sita_dharma": "Purity, strength, devotion, sacrifice",
+      "lakshmana_dharma": "Loyalty, service, brotherly duty",
+      "hanuman_dharma": "Bhakti, fearless duty, intelligence"
+    },
+    "dharma_in_mahabharata": {
+      "yudhishthira_dharma": "Truth, justice, compassion",
+      "bhishma_dharma": "Duty over personal desire",
+      "krishna_dharma": "Acting for dharma even through unconventional methods",
+      "kshatriya_dharma": "Courage, protection, righteousness"
+    },
+    "schools_related_to_dharma": {
+      "mimamsa": "Focus on rituals and actions as dharma.",
+      "vedanta": "Dharma as preparation for liberation (moksha).",
+      "yoga": "Ethical foundations — Yamas & Niyamas.",
+      "nyaya": "Dharma through correct knowledge and logic."
+    },
+    "dharma_and_other_concepts": {
+      "dharma_karma_relation": "Actions aligned with dharma reduce karma; wrong actions generate bondage.",
+      "dharma_moksha_relation": "Right living purifies the mind and leads to liberation.",
+      "dharma_artha_kama": "Dharma guides the pursuit of wealth and desire ethically.",
+      "dharma_rita_connection": "Dharma is the human expression of cosmic order (Rta)."
+    },
+    "modern_relevance": {
+      "ethics": [
+        "Truth",
+        "Non-violence",
+        "Respect"
+      ],
+      "society": [
+        "Equality",
+        "Justice",
+        "Responsibility"
+      ],
+      "environment": [
+        "Harmony with nature",
+        "Sustainability"
+      ],
+      "individual": [
+        "Mental peace",
+        "Self-discipline",
+        "Purpose"
+      ]
+    },
+    "daily_life_application": {
+      "family_dharma": [
+        "Respect",
+        "Responsibility",
+        "Care"
+      ],
+      "professional_dharma": [
+        "Honesty",
+        "Competence",
+        "Accountability"
+      ],
+      "spiritual_dharma": [
+        "Meditation",
+        "Self-study",
+        "Compassion"
+      ],
+      "global_dharma": [
+        "Living sustainably",
+        "Promoting peace"
+      ]
+    }
+  }
+}

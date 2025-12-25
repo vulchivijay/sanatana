@@ -1,0 +1,326 @@
+{
+  "timelinePoints": {
+    "Satya Yuga": {
+      "name": "Satya Yuga",
+      "nature": "Age of Truth and Virtue",
+      "symbolic_origin": "Golden Age, Dharma stands on all four legs",
+      "role": "Era of righteousness, spiritual wisdom, and harmony",
+      "time_reference": "First of the four Yugas, lasting 1,728,000 years",
+      "label": "Satya Yuga (Golden Age)"
+    },
+    "Treta Yuga": {
+      "name": "Treta Yuga",
+      "nature": "Age of Three-quarters Dharma",
+      "symbolic_origin": "Silver Age, Dharma stands on three legs",
+      "role": "Era of great kings and the Ramayana, decline in virtue",
+      "time_reference": "Second Yuga, lasting 1,296,000 years",
+      "label": "Treta Yuga (Silver Age)"
+    },
+    "Dwapara Yuga": {
+      "name": "Dwapara Yuga",
+      "nature": "Age of Half Dharma",
+      "symbolic_origin": "Bronze Age, Dharma stands on two legs",
+      "role": "Era of Mahabharata and Lord Krishna, further decline in virtue",
+      "time_reference": "Third Yuga, lasting 864,000 years",
+      "label": "Dwapara Yuga (Bronze Age)"
+    },
+    "Kali Yuga": {
+      "name": "Kali Yuga",
+      "nature": "Age of Strife and Ignorance",
+      "symbolic_origin": "Iron Age, Dharma stands on one leg",
+      "role": "Current era, marked by spiritual decline and materialism",
+      "time_reference": "Fourth Yuga, lasting 432,000 years (current yuga)",
+      "label": "Kali Yuga (Iron Age)"
+    },
+    "Vedic period (developed fully in early centuries CE)": {
+      "name": "Shiva",
+      "nature": "Supreme deity in Shaivism, both destroyer and transformer within the Hindu Trimurti",
+      "symbolic_origin": "Represents cosmic destruction and regeneration, beyond time and space",
+      "role": "Embodiment of asceticism, meditation, and divine energy; worshiped as Mahadeva",
+      "time_reference": "Prominent in Puranic era and integrated into Hindu philosophy",
+      "label": "Shiva (Hindu deity, Vedic roots)"
+    },
+    "Unknown": {
+      "name": "Lord Vishnu",
+      "nature": "Eternal preserver of the universe",
+      "symbolic_origin": "Cosmic ocean (Ksheer Sagara), resting on Ananta Shesha",
+      "role": "Preserver, sustainer, manifests in avatars to restore dharma",
+      "time_reference": "Appears in every Yuga through incarnations",
+      "label": "Lord Vishnu (Timeless)"
+    },
+    "Vedic period (circa 1500–500 BCE), prominence in Puranic era": {
+      "name": "Vishnu",
+      "nature": "Preserver and protector of the universe, supreme deity in Vaishnavism",
+      "symbolic_origin": "Embodies cosmic order, sustenance, and dharma",
+      "role": "Maintains balance of creation, incarnates as avatars (e.g., Rama, Krishna) to restore dharma",
+      "time_reference": "Vedic roots, fully developed in Puranic texts",
+      "label": "Vishnu (Hindu deity, Vedic roots)"
+    },
+    "Vedic period (circa 1500–500 BCE)": {
+      "name": "Brahman",
+      "nature": "Infinite, formless, eternal, and ultimate reality in Hindu philosophy",
+      "symbolic_origin": "Uncreated, beyond time, space, and attributes",
+      "role": "Supreme cosmic principle, source of all existence, described in the Upanishads",
+      "time_reference": "Vedic and Upanishadic era",
+      "label": "Brahman (Hindu concept, Vedic period)"
+    },
+    "Matsya": {
+      "name": "Matsya",
+      "nature": "Fish incarnation",
+      "symbolic_origin": "Preservation during cosmic flood",
+      "role": "Saved the Vedas and humanity from deluge",
+      "time_reference": "Symbolic, pre-historic (no fixed date)",
+      "label": "Matsya (Fish Avatar)"
+    },
+    "Kurma": {
+      "name": "Kurma",
+      "nature": "Tortoise incarnation",
+      "symbolic_origin": "Symbol of stability and support",
+      "role": "Supported Mount Mandara during churning of the ocean",
+      "time_reference": "Symbolic, pre-historic (no fixed date)",
+      "label": "Kurma (Tortoise Avatar)"
+    },
+    "Varaha": {
+      "name": "Varaha",
+      "nature": "Boar incarnation",
+      "symbolic_origin": "Represents strength and rescue",
+      "role": "Lifted Earth from cosmic waters",
+      "time_reference": "Symbolic, pre-historic (no fixed date)",
+      "label": "Varaha (Boar Avatar)"
+    },
+    "Narasimha": {
+      "name": "Narasimha",
+      "nature": "Man-lion incarnation",
+      "symbolic_origin": "Embodies divine protection",
+      "role": "Destroyed demon Hiranyakashipu to protect devotee Prahlada",
+      "time_reference": "Approx. end of Satya Yuga (symbolic)",
+      "label": "Narasimha (Man-Lion Avatar)"
+    },
+    "Vamana": {
+      "name": "Vamana",
+      "nature": "Dwarf incarnation",
+      "symbolic_origin": "Symbol of humility and cosmic balance",
+      "role": "Subdued demon king Bali by covering universe in three steps",
+      "time_reference": "Transition from Satya to Treta Yuga (symbolic)",
+      "label": "Vamana (Dwarf Avatar)"
+    },
+    "Parashurama": {
+      "name": "Parashurama",
+      "nature": "Warrior-sage incarnation",
+      "symbolic_origin": "Represents justice and dharma",
+      "role": "Destroyed corrupt Kshatriyas to restore balance",
+      "time_reference": "Estimated 7000–5000 BCE (symbolic)",
+      "label": "Parashurama (Warrior Avatar)"
+    },
+    "Rama": {
+      "name": "Rama",
+      "nature": "Prince incarnation",
+      "symbolic_origin": "Embodies virtue and righteousness",
+      "role": "Defeated Ravana, upheld dharma",
+      "time_reference": "Estimated 5000–3000 BCE (Ramayana era)",
+      "label": "Rama (Prince Avatar)"
+    },
+    "Krishna": {
+      "name": "Krishna",
+      "nature": "Cowherd and divine statesman",
+      "symbolic_origin": "Symbol of love, wisdom, and cosmic play",
+      "role": "Guided Arjuna in Bhagavad Gita, destroyed evil forces",
+      "time_reference": "Estimated 3200–3100 BCE (Mahabharata era)",
+      "label": "Krishna (Divine Avatar)"
+    },
+    "Buddha": {
+      "name": "Buddha",
+      "nature": "Enlightened teacher",
+      "symbolic_origin": "Represents compassion and non-violence",
+      "role": "Taught path of peace and renunciation era",
+      "time_reference": "6th century BCE (~563–483 BCE)",
+      "label": "Buddha (Teacher Avatar)"
+    },
+    "Kalki": {
+      "name": "Kalki",
+      "nature": "Future warrior incarnation",
+      "symbolic_origin": "Symbol of ultimate justice",
+      "role": "Will appear at end of Kali Yuga to destroy evil",
+      "time_reference": "Predicted ~427,000 years from now (end of Kali Yuga)",
+      "label": "Kalki (Future Avatar)"
+    },
+    "Lord Rama": {
+      "name": "Lord Rama",
+      "nature": "Avatar of Vishnu",
+      "symbolic_origin": "Born in Ayodhya to King Dasharatha and Queen Kausalya",
+      "role": "Embodiment of dharma, ideal king, hero of Ramayana",
+      "time_reference": "Treta Yuga (mythological epoch)",
+      "label": "Lord Rama (Treta Yuga)"
+    },
+    "Lord Krishna": {
+      "name": "Lord Krishna",
+      "nature": "Avatar of Vishnu",
+      "symbolic_origin": "Born in Mathura to Vasudeva and Devaki",
+      "role": "Teacher of Bhagavad Gita, divine strategist, embodiment of love",
+      "time_reference": "Dwapara Yuga (mythological epoch)",
+      "label": "Lord Krishna (Dwapara Yuga)"
+    },
+    "Vyasa": {
+      "name": "Vyasa",
+      "nature": "Compiler of Vedas and author of Mahabharata",
+      "symbolic_origin": "Embodies wisdom, knowledge, and preservation of dharma",
+      "role": "Composed Mahabharata, compiled Vedas, authored Puranas",
+      "time_reference": "Dvapara Yuga (~3200 BCE)",
+      "label": "Vyasa (Hindu sage, Vedic roots)"
+    },
+    "Valmiki": {
+      "name": "Valmiki",
+      "nature": "Poet-sage and author of Ramayana",
+      "symbolic_origin": "Represents devotion and literary excellence",
+      "role": "Composed Ramayana, revered as Adi Kavi (first poet)",
+      "time_reference": "Treta Yuga (~5000–3000 BCE)",
+      "label": "Valmiki (Hindu sage, Vedic roots)"
+    },
+    "Agastya": {
+      "name": "Agastya",
+      "nature": "Sage known for wisdom and spreading Vedic knowledge to South India",
+      "symbolic_origin": "Symbol of balance and cultural integration",
+      "role": "Composed hymns in Rigveda, introduced Vedic culture to southern regions",
+      "time_reference": "Vedic era (~1500 BCE)",
+      "label": "Agastya (Hindu sage, Vedic roots)"
+    },
+    "Narada": {
+      "name": "Narada",
+      "nature": "Divine sage and cosmic messenger",
+      "symbolic_origin": "Embodies devotion (Bhakti) and wisdom",
+      "role": "Acts as celestial messenger, spreads knowledge and devotion",
+      "time_reference": "Appears in Vedas, Mahabharata, Ramayana, and Puranas",
+      "label": "Narada (Hindu sage, Vedic roots)"
+    },
+    "Durga": {
+      "name": "Durga",
+      "nature": "Warrior goddess, embodiment of Shakti",
+      "symbolic_origin": "Represents divine feminine power and protection",
+      "role": "Defeated demon Mahishasura, protector of dharma",
+      "time_reference": "Prominent in Devi Mahatmya (Markandeya Purana)",
+      "label": "Durga (Hindu goddess, Puranic roots)"
+    },
+    "Lakshmi": {
+      "name": "Lakshmi",
+      "nature": "Goddess of wealth, prosperity, and fortune",
+      "symbolic_origin": "Represents abundance and auspiciousness",
+      "role": "Consort of Vishnu, bestows wealth and well-being",
+      "time_reference": "Prominent in Puranas and Vaishnavism",
+      "label": "Lakshmi (Hindu goddess, Puranic roots)"
+    },
+    "Saraswati": {
+      "name": "Saraswati",
+      "nature": "Goddess of wisdom, learning, and arts",
+      "symbolic_origin": "Represents knowledge and purity",
+      "role": "Associated with Vedas, music, and education",
+      "time_reference": "Prominent in Puranas and Vedic hymns",
+      "label": "Saraswati (Hindu goddess, Vedic roots)"
+    },
+    "Subramanya (Kartikeya, Murugan)": {
+      "name": "Subramanya (Kartikeya, Murugan)",
+      "nature": "God of war and victory, son of Shiva and Parvati",
+      "symbolic_origin": "Embodies courage, wisdom, and divine leadership",
+      "role": "Commander of the celestial army, protector of dharma, revered especially in South India",
+      "time_reference": "Prominent in Skanda Purana and Tamil Sangam literature",
+      "label": "Subramanya Swami (Hindu deity, Puranic roots)"
+    },
+    "Ganesha": {
+      "name": "Ganesha",
+      "nature": "Remover of obstacles, god of beginnings",
+      "symbolic_origin": "Represents wisdom and auspiciousness",
+      "role": "Invoked before any new venture, son of Shiva and Parvati",
+      "time_reference": "Prominent in Puranas and devotional traditions",
+      "label": "Ganesha (Hindu deity, Puranic roots)"
+    },
+    "Early Civilization": {
+      "year": -3000,
+      "name": "Early Civilization",
+      "nature": "Emergence of settlements and agriculture",
+      "symbolic_origin": "River valleys and fertile plains",
+      "role": "Foundation of human society, start of organized communities",
+      "time_reference": "Circa 3000 BCE",
+      "label": "EBC (Estimated Beginning of Civilization)"
+    },
+    "Vedic Period": {
+      "year": -1500,
+      "name": "Vedic Period",
+      "nature": "Development of spiritual and philosophical texts",
+      "symbolic_origin": "Composition of the Vedas",
+      "role": "Rise of early Indian civilization, formation of rituals and social order",
+      "time_reference": "1500–500 BCE",
+      "label": "Vedic Period"
+    },
+    "Buddha & Mahavira": {
+      "year": -500,
+      "name": "Buddha & Mahavira",
+      "nature": "Spiritual leaders and founders of Buddhism and Jainism",
+      "symbolic_origin": "Births in northern India",
+      "role": "Spread of non-violence, meditation, and renunciation",
+      "time_reference": "6th century BCE",
+      "label": "Buddha & Mahavira"
+    },
+    "Gupta Empire": {
+      "year": 320,
+      "name": "Gupta Empire",
+      "nature": "Golden Age of India",
+      "symbolic_origin": "Gupta dynasty rule",
+      "role": "Advances in science, mathematics, arts, and literature",
+      "time_reference": "320–550 CE",
+      "label": "Gupta Empire"
+    },
+    "Delhi Sultanate": {
+      "year": 1192,
+      "name": "Delhi Sultanate",
+      "nature": "Islamic rule in North India",
+      "symbolic_origin": "Establishment after the Battle of Tarain",
+      "role": "Cultural and architectural transformation, introduction of new governance",
+      "time_reference": "1192–1526 CE",
+      "label": "Delhi Sultanate"
+    },
+    "Mughal Empire": {
+      "year": 1526,
+      "name": "Mughal Empire",
+      "nature": "Central Asian dynasty in India",
+      "symbolic_origin": "Babur's victory at Panipat",
+      "role": "Unification of large parts of India, flourishing of art and architecture",
+      "time_reference": "1526–1857 CE",
+      "label": "Mughal Empire"
+    },
+    "British Rule Begins": {
+      "year": 1757,
+      "name": "British Rule Begins",
+      "nature": "Colonial rule by the British Empire",
+      "symbolic_origin": "Battle of Plassey",
+      "role": "Economic and social transformation, resistance and reform movements",
+      "time_reference": "1757–1947 CE",
+      "label": "British Rule Begins"
+    },
+    "Indian Independence": {
+      "year": 1947,
+      "name": "Indian Independence",
+      "nature": "End of colonial rule, birth of a nation",
+      "symbolic_origin": "Transfer of power from Britain",
+      "role": "Formation of a sovereign democratic republic",
+      "time_reference": "1947 CE",
+      "label": "Indian Independence"
+    },
+    "Republic of India": {
+      "year": 1950,
+      "name": "Republic of India",
+      "nature": "Adoption of the Constitution of India",
+      "symbolic_origin": "Enactment of the Constitution",
+      "role": "Establishment of democratic governance and fundamental rights",
+      "time_reference": "1950 CE",
+      "label": "Republic of India"
+    },
+    "Present Day": {
+      "year": 2025,
+      "name": "Present Day",
+      "nature": "Modern India: technology, economy, and culture",
+      "symbolic_origin": "21st-century advancements",
+      "role": "Global presence, innovation, and cultural continuity",
+      "time_reference": "2025 CE",
+      "label": "Present Day"
+    }
+  }
+}

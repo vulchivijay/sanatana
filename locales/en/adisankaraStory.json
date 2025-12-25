@@ -1,0 +1,112 @@
+{
+  "AdiShankaracharya": {
+    "Role": "Philosopher, Theologian, Founder of Advaita Vedanta",
+    "Lineage": {
+      "Birth": {
+        "Place": "Kaladi, Kerala",
+        "Parents": "Shivaguru and Aryamba",
+        "Period": "8th Century CE"
+      }
+    },
+    "Significance": {
+      "Titles": [
+        "Jagadguru",
+        "Acharya"
+      ],
+      "CoreIdentity": [
+        "Propounder of non-dualism (Advaita)",
+        "Unifier of Hindu thought",
+        "Founder of four mathas (monastic centers)"
+      ]
+    },
+    "PhilosophicalThemes": [
+      "Advaita Vedanta: Brahman alone is real; world is Maya",
+      "Self (Atman) is identical with Brahman",
+      "Liberation through Jnana (knowledge), not rituals"
+    ],
+    "MajorWorks": [
+      "Commentary on Brahma Sutras (Brahmasutra Bhashya)",
+      "Commentary on Bhagavad Gita",
+      "Commentary on Upanishads",
+      "Prakarana Granthas (introductory texts like Vivekachudamani)"
+    ],
+    "KeyTeachings": [
+      {
+        "Concept": "Advaita",
+        "Description": "Non-dual reality; Brahman is the only truth, world is illusory"
+      },
+      {
+        "Concept": "Maya",
+        "Description": "Cosmic illusion that veils true knowledge"
+      },
+      {
+        "Concept": "Jnana Yoga",
+        "Description": "Path of knowledge leading to liberation"
+      }
+    ],
+    "TextsAndVerses": [
+      {
+        "Name": "Advaita Mahavakya",
+        "Verse": "ब्रह्म सत्यं जगन्मिथ्या जीवो ब्रह्मैव नापरः।",
+        "Transliteration": "Brahma Satyam Jaganmithya Jivo Brahmaiva Na Aparah",
+        "Meaning": "Brahman is real, the world is illusory, and the individual soul is none other than Brahman."
+      },
+      {
+        "Name": "Vivekachudamani",
+        "Verse": "मनोबुद्ध्यहंकार चित्तानि नाहम्।",
+        "Transliteration": "Mano-buddhy-ahankara chittani naham",
+        "Meaning": "I am not the mind, intellect, ego, or memory; I am pure consciousness."
+      },
+      {
+        "Name": "Bhaja Govindam",
+        "Verse": "भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते।",
+        "Transliteration": "Bhaja Govindam Bhaja Govindam Govindam Bhaja Moodhamate",
+        "Meaning": "Worship Govinda, O fool! When death comes, grammar rules will not save you."
+      }
+    ],
+    "InstitutionsFounded": [
+      {
+        "Matha": "Sringeri Sharada Peetham",
+        "Region": "South India"
+      },
+      {
+        "Matha": "Dwarka Matha",
+        "Region": "West India"
+      },
+      {
+        "Matha": "Puri Govardhan Matha",
+        "Region": "East India"
+      },
+      {
+        "Matha": "Jyotir Matha",
+        "Region": "North India"
+      }
+    ],
+    "Timeline": [
+      {
+        "Phase": "Birth",
+        "Event": "Born in Kaladi, Kerala; showed spiritual inclination early"
+      },
+      {
+        "Phase": "Renunciation",
+        "Event": "Took Sannyasa at a young age; became disciple of Govinda Bhagavatpada"
+      },
+      {
+        "Phase": "Philosophical Debates",
+        "Event": "Defeated rival schools; established Advaita supremacy"
+      },
+      {
+        "Phase": "Founding Mathas",
+        "Event": "Established four monastic centers across India"
+      },
+      {
+        "Phase": "Compositions",
+        "Event": "Authored commentaries on Upanishads, Gita, Brahma Sutras; wrote devotional hymns"
+      },
+      {
+        "Phase": "Mahasamadhi",
+        "Event": "Attained Samadhi at Kedarnath (traditional belief)"
+      }
+    ]
+  }
+}

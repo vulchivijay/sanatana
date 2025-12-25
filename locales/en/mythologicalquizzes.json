@@ -1,0 +1,20 @@
+{
+  "mythologicalQuizzes": {
+    "title": "Mythological Quizzes",
+    "description": "Answer 10 random questions in 10 minutes. Good luck!",
+    "searchLabel": "Search",
+    "originLabel": "Origin",
+    "themeLabel": "Theme",
+    "allOrigins": "All origins",
+    "allThemes": "All themes",
+    "filter": "Filter",
+    "previous": "Previous",
+    "next": "Next",
+    "showing": "Showing {start}–{end} of {total}",
+    "comicNotFoundTitle": "Comic not found",
+    "comicNotFoundDesc": "We couldn't find that comic.",
+    "moralLabel": "Moral:",
+    "charactersLabel": "Characters:",
+    "themesLabel": "Themes:"
+  }
+}

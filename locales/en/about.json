@@ -1,0 +1,43 @@
+{
+  "about": {
+    "title": "About Sanatanadharmam.in",
+    "intro": "Sanatanadharmam.in is created with a simple purpose — to make the timeless wisdom of Sanātana Dharma accessible to everyone. Our mission is to provide authentic scriptures, stotras, puja-vidhis, and traditional knowledge in a format that is easy to read, understand, and practice in daily life.",
+    "vision": {
+      "description": "To become a comprehensive digital repository of Hindu scriptures and devotional literature.",
+      "focusAreas": [
+        "Sanskrit, Hindi, Telugu & English content",
+        "Stotras, mantras, sukthas, and daily prayers",
+        "Puja-vidhis and festival information",
+        "Teachings from classical texts and spiritual traditions",
+        "Simple explanations for modern readers",
+        "Accurate transliteration for learning and chanting"
+      ],
+      "goal": "To build a digital library that preserves and shares the essence of Sanātana Dharma for future generations."
+    },
+    "whyWeCreated": {
+      "problemsAddressed": [
+        "Difficulty finding error-free texts",
+        "Lack of regional language versions",
+        "Scattered resources across multiple sites",
+        "Hard-to-read PDFs or scanned pages",
+        "No simple guide for pujas or daily practice"
+      ],
+      "purpose": "To offer clean, organized, easy-to-read spiritual content in one place."
+    },
+    "commitment": [
+      "To continually improve accuracy and clarity",
+      "To update the library with more scriptures and stotras",
+      "To respect the sanctity of traditional knowledge",
+      "To keep all content free and accessible"
+    ],
+    "disclaimer": "We do not claim to be scholars. This website is maintained with devotion and sincerity, and we encourage users to cross-verify important texts with traditional or authoritative sources whenever required.",
+    "joinUs": {
+      "message": "Sanātana Dharma is a way of life — a path of truth, compassion, and universal harmony.",
+      "invite": [
+        "Share the website with others",
+        "Suggest improvements",
+        "Support its growth through feedback or contributions"
+      ]
+    }
+  }
+}

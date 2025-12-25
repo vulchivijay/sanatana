@@ -1,0 +1,833 @@
+{
+  "illustratedStories": {
+    "title": "చిత్రకథలు",
+    "description": "భారతీయ సంప్రదాయంలోనుండి సేకరించిన చిన్న చిత్రకథలు మరియు నీతులు. కథను చదవడానికి మరియు దాని నీతిని తెలుసుకోవడానికి కథపై క్లిక్ చేయండి.",
+    "kids_indian_stories": [
+      {
+        "id": 1,
+        "title": "తెలుగు కథ 1: The Clever Rabbit and the Lion",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/1.png",
+        "imgAlt": "తెలుగు కథ 1",
+        "characters": [
+          "పాత్రలు",
+          "Lion"
+        ],
+        "themes": [
+          "థీమ్",
+          "Intelligence"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "తెలుగు కథ 2: The Monkey and the Crocodile",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/2.png",
+        "imgAlt": "తెలుగు కథ 2",
+        "characters": [
+          "పాత్రలు",
+          "Crocodile"
+        ],
+        "themes": [
+          "థీమ్",
+          "Deception"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "తెలుగు కథ 3: The Thirsty Crow",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/3.png",
+        "imgAlt": "తెలుగు కథ 3",
+        "characters": [
+          "పాత్రలు"
+        ],
+        "themes": [
+          "థీమ్",
+          "Creativity"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "తెలుగు కథ 4: The Foolish Lion and the Clever Fox",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/4.png",
+        "imgAlt": "తెలుగు కథ 4",
+        "characters": [
+          "పాత్రలు",
+          "Fox"
+        ],
+        "themes": [
+          "థీమ్",
+          "Intelligence"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "తెలుగు కథ 5: The Talkative Tortoise",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/5.png",
+        "imgAlt": "తెలుగు కథ 5",
+        "characters": [
+          "పాత్రలు",
+          "Swans"
+        ],
+        "themes": [
+          "థీమ్",
+          "Humor"
+        ]
+      },
+      {
+        "id": 6,
+        "title": "తెలుగు కథ 6: Tenali Rama and the Thieves",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/6.png",
+        "imgAlt": "తెలుగు కథ 6",
+        "characters": [
+          "పాత్రలు",
+          "Thieves"
+        ],
+        "themes": [
+          "థీమ్",
+          "Strategy"
+        ]
+      },
+      {
+        "id": 7,
+        "title": "తెలుగు కథ 7: Birbal’s Khichdi Story",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/7.png",
+        "imgAlt": "తెలుగు కథ 7",
+        "characters": [
+          "పాత్రలు",
+          "Akbar"
+        ],
+        "themes": [
+          "థీమ్",
+          "Logic"
+        ]
+      },
+      {
+        "id": 8,
+        "title": "తెలుగు కథ 8: The Loyal Mongoose",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/8.png",
+        "imgAlt": "తెలుగు కథ 8",
+        "characters": [
+          "పాత్రలు",
+          "Baby",
+          "Mother"
+        ],
+        "themes": [
+          "థీమ్",
+          "Trust"
+        ]
+      },
+      {
+        "id": 9,
+        "title": "తెలుగు కథ 9: Krishna and the Butter Pot",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/9.png",
+        "imgAlt": "తెలుగు కథ 9",
+        "characters": [
+          "పాత్రలు",
+          "Gopis"
+        ],
+        "themes": [
+          "థీమ్",
+          "Love"
+        ]
+      },
+      {
+        "id": 10,
+        "title": "తెలుగు కథ 10: Sudama and Krishna",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/10.png",
+        "imgAlt": "తెలుగు కథ 10",
+        "characters": [
+          "పాత్రలు",
+          "Sudama"
+        ],
+        "themes": [
+          "థీమ్",
+          "Kindness"
+        ]
+      },
+      {
+        "id": 11,
+        "title": "తెలుగు కథ 11: The Elephant and the Tailor",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/11.png",
+        "imgAlt": "తెలుగు కథ 11",
+        "characters": [
+          "పాత్రలు",
+          "Tailor"
+        ],
+        "themes": [
+          "థీమ్",
+          "Consequences"
+        ]
+      },
+      {
+        "id": 12,
+        "title": "తెలుగు కథ 12: The Wise Parrot",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/12.png",
+        "imgAlt": "తెలుగు కథ 12",
+        "characters": [
+          "పాత్రలు",
+          "King"
+        ],
+        "themes": [
+          "థీమ్",
+          "Responsibility"
+        ]
+      },
+      {
+        "id": 13,
+        "title": "తెలుగు కథ 13: Shravan Kumar’s Devotion",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/13.png",
+        "imgAlt": "తెలుగు కథ 13",
+        "characters": [
+          "పాత్రలు",
+          "Parents",
+          "King Dasharatha"
+        ],
+        "themes": [
+          "థీమ్",
+          "Family"
+        ]
+      },
+      {
+        "id": 14,
+        "title": "తెలుగు కథ 14: Ganesha and the Mango",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/14.png",
+        "imgAlt": "తెలుగు కథ 14",
+        "characters": [
+          "పాత్రలు",
+          "Kartikeya",
+          "Shiva",
+          "Parvati"
+        ],
+        "themes": [
+          "థీమ్",
+          "Wisdom"
+        ]
+      },
+      {
+        "id": 15,
+        "title": "తెలుగు కథ 15: The King and the Sparrow",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/15.png",
+        "imgAlt": "తెలుగు కథ 15",
+        "characters": [
+          "పాత్రలు",
+          "Sparrow"
+        ],
+        "themes": [
+          "థీమ్",
+          "Humility"
+        ]
+      },
+      {
+        "id": 16,
+        "title": "తెలుగు కథ 16: The Golden Swan",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/16.png",
+        "imgAlt": "తెలుగు కథ 16",
+        "characters": [
+          "పాత్రలు",
+          "Mother",
+          "Daughters"
+        ],
+        "themes": [
+          "థీమ్",
+          "Generosity"
+        ]
+      },
+      {
+        "id": 17,
+        "title": "తెలుగు కథ 17: The Hungry Mouse",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/17.png",
+        "imgAlt": "తెలుగు కథ 17",
+        "characters": [
+          "పాత్రలు"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 18,
+        "title": "తెలుగు కథ 18: The Lion and the Mouse",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/18.png",
+        "imgAlt": "తెలుగు కథ 18",
+        "characters": [
+          "పాత్రలు",
+          "Mouse"
+        ],
+        "themes": [
+          "థీమ్",
+          "Friendship"
+        ]
+      },
+      {
+        "id": 19,
+        "title": "తెలుగు కథ 19: The Wise Carpenter",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/19.png",
+        "imgAlt": "తెలుగు కథ 19",
+        "characters": [
+          "పాత్రలు",
+          "Villagers"
+        ],
+        "themes": [
+          "థీమ్",
+          "Justice"
+        ]
+      },
+      {
+        "id": 20,
+        "title": "తెలుగు కథ 20: The Magic Drum",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/20.png",
+        "imgAlt": "తెలుగు కథ 20",
+        "characters": [
+          "పాత్రలు",
+          "Fairies"
+        ],
+        "themes": [
+          "థీమ్",
+          "Kindness"
+        ]
+      },
+      {
+        "id": 21,
+        "title": "తెలుగు కథ 21: The Brave Little Sparrow",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/21.png",
+        "imgAlt": "తెలుగు కథ 21",
+        "characters": [
+          "పాత్రలు",
+          "Elephant"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 22,
+        "title": "తెలుగు కథ 22: Arjuna and the Bird’s Eye",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/22.png",
+        "imgAlt": "తెలుగు కథ 22",
+        "characters": [
+          "పాత్రలు",
+          "Drona"
+        ],
+        "themes": [
+          "థీమ్",
+          "Training"
+        ]
+      },
+      {
+        "id": 23,
+        "title": "తెలుగు కథ 23: The Crooked Tree",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/23.png",
+        "imgAlt": "తెలుగు కథ 23",
+        "characters": [
+          "పాత్రలు",
+          "Tall Trees"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 24,
+        "title": "తెలుగు కథ 24: The Magic Pot",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/24.png",
+        "imgAlt": "తెలుగు కథ 24",
+        "characters": [
+          "పాత్రలు"
+        ],
+        "themes": [
+          "థీమ్",
+          "Good Fortune"
+        ]
+      },
+      {
+        "id": 25,
+        "title": "తెలుగు కథ 25: The Kind Deer",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/25.png",
+        "imgAlt": "తెలుగు కథ 25",
+        "characters": [
+          "పాత్రలు",
+          "Doe",
+          "Human King"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 26,
+        "title": "తెలుగు కథ 26: The Flying Elephant",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/26.png",
+        "imgAlt": "తెలుగు కథ 26",
+        "characters": [
+          "పాత్రలు",
+          "Sage"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 27,
+        "title": "తెలుగు కథ 27: The Pot of Wisdom",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/27.png",
+        "imgAlt": "తెలుగు కథ 27",
+        "characters": [
+          "పాత్రలు",
+          "Sage"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 28,
+        "title": "తెలుగు కథ 28: The Magic Fish",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/28.png",
+        "imgAlt": "తెలుగు కథ 28",
+        "characters": [
+          "పాత్రలు",
+          "Magic Fish"
+        ],
+        "themes": [
+          "థీమ్",
+          "Magic"
+        ]
+      },
+      {
+        "id": 29,
+        "title": "తెలుగు కథ 29: The Coconut and the Ant",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/29.png",
+        "imgAlt": "తెలుగు కథ 29",
+        "characters": [
+          "పాత్రలు",
+          "Coconut"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 30,
+        "title": "తెలుగు కథ 30: The Tiger and the Woodcutter",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/30.png",
+        "imgAlt": "తెలుగు కథ 30",
+        "characters": [
+          "పాత్రలు",
+          "Woodcutter"
+        ],
+        "themes": [
+          "థీమ్",
+          "Courage"
+        ]
+      },
+      {
+        "id": 31,
+        "title": "తెలుగు కథ 31: The Two Cats and the Monkey",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/31.png",
+        "imgAlt": "తెలుగు కథ 31",
+        "characters": [
+          "పాత్రలు",
+          "Monkey"
+        ],
+        "themes": [
+          "థీమ్",
+          "Foolishness"
+        ]
+      },
+      {
+        "id": 32,
+        "title": "తెలుగు కథ 32: The Sparrow and the Sea",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/32.png",
+        "imgAlt": "తెలుగు కథ 32",
+        "characters": [
+          "పాత్రలు",
+          "Sea",
+          "Rama"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 33,
+        "title": "తెలుగు కథ 33: The Boy Who Cried Tiger",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/33.png",
+        "imgAlt": "తెలుగు కథ 33",
+        "characters": [
+          "పాత్రలు",
+          "Villagers",
+          "Tiger"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 34,
+        "title": "తెలుగు కథ 34: The Magic Banyan Tree",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/34.png",
+        "imgAlt": "తెలుగు కథ 34",
+        "characters": [
+          "పాత్రలు",
+          "Traveler"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 35,
+        "title": "తెలుగు కథ 35: The Curious Peacock",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/35.png",
+        "imgAlt": "తెలుగు కథ 35",
+        "characters": [
+          "పాత్రలు",
+          "Nightingale"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 36,
+        "title": "తెలుగు కథ 36: The Clever Weaver",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/36.png",
+        "imgAlt": "తెలుగు కథ 36",
+        "characters": [
+          "పాత్రలు",
+          "Ghost"
+        ],
+        "themes": [
+          "థీమ్",
+          "Wisdom"
+        ]
+      },
+      {
+        "id": 37,
+        "title": "తెలుగు కథ 37: The Fruits of Hard Work",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/37.png",
+        "imgAlt": "తెలుగు కథ 37",
+        "characters": [
+          "పాత్రలు"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 38,
+        "title": "తెలుగు కథ 38: The Little Drum",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/38.png",
+        "imgAlt": "తెలుగు కథ 38",
+        "characters": [
+          "పాత్రలు"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 39,
+        "title": "తెలుగు కథ 39: The Donkey and the Tiger Skin",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/39.png",
+        "imgAlt": "తెలుగు కథ 39",
+        "characters": [
+          "పాత్రలు",
+          "Farmer"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 40,
+        "title": "తెలుగు కథ 40: The Hidden Treasure",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/40.png",
+        "imgAlt": "తెలుగు కథ 40",
+        "characters": [
+          "పాత్రలు",
+          "Sons"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 41,
+        "title": "తెలుగు కథ 41: The Brave Parrot",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/41.png",
+        "imgAlt": "తెలుగు కథ 41",
+        "characters": [
+          "పాత్రలు",
+          "God"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 42,
+        "title": "తెలుగు కథ 42: The Boy and the Drum",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/42.png",
+        "imgAlt": "తెలుగు కథ 42",
+        "characters": [
+          "పాత్రలు"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 43,
+        "title": "తెలుగు కథ 43: The Mouse Merchant",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/43.png",
+        "imgAlt": "తెలుగు కథ 43",
+        "characters": [
+          "పాత్రలు"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 44,
+        "title": "తెలుగు కథ 44: The Talking Cave",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/44.png",
+        "imgAlt": "తెలుగు కథ 44",
+        "characters": [
+          "పాత్రలు",
+          "Jackal"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 45,
+        "title": "తెలుగు కథ 45: The Greedy Barber",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/45.png",
+        "imgAlt": "తెలుగు కథ 45",
+        "characters": [
+          "పాత్రలు"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 46,
+        "title": "తెలుగు కథ 46: The Milkmaid’s Dream",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/46.png",
+        "imgAlt": "తెలుగు కథ 46",
+        "characters": [
+          "పాత్రలు"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 47,
+        "title": "తెలుగు కథ 47: The Magical Sparrow",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/47.png",
+        "imgAlt": "తెలుగు కథ 47",
+        "characters": [
+          "పాత్రలు",
+          "Farmer"
+        ],
+        "themes": [
+          "థీమ్",
+          "Kindness"
+        ]
+      },
+      {
+        "id": 48,
+        "title": "తెలుగు కథ 48: The Wise Old Elephant",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/48.png",
+        "imgAlt": "తెలుగు కథ 48",
+        "characters": [
+          "పాత్రలు"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 49,
+        "title": "తెలుగు కథ 49: The Lotus and the Frog",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/49.png",
+        "imgAlt": "తెలుగు కథ 49",
+        "characters": [
+          "పాత్రలు",
+          "Lotus"
+        ],
+        "themes": [
+          "థీమ్"
+        ]
+      },
+      {
+        "id": 50,
+        "title": "తెలుగు కథ 50: The King Who Ate Too Many Sweets",
+        "origin": "భారతీయ కథ",
+        "moral": "నీతి: మంచి ఆలోచన విజయానికి దారి తీస్తుంది.",
+        "summary": "సారాంశం: ఈ కథలో తెలివి, ధైర్యం మరియు నీతి గురించి చెప్పబడింది.",
+        "imgSrc": "/images/illustrate/thumbs/50.png",
+        "imgAlt": "తెలుగు కథ 50",
+        "characters": [
+          "పాత్రలు",
+          "Royal Cook"
+        ],
+        "themes": [
+          "థీమ్",
+          "Discipline"
+        ]
+      }
+    ]
+  }
+}

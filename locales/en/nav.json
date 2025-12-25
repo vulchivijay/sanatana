@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "home": "Home",
+    "contact": "Contact",
+    "about": "About",
+    "donate": "Donate",
+    "scriptures": {
+      "title": "Scriptures",
+      "nav": {
+        "sanksheparamayanam": "Sankshepa Ramayana",
+        "ramayana": "Ramayana",
+        "mahabharata": "Mahabharata",
+        "gita": "Bhagavad Gita",
+        "upanishads": "Upanishads",
+        "vedas": "Vedas",
+        "puranas": "Puranas"
+      }
+    },
+    "stotrasmantras": {
+      "title": "Stotras & Mantras",
+      "nav": {
+        "devi": "Devi Stotras",
+        "ganesha": "Ganesha Stotras",
+        "shiva": "Shiva Stotras",
+        "vishnu": "Vishnu Stotras",
+        "hanuman": "Hanuman Stotras",
+        "dailyPrayers": "Daily Prayers"
+      }
+    },
+    "philosophy": {
+      "title": "Philosophy",
+      "nav": {
+        "dharma": "Dharma",
+        "karma": "Karma",
+        "samsara": "Samsara",
+        "moksha": "Moksha",
+        "yoga": "Yoga",
+        "advaita": "Advaita"
+      }
+    },
+    "practices": {
+      "title": "Practices",
+      "nav": {
+        "rituals": "Rituals",
+        "festivals": "Festivals",
+        "dailypuja": "Daily Puja",
+        "vastu": "Vastu"
+      }
+    },
+    "stories": {
+      "title": "Stories",
+      "nav": {
+        "shiva": "Shiva",
+        "parvati": "Parvati",
+        "vishnu": "Vishnu",
+        "lakshmi": "Lakshmi",
+        "bramha": "Brahma",
+        "saraswati": "Saraswati",
+        "krishna": "Krishna",
+        "karna": "Karna",
+        "parasuram": "Parashurama",
+        "bhishma": "Bhishma",
+        "vasistamhari": "Vasista Maharshi",
+        "visvamitra": "Vishvamitra",
+        "adishankar": "Adi Shankaracharya",
+        "ramanamaharshi": "Ramana Maharshi",
+        "moralstories": "Moral Stories",
+        "puranic": "Puranic"
+      }
+    },
+    "kidsZone": {
+      "title": "Kids Zone",
+      "nav": {
+        "illustratedStories": "Illustrated Stories",
+        "mythologicalquizzes": "Mythological Quizzes",
+        "easymantras": "Easy Mantras",
+        "comics": "Mythology Comics"
+      }
+    }
+  }
+}

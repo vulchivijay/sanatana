@@ -1,0 +1,112 @@
+{
+  "daily_pujas": {
+    "definition": "Daily pujas are devotional rituals performed at home or in temples to honor deities, maintain spiritual discipline, and express gratitude.",
+    "origin": {
+      "roots": "Vedic tradition",
+      "texts": [
+        "Agamas",
+        "Smritis",
+        "Puranas"
+      ],
+      "purpose": "To invoke divine blessings and purify the mind."
+    },
+    "common_daily_pujas": [
+      {
+        "name": "Sandhyavandanam",
+        "time": "Morning, Noon, Evening",
+        "significance": "Vedic prayer for purification and gratitude to Sun God.",
+        "practices": [
+          "Recitation of Gayatri Mantra",
+          "Water offering (Arghya)",
+          "Meditation"
+        ]
+      },
+      {
+        "name": "Surya Puja",
+        "time": "Morning",
+        "significance": "Worship of Sun God for health and vitality.",
+        "practices": [
+          "Offering water to Sun",
+          "Chanting Surya Mantras"
+        ]
+      },
+      {
+        "name": "Tulsi Puja",
+        "time": "Morning or Evening",
+        "significance": "Worship of Tulsi plant for purity and prosperity.",
+        "practices": [
+          "Lighting lamp near Tulsi",
+          "Offering water and flowers"
+        ]
+      },
+      {
+        "name": "Shiva Puja",
+        "time": "Morning or Evening",
+        "significance": "Worship of Lord Shiva for peace and liberation.",
+        "practices": [
+          "Offering Bilva leaves",
+          "Chanting 'Om Namah Shivaya'"
+        ]
+      },
+      {
+        "name": "Lakshmi Puja",
+        "time": "Evening",
+        "significance": "Worship of Goddess Lakshmi for wealth and harmony.",
+        "practices": [
+          "Lighting lamps",
+          "Offering flowers and sweets"
+        ]
+      }
+    ],
+    "steps_in_home_puja": [
+      "Clean the altar and surrounding area.",
+      "Place deity idols or pictures on a clean platform.",
+      "Light a lamp (Deepa) and incense sticks.",
+      "Offer flowers, fruits, and water.",
+      "Chant mantras or perform silent meditation.",
+      "Conclude with Aarti and distribute Prasadam."
+    ],
+    "benefits_of_daily_puja": {
+      "spiritual": [
+        "Promotes inner peace and mindfulness.",
+        "Strengthens devotion and connection with the divine.",
+        "Purifies the mind and reduces negative tendencies."
+      ],
+      "mental": [
+        "Reduces stress and anxiety through meditative practices.",
+        "Creates a sense of discipline and routine.",
+        "Enhances focus and clarity of thought."
+      ],
+      "physical": [
+        "Early morning rituals encourage healthy habits.",
+        "Breathing and chanting improve respiratory health.",
+        "Positive vibrations promote overall well-being."
+      ],
+      "social": [
+        "Strengthens family bonding through shared rituals.",
+        "Preserves cultural and spiritual heritage.",
+        "Encourages community harmony during collective prayers."
+      ]
+    },
+    "symbolism": [
+      "Lamp signifies removal of darkness (ignorance).",
+      "Flowers represent purity and devotion.",
+      "Water offering symbolizes surrender and life energy."
+    ],
+    "modern_relevance": {
+      "mindfulness": "Daily puja promotes calmness and gratitude.",
+      "family bonding": "Shared rituals strengthen relationships.",
+      "spirituality": "Connects individuals to higher consciousness."
+    },
+    "key_scriptural_references": [
+      {
+        "text": "Bhagavad Gita",
+        "quote_summary": "Offer every action as worship to the divine."
+      },
+      {
+        "text": "Agamas",
+        "quote_summary": "Prescribes detailed procedures for daily puja."
+      }
+    ]
+  }
+}

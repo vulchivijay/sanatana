@@ -1,0 +1,124 @@
+{
+  "Karna": {
+    "Role": "Great warrior, son of Surya (Sun God), loyal friend of Duryodhana",
+    "ConnectionToMahabharata": {
+      "Birth": {
+        "Mother": "Kunti",
+        "Father": "Surya",
+        "Circumstances": "Born with divine armor (Kavacha) and earrings (Kundala), abandoned and raised by a charioteer."
+      },
+      "LifeThemes": [
+        "Tragedy of identity",
+        "Unmatched generosity",
+        "Loyalty and honor",
+        "Conflict between Dharma and friendship"
+      ],
+      "KeyEvents": [
+        "Gifted away his divine armor to Indra",
+        "Crowned King of Anga by Duryodhana",
+        "Fought valiantly in Kurukshetra war"
+      ]
+    },
+    "PhilosophicalSignificance": [
+      "Represents fate vs free will",
+      "Embodiment of charity and sacrifice",
+      "Symbol of loyalty even at personal cost"
+    ],
+    "MajorDilemmas": [
+      {
+        "Name": "Identity Crisis",
+        "Description": "Born as a Kshatriya but raised as a charioteer’s son, Karna faced rejection and humiliation despite his warrior skills."
+      },
+      {
+        "Name": "Loyalty to Duryodhana",
+        "Description": "Bound by gratitude to Duryodhana, Karna chose friendship over righteousness, even when he knew Duryodhana’s actions were unjust."
+      },
+      {
+        "Name": "Refusal to Join Pandavas",
+        "Description": "When Kunti revealed his true identity before the war, Karna refused to abandon Duryodhana, prioritizing loyalty over blood ties."
+      },
+      {
+        "Name": "Gift of Armor and Earrings",
+        "Description": "Karna gave away his divine protection to Indra, knowing it would cost him his life, upholding his vow of generosity."
+      },
+      {
+        "Name": "Curses Impacting Fate",
+        "Description": "Cursed by a Brahmin and his guru Parashurama, Karna faced inevitable defeat despite his valor and skill."
+      }
+    ],
+    "CursesAndConsequences": [
+      {
+        "Curse": "Brahmin’s Curse",
+        "Reason": "Accidentally killed a cow mistaking it for a wild animal.",
+        "Consequence": "Cursed that his chariot wheel would sink in battle, leading to his vulnerability during the war."
+      },
+      {
+        "Curse": "Parashurama’s Curse",
+        "Reason": "Lied about his lineage to learn archery from Parashurama.",
+        "Consequence": "Cursed that he would forget the Brahmastra mantra at a crucial moment in battle."
+      },
+      {
+        "Curse": "Mother Earth’s Curse",
+        "Reason": "Insulted a woman by pulling her by the hair.",
+        "Consequence": "Cursed that the earth would trap his chariot wheel during the war."
+      }
+    ],
+    "MantrasAndInvocations": [
+      {
+        "Name": "Surya Mantra (for Karna’s lineage)",
+        "Text": "ॐ सूर्याय नमः।",
+        "Transliteration": "Om Suryaya Namah",
+        "Meaning": "Salutation to Surya, the Sun God."
+      }
+    ],
+    "Attributes": {
+      "Virtues": [
+        "Generosity",
+        "Valor",
+        "Loyalty"
+      ],
+      "Weapons": [
+        "Vijaya Bow",
+        "Nagastram"
+      ],
+      "Iconography": [
+        "Golden armor and earrings",
+        "Charioteer background"
+      ]
+    },
+    "Timeline": [
+      {
+        "Phase": "Birth",
+        "Event": "Born to Kunti and Surya with divine armor and earrings; abandoned and set afloat in a river."
+      },
+      {
+        "Phase": "Childhood",
+        "Event": "Raised by Adhiratha and Radha, a charioteer family; trained in archery secretly."
+      },
+      {
+        "Phase": "Youth",
+        "Event": "Rejected by Dronacharya due to low birth; cursed by Parashurama after lying about lineage."
+      },
+      {
+        "Phase": "Recognition",
+        "Event": "Humiliated during archery contest; befriended by Duryodhana who crowns him King of Anga."
+      },
+      {
+        "Phase": "Generosity",
+        "Event": "Gives away his divine armor and earrings to Indra, knowing it will cost him his life."
+      },
+      {
+        "Phase": "War Preparations",
+        "Event": "Refuses Kunti’s offer to join Pandavas; pledges loyalty to Duryodhana."
+      },
+      {
+        "Phase": "Kurukshetra War",
+        "Event": "Fights valiantly; forgets Brahmastra mantra due to curse; chariot wheel sinks; killed by Arjuna."
+      },
+      {
+        "Phase": "Legacy",
+        "Event": "Remembered as the greatest giver (Daanveer) and tragic hero of Mahabharata."
+      }
+    ]
+  }
+}

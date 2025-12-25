@@ -1,0 +1,79 @@
+{
+  "vastu_doshas_and_remedies": {
+    "definition": "Vastu Doshas are imbalances or defects in the spatial arrangement of a building that disturb the natural energy flow, causing health, financial, and emotional issues.",
+    "common_vastu_doshas": [
+      {
+        "dosha": "Main entrance facing wrong direction",
+        "impact": "Blocks positive energy, causes financial instability.",
+        "remedies": [
+          "Place a Vastu Yantra near the entrance.",
+          "Install a Swastika or Om symbol on the door.",
+          "Use bright lighting and keep the entrance clean."
+        ]
+      },
+      {
+        "dosha": "Kitchen in North-East corner",
+        "impact": "Creates health issues and family conflicts.",
+        "remedies": [
+          "Shift cooking stove to South-East if possible.",
+          "Place a mirror on the North wall to reflect the stove.",
+          "Keep water elements separate from fire elements."
+        ]
+      },
+      {
+        "dosha": "Toilet in North-East corner",
+        "impact": "Blocks spiritual energy, causes mental stress.",
+        "remedies": [
+          "Place a Vastu pyramid or crystal in the toilet.",
+          "Keep the toilet door closed and maintain cleanliness.",
+          "Use light colors and install exhaust fans."
+        ]
+      },
+      {
+        "dosha": "Bedroom in South-East corner",
+        "impact": "Causes aggression and relationship issues.",
+        "remedies": [
+          "Shift bedroom to South-West if possible.",
+          "Use soothing colors like light blue or green.",
+          "Place a Vastu Yantra or Himalayan salt lamp."
+        ]
+      },
+      {
+        "dosha": "Staircase in North-East corner",
+        "impact": "Blocks prosperity and spiritual growth.",
+        "remedies": [
+          "Paint staircase in light colors.",
+          "Place a Vastu pyramid at the base of the stairs.",
+          "Avoid heavy storage under the staircase."
+        ]
+      }
+    ],
+    "general_remedies": [
+      "Keep spaces clean and clutter-free.",
+      "Use mirrors strategically to correct energy flow.",
+      "Install Vastu Yantras, crystals, and pyramids.",
+      "Place plants in North or East for positive energy.",
+      "Ensure proper ventilation and natural light."
+    ],
+    "symbolism": [
+      "Yantras represent cosmic energy alignment.",
+      "Colors influence mood and energy balance.",
+      "Plants purify air and attract positive vibrations."
+    ],
+    "modern_relevance": {
+      "architecture": "Applied in home design and interior planning.",
+      "psychology": "Improves mental well-being through balanced spaces.",
+      "corporate spaces": "Optimizes productivity and harmony."
+    },
+    "key_scriptural_references": [
+      {
+        "text": "Mayamata",
+        "quote_summary": "Describes remedies for directional imbalances."
+      },
+      {
+        "text": "Manasara",
+        "quote_summary": "Prescribes corrective measures for structural defects."
+      }
+    ]
+  }
+}

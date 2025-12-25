@@ -1,0 +1,100 @@
+{
+  "Krishna": {
+    "Role": "Supreme Being, Preserver, Teacher of Dharma",
+    "ConnectionToScriptures": {
+      "Mahabharata": {
+        "Description": "Central figure, charioteer to Arjuna, delivers Bhagavad Gita",
+        "Significance": [
+          "Guide in Kurukshetra war",
+          "Embodiment of divine wisdom"
+        ]
+      },
+      "BhagavadGita": {
+        "Description": "Sacred dialogue between Krishna and Arjuna",
+        "CoreTeachings": [
+          "Karma Yoga (Path of Action)",
+          "Bhakti Yoga (Path of Devotion)",
+          "Jnana Yoga (Path of Knowledge)"
+        ]
+      },
+      "SrimadBhagavatam": {
+        "Description": "Narrates Krishna's life, miracles, and divine play (Leela)",
+        "Themes": [
+          "Devotion",
+          "Compassion",
+          "Supreme Reality"
+        ]
+      }
+    },
+    "PhilosophicalSignificance": [
+      "Advocate of Dharma and righteousness",
+      "Symbol of divine love and cosmic order",
+      "Teacher of selfless action and devotion"
+    ],
+    "Mantras": [
+      {
+        "Name": "Krishna Maha Mantra",
+        "Text": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे। हरे राम हरे राम राम राम हरे हरे॥",
+        "Transliteration": "Hare Krishna Hare Krishna, Krishna Krishna Hare Hare; Hare Rama Hare Rama, Rama Rama Hare Hare",
+        "Meaning": "Chant invoking Krishna and Rama for liberation and divine love."
+      },
+      {
+        "Name": "Krishna Beej Mantra",
+        "Text": "ॐ क्लीं कृष्णाय नमः।",
+        "Transliteration": "Om Kleem Krishnaya Namah",
+        "Meaning": "Salutation to Krishna, the all-attractive one."
+      },
+      {
+        "Name": "Gita Invocation",
+        "Text": "ॐ श्रीकृष्णाय नमः।",
+        "Transliteration": "Om Shri Krishnaya Namah",
+        "Meaning": "Homage to Lord Krishna, the teacher of the Gita."
+      }
+    ],
+    "Ashtabhava": {
+      "Description": "Eight principal forms or moods of Krishna representing different divine aspects",
+      "Forms": [
+        {
+          "Name": "Vasudeva",
+          "Aspect": "Supreme Lord, cosmic form",
+          "Details": "Represents Krishna as the ultimate reality and source of all creation. Worshipped as the universal protector and preserver."
+        },
+        {
+          "Name": "Sankarsana",
+          "Aspect": "Strength and power",
+          "Details": "Symbolizes spiritual strength and the power to uphold dharma. Associated with the principle of ego dissolution."
+        },
+        {
+          "Name": "Pradyumna",
+          "Aspect": "Love and desire",
+          "Details": "Embodies divine love and attraction. Represents the creative energy that sustains life and relationships."
+        },
+        {
+          "Name": "Aniruddha",
+          "Aspect": "Intellect and mind",
+          "Details": "Personifies wisdom, clarity, and mental discipline. Guides devotees toward self-realization and higher consciousness."
+        },
+        {
+          "Name": "Govinda",
+          "Aspect": "Protector of cows and nature",
+          "Details": "Highlights Krishna’s role as a nurturer of life and ecology. Associated with pastoral beauty and harmony with nature."
+        },
+        {
+          "Name": "Gopala",
+          "Aspect": "Child-like innocence and playfulness",
+          "Details": "Represents Krishna’s playful and loving nature as a cowherd boy. Symbol of joy, simplicity, and divine play (Leela)."
+        },
+        {
+          "Name": "Madhava",
+          "Aspect": "Lord of fortune and prosperity",
+          "Details": "Signifies abundance, auspiciousness, and divine grace. Often invoked for blessings of wealth and happiness."
+        },
+        {
+          "Name": "Keshava",
+          "Aspect": "Destroyer of evil, preserver of good",
+          "Details": "Represents Krishna as the protector who annihilates negativity and restores cosmic balance."
+        }
+      ]
+    }
+  }
+}

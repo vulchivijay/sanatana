@@ -1,0 +1,97 @@
+/* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
+@use "variables";
+@use "theme";
+@use "typo";
+@use "layout";
+@use "desktop";
+@use "header";
+@use "footer";
+@use "slider";
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  color: var(--color-text);
+  background-color: var(--color-bg); 
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  position: relative;
+  text-decoration: none;
+  color: #7a4b00;
+  &::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 0;
+    height: 1px;
+    opacity: 0;
+    background-color: var(--theme-body-text-color);
+    transition: all 0.2s ease-in-out;
+  }
+
+  &.active::after,
+  &:hover::after {
+    width: 100%;
+    opacity: 1;
+  }
+  &.no-underline::after,
+  &.no-underline:hover::after {
+    display: none;
+  }
+  &.no-underline.active {
+    background-color: var(--color-white);
+    color: var(--color-black);
+  }
+}
+
+ul, ol {
+  padding-left: 1.25rem;
+  margin-bottom: var(--space-md);
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  width: 100%;
+  padding: var(--space-xs) var(--space-sm);
+}
+
+button,
+.button {
+  display: inline-block;
+  font-size: 1rem;
+  padding: 8px 16px;
+  cursor: pointer;
+
+  &.scroll-to-top {
+    padding: var(--space-xs)
+  }
+}
+
+.gradient-background {
+  background-image: radial-gradient(circle farthest-corner at 90% 0%,
+  var(--color-yellow),
+  var(--color-red) 18%,
+  var(--color-orange) 46%,
+  var(--color-violet) 87%,
+  var(--color-blue));
+}
+
+.background-alternative {
+  background-color: var(--color-bg-alt);
+}
+
+/* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */

@@ -1,0 +1,49 @@
+
+{
+  "karma_philosophy": {
+    "title": "",
+    "definition": "Karma is the principle of cause and effect, where every action (physical, mental, or verbal) produces consequences that shape future experiences.",
+    "origin": {
+      "roots": "Vedic and Upanishadic teachings",
+      "texts": ["Vedas", "Upanishads", "Bhagavad Gita", "Yoga Sutras"],
+      "meaning": "Derived from Sanskrit 'kri', meaning 'to act or do'."
+    },
+    "core_principles": [
+      "Law of Cause and Effect",
+      "Moral Responsibility",
+      "Continuity across lifetimes",
+      "Freedom through right action"
+    ],
+    "types_of_karma": {
+      "Sanchita Karma": "Accumulated karma from past lives.",
+      "Prarabdha Karma": "Portion of past karma influencing current life.",
+      "Agami Karma": "Karma created by present actions."
+    },
+    "goals": [
+      "Understand consequences of actions",
+      "Live ethically and consciously",
+      "Reduce negative karmic impressions",
+      "Move toward liberation (Moksha)"
+    ],
+    "relation_to_other_concepts": {
+      "dharma": "Right action according to Dharma reduces negative karma.",
+      "moksha": "Freedom from karmic cycle leads to liberation.",
+      "rebirth": "Karma determines circumstances of future births."
+    },
+    "modern_relevance": {
+      "ethics": "Encourages accountability and mindfulness.",
+      "psychology": "Highlights impact of thoughts and intentions.",
+      "social harmony": "Promotes fairness and responsibility."
+    },
+    "key_scriptural_references": [
+      {
+        "text": "Bhagavad Gita",
+        "quote_summary": "Perform actions without attachment to results."
+      },
+      {
+        "text": "Yoga Sutras",
+        "quote_summary": "Karmic impressions influence future tendencies."
+      }
+    ]
+  }
+}

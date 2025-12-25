@@ -1,0 +1,949 @@
+{
+  "chapter": {
+    "title": "CHAPTER ONE",
+    "name": "Observing the Armies on the Battlefield of Kurukṣetra",
+    "source_note": "Original text provided by user and parsed into structured fields.",
+    "verses_parsed_count": 46,
+    "verses": [
+      {
+        "text_number": 1,
+        "heading": "TEXT 1",
+        "transliteration_lines": [
+          "Da*Taraí ovac",
+          "DaMaR+ae}ae ku-å+ae}ae SaMaveTaa YauYauTSav )",
+          "MaaMak-a Paa<@vaêEv ik-Maku-vRTa SaÅYa )) 1 ))",
+          "dhåtaräñöra uväca",
+          "dharma-kñetre kuru-kñetre",
+          "samavetä yuyutsavaù",
+          "mämakäù päëòaväç caiva",
+          "kim akurvata saïjaya"
+        ],
+        "word_meaning_lines": [
+          "dhåtaräñöraù—King Dhåtaräñöra; uväca—said;",
+          "dharma-kñetre—in the place of pilgrimage; kuru-kñetre—in Kurukṣetra;",
+          "samavetäù—assembled; yuyutsavaù—desiring to fight; mämakäù—my sons;",
+          "päëòaväù—the sons of Pāṇḍu; ca—and; eva—certainly; kim—what; akurvata—did they do;",
+          "saïjaya—O Saïjaya."
+        ],
+        "translation": "Dhåtaräñöra said: O Saïjaya, after assembling in the place of pilgrimage at Kurukṣetra, what did my sons and the sons of Pāṇḍu do, being desirous to fight?",
+        "purport_paragraphs": [
+          "Bhagavad-gītā is theistic science; one should read it with a bona fide devotee to avoid motivated interpretations. The Gītā encompasses Vedic wisdom and is directly spoken by Lord Kṛṣṇa.",
+          "The dialogue between Dhṛtarāṣṭra and Sañjaya frames the Mahābhārata; Kurukṣetra is a sacred battlefield and setting for the Lord's guidance. Dhṛtarāṣṭra feared the holy place might favor the Pāṇḍavas; Sañjaya, by Vyāsa's mercy, could see the battlefield and report."
+        ]
+      },
+      {
+        "text_number": 2,
+        "heading": "TEXT 2",
+        "transliteration_lines": [
+          "SaÅYa ovac",
+          "d*îa Tau Paa<@vaNaqk&- VYaU!& duYaaeRDaNaSTada )",
+          "AacaYaRMauPaSa®MYa raJaa vcNaMab]vqTa( )) 2 ))",
+          "saïjaya uväca",
+          "dåñṭvä tu päëòavänékaà",
+          "vyüòhaà duryodhanas tadä",
+          "äcäryam upasaìgamya",
+          "räjä vacanam abravét"
+        ],
+        "word_meaning_lines": [
+          "saïjayaù—Saïjaya; uväca—said; dåñṭvä—after seeing; tu—but; päëòava-anékam—the Pāṇḍava army;",
+          "vyuòham—arranged in phalanx; duryodhanaù—King Duryodhana; tadā—at that time;",
+          "ācāryam—the teacher (Droṇa); upasaṁgamya—approaching; rājā—the king; vacanam—words; abravīt—spoke."
+        ],
+        "translation": "Saïjaya said: O King, after looking over the army gathered by the sons of Pāṇḍu, King Duryodhana went to his teacher and began to speak the following words:",
+        "purport_paragraphs": [
+          "Dhṛtarāṣṭra lacked spiritual vision; Sañjaya relayed events. Duryodhana, alarmed at the Pāṇḍava arrangement, sought counsel of his commander Droṇa."
+        ]
+      },
+      {
+        "text_number": 3,
+        "heading": "TEXT 3",
+        "transliteration_lines": [
+          "PaXYaETaa& Paa<@uPau}aa<aaMaacaYaR MahTaq& cMaUMa( )",
+          "VYaU!a& d]uPadPau}ae<a Tav iXaZYae<a DaqMaTaa )) 3 ))",
+          "paçyaitāṃ pāṇḍu-putrāṇām",
+          "ācārya mahatīṃ camūm",
+          "vyūḍhāṃ drupada-putreṇa",
+          "tava śiṣyeṇa dhīmatā"
+        ],
+        "word_meaning_lines": [
+          "paśya—behold; etām—this; pāṇḍu-putrāṇām—of the sons of Pāṇḍu; ācārya—O teacher;",
+          "mahatīm—great; camūm—army; vyūḍhām—arranged; drupada-putreṇa—by Drupada's son (Dhṛṣṭadyumna); tava śiṣyeṇa—your disciple; dhīmatā—very intelligent."
+        ],
+        "translation": "O teacher, behold the great army of the sons of Pāṇḍu, so expertly arranged by your intelligent disciple, the son of Drupada.",
+        "purport_paragraphs": [
+          "Duryodhana sought to highlight Droṇa's leniency: though Droṇa had enmity with Drupada, he trained Drupada's son Dhṛṣṭadyumna, who now arranges Pāṇḍava forces—this is a political and tactical criticism."
+        ]
+      },
+      {
+        "text_number": 4,
+        "heading": "TEXT 4",
+        "transliteration_lines": [
+          "A}a éUra MaheZvaSaa >aqMaaJauRNaSaMaa YauiDa )",
+          "YauYauDaaNaae ivra$=ê d]uPadê MaharQa )) 4 ))",
+          "atra śūrā maheṣv- āsā",
+          "bhīma-arjuna-samā yudhi",
+          "yuyudhānaḥ virāṭaś ca",
+          "drupadaś ca mahā-rathaḥ"
+        ],
+        "word_meaning_lines": [
+          "atra—here; śūrāḥ—heroes; maheṣvāsaḥ—mighty bowmen; bhīma-arjuna—Bhīma and Arjuna;",
+          "samāḥ—equal; yudhi—in battle; yuyudhānaḥ—Yuyudhāna; virāṭaḥ—Virāta; drupadaḥ—Drupada; mahā-rathaḥ—great chariot-warrior."
+        ],
+        "translation": "Here in this army there are many heroic bowmen equal in fighting to Bhīma and Arjuna; there are also great fighters like Yuyudhāna, Virāta and Drupada.",
+        "purport_paragraphs": [
+          "Duryodhana lists formidable warriors to justify his fear; he compares several commanders to the greatest Pāṇḍava heroes."
+        ]
+      },
+      {
+        "text_number": 5,
+        "heading": "TEXT 5",
+        "transliteration_lines": [
+          "Da*íke-Tauêeik-TaaNa k-aiXaraJaê vqYaRvaNa( )",
+          "PauåiJaTku-iNTa>aaeJaê XaEBYaê NarPau®v )) 5 ))",
+          "dhṛṣṭaketuś cekitānaḥ",
+          "kāśirājaś ca vīryavān",
+          "purujit kuntibhojaś ca",
+          "śaibyaś ca nara-puṅgavaḥ"
+        ],
+        "word_meaning_lines": [
+          "dhṛṣṭaketuḥ—Dhṛṣṭaketu; cekitānaḥ—Cekitāna; kāśirājaḥ—King of Kaśī; vīryavān—valiant;",
+          "purujit—Purujit; kuntibhojaḥ—Kuntibhoja; śaibyaḥ—Śaibya; nara-puṅgavaḥ—exalted heroes."
+        ],
+        "translation": "There are also great, heroic, powerful fighters like Dhṛṣṭaketu, Cekitāna, Kaśirāja, Purujit, Kuntibhoja and Śaibya.",
+        "purport_paragraphs": [
+          "Duryodhana enumerates more heroes to bolster his claim of combined might on the Pāṇḍava side."
+        ]
+      },
+      {
+        "text_number": 6,
+        "heading": "TEXT 6",
+        "transliteration_lines": [
+          "YauDaaMaNYauê iv§-aNTa otaMaaEJaaê vqYaRvaNa( )",
+          "SaaE>ad]ae d]aEPadeYaaê SavR Wv MaharQaa )) 6 ))",
+          "yudhamanyuś ca vikrānta",
+          "uttamaujaś ca vīryavān",
+          "saubhadraḥ draupadeyāś ca",
+          "sarva eva mahā-rathāḥ"
+        ],
+        "word_meaning_lines": [
+          "yudhamanyuḥ—Yudhamanyu; vikrāntaḥ—mighty; uttamaujaḥ—Uttamauja; vīryavān—valiant;",
+          "saubhadraḥ—son of Subhadrā; draupadeyāḥ—sons of Draupadī; sarve—all; mahā-rathāḥ—great chariot-warriors."
+        ],
+        "translation": "There are the mighty Yudhamanyu, the very powerful Uttamauja, the son of Subhadrā and the sons of Draupadī. All these warriors are great chariot fighters.",
+        "purport_paragraphs": [
+          "Even lesser-known names are dangerous; Duryodhana lists them to intimidate Droṇa and Bhīṣma."
+        ]
+      },
+      {
+        "text_number": 7,
+        "heading": "TEXT 7",
+        "transliteration_lines": [
+          "ASMaak&- Tau iviXaía Yae TaaiàbaeDa iÜJaaetaMa )",
+          "NaaYak-a MaMa SaENYaSYa Sa&jaQa| TaaNb]vqiMa Tae )) 7 ))",
+          "asmākaṃ tu viśiṣṭā ye",
+          "tān nibodha dvijottama",
+          "nāyakā mama saṅyasya",
+          "saṁjñārthaṃ tān bravīmi te"
+        ],
+        "word_meaning_lines": [
+          "asmākam—our; tu—but; viśiṣṭāḥ—especially excellent; ye—those; tān—them; nibodha—know;",
+          "dvijottama—best of brāhmaṇas; nāyakā—leaders; mama—my; saṃyasya—army; saṁjñārthaṃ—for information; tām bravīmi te—I tell you them."
+        ],
+        "translation": "O best of the brāhmaṇas, for your information, let me tell you about the captains who are especially qualified to lead my military force.",
+        "purport_paragraphs": [
+          "Duryodhana formally addresses the teacher (Droṇa) to name his chosen commanders."
+        ]
+      },
+      {
+        "text_number": 8,
+        "heading": "TEXT 8",
+        "transliteration_lines": [
+          ">avaN>aqZMaê k-<aRê k*-Paê SaiMaiTa&JaYa )",
+          "AìTQaaMaa ivk-<aRê SaaEMaditaSTaQaEv c )) 8 ))",
+          "bhavān bhīṣma ca karṇa ca",
+          "kṛpaś ca samiti-jayaḥ",
+          "aśvatthāmā vikarṇaś ca",
+          "saumadattiś tathaiva ca"
+        ],
+        "word_meaning_lines": [
+          "bhavān—yourself; bhīṣmaḥ—Bhīṣma; karṇaḥ—Karṇa; kṛpaḥ—Kṛpa; samiti-jayaḥ—always victorious;",
+          "aśvatthāmā—Aśvatthāmā; vikarṇa—Vikarṇa; saumadattiḥ—Bhuriśrava (son of Somadatta)."
+        ],
+        "translation": "There are personalities like yourself, Bhīṣma, Karṇa, Kṛpa, Aśvatthāmā, Vikarṇa and Bhuriśrava, who are always victorious in battle.",
+        "purport_paragraphs": [
+          "Duryodhana flatters and lists veteran champions to reassure himself and to rally the commanders."
+        ]
+      },
+      {
+        "text_number": 9,
+        "heading": "TEXT 9",
+        "transliteration_lines": [
+          "ANYae c bhv éUra MadQaeR TYa¢-JaqivTaa )",
+          "NaaNaaXañPa[hr<aa SaveR YauÖivXaarda )) 9 ))",
+          "anye ca bahavaḥ śūrā",
+          "mad-arthe tyakta-jīvitaḥ",
+          "nānā-āsastra-praharaṇaḥ",
+          "sarve yuddha-viśāradaḥ"
+        ],
+        "word_meaning_lines": [
+          "anye—many others; ca—also; bahavaḥ—numerous; śūrāḥ—heroes; mad-arthe—for my sake; tyakta-jīvitaḥ—ready to risk life;",
+          "nānā-āsastra—many weapons; praharaṇaḥ—equipped; sarve—all yuddha-viśāradaḥ—experienced in battle."
+        ],
+        "translation": "There are many other heroes prepared to lay down their lives for me; all are well-equipped with various weapons and experienced in war.",
+        "purport_paragraphs": [
+          "Duryodhana emphasizes committed followers willing to die for him, reinforcing his belief in victory by numbers and devotion."
+        ]
+      },
+      {
+        "text_number": 10,
+        "heading": "TEXT 10",
+        "transliteration_lines": [
+          "APaYaaRá& TadSMaak&- bl&/ >aqZMaai>ari+aTaMa( )",
+          "PaYaaRá& iTvdMaeTaeza& bl&/ >aqMaai>ari+aTaMa( )) 10 ))",
+          "aparyāptaṁ tad asmākaṁ",
+          "balaṁ bhīṣmābhirakṣitam",
+          "paryāptaṁ tv idam eteṣām",
+          "balaṁ bhēmābhirakṣitam"
+        ],
+        "word_meaning_lines": [
+          "aparyāptam—immeasurable; tat—that; asmākam—our (strength); balaṁ—force; bhīṣma- abhirakṣitam—protected by Bhīṣma;",
+          "paryāptam—sufficient/limited; tv—but; idam—this; eteṣām—theirs; balaṁ—force; bhéma- abhirakṣitam—protected by Bhīma."
+        ],
+        "translation": "Our strength is immeasurable, and we are perfectly protected by Bhīṣma, whereas the strength of the Pāṇḍavas, protected by Bhīma, is limited.",
+        "purport_paragraphs": [
+          "Duryodhana compares strengths; he feels secure because of the veteran general Bhīṣma, and disparages Bhīma as less experienced."
+        ]
+      },
+      {
+        "text_number": 11,
+        "heading": "TEXT 11",
+        "transliteration_lines": [
+          "AYaNaezu c SaveRzu YaQaa>aaGaMaviSQaTaa )",
+          ">aqZMaMaevai>ar+aNTau >avNTa SavR Wv ih )) 11 ))",
+          "ayaneṣu ca sarveṣu",
+          "yathā-bhāgam avasthitāḥ",
+          "bhīṣmam evābhirakṣantu",
+          "bhavantaḥ sarve eva hi"
+        ],
+        "word_meaning_lines": [
+          "ayaneṣu—in the strategic places; ca—also; sarveṣu—everywhere; yathā-bhāgam—as per their divisions; avasthitāḥ—positioned;",
+          "bhīṣmam—Bhīṣma; eva—indeed; abhirakṣantu—let (them) protect; bhavantaḥ—ye (you) all; sarve—each; eva—certainly; hi—for sure."
+        ],
+        "translation": "Now all of you must give full support to Grandfather Bhīṣma, standing at your respective strategic points in the phalanx of the army.",
+        "purport_paragraphs": [
+          "Duryodhana urges all commanders to fully support Bhīṣma — he hopes combined protection will secure victory; he attempts to ensure no one feels slighted."
+        ]
+      },
+      {
+        "text_number": 12,
+        "heading": "TEXT 12",
+        "transliteration_lines": [
+          "TaSYa SaÅNaYaNhz| ku-åv*Ö iPaTaaMah )",
+          "iSa&hNaad& ivNaÛoeÀE Xa«& dDMaaE Pa[TaaPavaNa( )) 12 ))",
+          "tasya sañjanayan harṣaṁ",
+          "kuru-vṛddhaḥ pitāmahaḥ",
+          "siṃha-nādam vinady uccaiḥ",
+          "śaṁkhaṁ dadhmau pratāpavān"
+        ],
+        "word_meaning_lines": [
+          "tasya—his (Duryodhana's); sañjanayan—increasing; harṣam—joy; kuru-vṛddhaḥ—Kuru's elder (Bhīṣma); pitāmahah—grandfather;",
+          "siṃha-nādam—lion-like sound; vinadya—resounding; uccaiḥ—loudly; śaṁkham—conchshell; dadhmau—blew; pratāpavān—the valiant."
+        ],
+        "translation": "Then Bhīṣma, the valiant grandsire of the Kuru dynasty, blew his conchshell very loudly like the sound of a lion, giving Duryodhana joy.",
+        "purport_paragraphs": [
+          "Bhīṣma's conch boosted morale. Symbolically his blast also presages the Lord's presence favoring the Pāṇḍavas, though Bhīṣma intends to encourage his grandson."
+        ]
+      },
+      {
+        "text_number": 13,
+        "heading": "TEXT 13",
+        "transliteration_lines": [
+          "TaTa Xa«aê >aeYaRê Pa<avaNak-GaaeMau%a )",
+          "SahSaEva>YahNYaNTa Sa XaBdSTauMaul/ae_>avTa( )) 13 ))",
+          "tataḥ śaṁkhāś ca bheryāś ca",
+          "paṇavānaka-gomukhāḥ",
+          "sahasa- eva abhyahanyanta",
+          "sa śabdaḥ tumulo 'bhavat"
+        ],
+        "word_meaning_lines": [
+          "tataḥ—thereafter; śaṁkhāḥ—conchshells; ca—and; bheryāḥ—bugles; paṇava-ānaka—trumpets, drums; go-mukhāḥ—horns; sahasa—suddenly; abhyahanyanta—sounded together; saḥ—this; śabdaḥ—sound; tumulaḥ—tumultuous; abhavat—became."
+        ],
+        "translation": "After that, the conches, bugles, trumpets, drums and horns were all sounded together and the combined sound became tumultuous.",
+        "purport_paragraphs": [
+          "A great uproar of instruments signals the commencement of battle; it affects hearts on both sides and intensifies the scene."
+        ]
+      },
+      {
+        "text_number": 14,
+        "heading": "TEXT 14",
+        "transliteration_lines": [
+          "TaTa ìeTaEhRYaEYauR¢e- MahiTa SYaNdNae iSQaTaaE )",
+          "MaaDav Paa<@vêEv idVYaaE Xa«aE Pa[dDMaTau )) 14 ))",
+          "tataḥ śvetair hayair yukte",
+          "mahati syandane sthitau",
+          "mādhavaḥ pāṇḍavaś caiva",
+          "divyau śaṁkhau pradadhmatuḥ"
+        ],
+        "word_meaning_lines": [
+          "tataḥ—thereafter; śvetaiḥ hayaiḥ—by white horses; yukte—yoked; mahati syandane—in the great chariot; sthitau—stood; mādhavaḥ—Kṛṣṇa; pāṇḍavaḥ—Arjuna; ca—also; eva—indeed; divyau śaṁkhau—divine conchshells; pradadhmatuḥ—sounded."
+        ],
+        "translation": "On the other side, both Lord Kṛṣṇa and Arjuna, stationed on a great chariot drawn by white horses, sounded their divine conchshells.",
+        "purport_paragraphs": [
+          "Kṛṣṇa and Arjuna blow transcendental conches—this signals spiritual advantage and the presence of fortune with the Pāṇḍavas."
+        ]
+      },
+      {
+        "text_number": 15,
+        "heading": "TEXT 15",
+        "transliteration_lines": [
+          "PaaÄJaNYa& ôzqke-Xaae devdta& DaNaÅYa )",
+          "PaaE<@& dDMaaE MahaXa«& >aqMak-MaaR v*k-aedr )) 15 ))",
+          "pāñcajanyaṁ hṛṣīkeśo",
+          "devadattaṁ dhanañjayaḥ",
+          "pauṇḍraṁ dadhmau mahā-śaṁkhaṁ",
+          "bhīma-karma vārikodaraḥ"
+        ],
+        "word_meaning_lines": [
+          "pāñcajanyam—the conch Pañcajanya (Kṛṣṇa's); hṛṣīkeśaḥ—Hṛṣīkeśa (Kṛṣṇa); devadattam—Devadatta (Arjuna's conch); dhanañjayaḥ—Dhanañjaya (Arjuna); pauṇḍram—Pauṇḍra (Bhīma's); mahā-śaṁkham—great conch; bhīma-karmā—of Bhīma; vrkodaraḥ—Vṛkodara (Bhīma)."
+        ],
+        "translation": "Kṛṣṇa blew his conch Pañcajanya, Arjuna blew Devadatta, and Bhīma blew Pauṇḍra—each heroic conch was sounded.",
+        "purport_paragraphs": [
+          "The names and blowing of conches are symbolic: Kṛṣṇa directs senses (Hṛṣīkeśa), Arjuna is Dhanañjaya, Bhīma is Vṛkodara. Their conches inspire troops and denote transcendental support."
+        ]
+      },
+      {
+        "text_number": 16,
+        "heading": "TEXT 16",
+        "transliteration_lines": [
+          "ANaNTaivJaYa& raJaa ku-NTaqPau}aae YauiDaiïr )",
+          "Naku-l/ Sahdevê SaugaaezMai<aPauZPak-aE )) 16 ))",
+          "anantavijayaṁ rājā",
+          "kuntī-putro yudhiṣṭhiraḥ",
+          "nakulaḥ sahadevaś ca",
+          "sughoṣa-maṇipuṣpakaḥ"
+        ],
+        "word_meaning_lines": [
+          "anantavijayam—Anantavijaya (Yudhiṣṭhira's conch); rājā—king; kuntī-putraḥ—son of Kuntī; yudhiṣṭhiraḥ—Yudhiṣṭhira;",
+          "nakulaḥ—Nakula; sahadevaḥ—Sahadeva; sughoṣa, maṇipuṣpaka—names of their conches."
+        ],
+        "translation": "King Yudhiṣṭhira blew Anantavijaya; Nakula and Sahadeva blew Sughoṣa and Maṇipuṣpaka respectively.",
+        "purport_paragraphs": [
+          "Pāṇḍava leaders and other notable warriors also sounded their conches; the list communicates the full roll of Pāṇḍava champions and their instruments."
+        ]
+      },
+      {
+        "text_number": 17,
+        "heading": "TEXT 17",
+        "transliteration_lines": [
+          "k-aXYaê ParMaeZvaSa iXa%<@q c MaharQa )",
+          "Da*íÛuManae ivra$=ê SaaTYaik-êaParaiJaTa )) 17 ))",
+          "kāśyaś ca parameṣv-āsaḥ",
+          "śikhaṇḍī ca mahā-rathaḥ",
+          "dhṛṣṭadyumnaḥ virāṭaś ca",
+          "sātyakiś ca aparājitaḥ"
+        ],
+        "word_meaning_lines": [
+          "kāśyaḥ—king of Kaśī; parameṣva-āsaḥ—paramount ruler; śikhaṇḍī—great chariot-warrior; mahā-rathaḥ—great fighter;",
+          "dhṛṣṭadyumnaḥ—Dhṛṣṭadyumna; virāṭaḥ—Virāṭa; sātyakiḥ—Sātyaki; aparājitaḥ—unconquerable."
+        ],
+        "translation": "Also the King of Kaśī, Śikhaṇḍī, Dhṛṣṭadyumna, Virāṭa and the unconquerable Sātyaki blew their conches.",
+        "purport_paragraphs": [
+          "The Pāṇḍava side contains many kings and unconquerable heroes, adding to their strength and legitimacy."
+        ]
+      },
+      {
+        "text_number": 18,
+        "heading": "TEXT 18",
+        "transliteration_lines": [
+          "d]uPadae d]aEPadeYaaê SavRXa Pa*iQavqPaTae )",
+          "SaaE>ad]ê Mahabahu Xa«aNdDMau Pa*QaKPa*Qak(- )) 18 ))",
+          "drupade draupadeyāś ca",
+          "sarvaśaḥ pṛthivī-pate",
+          "saubhadraś ca mahā-bāhuḥ",
+          "śaṁkhān dadhmuḥ pṛthak pṛthak"
+        ],
+        "word_meaning_lines": [
+          "drupade—Drupada; draupadeyāḥ—sons of Draupadī; sarvaśaḥ—respectively; pṛthivī-pate—kings of the earth;",
+          "saubhadraḥ—son of Subhadrā; mahā-bāhuḥ—mighty-armed; śaṁkhān dadhmuḥ—blew conches separately."
+        ],
+        "translation": "Drupada, the sons of Draupadī, and many great kings and warriors blew their respective conches.",
+        "purport_paragraphs": [
+          "The blow of many conches from kings and great warriors underscores the magnitude of the conflict and Pāṇḍava backing."
+        ]
+      },
+      {
+        "text_number": 19,
+        "heading": "TEXT 19",
+        "transliteration_lines": [
+          "Sa gaaezae DaaTaRraía<aa& ôdYaaiNa VYadarYaTa( )",
+          "Na>aê Pa*iQavq& cEv TauMaul/ae_>YaNauNaadYaNa( )) 19 ))",
+          "sa ghoṣo dhṛtarāṣṭrāṇāṁ",
+          "hṛdayāni vyadārayat",
+          "nabhaś ca pṛthivī caiva",
+          "tumulo 'bhy anunādayan"
+        ],
+        "word_meaning_lines": [
+          "saḥ ghoṣaḥ—this sound; dhṛtarāṣṭrāṇām—of Dhṛtarāṣṭra's sons; hṛdayāni—hearts; vyadārayat—shattered;",
+          "nabhaḥ—sky; ca—also; pṛthivī—earth; caiva—also; tumulaḥ—tumultuous; abhy anunādayan—resounded."
+        ],
+        "translation": "The sound of the Pāṇḍava conches was tumultuous and resounded in the sky and on the earth, shattering the hearts of the sons of Dhṛtarāṣṭra.",
+        "purport_paragraphs": [
+          "The Pāṇḍava sound unnerved the Kurus; Arjuna’s and Kṛṣṇa’s presence had psychological impact on opponents."
+        ]
+      },
+      {
+        "text_number": 20,
+        "heading": "TEXT 20",
+        "transliteration_lines": [
+          "AQa VYaviSQaTaaNd*îa DaaTaRraíaNk-iPaßJa )",
+          "Pa[v*tae XañSaMPaaTae DaNauåÛMYa Paa<@v )",
+          "ôzqke-Xa& Tada vaKYaiMadMaah MahqPaTae )) 20 ))",
+          "atha vyavasthitān draśṭvā",
+          "dhṛtarāṣṭrān kapi-dhvajaḥ",
+          "pravṛtte śastra-sampāte",
+          "dhanuḥ udyamya pāṇḍavaḥ",
+          "hṛṣīkeśaṁ tadā vākyaṁ",
+          "idam āha mahī-pate"
+        ],
+        "word_meaning_lines": [
+          "atha—thereupon; vyavasthitān—arranged; draśṭvā—having seen; dhṛtarāṣṭrān—the sons of Dhṛtarāṣṭra;",
+          "kapi-dhvajaḥ—whose flag had Hanumān; pravṛtte—when arrows were about to be released; śastra-sampāte—assembly of weapons;",
+          "dhanuḥ udyamya—taking up the bow; pāṇḍavaḥ—Arjuna; hṛṣīkeśam—to Hṛṣīkeśa (Kṛṣṇa); tadā—then; vākyaṁ—words; idam—this; āha—said; mahī-pate—O king."
+        ],
+        "translation": "Seeing the sons of Dhṛtarāṣṭra arranged, Arjuna, with the Hanumān-banner on his flag, took up his bow and addressed Kṛṣṇa these words.",
+        "purport_paragraphs": [
+          "Arjuna prepares to fight and speaks to Kṛṣṇa; the Hanumān emblem signifies protection and link to Rāma’s victory, reinforcing Pāṇḍava confidence."
+        ]
+      },
+      {
+        "text_number": 21,
+        "heading": "TEXT 21",
+        "transliteration_lines": [
+          "AJauRNa ovac",
+          "SaeNaYaaeå>aYaaeMaRDYae rQa& SQaaPaYa Mae_CYauTa )",
+          "YaavdeTaaiàrq+ae_h& Yaaed(Dauk-aMaaNaviSQaTaaNa( )) 21 ))",
+          "arjuna uväca",
+          "senayor ubhayor madhye",
+          "ratham sthāpaya me 'cyuta",
+          "yāvad etān nirīkṣe 'ham",
+          "yoddhu-kāmān avasthitān",
+          "kaiḥ mayā saha yoddhavyam",
+          "asmin raṇa-samudyame"
+        ],
+        "word_meaning_lines": [
+          "arjunaḥ—Arjuna; uväca—said; senayoḥ—of the armies; ubhayor—of both; madhye—in the middle;",
+          "ratham—chariot; sthāpaya—place; me—for me; acyuta—O infallible one (Kṛṣṇa); yāvat—as long as; etān—these; nirīkṣe—may behold; aham—I; yoddhu-kāmān—desirous to fight; avasthitān—arranged; kaiḥ—with whom; mayā saha—by me together should be fought; yoddhavyam—be fought; asmin—in this; raṇa-samudyame—assembly of battle."
+        ],
+        "translation": "Arjuna said: O infallible one, place my chariot between the two armies so I may see those present and know with whom I must fight.",
+        "purport_paragraphs": [
+          "Arjuna requests Kṛṣṇa to draw the chariot between the armies to survey who is present; the address 'acyuta' affirms Kṛṣṇa's supreme, infallible nature."
+        ]
+      },
+      {
+        "text_number": 22,
+        "heading": "TEXT 22",
+        "transliteration_lines": [
+          "kE-MaRYaa Sah YaaeÖVYaMaiSMaNr<aSaMauÛMae )) 22 ))"
+        ],
+        "word_meaning_lines": [
+          "This line continues Arjuna's request: he asks to observe who is assembled and ready to fight, and with whom he should engage."
+        ],
+        "translation": "(continuation) ...so that I may see who is present here, who is desirous of fighting, and with whom I must contend in this great battle attempt.",
+        "purport_paragraphs": [
+          "Arjuna's motive is to assess not to initiate peace talks; he wishes to know those he must face, although he is reluctant to fight his kinsmen."
+        ]
+      },
+      {
+        "text_number": 23,
+        "heading": "TEXT 23",
+        "transliteration_lines": [
+          "YaaeTSYaMaaNaaNave+ae_h& Ya WTae_}a SaMaaGaTaa )",
+          "DaaTaRraíSYa dubuRÖeYauRÖe iPa[Yaick-IzRv )) 23 ))",
+          "yotsyamānān avekṣe 'ham",
+          "ya ete 'tra samāgatāḥ",
+          "dhṛtarāṣṭrasya durbuddher",
+          "yuddhe priya-cikīrṣavaḥ"
+        ],
+        "word_meaning_lines": [
+          "yotsyamānān—those to be fought; avekṣe—I shall see; aham—I; ye—who; ete—these; atra—here; samāgatāḥ—assembled;",
+          "dhṛtarāṣṭrasya—of Dhṛtarāṣṭra; durbuddheḥ—evil-minded; yuddhe—in fight; priya-cikīrṣavaḥ—wishing to please."
+        ],
+        "translation": "Let me see those who are assembled here to fight, who wish to please the evil-minded Dhṛtarāṣṭra.",
+        "purport_paragraphs": [
+          "Arjuna recognizes Duryodhana's malicious intent and wishes to see who sides with him; he intends to estimate the moral and practical implications before fighting."
+        ]
+      },
+      {
+        "text_number": 24,
+        "heading": "TEXT 24",
+        "transliteration_lines": [
+          "SaÅYa ovac",
+          "WvMau¢-ae ôzqke-Xaae Gau@ake-XaeNa >aarTa )",
+          "SaeNaYaaeå>aYaaeMaRDYae SQaaPaiYaTva rQaaetaMaMa( )) 24 ))",
+          "saïjaya uväca",
+          "evam ukto hṛṣīkeśa",
+          "guṇākkeśena bhārata",
+          "senayor ubhayor madhye",
+          "sthāpayitvā rathottamam"
+        ],
+        "word_meaning_lines": [
+          "saïjayaù—Saïjaya; uväca—said; evam uktaḥ—thus addressed; hṛṣīkeśa—Hṛṣīkeśa (Kṛṣṇa); guṇākkeśena—by Arjuna; bhārata—O descendant of Bharata;",
+          "senayoḥ—of the armies; ubhayor—of both; madhye—in the middle; sthāpayitvā—having placed; rathottamam—the best chariot."
+        ],
+        "translation": "Sañjaya said: Thus addressed by Arjuna, Hṛṣīkeśa (Kṛṣṇa) placed the excellent chariot in the midst of the two armies.",
+        "purport_paragraphs": [
+          "Kṛṣṇa, understanding Arjuna's request, positions the chariot. The epithet 'Guṇākkeśa' (conqueror of sleep/ignorance) for Arjuna highlights his devotion and awareness."
+        ]
+      },
+      {
+        "text_number": 25,
+        "heading": "TEXT 25",
+        "transliteration_lines": [
+          ">aqZMad]oe<aPa[Mau%Ta SaveRza& c Mahqi+aTaaMa( )",
+          "ovac PaaQaR PaXYaETaaNSaMaveTaaNku-æiNaiTa )) 25 ))",
+          "bhīṣma-droṇa-pramukhatāḥ",
+          "sarveṣām ca mahī-kṣitām",
+          "uvāca pārtha paśyaitān",
+          "samavetān kurūn iti"
+        ],
+        "word_meaning_lines": [
+          "bhīṣma—Bhīṣma; droṇa—Droṇa; pramukhatāḥ—at the front; sarveṣām—all; mahī-kṣitām—chiefs of the earth;",
+          "uvāca—said; pārtha—O Pārtha (Arjuna); paśyai—see; etān—these; samavetān—assembled; kurūn—the Kurus; iti—thus."
+        ],
+        "translation": "Hṛṣīkeśa said: O Pārtha, behold all the Kurus assembled in the front with Bhīṣma and Droṇa and all chieftains of the earth.",
+        "purport_paragraphs": [
+          "Kṛṣṇa points out the assembled Kurus so Arjuna can see the relatives, teachers, and elders he must face, preparing to address his moral dilemma."
+        ]
+      },
+      {
+        "text_number": 26,
+        "heading": "TEXT 26",
+        "transliteration_lines": [
+          "Ta}aaPaXYaiTSQaTaaNPaaQaR iPaTa›NaQa iPaTaaMahaNa( )",
+          "AacaYaaRNMaaTaul/aN>a]aTa›NPau}aaNPaaE}aaNSa%q„&STaQaa )",
+          "ìéuraNSauôdêEv SaeNaYaaeå>aYaaeriPa )) 26 ))",
+          "tatra apaśyat sthitān pārtha",
+          "pitṛn atha pitämahān",
+          "ācāryān mātulān bhrātṛn",
+          "putrān pautrān sakhīṁs tathā",
+          "śvaśurān suhṛdaś caiva",
+          "senayor ubhayor api"
+        ],
+        "word_meaning_lines": [
+          "tatra—there; apaśyat—he saw; sthitān—standing; pārtha—Arjuna; pitṛn—fathers; atha—also; pitämahān—grandfathers;",
+          "ācāryān—teachers; mātulān—maternal uncles; bhrātṛn—brothers; putrān—sons; pautrān—grandsons; sakhīn—friends; śvaśurān—fathers-in-law; suhṛdaḥ—well-wishers; caiva—also; senayoḥ ubhayor api—in both armies."
+        ],
+        "translation": "There Arjuna saw standing fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, friends and in-laws—members of both armies.",
+        "purport_paragraphs": [
+          "Seeing such intimate relatives on both sides causes Arjuna great grief; the full human cost becomes manifest."
+        ]
+      },
+      {
+        "text_number": 27,
+        "heading": "TEXT 27",
+        "transliteration_lines": [
+          "TaaNSaMaq+Ya Sa k-aENTaeYa SavaRNbNDaUNaviSQaTaaNa( )",
+          "k*-PaYaa ParYaaivíae ivzqdiàdMab]vqTa( )) 27 ))",
+          "tān samīkṣya sa kaunteyaḥ",
+          "sarvāṇ bandhūn avasthitān",
+          "kṛpayā parayā viṣṭo",
+          "viśād an idam abravīt"
+        ],
+        "word_meaning_lines": [
+          "tān—those; samīkṣya—after seeing; saḥ—he (Arjuna); kaunteyaḥ—son of Kuntī; sarvāṇ—all relatives; avasthitān—present;",
+          "kṛpayā—by compassion; parayā—very great; viṣṭaḥ—overwhelmed; viśādaḥ—distress; idam—this; abravīt—he spoke."
+        ],
+        "translation": "Seeing all his relatives Arjuna was overwhelmed by compassion and spoke these words in sorrow.",
+        "purport_paragraphs": [
+          "This is the emotional turning point—Arjuna's compassion leads to moral paralysis and the famous dialogue soon begins."
+        ]
+      },
+      {
+        "text_number": 28,
+        "heading": "TEXT 28",
+        "transliteration_lines": [
+          "AJauRNa ovac",
+          "d*îeMa& SvJaNa& k*-Z<a YauYauTSau& SaMauPaiSQaTaMa( )",
+          "SaqdiNTa MaMa Gaa}aai<a Mau%& c PairéuZYaiTa )) 28 ))",
+          "arjuna uväca",
+          "dṛśovemaṃ sva-janaṃ kṛṣṇa",
+          "yuyutsuṃ samupasthitam",
+          "śedanti mama gātrāṇi",
+          "mukhaṃ ca pariṣuṣyati"
+        ],
+        "word_meaning_lines": [
+          "arjunaḥ—Arjuna; uväca—said; dṛśo-vemam—seeing thus; sva-janam—my relatives; kṛṣṇa—O Kṛṣṇa;",
+          "yuyutsum—ready to fight; samupasthitam—present; śedanti—tremble; mama gātrāṇi—my limbs; mukhaṃ ca—my mouth; pariṣuṣyati—becomes dry."
+        ],
+        "translation": "Arjuna said: My dear Kṛṣṇa, seeing my kinsmen present ready to fight, my limbs tremble and my mouth becomes dry.",
+        "purport_paragraphs": [
+          "Arjuna's physical symptoms indicate moral distress; his devotion makes him soft-hearted, not weak—this is the start of his renunciation of battle."
+        ]
+      },
+      {
+        "text_number": 29,
+        "heading": "TEXT 29",
+        "transliteration_lines": [
+          "vePaQauê Xarqre Mae raeMahzRê JaaYaTae )",
+          "Gaa<@qv& ó&SaTae hSTaatvKcEv PairdùTae )) 29 ))",
+          "vepathuś ca śarére me",
+          "roma-harṣaś ca jāyate",
+          "gāṇḍīvaṁ sraṁsate hastāt",
+          "tvak caiva paridahyate"
+        ],
+        "word_meaning_lines": [
+          "vepathuḥ—trembling; ca—also; śarére—on my body; me—my; roma-harṣaḥ—hairs stand on end; jāyate—occur;",
+          "gāṇḍīvam—my bow Gāṇḍīva; sraṁsate—slips; hastāt—from hand; tvak—skin; caiva—also; paridahyate—burning sensation."
+        ],
+        "translation": "My whole body trembles, hairs stand on end, my bow Gāṇḍīva slips from my hand and my skin burns.",
+        "purport_paragraphs": [
+          "Symptoms are those of fear rooted in attachment to life. Arjuna's dissolution shows his human response to the prospect of killing kin."
+        ]
+      },
+      {
+        "text_number": 30,
+        "heading": "TEXT 30",
+        "transliteration_lines": [
+          "Na c Xa¥-aeMYavSQaaTau& >a]MaTaqv c Mae MaNa )",
+          "iNaiMataaiNa c PaXYaaiMa ivParqTaaiNa ke-Xav )) 30 ))",
+          "na ca śaknomy avasthātuṁ",
+          "bhramatīva ca me manaḥ",
+          "nimittāni ca paśyāmi",
+          "viparītāni keśava"
+        ],
+        "word_meaning_lines": [
+          "na—not; ca—also; śaknomi—am able; avasthātuṁ—to stand; bhramati—my mind reels; iva—as if; ca—also; me—my; manaḥ—mind;",
+          "nimittāni—causes; ca—also; paśyāmi—I see; viparītāni—contrary/evil; keśava—O Kṛṣṇa."
+        ],
+        "translation": "I am unable to stand here any longer; my mind is reeling and I foresee only evil, O Keshava (Kṛṣṇa).",
+        "purport_paragraphs": [
+          "Arjuna acknowledges mental breakdown: attachment leads him to see only negative consequences, prompting renunciation of action."
+        ]
+      },
+      {
+        "text_number": 31,
+        "heading": "TEXT 31",
+        "transliteration_lines": [
+          "Na c é[eYaae_NauPaXYaaiMa hTva SvJaNaMaahve )",
+          "Na k-a¿e ivJaYa& k*-Z<a Na c raJYa& Sau%aiNa c )) 31 ))",
+          "na ca śreyo 'nupaśyāmi",
+          "hatvā sva-janam ātmané",
+          "na kāṅkṣe vijayaṃ kṛṣṇa",
+          "na ca rājyam sukhāni ca"
+        ],
+        "word_meaning_lines": [
+          "na—not; ca—also; śreyaḥ—good; anupaśyāmi—I see not; hatvā—by killing; sva-janam—own kinsmen; ātmané—in my opinion;",
+          "na—nor; kāṅkṣe—I desire; vijayam—victory; kṛṣṇa—O Kṛṣṇa; na ca—nor; rājyam—kingdom; sukhāni ca—happiness."
+        ],
+        "translation": "I do not see any good in killing my own kinsmen; I do not desire victory, kingdom or pleasures, O Kṛṣṇa.",
+        "purport_paragraphs": [
+          "Arjuna considers killing kin unjustifiable despite kṣatriya duty. He prioritizes moral/relational considerations over political ends, not yet understanding the higher vision."
+        ]
+      },
+      {
+        "text_number": 32,
+        "heading": "TEXT 32",
+        "transliteration_lines": [
+          "ik&- Naae raJYaeNa GaaeivNd ik&- >aaeGaEJas„ivTaeNa va )",
+          "YaezaMaQaeR k-ax(i+aTa& Naae raJYa& >aaeGaa Sau%aiNa c )) 32 ))",
+          "kiṃ no rājyeṇa govinda",
+          "kiṃ bhogair jīvitena vā",
+          "yeṣām arthe kāṅkṣitaṁ no",
+          "rājyaṁ bhogāḥ sukhāni ca"
+        ],
+        "word_meaning_lines": [
+          "kiṃ—what use; no—to us; rājyeṇa—by kingdom; govinda—O Govinda (Kṛṣṇa); kiṃ—what; bhogaiḥ—enjoyments; jīvitena—by life;",
+          "vā—or; yeṣām—of whom; arthe—for whom; kāṅkṣitam—desired; no—our; rājyaṁ—kingdom; bhogāḥ—enjoyments; sukhāni ca—happiness."
+        ],
+        "translation": "O Govinda, of what avail are kingdoms, enjoyments or even life when those for whom we desire them are here ready to sacrifice their lives?",
+        "purport_paragraphs": [
+          "Arjuna argues that worldly gain is meaningless if it requires slaughter of family and friends; he is emotionally and morally opposed to battle."
+        ]
+      },
+      {
+        "text_number": 33,
+        "heading": "TEXT 33",
+        "transliteration_lines": [
+          "Ta wMae_viSQaTaa YauÖe Pa[a<aa&STYa¤-a DaNaaiNa c )",
+          "AacaYaaR iPaTar Pau}aaSTaQaEv c iPaTaaMaha )) 33 ))",
+          "ta ime 'vasthitā yuddhe",
+          "prāṇāṁs tyaktvā dhanāni ca",
+          "ācāryāḥ pitaraḥ putrās",
+          "tathaiva ca pitämahāḥ"
+        ],
+        "word_meaning_lines": [
+          "taḥ—then; ime—these; avasthitāḥ—standing; yuddhe—in battle; prāṇān—lives; tyaktvā—having given up; dhanāni ca—wealth also;",
+          "ācāryāḥ—teachers; pitaraḥ—fathers; putrāḥ—sons; tathāiva ca—also; pitämahāḥ—grandfathers."
+        ],
+        "translation": "These persons, having renounced life and wealth, stand ready in the battle: teachers, fathers, sons and grandfathers.",
+        "purport_paragraphs": [
+          "Arjuna enumerates those who will die: it strengthens his resolve to avoid fighting due to human compassion for those relatives."
+        ]
+      },
+      {
+        "text_number": 34,
+        "heading": "TEXT 34",
+        "transliteration_lines": [
+          "MaaTaul/a ìéura PaaE}aa XYaal/a SaMbiNDaNaSTaQaa )",
+          "WTaaà hNTauiMaC^aiMa ganTaae_iPa MaDauSaUdNa )) 34 ))",
+          "mātulāḥ śrīrāḥ putrāḥ",
+          "śyālāḥ sambandhināś ca",
+          "etān na hantum icchāmi",
+          "ghanato 'pi madhusūdana"
+        ],
+        "word_meaning_lines": [
+          "mātulāḥ—maternal uncles; śrīrāḥ—fathers-in-law; putrāḥ—sons; śyālāḥ—brothers-in-law; sambandhināḥ—relations;",
+          "etān—these; na hantum icchāmi—I do not wish to kill; ghanataḥ api—even though killed; madhusūdana—O Madhusūdana (Kṛṣṇa)."
+        ],
+        "translation": "I do not wish to kill these: mothers' brothers, fathers-in-law, sons, brothers-in-law and relatives, O Madhusūdana.",
+        "purport_paragraphs": [
+          "Arjuna appeals by naming categories of kin, stressing the moral cost of killing kin even for cosmic or political gains."
+        ]
+      },
+      {
+        "text_number": 35,
+        "heading": "TEXT 35",
+        "transliteration_lines": [
+          "AiPa }aEl/aeKYaraJYaSYa heTaae ik&- Nau Mahqk*-Tae )",
+          "iNahTYa DaaTaRraíaà k-a Pa[qiTa SYaaÂNaadRNa )) 35 ))",
+          "api trailokya-rājyasya",
+          "hetoḥ kiṃ nu mahī-kṛte",
+          "nihatya dhṛtarāṣṭraṁ naḥ",
+          "ka prītiḥ syāt janārdana"
+        ],
+        "word_meaning_lines": [
+          "api—even; trailokya-rājyasya—for the sovereignty of the three worlds; hetoḥ—for the sake of; kim—what; nu—indeed; mahī-kṛte—for the earth's sake;",
+          "nihatya—by killing; dhṛtarāṣṭram—Dhṛtarāṣṭra's sons; naḥ—our; kaḥ prītiḥ syāt—what pleasure will there be; janārdana—O Janārdana (Kṛṣṇa)."
+        ],
+        "translation": "Even if we obtained sovereignty of the three worlds by killing Dhṛtarāṣṭra's sons, what joy would there be for us, O Janārdana?",
+        "purport_paragraphs": [
+          "Arjuna rejects political reward: even cosmic gain is meaningless if obtained at the expense of human lives and family bonds."
+        ]
+      },
+      {
+        "text_number": 36,
+        "heading": "TEXT 36",
+        "transliteration_lines": [
+          "PaaPaMaevaé[YaedSMaaNhTvETaaNaaTaTaaiYaNa )",
+          "TaSMaaàahaR vYa& hNTau& DaaTaRraíaNSabaNDavaNa( )",
+          "SvJaNa& ih k-Qa& hTva Saui%Na SYaaMa MaaDav )) 36 ))",
+          "pāpam evāśrayed asmān",
+          "hatvā itān ātatāyinaḥ",
+          "tasmāt na arhā vayam hantum",
+          "dhṛtarāṣṭrān sa-bandhavanaḥ",
+          "sva-janaṁ hi kathaṁ hatvā",
+          "sukhinaḥ syāma mādhava"
+        ],
+        "word_meaning_lines": [
+          "pāpam—sin; eva—certainly; āśrayet—will come upon; asmān—us; hatvā—by killing; itān—these; ātatāyinaḥ—aggressors;",
+          "tasmāt—therefore; na arhā vayam—not appropriate for us; hantum—to kill; dhṛtarāṣṭrān—sons of Dhṛtarāṣṭra; sa-bandhavaḥ—our kinsmen;",
+          "sva-janam—our own people; hi—certainly; kathaṁ—how; hatvā—by killing; sukhinaḥ syāma—shall we be happy; mādhava—O Madhava (Kṛṣṇa)."
+        ],
+        "translation": "Sin will surely overtake us if we kill those aggressors who are also our kinsmen. How can we be happy by killing our own people, O Mādhava?",
+        "purport_paragraphs": [
+          "Arjuna reasons killing kinsmen is sinful; even if they are transgressors, the moral cost is too great for him to bear."
+        ]
+      },
+      {
+        "text_number": 37,
+        "heading": "TEXT 37",
+        "transliteration_lines": [
+          "YaÛPYaeTae Na PaXYaiNTa l/ae>aaePahTaceTaSa )",
+          "ku-l/+aYak*-Ta& daez& iMa}ad]aehe c PaaTak-Ma( )) 37 ))",
+          "yady apy ete na paśyanti",
+          "lobhopahata-cetasaḥ",
+          "kula-kṣaya-kṛtaṁ doṣaṁ",
+          "mitra-drohe ca pātakam"
+        ],
+        "word_meaning_lines": [
+          "yadi—if; api—even; ete—they; na paśyanti—do not see; lobha-upahata-cetasaḥ—driven by greed; kula-kṣaya—destruction of family; kṛtam—caused; doṣaṁ—fault;",
+          "mitra-drohe—quarreling with friends; ca—also; pātakam—sinful act."
+        ],
+        "translation": "O Janārdana, though these men, driven by greed, see no fault in destroying family and betraying friends, why should we, who know it's sinful, perform such acts?",
+        "purport_paragraphs": [
+          "Arjuna contrasts the ignorant greed of the enemy with his own knowledge of sin; obligation is not absolute when its consequences are immoral."
+        ]
+      },
+      {
+        "text_number": 38,
+        "heading": "TEXT 38",
+        "transliteration_lines": [
+          "kathaà na jïeyam asmäbhiù",
+          "päpād asmān nivartitum",
+          "kula-kṣaya-kṛtaṁ doṣaṁ",
+          "prapaśyadbhiḥ janārdana"
+        ],
+        "word_meaning_lines": [
+          "katham—how; na—should not; jñeyam—be known; asmäbhiḥ—by us; pāpāt—from sinful acts; asmāt—ourselves; nivartitum—to desist;",
+          "kula-kṣaya—destruction of family; kṛtam—done; prapaśyadbhiḥ—by those who can see; janārdana—O Kṛṣṇa."
+        ],
+        "translation": "How can we, knowing this sin, refrain from stopping it, O Janārdana?",
+        "purport_paragraphs": [
+          "Arjuna appeals to conscience and traditional authority: those who see should avoid sin and prevent it."
+        ]
+      },
+      {
+        "text_number": 39,
+        "heading": "TEXT 39",
+        "transliteration_lines": [
+          "ku-l/+aYae Pa[<aXYaiNTa ku-l/DaMaaR SaNaaTaNaa )",
+          "DaMaeR Naíe ku-l&/ k*-TòMaDaMaaeR_i>a>avTYauTa )) 39 ))",
+          "kula-kṣaye praṇaśyanti",
+          "kula-dharmāḥ sanātanāḥ",
+          "dharme naṣṭe kulaṁ kṛtsnam",
+          "adharmo 'bhibhavat uta"
+        ],
+        "word_meaning_lines": [
+          "kula-kṣaye—upon destruction of family; praṇaśyanti—are ruined; kula-dharmāḥ—family duties; sanātanāḥ—eternal;",
+          "dharme—when dharma is destroyed; naṣṭe—completely; kulaṁ—family; kṛtsnam—entire; adharmo—irreligion; abhibhavat uta—prevails indeed."
+        ],
+        "translation": "When family is destroyed the family’s eternal dharma perishes, and irreligion spreads everywhere.",
+        "purport_paragraphs": [
+          "Arjuna explains social consequences: loss of family tradition leads to loss of religion and societal collapse—supporting his reluctance to fight."
+        ]
+      },
+      {
+        "text_number": 40,
+        "heading": "TEXT 40",
+        "transliteration_lines": [
+          "ADaMaaRi>a>avaTk*-Z<a Pa[duZYaiNTa ku-l/iñYa )",
+          "ñqzu duíaSau vaZ<aeRYa JaaYaTae v<aRSaªr )) 40 ))",
+          "adharmābhibhavāt kṛṣṇa",
+          "praduṣyanti kula-striyaḥ",
+          "strīṣu duṣṭāsu varṣeṇa",
+          "jāyate varṇa-saṅkaraḥ"
+        ],
+        "word_meaning_lines": [
+          "adharmābhibhavat—owing to prevailing irreligion; kṛṣṇa—O Kṛṣṇa; praduṣyanti—are corrupted; kula-striyaḥ—women of the family;",
+          "strīṣu—among women; duṣṭāsu—corrupted; varṣeṇa—by degrees; jāyate—arises; varṇa-saṅkaraḥ—mixed progeny (loss of caste order)."
+        ],
+        "translation": "When irreligion predominates, family women become corrupt and from their degradation unwanted progeny arises.",
+        "purport_paragraphs": [
+          "Arjuna warns of moral degeneration, especially of women and offspring, as a result of family breakdown—this reflects the varṇa-āśrama social concerns in the text."
+        ]
+      },
+      {
+        "text_number": 41,
+        "heading": "TEXT 41",
+        "transliteration_lines": [
+          "Saªrae Nark-aYaEv ku-l/ganaNaa& ku-l/SYa c )",
+          "PaTaiNTa iPaTarae ùeza& lu/áiPa<@aedk-i§-Yaa )) 41 ))",
+          "saṅkaro narakāyaiva",
+          "kula-gnānāṁ kulasya ca",
+          "patanti pitaraḥ hy eṣām",
+          "lupta-pīṇḍodaka-kriyāḥ"
+        ],
+        "word_meaning_lines": [
+          "saṅkaraḥ—such undesirable progeny; narakāya—leads to hellish life; eva—indeed; kula-ghanānām—of family-destroyers; kulasya ca—of the family also;",
+          "patanti—fall; pitaraḥ—forefathers; hi—indeed; eṣām—of them; lupta-pīṇḍa-udaka-kriyāḥ—ritual offerings for forefathers cease."
+        ],
+        "translation": "Such unwanted progeny leads to hell for the family-destroyers; the forefathers fall because the ritual offerings (pinda and water) cease.",
+        "purport_paragraphs": [
+          "Without orthodox rituals and family maintenance, ancestors suffer and social/religious obligations fail, worsening karmic outcomes."
+        ]
+      },
+      {
+        "text_number": 42,
+        "heading": "TEXT 42",
+        "transliteration_lines": [
+          "daezEreTaE ku-l/ganaNaa& v<aRSaªrk-arkE- )",
+          "oTSaaÛNTae JaaiTaDaMaaR ku-l/DaMaaRê XaaìTaa )) 42 ))",
+          "doṣaiḥ etaiḥ kula-ghanānāṁ",
+          "varṇa-saṅkara-kārakaiḥ",
+          "utsādyante jāti-dharmāḥ",
+          "kula-dharmāś ca śāśvatāḥ"
+        ],
+        "word_meaning_lines": [
+          "doṣaiḥ—by these faults; etaiḥ—such; kula-ghanānām—of family-destroyers; varṇa-saṅkara—mixing of castes; kārakaiḥ—causing;",
+          "utsādyante—are destroyed; jāti-dharmāḥ—community duties; kula-dharmāḥ—family duties; ca—also; śāśvatāḥ—eternal."
+        ],
+        "translation": "Due to such faults by family-destroyers, the community and family duties are devastated though they should be eternal.",
+        "purport_paragraphs": [
+          "Arjuna stresses the far-reaching social damage caused by breakdown of varṇa-āśrama and family traditions."
+        ]
+      },
+      {
+        "text_number": 43,
+        "heading": "TEXT 43",
+        "transliteration_lines": [
+          "oTSaàku-l/DaMaaR<aa& MaNauZYaa<aa& JaNaadRNa )",
+          "Narke- iNaYaTa& vaSaae >avTaqTYaNauéué[uMa )) 43 ))",
+          "utsanna-kula-dharmāṇāṁ",
+          "manuṣyāṇāṁ janārdana",
+          "narake niyataṁ vāso",
+          "bhavati iti anuśruma"
+        ],
+        "word_meaning_lines": [
+          "utsanna—spoiled; kula-dharmāṇām—of destroyed family-duties; manuṣyāṇām—of men; janārdana—O Kṛṣṇa;",
+          "narake—in hell; niyatan—fixed; vāso—residence; bhavati—becomes; iti—thus; anuśruma—I have heard."
+        ],
+        "translation": "I have heard that those who destroy family duties dwell forever in hell, O Janārdana.",
+        "purport_paragraphs": [
+          "Arjuna cites authoritative tradition: family destroyers are destined for hell, supporting his moral refusal to fight."
+        ]
+      },
+      {
+        "text_number": 44,
+        "heading": "TEXT 44",
+        "transliteration_lines": [
+          "Ahae bTa MahTPaaPa& k-Tau| VYaviSaTaa vYaMa( )",
+          "Yad]aJYaSau%l/ae>aeNa hNTau& SvJaNaMauÛTaa )) 44 ))",
+          "aho bata mahat pāpaṁ",
+          "kartuṁ vyavasitā vayam",
+          "yad rājya-sukha-lobhena",
+          "hantuṁ sva-janam udyatāḥ"
+        ],
+        "word_meaning_lines": [
+          "aho bata—alas indeed; mahat pāpam—great sin; kartuṁ—to do; vyavasitā vayam—we are determined; yad—because; rājya-sukha-lobhena—by greed for kingdom and pleasure;",
+          "hantuṁ—to kill; sva-janam—own kinsmen; udyatāḥ—prepared to."
+        ],
+        "translation": "Alas, how strange that we are intent on committing great sin, driven by greed for royal pleasure, and aim to slay our kinsmen.",
+        "purport_paragraphs": [
+          "Arjuna laments the moral perversity of killing relatives for power; he frames the act as sinful and contrary to dharma."
+        ]
+      },
+      {
+        "text_number": 45,
+        "heading": "TEXT 45",
+        "transliteration_lines": [
+          "Yaid MaaMaPa[Taqk-arMaXañ& XañPaa<aYa )",
+          "DaaTaRraía r<ae hNYauSTaNMae +aeMaTar& >aveTa( )) 45 ))",
+          "yadi mām apratīkāram",
+          "aśastram śastra-pāṇayaḥ",
+          "dhṛtarāṣṭrā raṇe hanyuḥ",
+          "tan me kṣemataram bhavet"
+        ],
+        "word_meaning_lines": [
+          "yadi—if; mām—to me; apratīkāram—without resistance; aśastram—unarmed; śastra-pāṇayaḥ—with weapons in hand; dhṛtarāṣṭrāḥ—sons of Dhṛtarāṣṭra; raṇe—in battle; hanyuḥ—kill;",
+          "tat—then; me—my; kṣemataram—safer; bhavet—would be."
+        ],
+        "translation": "If the sons of Dhṛtarāṣṭra were to kill me unresisting and unarmed, it would be better for me.",
+        "purport_paragraphs": [
+          "Arjuna prefers to be slain rather than kill his kin—he expresses readiness to renounce the world rather than commit the sin of kinslaying."
+        ]
+      },
+      {
+        "text_number": 46,
+        "heading": "TEXT 46",
+        "transliteration_lines": [
+          "SaÅYa ovac",
+          "WvMau¤-aJauRNa Sa&:Yoe rQaaePaSQa oPaaivXaTa( )",
+          "ivSa*JYa SaXar& caPa& Xaaek-Sa&ivGanMaaNaSa )) 46 ))",
+          "saïjaya uväca",
+          "evam uktvā arjunaḥ saṅkhe",
+          "rathopastha upāviśat",
+          "visṛjya sa-śaram cāpaṁ",
+          "śoka-saṁvigna-mānasaḥ"
+        ],
+        "word_meaning_lines": [
+          "saïjayaù—Saïjaya; uväca—said; evam uktvā—having thus spoken; arjunaḥ—Arjuna; saṅkhe—in the battlefield; rathaḥ—chariot; upasthaḥ—standing upon; upāviśat—sat down;",
+          "visṛjya—throwing away; sa-śaram—his arrows; ca—also; āpam—his bow; śoka—grief; saṁvigna—distressed; mānasaḥ—mind."
+        ],
+        "translation": "Sañjaya said: Having thus spoken, Arjuna, overwhelmed with grief, cast aside his bow and arrows and sat down on the chariot.",
+        "purport_paragraphs": [
+          "Arjuna's grief culminates in refusal to fight; he drops his weapons and awaits Kṛṣṇa's counsel—setting the stage for the Bhagavad-gītā's teaching."
+        ]
+      }
+    ]
+  }
+}

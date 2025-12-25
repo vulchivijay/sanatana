@@ -1,0 +1,63 @@
+{
+  "yoga_philosophy": {
+    "title": "",
+    "definition": "Yoga is a spiritual discipline and philosophy aimed at harmonizing body, mind, and soul to achieve self-realization and liberation (Moksha).",
+    "origin": {
+      "roots": "Vedic tradition and Upanishads",
+      "texts": [
+        "Yoga Sutras of Patanjali",
+        "Bhagavad Gita",
+        "Upanishads"
+      ],
+      "meaning": "Derived from Sanskrit 'yuj', meaning 'to unite or join'."
+    },
+    "core_principles": [
+      "Union of individual self (Atman) with universal consciousness (Brahman)",
+      "Balance of physical, mental, and spiritual aspects",
+      "Discipline and ethical living"
+    ],
+    "paths_of_yoga": {
+      "Jnana Yoga": "Path of knowledge and wisdom.",
+      "Bhakti Yoga": "Path of devotion and love for the divine.",
+      "Karma Yoga": "Path of selfless action.",
+      "Raja Yoga": "Path of meditation and mental discipline.",
+      "Hatha Yoga": "Path of physical postures and breath control."
+    },
+    "eight_limbs_of_yoga": [
+      "Yama (Ethical restraints)",
+      "Niyama (Personal observances)",
+      "Asana (Postures)",
+      "Pranayama (Breath control)",
+      "Pratyahara (Withdrawal of senses)",
+      "Dharana (Concentration)",
+      "Dhyana (Meditation)",
+      "Samadhi (Absorption or union)"
+    ],
+    "goals": [
+      "Self-realization",
+      "Mental clarity and peace",
+      "Physical health and vitality",
+      "Liberation from suffering"
+    ],
+    "relation_to_other_concepts": {
+      "dharma": "Yoga supports righteous living.",
+      "karma": "Yoga purifies actions and intentions.",
+      "moksha": "Yoga is a direct path to liberation."
+    },
+    "modern_relevance": {
+      "health": "Improves physical fitness and mental well-being.",
+      "stress_management": "Reduces anxiety and promotes calmness.",
+      "spiritual growth": "Encourages mindfulness and inner peace."
+    },
+    "key_scriptural_references": [
+      {
+        "text": "Yoga Sutras of Patanjali",
+        "quote_summary": "Yoga is the cessation of mental fluctuations."
+      },
+      {
+        "text": "Bhagavad Gita",
+        "quote_summary": "Yoga is skill in action and balance in life."
+      }
+    ]
+  }
+}

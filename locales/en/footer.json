@@ -1,0 +1,91 @@
+{
+  "footer": {
+    "nav": {
+      "home": "Home",
+      "contact": "Contact",
+      "about": "About",
+      "donate": "Donate",
+      "scriptures": {
+        "title": "Scriptures",
+        "nav": {
+          "sanksheparamayanam": "Sankshepa Ramayana",
+          "ramayana": "Ramayana",
+          "mahabharata": "Mahabharata",
+          "gita": "Bhagavad Gita",
+          "upanishads": "Upanishads",
+          "vedas": "Vedas",
+          "puranas": "Puranas"
+        }
+      },
+      "stotrasmantras": {
+        "title": "Stotras & Mantras",
+        "nav": {
+          "devi": "Devi Stotras",
+          "ganesha": "Ganesha Stotras",
+          "shiva": "Shiva Stotras",
+          "vishnu": "Vishnu Stotras",
+          "hanuman": "Hanuman Stotras",
+          "dailyPrayers": "Daily Prayers"
+        }
+      },
+      "philosophy": {
+        "title": "Philosophy",
+        "nav": {
+          "dharma": "Dharma",
+          "karma": "Karma",
+          "samsara": "Samsara",
+          "moksha": "Moksha",
+          "yoga": "Yoga",
+          "advaita": "Advaita"
+        }
+      },
+      "practices": {
+        "title": "Practices",
+        "nav": {
+          "rituals": "Rituals",
+          "festivals": "Festivals",
+          "dailypuja": "Daily Puja",
+          "vastu": "Vastu"
+        }
+      },
+      "stories": {
+        "title": "Stories",
+        "nav": {
+          "shiva": "Shiva",
+          "parvati": "Parvati",
+          "vishnu": "Vishnu",
+          "lakshmi": "Lakshmi",
+          "bramha": "Brahma",
+          "saraswati": "Saraswati",
+          "krishna": "Krishna"
+        }
+      },
+      "kidsZone": {
+        "title": "Kids Zone",
+        "nav": {
+          "illustratedStories": "Illustrated Stories",
+          "mythologicalquizzes": "Mythological Quizzes",
+          "easymantras": "Easy Mantras",
+          "comics": "Mythology Comics"
+        }
+      },
+      "others": {
+        "title": "Sanatanadharmam",
+        "nav": {
+          "about": "About",
+          "horoscope": "Horoscope"
+        }
+      }
+    },
+    "title": "Sanatana Dharma",
+    "quote": "“Never displaying malice towards any living being through actions, thoughts or words, acts of kindness, and giving in charity; this is the Sanatana Dharma adhered to by righteous persons.”",
+    "contact": "Contact with us",
+    "donate": "Donate",
+    "disclaimer": "Disclaimer: This website is currently in development.",
+    "contentChange": "Content may be incomplete or subject to change.",
+    "copyright": "Vulchi Vijaya Kumar Raju © 2025.",
+    "quoteSource": "— Mahabharata 3.281.34.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}

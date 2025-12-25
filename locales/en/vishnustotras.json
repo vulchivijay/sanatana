@@ -1,0 +1,129 @@
+{
+  "vishnustotras": {
+    "title": "",
+    "vishnu_stotras": [
+      {
+        "id": 1,
+        "name": "Vishnu Sahasranama",
+        "origin": "Mahabharata (Anushasana Parva)",
+        "language": "Sanskrit",
+        "type": "Stotra / Sahasranama",
+        "author": "Sage Vyasa",
+        "description": "A list of the 1000 divine names of Lord Vishnu, chanted for spiritual protection, peace, and liberation.",
+        "benefits": [
+          "Removes fear and suffering",
+          "Bestows prosperity and peace",
+          "Improves mental clarity",
+          "Destroys negativity"
+        ],
+        "key_excerpt": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशम् । विश्वाधारं गगनसदृशं मेघवर्णं शुभाङ्गम् ॥",
+        "sections": {
+          "introduction": "Dialogue between Bhishma and Yudhishthira on the supreme duty.",
+          "core_content": "1000 names of Vishnu",
+          "phala_sruti": "Benefits of reciting the Sahasranama"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Narayana Kavacham",
+        "origin": "Srimad Bhagavatam 6.8",
+        "language": "Sanskrit",
+        "type": "Kavacha",
+        "author": "Sage Vishvarupa",
+        "description": "A powerful armor prayer invoking the protection of Lord Narayana on all sides of the body.",
+        "benefits": [
+          "Protection from physical and spiritual harm",
+          "Removes fear, evil influences",
+          "Strengthens mental and spiritual resilience"
+        ],
+        "key_excerpt": "ॐ नमो नारायणाय",
+        "structure": {
+          "invocation": "Meditation on Narayana",
+          "body_protection": "Protection for head, chest, arms, legs, senses",
+          "closing": "Blessings and results of recitation"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Vishnu Stuti (Gajendra Moksham Prayer)",
+        "origin": "Srimad Bhagavatam 8th Skandha",
+        "language": "Sanskrit",
+        "type": "Stuti",
+        "speaker": "Gajendra (Elephant King)",
+        "description": "The heartfelt prayer chanted by Gajendra to invoke Vishnu’s presence when caught by a crocodile.",
+        "benefits": [
+          "Removes suffering and obstacles",
+          "Invokes divine grace during difficulty",
+          "Strengthens devotion"
+        ],
+        "key_excerpt": "ॐ नमो भगवते तस्मै यत एतच्चिदात्मकम्",
+        "themes": [
+          "Surrender",
+          "Divine rescue",
+          "Freedom from rebirth"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Mukunda Mala Stotram",
+        "author": "King Kulasekhara Alwar",
+        "origin": "Vaishnava Bhakti Literature",
+        "language": "Sanskrit",
+        "type": "Stotra",
+        "description": "A devotional collection of verses praising Lord Krishna as Mukunda—the giver of liberation.",
+        "benefits": [
+          "Deepens devotion",
+          "Purifies mind and speech",
+          "Removes sorrow"
+        ],
+        "key_excerpt": "जयतु जयतु देवो देवकी-नन्दनोऽयम् ।",
+        "total_verses": 40
+      },
+      {
+        "id": 5,
+        "name": "Aditya Hridayam (Surya-Narayana Stotra)",
+        "origin": "Valmiki Ramayana – Yuddha Kanda",
+        "language": "Sanskrit",
+        "type": "Stotra",
+        "speaker": "Sage Agastya to Lord Rama",
+        "description": "A powerful hymn invoking Surya-Narayana to destroy fear and grant victory.",
+        "benefits": [
+          "Boosts confidence and energy",
+          "Destroys mental stress",
+          "Improves focus and courage"
+        ],
+        "key_excerpt": "ततो युध्दपरिश्रान्तं समरे चिन्तया स्थितम् ।",
+        "notes": "Though dedicated to Surya, it praises the Vishnu aspect within Surya."
+      },
+      {
+        "id": 6,
+        "name": "Govinda Stotram",
+        "author": "Adi Shankaracharya",
+        "language": "Sanskrit",
+        "type": "Stotra",
+        "description": "A reminder to remember Govinda—the supreme Lord—amid daily struggles.",
+        "benefits": [
+          "Reduces stress",
+          "Strengthens focus on dharma",
+          "Encourages remembrance of God"
+        ],
+        "key_excerpt": "भज गोविन्दं भज गोविन्दं गोविन्दं भज मूढमते ।"
+      },
+      {
+        "id": 7,
+        "name": "Sri Hari Stotram",
+        "author": "Brahma",
+        "origin": "Puranic literature",
+        "language": "Sanskrit",
+        "type": "Stotra",
+        "description": "A praise of Lord Hari describing his compassion, form and cosmic presence.",
+        "benefits": [
+          "Spiritual upliftment",
+          "Peace and divine blessings",
+          "Improves concentration on Vishnu"
+        ],
+        "key_excerpt": "शान्ताकारं भुजगशयनं पद्मनाभं सुरेशम्"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "categories": [
+    {
+      "id": "Bhagavad Gita",
+      "src": "/icons/book.png",
+      "alt": "book",
+      "title": "Bhagavad Gita",
+      "text": "I (Krishna) was born in the darkest ignorance, and my spiritual master opened my, eyes with the torch of knowledge",
+      "width": 65,
+      "height": 75
+    },
+    {
+      "id": "Upanishads",
+      "src": "/icons/book.png",
+      "alt": "om",
+      "title": "Upanishads",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Vedas",
+      "src": "/icons/book.png",
+      "alt": "temple",
+      "title": "Vedas",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Mahabharata",
+      "src": "/icons/book.png",
+      "alt": "lotus",
+      "title": "Mahabharata",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Ramayana",
+      "src": "/icons/book.png",
+      "alt": "book",
+      "title": "Ramayana",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Puranas",
+      "src": "/icons/book.png",
+      "alt": "ramayanam",
+      "title": "Puranas",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Shiva Stotras",
+      "src": "/icons/book.png",
+      "alt": "trisulam",
+      "title": "Shiva Stotras",
+      "text": "...",
+      "width": 65,
+      "height": 75
+    },
+    {
+      "id": "Vishnu Stotras",
+      "src": "/icons/book.png",
+      "alt": "om",
+      "title": "Vishnu Stotras",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Devi Stotras",
+      "src": "/icons/book.png",
+      "alt": "temple",
+      "title": "Hanuman Stotras",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Hanuman Stotras",
+      "src": "/icons/book.png",
+      "alt": "lotus",
+      "title": "Hanuman Stotras",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Ganesha Stotras",
+      "src": "/icons/book.png",
+      "alt": "book",
+      "title": "Ganesha Stotras",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Daily Prayers",
+      "src": "/icons/book.png",
+      "alt": "ramayanam",
+      "title": "Daily Prayers",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Dharma",
+      "src": "/icons/book.png",
+      "alt": "trisulam",
+      "title": "Dharma",
+      "text": "...",
+      "width": 65,
+      "height": 75
+    },
+    {
+      "id": "Karma",
+      "src": "/icons/book.png",
+      "alt": "om",
+      "title": "Karma",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Samsara",
+      "src": "/icons/book.png",
+      "alt": "temple",
+      "title": "Samsara",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Moksha",
+      "src": "/icons/book.png",
+      "alt": "lotus",
+      "title": "Moksha",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Yoga",
+      "src": "/icons/book.png",
+      "alt": "book",
+      "title": "Yoga (Jnana, Karma, Bhakti, Raja)",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Advaita",
+      "src": "/icons/book.png",
+      "alt": "ramayanam",
+      "title": "Advaita / Dvaita / Vishishtadvaita",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Rituals",
+      "src": "/icons/book.png",
+      "alt": "trisulam",
+      "title": "Rituals",
+      "text": "...",
+      "width": 65,
+      "height": 75
+    },
+    {
+      "id": "Festivals",
+      "src": "/icons/book.png",
+      "alt": "om",
+      "title": "Festivals",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Daily Puja",
+      "src": "/icons/book.png",
+      "alt": "temple",
+      "title": "Daily Puja",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Vastu",
+      "src": "/icons/book.png",
+      "alt": "lotus",
+      "title": "Vastu",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Puranic",
+      "src": "/icons/book.png",
+      "alt": "temple",
+      "title": "Puranic",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Moral Stories for Children",
+      "src": "/icons/book.png",
+      "alt": "lotus",
+      "title": "Moral Stories for Children",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Illustrated Stories",
+      "src": "/icons/book.png",
+      "alt": "trisulam",
+      "title": "Illustrated Stories",
+      "text": "...",
+      "width": 65,
+      "height": 75
+    },
+    {
+      "id": "Mythological Quizzes",
+      "src": "/icons/book.png",
+      "alt": "om",
+      "title": "Mythological Quizzes",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Easy Mantras",
+      "src": "/icons/book.png",
+      "alt": "temple",
+      "title": "Easy Mantras",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    },
+    {
+      "id": "Mythology Comics",
+      "src": "/icons/book.png",
+      "alt": "lotus",
+      "title": "Mythology Comics",
+      "text": "...",
+      "width": 75,
+      "height": 75
+    }
+  ]
+}

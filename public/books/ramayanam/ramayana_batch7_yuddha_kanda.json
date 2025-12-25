@@ -1,0 +1,91 @@
+{
+  "yuddha_kanda": {
+    "kanda": "Yuddha Kanda",
+    "description": {
+      "translate": "Yuddha Kanda describes the great war between Rama and Ravana, ending with the victory of dharma.",
+      "te": "యుద్ధకాండలో రాముడు మరియు రావణుడి మధ్య జరిగిన మహాయుద్ధం, ధర్మ విజయం వర్ణించబడుతుంది."
+    },
+    "sargas": [
+      {
+        "sarga": 1,
+        "title": "Building the Bridge to Lanka",
+        "story": {
+          "translate": "Rama builds a bridge across the ocean with the help of the vanara army to reach Lanka.",
+          "te": "వానర సేన సహాయంతో రాముడు సముద్రంపై వంతెన నిర్మించి లంకకు చేరుకుంటాడు."
+        },
+        "kids": {
+          "translate": "Rama builds a bridge on the sea.",
+          "te": "రాముడు సముద్రంపై వంతెన కడతాడు."
+        },
+        "lesson": {
+          "translate": "Teamwork makes impossible tasks possible.",
+          "te": "సహకారం అసాధ్యాన్ని సాధ్యం చేస్తుంది."
+        }
+      },
+      {
+        "sarga": 2,
+        "title": "Beginning of the War",
+        "story": {
+          "translate": "A fierce war begins between Rama’s army and Ravana’s forces.",
+          "te": "రామ సేన మరియు రావణ సేనల మధ్య ఘోర యుద్ధం ప్రారంభమవుతుంది."
+        },
+        "kids": {
+          "translate": "The big war starts.",
+          "te": "పెద్ద యుద్ధం మొదలవుతుంది."
+        },
+        "lesson": {
+          "translate": "Evil will always face resistance.",
+          "te": "చెడుకు ఎప్పుడూ ప్రతిఘటన ఎదురవుతుంది."
+        }
+      },
+      {
+        "sarga": 3,
+        "title": "Kumbhakarna’s Fall",
+        "story": {
+          "translate": "Kumbhakarna fights bravely but is defeated by Rama.",
+          "te": "కుంభకర్ణుడు ధైర్యంగా పోరాడినా చివరకు రాముని చేతిలో ఓడిపోతాడు."
+        },
+        "kids": {
+          "translate": "Kumbhakarna is defeated.",
+          "te": "కుంభకర్ణుడు ఓడిపోతాడు."
+        },
+        "lesson": {
+          "translate": "Strength without righteousness fails.",
+          "te": "ధర్మం లేని బలం విఫలమవుతుంది."
+        }
+      },
+      {
+        "sarga": 4,
+        "title": "Death of Ravana",
+        "story": {
+          "translate": "Rama defeats Ravana after a long battle, restoring peace and justice.",
+          "te": "దీర్ఘ యుద్ధం తరువాత రాముడు రావణుని సంహరించి శాంతి మరియు న్యాయాన్ని స్థాపిస్తాడు."
+        },
+        "kids": {
+          "translate": "Rama defeats Ravana.",
+          "te": "రాముడు రావణుని ఓడిస్తాడు."
+        },
+        "lesson": {
+          "translate": "Dharma always triumphs.",
+          "te": "ధర్మం ఎప్పుడూ విజయం సాధిస్తుంది."
+        }
+      },
+      {
+        "sarga": 5,
+        "title": "Rescue of Sita",
+        "story": {
+          "translate": "Sita is rescued and reunited with Rama.",
+          "te": "సీతను రక్షించి రామునితో మళ్లీ కలుపుతారు."
+        },
+        "kids": {
+          "translate": "Rama meets Sita again.",
+          "te": "రాముడు సీతను మళ్లీ కలుస్తాడు."
+        },
+        "lesson": {
+          "translate": "Truth and patience bring reunion.",
+          "te": "సత్యం మరియు సహనం మళ్లీ కలయికను ఇస్తాయి."
+        }
+      }
+    ]
+  }
+}

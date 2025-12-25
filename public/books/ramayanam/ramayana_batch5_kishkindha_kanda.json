@@ -1,0 +1,91 @@
+{
+  "kishkindha_kanda": {
+    "kanda": "Kishkindha Kanda",
+    "description": {
+      "translate": "Kishkindha Kanda tells how Rama meets Hanuman, helps Sugriva regain his kingdom, and begins the search for Sita.",
+      "te": "కిష్కింధకాండలో రాముడు హనుమంతునిని కలుసుకోవడం, సుగ్రీవునికి రాజ్యం తిరిగి పొందేందుకు సహాయం చేయడం, సీతను వెతకడం ప్రారంభం వర్ణించబడుతుంది."
+    },
+    "sargas": [
+      {
+        "sarga": 1,
+        "title": "Meeting Hanuman",
+        "story": {
+          "translate": "Hanuman meets Rama and Lakshmana and recognizes Rama as divine. A deep friendship begins.",
+          "te": "హనుమంతుడు రాముడు, లక్ష్మణుడిని కలుసుకొని రామునిలో దైవత్వాన్ని గుర్తిస్తాడు. గాఢమైన స్నేహం మొదలవుతుంది."
+        },
+        "kids": {
+          "translate": "Hanuman meets Rama and becomes his friend.",
+          "te": "హనుమంతుడు రాముని కలుసుకుని అతని మిత్రుడవుతాడు."
+        },
+        "lesson": {
+          "translate": "True devotion recognizes goodness instantly.",
+          "te": "నిజమైన భక్తి మంచితనాన్ని వెంటనే గుర్తిస్తుంది."
+        }
+      },
+      {
+        "sarga": 2,
+        "title": "Alliance with Sugriva",
+        "story": {
+          "translate": "Rama promises to help Sugriva defeat his brother Vali and regain the throne.",
+          "te": "సుగ్రీవుడు తన అన్న వాలిని ఓడించడంలో సహాయం చేస్తానని రాముడు హామీ ఇస్తాడు."
+        },
+        "kids": {
+          "translate": "Rama helps Sugriva.",
+          "te": "రాముడు సుగ్రీవునికి సహాయం చేస్తాడు."
+        },
+        "lesson": {
+          "translate": "Helping the righteous is dharma.",
+          "te": "ధర్మవంతులకు సహాయం చేయడం ధర్మం."
+        }
+      },
+      {
+        "sarga": 3,
+        "title": "Defeat of Vali",
+        "story": {
+          "translate": "Rama defeats Vali, freeing Sugriva from fear and injustice.",
+          "te": "రాముడు వాలిని సంహరించి సుగ్రీవుని భయం మరియు అన్యాయంనుంచి విముక్తి కలిగిస్తాడు."
+        },
+        "kids": {
+          "translate": "Rama defeats the bad king Vali.",
+          "te": "రాముడు చెడ్డ రాజు వాలిని ఓడిస్తాడు."
+        },
+        "lesson": {
+          "translate": "Justice restores balance.",
+          "te": "న్యాయం సమతుల్యతను పునరుద్ధరిస్తుంది."
+        }
+      },
+      {
+        "sarga": 4,
+        "title": "Sugriva Crowned King",
+        "story": {
+          "translate": "Sugriva becomes king of Kishkindha and promises to help find Sita.",
+          "te": "సుగ్రీవుడు కిష్కింధ రాజుగా అవతరించి సీతను వెతకడంలో సహాయం చేస్తానని వాగ్దానం చేస్తాడు."
+        },
+        "kids": {
+          "translate": "Sugriva becomes king.",
+          "te": "సుగ్రీవుడు రాజవుతాడు."
+        },
+        "lesson": {
+          "translate": "Gratitude is a noble quality.",
+          "te": "కృతజ్ఞత గొప్ప గుణం."
+        }
+      },
+      {
+        "sarga": 5,
+        "title": "Search for Sita Begins",
+        "story": {
+          "translate": "Vanara armies are sent in all directions to search for Sita.",
+          "te": "సీతను వెతకడానికి వానర సేనలను అన్ని దిక్కులకు పంపిస్తారు."
+        },
+        "kids": {
+          "translate": "Many monkeys search for Sita.",
+          "te": "చాలా వానరులు సీతను వెతుకుతారు."
+        },
+        "lesson": {
+          "translate": "Unity gives strength.",
+          "te": "ఐక్యత బలాన్ని ఇస్తుంది."
+        }
+      }
+    ]
+  }
+}

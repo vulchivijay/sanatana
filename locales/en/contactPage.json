@@ -1,0 +1,15 @@
+{
+  "contactPage": {
+    "title": "Contact Us",
+    "lead": "We'd love to hear from you — questions, corrections, or partnership enquiries.",
+    "getInTouch": "Get in touch",
+    "useForm": "Use the form to send us a message. For urgent matters, email us directly at",
+    "mailingAddress": "Mailing address",
+    "addressLine1": "SanatanAdharmam",
+    "addressLine2": "11-22-184, Poolavani Gunta, Renigunta road,",
+    "addressLine3": "Tirupati, Andhra Pradesh, India",
+    "phone": "Phone",
+    "sendMessage": "Send a message",
+    "location": "Location"
+  }
+}
