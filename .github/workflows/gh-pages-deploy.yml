@@ -76,6 +76,12 @@ jobs:
           set -ex
           # Build Next.js with `output: 'export'` (uses next.config.ts)
           npm run build
+      - name: Prevent Jekyll processing on GitHub Pages
+        run: |
+          set -ex
+          # Create a .nojekyll file so GitHub Pages doesn't run Jekyll on the published site
+          mkdir -p out
+          echo > out/.nojekyll
       # - name: Build (static export) + generate analytics
       #   env:
       #     NEXT_STATIC_EXPORT: 'true'
