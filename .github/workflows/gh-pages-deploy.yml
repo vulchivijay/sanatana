@@ -70,19 +70,42 @@ jobs:
         run: |
           set -ex
           npm run scss:build
-      - name: Build (static export)
+      - name: Build (static export) and capture logs
         env:
           NEXT_STATIC_EXPORT: 'true'
         run: |
-          set -ex
-          # Build Next.js with `output: 'export'` (uses next.config.ts)
-          npm run build
+          set -eo pipefail
+          mkdir -p logs
+          echo "Starting Next.js build (logs -> logs/build.log)"
+          # Capture full build output to logs/build.log
+          if npm run build 2>&1 | tee logs/build.log; then
+            echo "Build succeeded"
+          else
+            echo "Build failed — showing tail of logs and uploading artifact in later step"
+            echo "==== Build log (tail 200) ===="
+            tail -n 200 logs/build.log || true
+            # Exit with non-zero so subsequent 'if: failure()' steps run
+            exit 1
+          fi
       - name: Prevent Jekyll processing on GitHub Pages
         run: |
           set -ex
           # Create a .nojekyll file so GitHub Pages doesn't run Jekyll on the published site
           mkdir -p out
           echo > out/.nojekyll
+      - name: Print build log tail (on failure)
+        if: failure()
+        run: |
+          echo "==== Build log (tail 500) ===="
+          ls -la logs || true
+          tail -n 500 logs/build.log || true
+
+      - name: Upload build logs artifact (on failure)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-logs
+          path: logs/build.log
       - name: Ensure GitHub Pages source is gh-pages root (uses `PERSONAL_ACCESS_TOKEN`)
         env:
           PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
@@ -107,9 +130,9 @@ jobs:
           if [ "$HTTP_CODE" = "201" ] || [ "$HTTP_CODE" = "204" ] || [ "$HTTP_CODE" = "200" ]; then
             echo "GitHub Pages source configured to gh-pages branch root."
           else
-            echo "Error: could not configure GitHub Pages source (HTTP $HTTP_CODE)." >&2
+            echo "Warning: could not configure GitHub Pages source (HTTP $HTTP_CODE)." >&2
             echo "Please set Pages source to 'gh-pages' branch root in Settings → Pages if this fails." >&2
-            exit 1
+            echo "Continuing deployment — this step will not fail the workflow." >&2
           fi
       # - name: Build (static export) + generate analytics
       #   env:
