@@ -1,0 +1,52 @@
+{
+  "moksha_philosophy": {
+    "title": "",
+    "definition": "Moksha is the ultimate goal in Hindu philosophy, signifying liberation from the cycle of birth and death (samsara) and union with the Supreme Reality.",
+    "origin": {
+      "roots": "Vedic and Upanishadic teachings",
+      "texts": [
+        "Upanishads",
+        "Bhagavad Gita",
+        "Brahma Sutras"
+      ],
+      "meaning": "Derived from Sanskrit 'muc', meaning 'to release or liberate'."
+    },
+    "core_principles": [
+      "Freedom from samsara (cycle of rebirth)",
+      "Realization of the Self (Atman)",
+      "Union with Brahman (Supreme Reality)",
+      "Detachment from material desires"
+    ],
+    "paths_to_moksha": {
+      "Jnana Yoga": "Path of knowledge and self-realization.",
+      "Bhakti Yoga": "Path of devotion and surrender to God.",
+      "Karma Yoga": "Path of selfless action without attachment.",
+      "Raja Yoga": "Path of meditation and discipline."
+    },
+    "goals": [
+      "End suffering and ignorance",
+      "Attain eternal bliss",
+      "Realize the true nature of existence"
+    ],
+    "relation_to_other_concepts": {
+      "dharma": "Living according to Dharma prepares the mind for liberation.",
+      "karma": "Freedom from karmic bondage is essential for Moksha.",
+      "atman": "Understanding the eternal Self leads to liberation."
+    },
+    "modern_relevance": {
+      "inner peace": "Encourages detachment and mindfulness.",
+      "spiritual growth": "Focuses on self-realization beyond materialism.",
+      "universal harmony": "Promotes compassion and unity."
+    },
+    "key_scriptural_references": [
+      {
+        "text": "Bhagavad Gita",
+        "quote_summary": "Liberation comes through devotion, knowledge, and selfless action."
+      },
+      {
+        "text": "Upanishads",
+        "quote_summary": "The Self is Brahman; realizing this truth leads to Moksha."
+      }
+    ]
+  }
+}

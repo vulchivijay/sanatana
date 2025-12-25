@@ -1,0 +1,33 @@
+footer {
+  // background-color: var(--theme-footer-background-color);
+  //color: var(--theme-footer-text-color);
+  background-image: radial-gradient(circle farthest-corner at 50% 0%,
+  var(--color-yellow),
+  var(--color-orange) 31%,
+  var(--color-blue) 73%);
+  color: var(--color-white);
+
+  section {
+    max-width: var(--content-width-md);
+    margin: 0 auto;
+    padding-top: calc(var(--space-xxl) * 2.2);
+    padding-bottom: calc(var(--space-xxl) * 2.2);
+  }
+
+  .nav-wrapper {
+    padding-top: var(--space-lg);
+    padding-bottom: var(--space-lg);
+  }
+
+  .social-icons {
+    padding-bottom: var(--space-md);
+  }
+
+  .copyrights {
+    padding-bottom: var(--space-md);
+  }
+
+  .text-white {
+    color: var(--color-white);
+  }
+}

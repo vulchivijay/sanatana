@@ -1,0 +1,307 @@
+{
+  "upanishads": {
+    "title": "ఉపనిషత్తులు",
+    "list": [
+      {
+        "category": "ప్రధాన ఉపనిషత్తులు",
+        "list": [
+          {
+            "name": "ఈశ",
+            "veda": "శుక్ల యజుర్వేదం",
+            "type": "ప్రధాన",
+            "summary": "అహంకారాన్ని త్యజించి, సమస్తంలో దైవాన్ని గ్రహిస్తూ సమతుల్య జీవితం గడపడం నేర్పుతుంది."
+          },
+          {
+            "name": "కేన",
+            "veda": "సామవేదం",
+            "type": "ప్రధాన",
+            "summary": "చైతన్యం స్వభావాన్ని పరిశీలిస్తూ 'మనస్సును ఎవరు నడిపిస్తున్నారు?' అని ప్రశ్నిస్తుంది."
+          },
+          {
+            "name": "కఠ",
+            "veda": "కృష్ణ యజుర్వేదం",
+            "type": "ప్రధాన",
+            "summary": "నచికేత మరియు యముని మధ్య ఆత్మ అమృతత్వంపై సంభాషణ."
+          },
+          {
+            "name": "ప్రశ్న",
+            "veda": "అథర్వవేదం",
+            "type": "ప్రధాన",
+            "summary": "ఆరు శిష్యులు ప్రాణం, ధ్యానం మరియు సృష్టి గురించి లోతైన ప్రశ్నలు అడుగుతారు."
+          },
+          {
+            "name": "ముండక",
+            "veda": "అథర్వవేదం",
+            "type": "ప్రధాన",
+            "summary": "ఉన్నత జ్ఞానం (బ్రహ్మం) మరియు తక్కువ జ్ఞానం (లోకజ్ఞానం) మధ్య తేడాను వివరిస్తుంది."
+          },
+          {
+            "name": "మాండూక్య",
+            "veda": "అథర్వవేదం",
+            "type": "ప్రధాన",
+            "summary": "జాగరణ, స్వప్నం, సుషుప్తి మరియు తురీయ అనే నాలుగు చైతన్య స్థితులను వివరిస్తుంది."
+          },
+          {
+            "name": "తైత్తిరీయ",
+            "veda": "కృష్ణ యజుర్వేదం",
+            "type": "ప్రధాన",
+            "summary": "శరీరం, మనస్సు, బుద్ధి, ఆనందం అనే మానవ అస్తిత్వపు పొరలను వివరిస్తుంది."
+          },
+          {
+            "name": "ఐతరేయ",
+            "veda": "ఋగ్వేదం",
+            "type": "ప్రధాన",
+            "summary": "సృష్టి మరియు వ్యక్తిలో చైతన్యం ఉద్భవాన్ని వివరిస్తుంది."
+          },
+          {
+            "name": "ఛాందోగ్య",
+            "veda": "సామవేదం",
+            "type": "ప్రధాన",
+            "summary": "'తత్ త్వమ్ అసి' అనే బోధతో ఆత్మ మరియు పరమసత్యం ఏకత్వాన్ని నేర్పుతుంది."
+          },
+          {
+            "name": "బృహదారణ్యక",
+            "veda": "శుక్ల యజుర్వేదం",
+            "type": "ప్రధాన",
+            "summary": "అతి పెద్ద ఉపనిషత్తులలో ఒకటి; ఆత్మజ్ఞానం, పునర్జన్మ మరియు తత్వశాస్త్రాన్ని పరిశీలిస్తుంది."
+          }
+        ]
+      },
+      {
+        "category": "సన్యాస ఉపనిషత్తులు",
+        "list": [
+          {
+            "name": "అరుణి",
+            "veda": "సామవేదం",
+            "summary": "సన్యాసం మరియు తపస్సు జీవనానికి మార్గదర్శకాలు."
+          },
+          {
+            "name": "పరమహంస",
+            "veda": "శుక్ల యజుర్వేదం",
+            "summary": "పరమ సన్యాసి మార్గాన్ని వివరిస్తుంది."
+          },
+          {
+            "name": "జబాల",
+            "veda": "అథర్వవేదం",
+            "summary": "సన్యాసం మరియు పవిత్ర జ్ఞానం భావనను చర్చిస్తుంది."
+          },
+          {
+            "name": "పవాహ",
+            "veda": "సామవేదం",
+            "summary": "తపస్సు గుణాలపై దృష్టి సారిస్తుంది."
+          },
+          {
+            "name": "అవధూత",
+            "veda": "ఋగ్వేదం",
+            "summary": "ముక్త సన్యాసి స్థితిని వివరిస్తుంది."
+          },
+          {
+            "name": "నిరాలంబ",
+            "veda": "అథర్వవేదం",
+            "summary": "లోక సంబంధాల నుండి స్వాతంత్ర్యాన్ని ప్రశంసిస్తుంది."
+          },
+          {
+            "name": "బ్రహ్మ",
+            "veda": "అథర్వవేదం",
+            "summary": "బ్రహ్మ సాక్షాత్కారానికి సన్యాసం మార్గంగా."
+          },
+          {
+            "name": "కురుపాఠక",
+            "veda": "అథర్వవేదం",
+            "summary": "సన్యాస కర్మలను వివరిస్తుంది."
+          },
+          {
+            "name": "ఆశ్రమ",
+            "veda": "అథర్వవేదం",
+            "summary": "జీవనంలోని నాలుగు ఆశ్రమాలను వివరిస్తుంది."
+          },
+          {
+            "name": "వరాహ",
+            "veda": "కృష్ణ యజుర్వేదం",
+            "summary": "విష్ణువు వరాహ రూపంలో ఋషులకు ఇచ్చిన బోధనలు."
+          }
+        ]
+      },
+      {
+        "category": "యోగ ఉపనిషత్తులు",
+        "list": [
+          {
+            "name": "హంస",
+            "veda": "శుక్ల యజుర్వేదం",
+            "summary": "'సో-హమ్' మంత్రంతో శ్వాస ధ్యానం."
+          },
+          {
+            "name": "అమృతబిందు",
+            "veda": "అథర్వవేదం",
+            "summary": "మనస్సు నియంత్రణ అమృతత్వానికి మార్గం."
+          },
+          {
+            "name": "తేజోబిందు",
+            "veda": "అథర్వవేదం",
+            "summary": "ప్రకాశమయమైన ఆత్మపై దృష్టి."
+          },
+          {
+            "name": "నాదబిందు",
+            "veda": "ఋగ్వేదం",
+            "summary": "అంతర్గత శబ్దంపై ధ్యానం (నాదయోగం)."
+          },
+          {
+            "name": "ధ్యాన",
+            "veda": "సామవేదం",
+            "summary": "మోక్షానికి ధ్యాన సాధనలు."
+          },
+          {
+            "name": "క్షురిక",
+            "veda": "కృష్ణ యజుర్వేదం",
+            "summary": "ధ్యానాన్ని పదునైన ఆధ్యాత్మిక సాధనంగా చూపిస్తుంది."
+          },
+          {
+            "name": "త్రిశిఖి బ్రాహ్మణ",
+            "veda": "ఋగ్వేదం",
+            "summary": "సాంఖ్య తత్వంతో అనుసంధానమైన యోగ తత్వం."
+          },
+          {
+            "name": "యోగ చూడామణి",
+            "veda": "సామవేదం",
+            "summary": "కుండలిని మేల్కొలుపును వివరిస్తుంది."
+          },
+          {
+            "name": "యోగ కుండలిని",
+            "veda": "అథర్వవేదం",
+            "summary": "నాడులు, చక్రాలు మరియు కుండలిని బోధిస్తుంది."
+          },
+          {
+            "name": "శాండిల్య",
+            "veda": "అథర్వవేదం",
+            "summary": "భక్తి యోగం మరియు బ్రహ్మ భక్తి."
+          }
+        ]
+      },
+      {
+        "category": "Shiva Upanishads",
+        "list": [
+          {
+            "name": "Atharvashiras",
+            "veda": "Atharva Veda",
+            "summary": "Glorifies Shiva as the supreme Brahman."
+          },
+          {
+            "name": "Bhasma",
+            "veda": "Atharva Veda",
+            "summary": "Spiritual symbolism of holy ash."
+          },
+          {
+            "name": "Rudraksha Jabala",
+            "veda": "Rig Veda",
+            "summary": "Benefits and symbolism of Rudraksha beads."
+          },
+          {
+            "name": "Kalagni Rudra",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Meditation on Rudra for liberation."
+          }
+        ]
+      },
+      {
+        "category": "Vaishnava Upanishads",
+        "list": [
+          {
+            "name": "Nrisimha Tapaniya",
+            "veda": "Atharva Veda",
+            "summary": "Meditation on Narasimha as the protector."
+          },
+          {
+            "name": "Gopala Tapaniya",
+            "veda": "Atharva Veda",
+            "summary": "Devotion to Krishna as Gopala."
+          },
+          {
+            "name": "Rama Rahasya",
+            "veda": "Atharva Veda",
+            "summary": "Secrets of Rama mantra and worship."
+          },
+          {
+            "name": "Rama Purva Tapaniya",
+            "veda": "Atharva Veda",
+            "summary": "Meditation practices on Lord Rama."
+          },
+          {
+            "name": "Hayagriva",
+            "veda": "Rig Veda",
+            "summary": "Knowledge and wisdom from Vishnu's Hayagriva form."
+          }
+        ]
+      },
+      {
+        "category": "Shakta Upanishads",
+        "list": [
+          {
+            "name": "Tripura Tapini",
+            "veda": "Atharva Veda",
+            "summary": "Meditation on Tripura Sundari."
+          },
+          {
+            "name": "Sita Upanishad",
+            "veda": "Rig Veda",
+            "summary": "Glorifies Devi Sita as supreme Shakti."
+          },
+          {
+            "name": "Devi Upanishad",
+            "veda": "Atharva Veda",
+            "summary": "Mother Goddess as the ultimate reality."
+          },
+          {
+            "name": "Saubhagyalakshmi Upanishad",
+            "veda": "Rig Veda",
+            "summary": "Lakshmi's blessings for prosperity."
+          },
+          {
+            "name": "Bahvricha Upanishad",
+            "veda": "Rig Veda",
+            "summary": "Explains the power of Devi through Rig verses."
+          }
+        ]
+      },
+      {
+        "category": "Samanya (General) Upanishads",
+        "list": [
+          {
+            "name": "Subala",
+            "veda": "Shukla Yajur Veda",
+            "summary": "Dialogue exploring the nature of Brahman."
+          },
+          {
+            "name": "Mantrika",
+            "veda": "Atharva Veda",
+            "summary": "Philosophy of life energy and creation."
+          },
+          {
+            "name": "Sarvasara",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Essence of Vedanta summarized."
+          },
+          {
+            "name": "Niralambha",
+            "veda": "Atharva Veda",
+            "summary": "Self-dependent nature of Brahman."
+          },
+          {
+            "name": "Adhyatma",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Inner doctrine of the self."
+          },
+          {
+            "name": "Skanda",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Teachings related to Lord Skanda (Murugan)."
+          },
+          {
+            "name": "Maitreya",
+            "veda": "Sama Veda",
+            "summary": "Instruction on Atman by Rishi Maitreya."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "Vasishta": {
+    "Role": "Vedic Sage, one of the Sapta Rishis, Royal Guru of the Solar Dynasty",
+    "Lineage": {
+      "Father": "Brahma (according to Puranas)",
+      "Mother": "Urja or Arundhati (consort)",
+      "House": "Solar Dynasty (Ikshvaku lineage as royal priest)"
+    },
+    "Significance": {
+      "Titles": [
+        "Maharshi",
+        "Brahmarshi"
+      ],
+      "CoreIdentity": [
+        "Embodiment of wisdom and Dharma",
+        "Author of Vasishta Samhita and Yoga Vasishta"
+      ]
+    },
+    "ScripturalConnections": {
+      "Rigveda": "Composer of several hymns; associated with cosmic order and truth",
+      "Ramayana": "Royal guru to King Dasharatha; advisor to Rama",
+      "YogaVasishta": "Philosophical dialogue with Rama on liberation and reality"
+    },
+    "PhilosophicalThemes": [
+      "Advaita Vedanta principles",
+      "Self-realization and Moksha",
+      "Power of Sattva (purity) over Rajas and Tamas"
+    ],
+    "MajorStories": [
+      {
+        "Event": "Conflict with Vishwamitra",
+        "Description": "Defended Dharma against Vishwamitra’s ambitions; later reconciled"
+      },
+      {
+        "Event": "Counsel to Rama",
+        "Description": "Taught Rama the essence of Vedanta through Yoga Vasishta"
+      },
+      {
+        "Event": "Possession of Kamadhenu",
+        "Description": "Owned the divine cow Kamadhenu, symbol of abundance and spiritual power"
+      }
+    ],
+    "Attributes": {
+      "Virtues": [
+        "Wisdom",
+        "Patience",
+        "Truthfulness",
+        "Compassion"
+      ],
+      "Iconography": [
+        "Seated in meditation",
+        "Holding a rosary and water pot (Kamandalu)",
+        "Accompanied by Arundhati"
+      ]
+    },
+    "Mantras": [
+      {
+        "Name": "Vasishta Invocation",
+        "Text": "ॐ वसिष्ठाय नमः।",
+        "Transliteration": "Om Vasishtaya Namah",
+        "Meaning": "Salutation to Sage Vasishta, embodiment of wisdom"
+      }
+    ],
+    "Timeline": [
+      {
+        "Phase": "Birth",
+        "Event": "Born from Brahma’s mind; recognized as one of the Sapta Rishis"
+      },
+      {
+        "Phase": "Royal Guru",
+        "Event": "Served as chief priest and advisor to Ikshvaku kings including Dasharatha"
+      },
+      {
+        "Phase": "Conflict with Vishwamitra",
+        "Event": "Defended Dharma; later transformed rivalry into friendship"
+      },
+      {
+        "Phase": "Teaching Rama",
+        "Event": "Imparted Yoga Vasishta philosophy to Rama during his existential crisis"
+      },
+      {
+        "Phase": "Later Life",
+        "Event": "Continued as a guiding light of Vedantic wisdom; revered in all ages"
+      }
+    ],
+    "TextsAndTeachings": [
+      {
+        "Name": "Yoga Vasishta",
+        "Focus": "Non-dual philosophy, liberation through self-inquiry",
+        "KeyVerses": [
+          {
+            "Verse": "चित्तमेव हि संसारः तस्मात् तन्म् निरोधयेत्।",
+            "Transliteration": "Chittam eva hi samsarah tasmat tan nirodhayet",
+            "Meaning": "Mind alone is the cause of bondage; therefore, control the mind."
+          },
+          {
+            "Verse": "यदा चित्तं प्रसन्नं स्यात् तदा सर्वं प्रसन्नम्।",
+            "Transliteration": "Yada chittam prasannam syat tada sarvam prasannam",
+            "Meaning": "When the mind is serene, everything appears serene."
+          },
+          {
+            "Verse": "असङ्गोऽहम् असङ्गोऽहम् पुनः पुनः।",
+            "Transliteration": "Asango'ham asango'ham punah punah",
+            "Meaning": "I am unattached, I am unattached—again and again realize this truth."
+          }
+        ]
+      }
+    ]
+  }
+}

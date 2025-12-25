@@ -1,0 +1,51 @@
+{
+  "samsara_philosophy": {
+    "title": "",
+    "definition": "Samsara refers to the continuous cycle of birth, death, and rebirth in Hindu, Buddhist, and Jain philosophies, driven by karma and ignorance.",
+    "origin": {
+      "roots": "Vedic and Upanishadic teachings",
+      "texts": [
+        "Upanishads",
+        "Bhagavad Gita",
+        "Yoga Sutras"
+      ],
+      "meaning": "Derived from Sanskrit 'samsṛ', meaning 'to flow or wander'."
+    },
+    "core_principles": [
+      "Cycle of birth and death",
+      "Governed by karma",
+      "Ignorance (Avidya) binds beings to Samsara",
+      "Liberation (Moksha) ends Samsara"
+    ],
+    "components": {
+      "birth": "Entry into physical existence based on past karma.",
+      "death": "Transition to another state of existence.",
+      "rebirth": "New life determined by accumulated karma."
+    },
+    "relation_to_other_concepts": {
+      "karma": "Actions determine future births.",
+      "moksha": "Freedom from Samsara is the ultimate goal.",
+      "dharma": "Righteous living helps reduce karmic bondage."
+    },
+    "goals": [
+      "Understand the nature of Samsara",
+      "Reduce karmic accumulation",
+      "Seek liberation through spiritual practice"
+    ],
+    "modern_relevance": {
+      "ethics": "Encourages mindful living and responsibility.",
+      "psychology": "Explains patterns of suffering and attachment.",
+      "spirituality": "Motivates pursuit of higher consciousness."
+    },
+    "key_scriptural_references": [
+      {
+        "text": "Bhagavad Gita",
+        "quote_summary": "The soul is eternal, taking new bodies as old ones perish."
+      },
+      {
+        "text": "Upanishads",
+        "quote_summary": "Liberation comes when one realizes the Self beyond birth and death."
+      }
+    ]
+  }
+}

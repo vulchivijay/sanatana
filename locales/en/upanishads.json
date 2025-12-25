@@ -1,0 +1,307 @@
+{
+  "upanishads": {
+    "title": "Upanishads",
+    "list": [
+      {
+        "category": "Principal Upanishads",
+        "list": [
+          {
+            "name": "Isha",
+            "veda": "Shukla Yajur Veda",
+            "type": "Major",
+            "summary": "Teaches living a balanced life while renouncing ego and realizing the divine in everything."
+          },
+          {
+            "name": "Kena",
+            "veda": "Sama Veda",
+            "type": "Major",
+            "summary": "Explores the nature of consciousness and asks 'By whom is the mind directed?'"
+          },
+          {
+            "name": "Katha",
+            "veda": "Krishna Yajur Veda",
+            "type": "Major",
+            "summary": "Dialogue between Nachiketa and Yama on the immortality of the soul."
+          },
+          {
+            "name": "Prashna",
+            "veda": "Atharva Veda",
+            "type": "Major",
+            "summary": "Six disciples ask deep spiritual questions about prana, meditation, and creation."
+          },
+          {
+            "name": "Mundaka",
+            "veda": "Atharva Veda",
+            "type": "Major",
+            "summary": "Distinguishes higher knowledge (Brahman) from lower knowledge (worldly)."
+          },
+          {
+            "name": "Mandukya",
+            "veda": "Atharva Veda",
+            "type": "Major",
+            "summary": "Explains the four states of consciousness—waking, dream, deep sleep, and turiya."
+          },
+          {
+            "name": "Taittiriya",
+            "veda": "Krishna Yajur Veda",
+            "type": "Major",
+            "summary": "Describes layers of human existence—body, mind, intellect, bliss."
+          },
+          {
+            "name": "Aitareya",
+            "veda": "Rig Veda",
+            "type": "Major",
+            "summary": "Explains creation and the origin of consciousness in the individual."
+          },
+          {
+            "name": "Chandogya",
+            "veda": "Sama Veda",
+            "type": "Major",
+            "summary": "Known for 'Tat Tvam Asi'—Thou art that—teaching the unity of the soul and ultimate reality."
+          },
+          {
+            "name": "Brihadaranyaka",
+            "veda": "Shukla Yajur Veda",
+            "type": "Major",
+            "summary": "One of the largest Upanishads; explores self-knowledge, rebirth, and metaphysics."
+          }
+        ]
+      },
+      {
+        "category": "Sannyasa Upanishads",
+        "list": [
+          {
+            "name": "Aruni",
+            "veda": "Sama Veda",
+            "summary": "Guidelines for renunciation and ascetic life."
+          },
+          {
+            "name": "Paramahamsa",
+            "veda": "Shukla Yajur Veda",
+            "summary": "Describes the path of the supreme renunciate."
+          },
+          {
+            "name": "Jabala",
+            "veda": "Atharva Veda",
+            "summary": "Discusses renunciation and the concept of sacred knowledge."
+          },
+          {
+            "name": "Pavaha",
+            "veda": "Samaveda",
+            "summary": "Focuses on ascetic virtues."
+          },
+          {
+            "name": "Avadhoota",
+            "veda": "Rig Veda",
+            "summary": "Describes the state of the liberated ascetic."
+          },
+          {
+            "name": "Niralamba",
+            "veda": "Atharva Veda",
+            "summary": "Praises independence from worldly attachments."
+          },
+          {
+            "name": "Brahma",
+            "veda": "Atharva Veda",
+            "summary": "Renunciation as a means of Brahman realization."
+          },
+          {
+            "name": "KurupAThaka",
+            "veda": "Atharva Veda",
+            "summary": "Details sannyasa rituals."
+          },
+          {
+            "name": "Asrama",
+            "veda": "Atharva Veda",
+            "summary": "Explains the four stages of life."
+          },
+          {
+            "name": "Varaha",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Teachings of Vishnu in his Varaha form to sages."
+          }
+        ]
+      },
+      {
+        "category": "Yoga Upanishads",
+        "list": [
+          {
+            "name": "Hamsa",
+            "veda": "Shukla Yajur Veda",
+            "summary": "Meditation on breath and the mantra 'So-Ham'."
+          },
+          {
+            "name": "Amritabindu",
+            "veda": "Atharva Veda",
+            "summary": "Mind control as the path to immortality."
+          },
+          {
+            "name": "Tejobindu",
+            "veda": "Atharva Veda",
+            "summary": "Focuses on the luminous self."
+          },
+          {
+            "name": "Nadabindu",
+            "veda": "Rig Veda",
+            "summary": "Meditation on inner sound (Nada Yoga)."
+          },
+          {
+            "name": "Dhyana",
+            "veda": "Sama Veda",
+            "summary": "Meditation practices for enlightenment."
+          },
+          {
+            "name": "Kshurika",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Meditation as a sharp spiritual tool."
+          },
+          {
+            "name": "Trishikhi Brahmana",
+            "veda": "Rig Veda",
+            "summary": "Yoga philosophy linked with Sankhya thought."
+          },
+          {
+            "name": "Yoga Chudamani",
+            "veda": "Sama Veda",
+            "summary": "Explains kundalini awakening."
+          },
+          {
+            "name": "Yoga Kundalini",
+            "veda": "Atharva Veda",
+            "summary": "Teaches nadis, chakras, and kundalini."
+          },
+          {
+            "name": "Shandilya",
+            "veda": "Atharva Veda",
+            "summary": "Bhakti-yoga and devotion to Brahman."
+          }
+        ]
+      },
+      {
+        "category": "Shiva Upanishads",
+        "list": [
+          {
+            "name": "Atharvashiras",
+            "veda": "Atharva Veda",
+            "summary": "Glorifies Shiva as the supreme Brahman."
+          },
+          {
+            "name": "Bhasma",
+            "veda": "Atharva Veda",
+            "summary": "Spiritual symbolism of holy ash."
+          },
+          {
+            "name": "Rudraksha Jabala",
+            "veda": "Rig Veda",
+            "summary": "Benefits and symbolism of Rudraksha beads."
+          },
+          {
+            "name": "Kalagni Rudra",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Meditation on Rudra for liberation."
+          }
+        ]
+      },
+      {
+        "category": "Vaishnava Upanishads",
+        "list": [
+          {
+            "name": "Nrisimha Tapaniya",
+            "veda": "Atharva Veda",
+            "summary": "Meditation on Narasimha as the protector."
+          },
+          {
+            "name": "Gopala Tapaniya",
+            "veda": "Atharva Veda",
+            "summary": "Devotion to Krishna as Gopala."
+          },
+          {
+            "name": "Rama Rahasya",
+            "veda": "Atharva Veda",
+            "summary": "Secrets of Rama mantra and worship."
+          },
+          {
+            "name": "Rama Purva Tapaniya",
+            "veda": "Atharva Veda",
+            "summary": "Meditation practices on Lord Rama."
+          },
+          {
+            "name": "Hayagriva",
+            "veda": "Rig Veda",
+            "summary": "Knowledge and wisdom from Vishnu's Hayagriva form."
+          }
+        ]
+      },
+      {
+        "category": "Shakta Upanishads",
+        "list": [
+          {
+            "name": "Tripura Tapini",
+            "veda": "Atharva Veda",
+            "summary": "Meditation on Tripura Sundari."
+          },
+          {
+            "name": "Sita Upanishad",
+            "veda": "Rig Veda",
+            "summary": "Glorifies Devi Sita as supreme Shakti."
+          },
+          {
+            "name": "Devi Upanishad",
+            "veda": "Atharva Veda",
+            "summary": "Mother Goddess as the ultimate reality."
+          },
+          {
+            "name": "Saubhagyalakshmi Upanishad",
+            "veda": "Rig Veda",
+            "summary": "Lakshmi's blessings for prosperity."
+          },
+          {
+            "name": "Bahvricha Upanishad",
+            "veda": "Rig Veda",
+            "summary": "Explains the power of Devi through Rig verses."
+          }
+        ]
+      },
+      {
+        "category": "Samanya (General) Upanishads",
+        "list": [
+          {
+            "name": "Subala",
+            "veda": "Shukla Yajur Veda",
+            "summary": "Dialogue exploring the nature of Brahman."
+          },
+          {
+            "name": "Mantrika",
+            "veda": "Atharva Veda",
+            "summary": "Philosophy of life energy and creation."
+          },
+          {
+            "name": "Sarvasara",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Essence of Vedanta summarized."
+          },
+          {
+            "name": "Niralambha",
+            "veda": "Atharva Veda",
+            "summary": "Self-dependent nature of Brahman."
+          },
+          {
+            "name": "Adhyatma",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Inner doctrine of the self."
+          },
+          {
+            "name": "Skanda",
+            "veda": "Krishna Yajur Veda",
+            "summary": "Teachings related to Lord Skanda (Murugan)."
+          },
+          {
+            "name": "Maitreya",
+            "veda": "Sama Veda",
+            "summary": "Instruction on Atman by Rishi Maitreya."
+          }
+        ]
+      }
+    ]
+  }
+}

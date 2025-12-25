@@ -1,0 +1,56 @@
+{
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "November 2025",
+    "intro": "By accessing and using the Sanatana Dharma website (sanatanadharmam.in), you agree to be bound by these Terms of Service.",
+    "acceptanceTitle": "1. Acceptance of Terms",
+    "useLicenseTitle": "2. Use License",
+    "useLicenseText": "We grant you a limited, non-exclusive, revocable license to access and use the website for personal, non-commercial purposes. This license does not include:",
+    "useLicenseList": {
+      "modification": "Modification of website content",
+      "copying": "Copying or downloading content for commercial purposes",
+      "unauthorizedAccess": "Attempting to gain unauthorized access to the website or its systems",
+      "reverseEngineering": "Reverse engineering or attempting to extract source code",
+      "interfering": "Interfering with website functionality or user experience"
+    },
+    "intellectualTitle": "3. Intellectual Property Rights",
+    "intellectualText": "All content on the Sanatana Dharma website is the property of Sanatana Dharma or its content suppliers and is protected by international copyright laws.",
+    "userConductTitle": "4. User Conduct",
+    "userConductIntro": "When using the website, you agree not to:",
+    "userConductList": {
+      "unlawful": "Post or transmit any unlawful, threatening, or abusive content",
+      "harassment": "Engage in harassment or discrimination",
+      "malware": "Transmit viruses, malware, or any code intended to harm the website",
+      "violateLaw": "Violate any laws or regulations",
+      "spam": "Spam or engage in unauthorized marketing activities",
+      "bypass": "Attempt to access restricted areas or bypass security measures"
+    },
+    "disclaimerTitle": "5. Disclaimer of Warranties",
+    "disclaimerText": "The website and all content are provided on an \"AS IS\" and \"AS AVAILABLE\" basis. We make no warranties, expressed or implied, regarding:",
+    "disclaimerList": {
+      "accuracy": "Accuracy, completeness, or timeliness of content",
+      "functionality": "Website functionality or availability",
+      "errors": "Freedom from errors or interruptions",
+      "quality": "Quality or suitability for any particular purpose"
+    },
+    "disclaimerClosing": "We disclaim all warranties, including fitness for a particular purpose and non-infringement.",
+    "liabilityTitle": "6. Limitation of Liability",
+    "liabilityText": "To the maximum extent permitted by law, Sanatana Dharma shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use or inability to use the website.",
+    "externalLinksTitle": "7. External Links",
+    "externalLinksText": "Our website may contain links to third-party websites. We are not responsible for the content, accuracy, or practices of external websites.",
+    "modificationsTitle": "8. Modifications to Terms",
+    "modificationsText": "We reserve the right to modify these Terms of Service at any time. Changes will be effective immediately upon posting.",
+    "terminationTitle": "9. Termination",
+    "terminationText": "We reserve the right to terminate or restrict your access to the website at any time, without notice or liability.",
+    "indemnificationTitle": "10. Indemnification",
+    "indemnificationText": "You agree to indemnify, defend, and hold harmless Sanatana Dharma and its officers, directors, employees, and agents from any claims arising from your use of the website or violation of these Terms of Service.",
+    "governingTitle": "11. Governing Law",
+    "severabilityTitle": "12. Severability",
+    "contactTitle": "13. Contact Us",
+    "contactEmailLabel": "Email:",
+    "contactEmail": "contact@sanatanadharmam.in",
+    "contactWebsiteLabel": "Website:",
+    "contactWebsite": "https://sanatanadharmam.in",
+    "closing": "By accessing and using Sanatana Dharma, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service."
+  }
+}

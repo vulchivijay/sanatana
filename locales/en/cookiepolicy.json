@@ -1,0 +1,19 @@
+{
+  "cookiePolicy": {
+    "title": "Cookie Policy",
+    "intro": "This Cookie Policy explains how we use cookies and similar technologies on our website.",
+    "whatAreCookies": "What are cookies?",
+    "typesHeading": "Types of cookies we use",
+    "types": {
+      "strictlyNecessary": "Strictly necessary: Required for the site to function.",
+      "functionality": "Functionality: Remember choices and preferences.",
+      "performance": "Performance: Help us analyze traffic and performance.",
+      "targeting": "Targeting: Used for advertising and personalization."
+    },
+    "managing": "Managing your preferences",
+    "managingDesc": "Open the Cookie Preference Manager from the banner to enable or disable categories. If you accept all cookies, we will store your choices and apply them across visits.",
+    "dataSharing": "Data sharing",
+    "dataSharingDesc": "We may share aggregated information with third parties for analytics and advertising. No sensitive personal data is shared by default.",
+    "lastUpdated": "Last updated: {date}"
+  }
+}

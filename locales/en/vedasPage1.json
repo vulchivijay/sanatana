@@ -1,0 +1,212 @@
+{
+  "vedasPage1": {
+    "title": "The Vedas — history, structure, and types",
+    "intro": "The Vedas (from the Sanskrit root 'vid' — to know) are the oldest stratum of South Asian sacred literature. Composed in Vedic Sanskrit and preserved through conservative oral transmission, they shaped ritual practice, social ideals, and early Indian thought.",
+    "tocTitle": "Contents",
+    "links": {
+      "rigveda": "Rigveda",
+      "samaveda": "Samaveda",
+      "yajurveda": "Yajurveda",
+      "atharvaveda": "Atharvaveda"
+    },
+    "historicalTitle": "Historical background and transmission",
+    "historicalText": "Scholars estimate that the core hymns were composed between the second and first millennia BCE. The texts were preserved by priestly lineages through mnemonic recitation techniques before being committed to writing.",
+    "structureTitle": "Structure of Vedic literature",
+    "structure": {
+      "samhitas": "Samhitās — collections of hymns and mantras used in ritual.",
+      "brahmanas": "Brahmaṇas — prose explanations of ritual procedures and meanings.",
+      "aranyakas": "Āraṇyakas — transitional texts often linked to forest teachings and contemplative practice.",
+      "upanishads": "Upaniṣads — philosophical portions focusing on knowledge (jñāna) and the nature of reality."
+    },
+    "fourVedasTitle": "The four Vedas and their emphases",
+    "shakhasTitle": "Shakhas (recensional branches) and textual plurality",
+    "shakhasText": "Each Veda branched into multiple śākhā (recensional schools) with their own orderings and ritual practices; only a subset of śākhā survive in manuscript and printed form.",
+    "sagesTitle": "Sages, redaction and chronology",
+    "sagesText": "Traditional accounts name ṛṣis (sages) such as Vasiṣṭha and Viśvāmitra as hymn authors; later redactors organized the material into the canonical fourfold structure.",
+    "languageTitle": "Language, metre and composition",
+    "languageText": "Vedic Sanskrit differs from Classical Sanskrit in phonology and grammar and employs meters such as triṣṭubh and gāyatrī; these features help date and classify the corpus.",
+    "themesTitle": "Themes and intellectual legacy",
+    "themesText": "The Vedas address ritual efficacy, cosmology, social order, and the nature of ultimate reality; the Upaniṣads in particular influence later Indian philosophy.",
+    "bibliographyTitle": "Further reading (select bibliography)",
+    "biblio": {
+      "jamison": "Stephanie W. Jamison & Joel P. Brereton — The Rig Veda: The Earliest Religious Poetry of India (Oxford, 2014)",
+      "witzel": "Michael Witzel — Early Sanskritization: Origins and Development of the Vedic Culture (selected essays)",
+      "staal": "Frits Staal — Discovering the Vedas: Origins, Mantras, Rituals, Insights (2008)",
+      "gonda": "J. Gonda — Vedic Literature: Saṃhitās and Brāhmaṇas (selected studies)",
+      "olivelle": "Patrick Olivelle — Between the Empires: Society in India 300 BCE to 400 CE (contextual studies)"
+    },
+    "deep": {
+      "title": "Deep dive — dating, authorship, composition and purpose",
+      "whenTitle": "When were the Vedas composed?",
+      "whenText": "Dating the Vedas is complex because they were transmitted orally long before surviving in written manuscripts. Current scholarly consensus places the core Rigvedic hymns roughly between c. 1500–1200 BCE, with later composition and accretion continuing through the first millennium BCE. These ranges are best understood as broad windows rather than precise dates.",
+      "whoTitle": "Who wrote the Vedas?",
+      "whoText": "Traditionally the Vedas are ascribed to seers (ṛṣis) and priestly lineages. Names like Vasiṣṭha and Viśvāmitra indicate poetic or priestly families rather than single modern-style authors. Composition was multi-generational and communal.",
+      "whatTitle": "What is in the Vedas and how are they organized?",
+      "whatList": [
+        "Samhitā material: Hymns and mantras used in liturgy — typically the oldest linguistic layers.",
+        "Brahmaṇa prose: Explanatory ritual prose and procedural exegesis for priests.",
+        "Āraṇyaka texts: Transitional and contemplative passages associated with forest practice.",
+        "Upaniṣadic teachings: Philosophical inquiries into ātman, Brahman, and liberation."
+      ],
+      "purposeTitle": "What was the primary purpose of the Vedas?",
+      "purposeList": [
+        "Ritual efficacy: mantras and procedures intended to produce ritual results.",
+        "Preservation of social order: reinforcing roles and norms.",
+        "Knowledge and memory: storing genealogies, myths and ritual know-how.",
+        "Speculative inquiry: philosophical reflection, especially in the Upaniṣads.",
+        "Practical concerns: healing and household rites in the Atharvaveda."
+      ],
+      "preservationTitle": "How were the texts preserved so accurately?",
+      "preservationText": "Highly formalized oral techniques (padapāṭha, krama, ghana) and strict phonetic training produced exceptional fidelity in transmission.",
+      "scholarshipTitle": "Scholarly approaches and debates",
+      "scholarshipText": "Philology, comparative linguistics, archaeology, and textual criticism together help scholars analyze composition, chronology, and social context; many questions remain open."
+    },
+    "rigveda": {
+      "title": "Rigveda",
+      "summary": "The Rigveda is the oldest Veda: a hymnal corpus used in sacrificial rituals and rich in early mythic reflection.",
+      "contentTitle": "About the Rigveda",
+      "content": "Collections of hymns (ṛc) addressed to deities like Agni and Indra; complex meters and archaic language make the Rigveda a primary source for early Vedic religion."
+    },
+    "samaveda": {
+      "title": "Samaveda",
+      "summary": "The Samaveda is primarily a collection arranged for chanting; its musical forms give ritual performance a melodic structure.",
+      "contentTitle": "About the Samaveda",
+      "content": "Verses from the Rigveda adapted for melodic recitation (sāman); the Samaveda highlights liturgical music and chant tradition."
+    },
+    "yajurveda": {
+      "title": "Yajurveda",
+      "summary": "The Yajurveda contains the procedural formulas and sacrificial instructions used by priests during rites.",
+      "contentTitle": "About the Yajurveda",
+      "content": "Textual recensions (śukla and kṛṣṇa) organize mantras and explanatory prose for the performance of yajña."
+    },
+    "atharvaveda": {
+      "title": "Atharvaveda",
+      "summary": "The Atharvaveda includes spells, charms, and domestic rites addressing everyday concerns alongside ritual material.",
+      "contentTitle": "About the Atharvaveda",
+      "content": "Containing incantations, healing formulas, and household practices, the Atharvaveda complements the sacrificial focus of the other Vedas."
+    },
+    "puranasPage": {
+      "title": "The Puranas — mythology, cosmology, and lineages",
+      "intro": "The Puranas are a large corpus of narrative literature that systematizes cosmology, genealogies, mythic histories, and devotional material. Composed over many centuries, the Puranas bridge classical Hindu thought, ritual practice, and popular devotion.",
+      "structureTitle": "Structure and genres",
+      "structure": {
+        "cosmology": "Cosmology and cosmogony: descriptions of creation, cyclical time, and the universe's structure.",
+        "genealogies": "Genealogies (vamsa): lineages of gods, sages, kings, and dynasties.",
+        "mythicNarrative": "Mythic narratives and didactic stories conveying moral, theological and ritual lessons.",
+        "rituals": "Ritual prescriptions and local rites incorporated into narrative frameworks."
+      },
+      "majorTitle": "Major Puranas and emphases",
+      "major": {
+        "bhagavata": "Bhagavata Purana — devotional (bhakti) theology centred on Krishna and stories of the avatar tradition.",
+        "padma": "Padma Purana — extensive cosmological narratives, pilgrimage guides, and regional religious practice.",
+        "vishnu": "Vishnu Purana — genealogies and the theological role of Vishnu as preserver; syncretic historical material.",
+        "shiva": "Shiva Purana — legends, ritual acts, and the theological development of Śaiva traditions."
+      },
+      "commentaryTitle": "Commentary and textual history",
+      "commentaryText": "The Puranas exist in many redactions and regional recensions. Their composition spans late antiquity to the early medieval period; later interpolations reflect devotional movements and local practices.",
+      "bibliographyTitle": "Further reading (select bibliography)",
+      "biblio": {
+        "colebrook": "Ludo Rocher — The Puranas (selected studies and translations)",
+        "doniger": "Wendy Doniger — The Hindus: An Alternative History (context and readings)",
+        "atta": "R.C. Hazra — Studies in the Puranic Literature (historical survey)"
+      }
+    },
+    "puranas": {
+      "bhagavata": {
+        "title": "Bhagavata Purana",
+        "summary": "The Bhagavata Purana is a devotional Purana centered on Krishna's life, theology of bhakti, and ethical teachings through stories and parables.",
+        "content": "Includes cosmology, genealogies, and extensive narratives of Krishna's childhood, youth, and teachings; foundational for many bhakti movements."
+      },
+      "padma": {
+        "title": "Padma Purana",
+        "summary": "A large Purana with material on pilgrimage (tirtha), cosmology and ritual practice. It preserves localized liturgical traditions and pilgrimage guides.",
+        "content": "Contains sections on dharma, rites, and geographical-pilgrimage material that became important for medieval religious practice."
+      }
+    },
+    "shastrasPage": {
+      "title": "The Shastras — technical, ethical, and artistic treatises",
+      "intro": "'Shastra' denotes authoritative treatises on specialized subjects: law, statecraft, architecture, dramaturgy, and ritual. These texts shaped classical Indian institutions and practical arts.",
+      "sectionsTitle": "Key categories",
+      "sections": {
+        "dharma": "Dharmaśāstras — legal and ethical manuals governing social duties, law and ritual obligations.",
+        "artha": "Arthaśāstra — statecraft, economics, and practical politics as articulated in manuals of governance.",
+        "vastu": "Vastu and architectural treatises on building, town-planning and auspicious design.",
+        "natya": "Nāṭyaśāstra — dramaturgy, performance, and aesthetics; a foundational manual for classical theatre and dance."
+      },
+      "influenceTitle": "Practical influence and commentary",
+      "influenceText": "Shastra literature generated extensive commentary traditions: jurists, grammarians, architects and rhetoricians produced glosses and manuals that adapted core teachings to local contexts.",
+      "bibliographyTitle": "Further reading (select bibliography)",
+      "biblio": {
+        "olivelle": "Patrick Olivelle — Dharmasutras and Dharmashastra studies (selected translations)",
+        "kautilya": "R. Shamasastry (ed.): Kautilya's Arthashastra (translations and commentary)",
+        "natya": "Manomohan Ghosh — The Nāṭyaśāstra (introduction and selected readings)"
+      }
+    },
+    "shastras": {
+      "dharma": {
+        "title": "Dharmaśāstras",
+        "summary": "Legal and ethical treatises articulating duties (dharma), social order, and procedures for dispute resolution.",
+        "content": "From the Dharmasutras to later Dharmaśāstras, these texts influenced law, ritual prescriptions, and social norms across South Asia."
+      },
+      "artha": {
+        "title": "Arthaśāstra",
+        "summary": "Treatises on governance, administration, revenue and diplomacy; the Arthashastra is the most famous exemplar.",
+        "content": "Covers practical aspects of statecraft including espionage, taxation, and military strategy; later commentaries adapt it to changing polities."
+      }
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "lastUpdated": "November 2025",
+      "intro": "By accessing and using the Sanatana Dharma website (sanatanadharmam.in), you agree to be bound by these Terms of Service.",
+      "acceptanceTitle": "1. Acceptance of Terms",
+      "useLicenseTitle": "2. Use License",
+      "useLicenseText": "We grant you a limited, non-exclusive, revocable license to access and use the website for personal, non-commercial purposes. This license does not include:",
+      "useLicenseList": {
+        "modification": "Modification of website content",
+        "copying": "Copying or downloading content for commercial purposes",
+        "unauthorizedAccess": "Attempting to gain unauthorized access to the website or its systems",
+        "reverseEngineering": "Reverse engineering or attempting to extract source code",
+        "interfering": "Interfering with website functionality or user experience"
+      },
+      "intellectualTitle": "3. Intellectual Property Rights",
+      "intellectualText": "All content on the Sanatana Dharma website is the property of Sanatana Dharma or its content suppliers and is protected by international copyright laws.",
+      "userConductTitle": "4. User Conduct",
+      "userConductIntro": "When using the website, you agree not to:",
+      "userConductList": {
+        "unlawful": "Post or transmit any unlawful, threatening, or abusive content",
+        "harassment": "Engage in harassment or discrimination",
+        "malware": "Transmit viruses, malware, or any code intended to harm the website",
+        "violateLaw": "Violate any laws or regulations",
+        "spam": "Spam or engage in unauthorized marketing activities",
+        "bypass": "Attempt to access restricted areas or bypass security measures"
+      },
+      "disclaimerTitle": "5. Disclaimer of Warranties",
+      "disclaimerText": "The website and all content are provided on an \"AS IS\" and \"AS AVAILABLE\" basis. We make no warranties, expressed or implied, regarding:",
+      "disclaimerList": {
+        "accuracy": "Accuracy, completeness, or timeliness of content",
+        "functionality": "Website functionality or availability",
+        "errors": "Freedom from errors or interruptions",
+        "quality": "Quality or suitability for any particular purpose"
+      },
+      "disclaimerClosing": "We disclaim all warranties, including fitness for a particular purpose and non-infringement.",
+      "liabilityTitle": "6. Limitation of Liability",
+      "liabilityText": "To the maximum extent permitted by law, Sanatana Dharma shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use or inability to use the website.",
+      "externalLinksTitle": "7. External Links",
+      "externalLinksText": "Our website may contain links to third-party websites. We are not responsible for the content, accuracy, or practices of external websites.",
+      "modificationsTitle": "8. Modifications to Terms",
+      "modificationsText": "We reserve the right to modify these Terms of Service at any time. Changes will be effective immediately upon posting.",
+      "terminationTitle": "9. Termination",
+      "terminationText": "We reserve the right to terminate or restrict your access to the website at any time, without notice or liability.",
+      "indemnificationTitle": "10. Indemnification",
+      "indemnificationText": "You agree to indemnify, defend, and hold harmless Sanatana Dharma and its officers, directors, employees, and agents from any claims arising from your use of the website or violation of these Terms of Service.",
+      "governingTitle": "11. Governing Law",
+      "severabilityTitle": "12. Severability",
+      "contactTitle": "13. Contact Us",
+      "contactEmailLabel": "Email:",
+      "contactEmail": "contact@sanatanadharmam.in",
+      "contactWebsiteLabel": "Website:",
+      "contactWebsite": "https://sanatanadharmam.in",
+      "closing": "By accessing and using Sanatana Dharma, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service."
+    }
+  }
+}

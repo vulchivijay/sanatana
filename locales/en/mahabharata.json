@@ -1,0 +1,269 @@
+{
+  "mahabharata": {
+    "title": "Mahabharata",
+    "structure": [
+      {
+        "parva": 1,
+        "name": "Adi Parva",
+        "summary": "Explains the origins of the Kuru dynasty, birth of Pandavas and Kauravas, and early conflicts.",
+        "key_events": [
+          "King Shantanu and Ganga",
+          "Bhishma’s vow",
+          "Birth of Pandu, Dhritarashtra, Vidura",
+          "Marriage of Pandu to Kunti and Madri",
+          "Birth of Pandavas and Kauravas",
+          "Duryodhana’s jealousy toward the Pandavas"
+        ],
+        "main_characters": [
+          "Bhishma",
+          "Shantanu",
+          "Ganga",
+          "Pandu",
+          "Kunti",
+          "Madri",
+          "Dhritarashtra",
+          "Gandhari"
+        ],
+        "sub_stories": [
+          "The Story of Devavrata (Bhishma)",
+          "Kunti receives boons from Durvasa",
+          "Birth of Karna"
+        ]
+      },
+      {
+        "parva": 2,
+        "name": "Sabha Parva",
+        "summary": "Yudhishthira becomes king, performs Rajasuya Yajna, and loses everything in a deceitful dice game.",
+        "key_events": [
+          "Building of the great hall Maya Sabha",
+          "Rajasuya Yajna",
+          "Shishupala’s death",
+          "Dice game with Shakuni and Duryodhana",
+          "Draupadi’s humiliation"
+        ],
+        "main_characters": [
+          "Yudhishthira",
+          "Duryodhana",
+          "Shakuni",
+          "Draupadi",
+          "Bhima",
+          "Krishna"
+        ]
+      },
+      {
+        "parva": 3,
+        "name": "Vana Parva",
+        "summary": "Pandavas spend 12 years in the forest after losing their kingdom.",
+        "key_events": [
+          "Arjuna receives divine weapons",
+          "Story of Savitri and Satyavan",
+          "Nala and Damayanti",
+          "Bheema meets Hanuman",
+          "Duryodhana’s humiliation in the forest"
+        ],
+        "main_characters": [
+          "Pandavas",
+          "Draupadi",
+          "Krishna",
+          "Sage Vyasa"
+        ],
+        "sub_stories": [
+          "Savitri-Satyavan",
+          "Nala-Damayanti",
+          "Bheema-Hanuman"
+        ]
+      },
+      {
+        "parva": 4,
+        "name": "Virata Parva",
+        "summary": "Pandavas live incognito for one year in King Virata’s kingdom.",
+        "key_events": [
+          "Pandavas disguise themselves",
+          "Uttarakumara’s battle with Kauravas",
+          "Arjuna reveals his identity"
+        ],
+        "main_characters": [
+          "Yudhishthira",
+          "Arjuna",
+          "Bhima",
+          "Draupadi",
+          "King Virata"
+        ]
+      },
+      {
+        "parva": 5,
+        "name": "Udyoga Parva",
+        "summary": "Peace negotiations fail and war becomes inevitable.",
+        "key_events": [
+          "Krishna’s peace mission",
+          "Karna learns his true lineage",
+          "Krishna offers Narayani Sena and himself",
+          "Preparation for war"
+        ],
+        "main_characters": [
+          "Krishna",
+          "Karna",
+          "Duryodhana",
+          "Bhishma"
+        ]
+      },
+      {
+        "parva": 6,
+        "name": "Bhishma Parva",
+        "summary": "Beginning of the Kurukshetra war; Krishna delivers the Bhagavad Gita.",
+        "key_events": [
+          "Arjuna’s despair",
+          "Bhagavad Gita discourse",
+          "War under Bhishma’s command"
+        ],
+        "main_characters": [
+          "Krishna",
+          "Arjuna",
+          "Bhishma",
+          "Duryodhana"
+        ]
+      },
+      {
+        "parva": 7,
+        "name": "Drona Parva",
+        "summary": "Dronacharya becomes commander; Abhimanyu is killed in the Chakravyuha.",
+        "key_events": [
+          "Abhimanyu's heroic battle",
+          "Killing of Abhimanyu",
+          "Dronacharya's rage"
+        ],
+        "main_characters": [
+          "Drona",
+          "Abhimanyu",
+          "Karna",
+          "Duryodhana"
+        ]
+      },
+      {
+        "parva": 8,
+        "name": "Karna Parva",
+        "summary": "Karna leads the Kaurava army; fierce battles occur.",
+        "key_events": [
+          "Karna’s vow to kill Arjuna",
+          "Karna’s chariot sinks",
+          "Arjuna kills Karna"
+        ],
+        "main_characters": [
+          "Karna",
+          "Arjuna",
+          "Krishna"
+        ]
+      },
+      {
+        "parva": 9,
+        "name": "Shalya Parva",
+        "summary": "Shalya becomes Kaurava commander; war nears its end.",
+        "key_events": [
+          "Yudhishthira kills Shalya",
+          "Massive destruction"
+        ],
+        "main_characters": [
+          "Shalya",
+          "Yudhishthira"
+        ]
+      },
+      {
+        "parva": 10,
+        "name": "Sauptika Parva",
+        "summary": "Ashwatthama attacks the Pandava camp at night.",
+        "key_events": [
+          "Ashwatthama’s revenge",
+          "Killing of Draupadi’s sons"
+        ],
+        "main_characters": [
+          "Ashwatthama",
+          "Kripacharya",
+          "Krishna"
+        ]
+      },
+      {
+        "parva": 11,
+        "name": "Stri Parva",
+        "summary": "Women mourn the dead; grief spreads across the kingdom.",
+        "key_events": [
+          "Kunti reveals Karna was her son",
+          "Gandhari curses Krishna"
+        ],
+        "main_characters": [
+          "Kunti",
+          "Gandhari",
+          "Draupadi"
+        ]
+      },
+      {
+        "parva": 12,
+        "name": "Shanti Parva",
+        "summary": "Bhishma, on his bed of arrows, gives teachings on dharma and governance.",
+        "key_events": [
+          "Bhishma’s wisdom on duty, leadership, and ethics"
+        ]
+      },
+      {
+        "parva": 13,
+        "name": "Anushasana Parva",
+        "summary": "Bhishma continues teachings until his final breath.",
+        "key_events": [
+          "Bhishma’s final instructions",
+          "Bhishma’s passing"
+        ]
+      },
+      {
+        "parva": 14,
+        "name": "Ashwamedhika Parva",
+        "summary": "Yudhishthira performs the Ashwamedha sacrifice.",
+        "key_events": [
+          "Arjuna’s adventures with the sacrificial horse",
+          "Re-establishment of peace"
+        ]
+      },
+      {
+        "parva": 15,
+        "name": "Ashramavasika Parva",
+        "summary": "Dhritarashtra, Gandhari, Kunti go to the forest for spiritual life.",
+        "key_events": [
+          "Forest fire and passing of the elders"
+        ]
+      },
+      {
+        "parva": 16,
+        "name": "Mausala Parva",
+        "summary": "Destruction of the Yadava dynasty.",
+        "key_events": [
+          "Krishna’s clan destroys itself",
+          "Krishna leaves his mortal body"
+        ]
+      },
+      {
+        "parva": 17,
+        "name": "Mahaprasthanika Parva",
+        "summary": "Pandavas begin their final journey to the Himalayas.",
+        "key_events": [
+          "One by one, the Pandavas fall"
+        ]
+      },
+      {
+        "parva": 18,
+        "name": "Svargarohana Parva",
+        "summary": "Yudhishthira reaches heaven and sees the final truth.",
+        "key_events": [
+          "Yudhishthira’s ascension to heaven"
+        ]
+      },
+      {
+        "parva": 19,
+        "name": "Harivamsa (Appendix)",
+        "summary": "Details Krishna’s lineage, pastimes, and cosmology.",
+        "sections": [
+          "Harivamsa Parva",
+          "Vishnu Parva",
+          "Bhavishya Parva"
+        ]
+      }
+    ]
+  }
+}

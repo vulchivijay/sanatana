@@ -1,0 +1,14 @@
+{
+  "slugPage": {
+    "overviewTitle": "Overview",
+    "overviewText": "This page collects primary sources, translations and scholarly commentary about {{title}}.",
+    "relatedTitle": "Related pages",
+    "related": {
+      "vedas": "Vedas section",
+      "puranas": "Puranas section",
+      "shastras": "Shastras section"
+    },
+    "suggestedTitle": "Suggested resources",
+    "suggestedText": "Find original texts, translations, and recommended secondary literature linked from the resource panel on this site."
+  }
+}

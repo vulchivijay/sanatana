@@ -1,0 +1,2169 @@
+{
+  "ramayana_system": {
+    "meta": {
+      "ramayana_meta": {
+        "title": "The Ramayana",
+        "source": "Valmiki Ramayana",
+        "language": [
+          "Simple English",
+          "Simple Telugu"
+        ],
+        "description": {
+          "translate": "The Ramayana is an ancient Indian epic that teaches dharma, truth, devotion, and righteousness through the life of Lord Rama.",
+          "te": "రామాయణం అనేది శ్రీరాముని జీవిత ద్వారా ధర్మం, సత్యం, భక్తి మరియు నీతిని బోధించే ప్రాచీన భారతీయ ఇతిహాసం."
+        },
+        "main_characters": [
+          {
+            "name": "Rama",
+            "role": {
+              "translate": "Prince of Ayodhya, avatar of Vishnu, embodiment of dharma.",
+              "te": "అయోధ్య యువరాజు, విష్ణువుని అవతారం, ధర్మ స్వరూపుడు."
+            }
+          },
+          {
+            "name": "Sita",
+            "role": {
+              "translate": "Wife of Rama, symbol of purity and devotion.",
+              "te": "రాముని భార్య, పవిత్రత మరియు భక్తికి ప్రతీక."
+            }
+          },
+          {
+            "name": "Lakshmana",
+            "role": {
+              "translate": "Rama’s loyal brother.",
+              "te": "రామునికి నిబద్ధుడైన సోదరుడు."
+            }
+          },
+          {
+            "name": "Hanuman",
+            "role": {
+              "translate": "Devotee of Rama, symbol of strength and devotion.",
+              "te": "రామభక్తుడు, బలం మరియు భక్తికి ప్రతీక."
+            }
+          },
+          {
+            "name": "Ravana",
+            "role": {
+              "translate": "King of Lanka, symbol of ego and adharma.",
+              "te": "లంక రాజు, అహంకారం మరియు అధర్మానికి ప్రతీక."
+            }
+          }
+        ],
+        "important_places": [
+          {
+            "name": "Ayodhya",
+            "desc": {
+              "translate": "Capital of Rama’s kingdom.",
+              "te": "రాముని రాజ్య రాజధాని."
+            }
+          },
+          {
+            "name": "Mithila",
+            "desc": {
+              "translate": "King Janaka’s kingdom, birthplace of Sita.",
+              "te": "జనక మహారాజు రాజ్యం, సీత జన్మస్థలం."
+            }
+          },
+          {
+            "name": "Lanka",
+            "desc": {
+              "translate": "Ravana’s kingdom.",
+              "te": "రావణుని రాజ్యం."
+            }
+          }
+        ],
+        "timeline": [
+          {
+            "event": "Birth of Rama",
+            "desc": {
+              "translate": "Rama is born to King Dasharatha in Ayodhya.",
+              "te": "అయోధ్యలో దశరథ మహారాజుకు శ్రీరాముడు జన్మించాడు."
+            }
+          },
+          {
+            "event": "Exile",
+            "desc": {
+              "translate": "Rama goes to forest for 14 years.",
+              "te": "రాముడు 14 సంవత్సరాల వనవాసానికి వెళ్తాడు."
+            }
+          },
+          {
+            "event": "War with Ravana",
+            "desc": {
+              "translate": "Rama defeats Ravana and rescues Sita.",
+              "te": "రాముడు రావణుని సంహరించి సీతను రక్షిస్తాడు."
+            }
+          },
+          {
+            "event": "Rama Rajya",
+            "desc": {
+              "translate": "Rama rules Ayodhya with justice and peace.",
+              "te": "రాముడు ధర్మబద్ధంగా అయోధ్యను పాలిస్తాడు."
+            }
+          }
+        ],
+        "core_themes": [
+          {
+            "translate": "Dharma (Righteousness)",
+            "te": "ధర్మం"
+          },
+          {
+            "translate": "Bhakti (Devotion)",
+            "te": "భక్తి"
+          },
+          {
+            "translate": "Truth and Sacrifice",
+            "te": "సత్యం మరియు త్యాగం"
+          }
+        ]
+      }
+    },
+    "full_ramayana": {
+      "bala_kanda": {
+        "bala_kanda": {
+          "kanda": "Bala Kanda",
+          "description": {
+            "translate": "The Bala Kanda describes the birth, childhood, education, and marriage of Lord Rama.",
+            "te": "బాలకాండంలో శ్రీరాముని జననం, బాల్యం, విద్యాభ్యాసం మరియు వివాహం వర్ణించబడుతుంది."
+          },
+          "sargas": [
+            {
+              "sarga": 1,
+              "title": "Narada Describes Rama",
+              "story": {
+                "translate": "Sage Valmiki asks Narada who the greatest man is. Narada tells him about Rama, a perfect man who follows dharma.",
+                "te": "వాల్మీకి మహర్షి నారదుని అత్యుత్తమ మనిషి ఎవరో అడుగుతాడు. నారదుడు ధర్మాన్ని అనుసరించే పరిపూర్ణ పురుషుడైన రాముని గురించి చెబుతాడు."
+              },
+              "kids": {
+                "translate": "Narada tells Valmiki about good Prince Rama.",
+                "te": "నారదుడు మంచి యువరాజు రాముని గురించి చెబుతాడు."
+              },
+              "lesson": {
+                "translate": "A good person always follows dharma.",
+                "te": "మంచి వ్యక్తి ఎప్పుడూ ధర్మాన్ని అనుసరిస్తాడు."
+              }
+            },
+            {
+              "sarga": 2,
+              "title": "Birth of Rama",
+              "story": {
+                "translate": "King Dasharatha performs a sacrifice. With divine blessings, Rama and his brothers are born.",
+                "te": "దశరథ మహారాజు యజ్ఞం చేస్తాడు. దైవ ఆశీర్వాదంతో రాముడు మరియు ఆయన సోదరులు జన్మిస్తారు."
+              },
+              "kids": {
+                "translate": "Rama is born with God’s blessing.",
+                "te": "దేవుని ఆశీర్వాదంతో రాముడు జన్మిస్తాడు."
+              },
+              "lesson": {
+                "translate": "Faith brings blessings.",
+                "te": "భక్తి ఆశీర్వాదాలను ఇస్తుంది."
+              }
+            },
+            {
+              "sarga": 3,
+              "title": "Rama’s Childhood",
+              "story": {
+                "translate": "Rama grows up as a kind, brave, and obedient prince loved by all.",
+                "te": "రాముడు దయగలవాడిగా, ధైర్యవంతుడిగా, విధేయుడిగా పెరుగుతాడు."
+              },
+              "kids": {
+                "translate": "Everyone loves young Rama.",
+                "te": "అందరూ చిన్న రాముని ప్రేమిస్తారు."
+              },
+              "lesson": {
+                "translate": "Good behavior earns love and respect.",
+                "te": "మంచి ప్రవర్తన ప్రేమను గౌరవాన్ని ఇస్తుంది."
+              }
+            },
+            {
+              "sarga": 4,
+              "title": "Training under Sage Vishwamitra",
+              "story": {
+                "translate": "Rama and Lakshmana go with Sage Vishwamitra to protect sacrifices from demons.",
+                "te": "విశ్వామిత్ర మహర్షితో కలిసి రాముడు, లక్ష్మణుడు యజ్ఞాలను రక్షించడానికి వెళ్తారు."
+              },
+              "kids": {
+                "translate": "Rama protects sages.",
+                "te": "రాముడు ఋషులను రక్షిస్తాడు."
+              },
+              "lesson": {
+                "translate": "Protecting good people is our duty.",
+                "te": "మంచివారిని రక్షించడం మన కర్తవ్యం."
+              }
+            },
+            {
+              "sarga": 5,
+              "title": "Killing of Demons",
+              "story": {
+                "translate": "Rama defeats demons like Tataka and Subahu using divine weapons.",
+                "te": "రాముడు తాటక, సుభాహు వంటి రాక్షసులను సంహరిస్తాడు."
+              },
+              "kids": {
+                "translate": "Rama defeats bad demons.",
+                "te": "రాముడు చెడ్డ రాక్షసులను ఓడిస్తాడు."
+              },
+              "lesson": {
+                "translate": "Good always wins over evil.",
+                "te": "మంచి ఎప్పుడూ చెడుపై గెలుస్తుంది."
+              }
+            },
+            {
+              "sarga": 6,
+              "title": "Journey to Mithila",
+              "story": {
+                "translate": "Rama travels to Mithila to attend Sita’s swayamvara.",
+                "te": "సీత స్వయంవరం కోసం రాముడు మిథిలకు ప్రయాణిస్తాడు."
+              },
+              "kids": {
+                "translate": "Rama goes to meet Sita.",
+                "te": "రాముడు సీతను కలవడానికి వెళ్తాడు."
+              },
+              "lesson": {
+                "translate": "Destiny unfolds step by step.",
+                "te": "విధి దశలవారీగా జరుగుతుంది."
+              }
+            },
+            {
+              "sarga": 7,
+              "title": "Breaking Shiva’s Bow",
+              "story": {
+                "translate": "Rama lifts and breaks Lord Shiva’s bow, winning Sita’s hand.",
+                "te": "రాముడు శివుని ధనుస్సును విరిచి సీతను వివాహం చేసుకుంటాడు."
+              },
+              "kids": {
+                "translate": "Rama breaks the big bow.",
+                "te": "రాముడు పెద్ద ధనుస్సును విరుస్తాడు."
+              },
+              "lesson": {
+                "translate": "True strength comes with humility.",
+                "te": "నిజమైన బలం వినయంతో ఉంటుంది."
+              }
+            },
+            {
+              "sarga": 8,
+              "title": "Marriage of Rama and Sita",
+              "story": {
+                "translate": "Rama and Sita are married in a grand ceremony.",
+                "te": "రాముడు మరియు సీత ఘనంగా వివాహం చేసుకుంటారు."
+              },
+              "kids": {
+                "translate": "Rama and Sita get married.",
+                "te": "రాముడు సీతను వివాహం చేసుకుంటాడు."
+              },
+              "lesson": {
+                "translate": "Marriage is a bond of love and duty.",
+                "te": "వివాహం ప్రేమ మరియు కర్తవ్యానికి బంధం."
+              }
+            },
+            {
+              "sarga": 9,
+              "title": "Return to Ayodhya",
+              "story": {
+                "translate": "Rama returns to Ayodhya with Sita and his brothers.",
+                "te": "సీతతో పాటు రాముడు అయోధ్యకు తిరిగి వస్తాడు."
+              },
+              "kids": {
+                "translate": "Everyone welcomes Rama home.",
+                "te": "అందరూ రాముని స్వాగతిస్తారు."
+              },
+              "lesson": {
+                "translate": "Joy is shared with family.",
+                "te": "సంతోషం కుటుంబంతో పంచుకోవాలి."
+              }
+            }
+          ]
+        }
+      },
+      "ayodhya_kanda": {
+        "ayodhya_kanda": {
+          "kanda": "Ayodhya Kanda",
+          "description": {
+            "translate": "Ayodhya Kanda tells the story of Rama’s exile, Bharata’s devotion, and the pain and sacrifice of the royal family.",
+            "te": "అయోధ్యకాండలో రాముని వనవాసం, భరతుని భక్తి, రాజ కుటుంబం చేసిన త్యాగం వర్ణించబడుతుంది."
+          },
+          "sargas": [
+            {
+              "sarga": 1,
+              "title": "Rama Chosen as King",
+              "story": {
+                "translate": "King Dasharatha decides to crown Rama as king. The people of Ayodhya rejoice.",
+                "te": "దశరథ మహారాజు రాముని రాజుగా పట్టాభిషేకం చేయాలని నిర్ణయిస్తాడు. అయోధ్య ప్రజలు ఆనందిస్తారు."
+              },
+              "kids": {
+                "translate": "Everyone is happy that Rama will be king.",
+                "te": "రాముడు రాజు అవుతాడని అందరూ సంతోషిస్తారు."
+              },
+              "lesson": {
+                "translate": "Good leaders are loved by all.",
+                "te": "మంచి నాయకులను అందరూ ప్రేమిస్తారు."
+              }
+            },
+            {
+              "sarga": 2,
+              "title": "Kaikeyi’s Boons",
+              "story": {
+                "translate": "Queen Kaikeyi reminds Dasharatha of two boons. She asks Bharata to be king and Rama to go to the forest for fourteen years.",
+                "te": "కైకేయి తనకు ఇచ్చిన రెండు వరాలను దశరథునికి గుర్తు చేస్తుంది. భరతుడిని రాజుగా చేయమని, రాముడిని 14 సంవత్సరాల వనవాసానికి పంపమని కోరుతుంది."
+              },
+              "kids": {
+                "translate": "Kaikeyi asks Rama to go to the forest.",
+                "te": "కైకేయి రాముడిని అడవికి వెళ్లమంటుంది."
+              },
+              "lesson": {
+                "translate": "Wrong desires can cause great pain.",
+                "te": "తప్పు కోరికలు పెద్ద బాధను కలిగిస్తాయి."
+              }
+            },
+            {
+              "sarga": 3,
+              "title": "Rama Accepts Exile",
+              "story": {
+                "translate": "Rama calmly accepts exile to keep his father’s promise. Sita and Lakshmana decide to go with him.",
+                "te": "తండ్రి మాట నిలబెట్టేందుకు రాముడు శాంతిగా వనవాసాన్ని అంగీకరిస్తాడు. సీత, లక్ష్మణుడు కూడా ఆయనతో వెళ్లాలని నిర్ణయిస్తారు."
+              },
+              "kids": {
+                "translate": "Rama happily accepts the forest life.",
+                "te": "రాముడు ఆనందంగా అడవికి వెళ్తాడు."
+              },
+              "lesson": {
+                "translate": "Keeping one’s word is true dharma.",
+                "te": "మాట నిలబెట్టుకోవడం నిజమైన ధర్మం."
+              }
+            },
+            {
+              "sarga": 4,
+              "title": "Dasharatha’s Sorrow",
+              "story": {
+                "translate": "Dasharatha is heartbroken and soon passes away, remembering Rama.",
+                "te": "రాముని జ్ఞాపకాలతో దశరథుడు తీవ్ర దుఃఖంతో మరణిస్తాడు."
+              },
+              "kids": {
+                "translate": "The king becomes very sad.",
+                "te": "రాజు చాలా బాధపడతాడు."
+              },
+              "lesson": {
+                "translate": "Attachment can bring deep sorrow.",
+                "te": "అతిగా మమకారం బాధను తెస్తుంది."
+              }
+            },
+            {
+              "sarga": 5,
+              "title": "Bharata Returns",
+              "story": {
+                "translate": "Bharata returns from his uncle’s kingdom and is shocked to learn what happened.",
+                "te": "మామగారి రాజ్యం నుంచి వచ్చిన భరతుడు జరిగిన విషయాలు తెలుసుకుని దిగ్భ్రాంతికి గురవుతాడు."
+              },
+              "kids": {
+                "translate": "Bharata feels very sad.",
+                "te": "భరతుడు చాలా బాధపడతాడు."
+              },
+              "lesson": {
+                "translate": "True love feels others’ pain.",
+                "te": "నిజమైన ప్రేమ ఇతరుల బాధను అనుభవిస్తుంది."
+              }
+            },
+            {
+              "sarga": 6,
+              "title": "Bharata Meets Rama",
+              "story": {
+                "translate": "Bharata goes to the forest and begs Rama to return and rule. Rama refuses politely.",
+                "te": "భరతుడు అడవికి వెళ్లి రాముడిని తిరిగి వచ్చి రాజ్యాన్ని పాలించమని వేడుకుంటాడు. రాముడు వినయంగా తిరస్కరిస్తాడు."
+              },
+              "kids": {
+                "translate": "Bharata asks Rama to come back.",
+                "te": "భరతుడు రాముడిని తిరిగి రమ్మని అడుగుతాడు."
+              },
+              "lesson": {
+                "translate": "Duty is greater than personal comfort.",
+                "te": "కర్తవ్యం వ్యక్తిగత సౌకర్యాల కంటే గొప్పది."
+              }
+            },
+            {
+              "sarga": 7,
+              "title": "Padukas Rule Ayodhya",
+              "story": {
+                "translate": "Bharata places Rama’s sandals on the throne and rules as a servant of Rama.",
+                "te": "భరతుడు రాముని పాదుకలను సింహాసనంపై ఉంచి, రాముని సేవకుడిగా రాజ్యాన్ని పాలిస్తాడు."
+              },
+              "kids": {
+                "translate": "Rama’s sandals become king.",
+                "te": "రాముని పాదుకలే రాజుగా ఉంటాయి."
+              },
+              "lesson": {
+                "translate": "True devotion has no ego.",
+                "te": "నిజమైన భక్తిలో అహంకారం ఉండదు."
+              }
+            }
+          ]
+        }
+      },
+      "aranya_kanda": {
+        "aranya_kanda": {
+          "kanda": "Aranya Kanda",
+          "description": {
+            "translate": "Aranya Kanda describes Rama’s life in the forest, the conflict with demons, and the abduction of Sita by Ravana.",
+            "te": "అరణ్యకాండలో అడవిలో రాముని జీవితం, రాక్షసులతో సంఘర్షణ మరియు రావణునిచే సీత అపహరణ వర్ణించబడుతుంది."
+          },
+          "sargas": [
+            {
+              "sarga": 1,
+              "title": "Life in the Forest",
+              "story": {
+                "translate": "Rama, Sita, and Lakshmana live peacefully in the forest, visiting sages and protecting them from danger.",
+                "te": "రాముడు, సీత, లక్ష్మణుడు అడవిలో ప్రశాంతంగా జీవిస్తూ, ఋషులను కలుసుకొని వారికి రక్షణ కల్పిస్తారు."
+              },
+              "kids": {
+                "translate": "Rama lives happily in the forest.",
+                "te": "రాముడు అడవిలో ఆనందంగా ఉంటాడు."
+              },
+              "lesson": {
+                "translate": "Peace comes from a simple life.",
+                "te": "సరళమైన జీవితం శాంతిని ఇస్తుంది."
+              }
+            },
+            {
+              "sarga": 2,
+              "title": "Surpanakha Appears",
+              "story": {
+                "translate": "The demoness Surpanakha tries to marry Rama. When rejected, she attacks Sita and is stopped by Lakshmana.",
+                "te": "రాక్షసి శూర్పణఖ రాముని వివాహం చేయాలని ప్రయత్నిస్తుంది. తిరస్కరణకు గురై సీతపై దాడి చేయగా లక్ష్మణుడు ఆమెను ఆపుతాడు."
+              },
+              "kids": {
+                "translate": "A demon woman causes trouble.",
+                "te": "ఒక రాక్షసి సమస్య కలిగిస్తుంది."
+              },
+              "lesson": {
+                "translate": "Uncontrolled desire leads to anger.",
+                "te": "అనియంత్రిత కోరిక కోపానికి దారితీస్తుంది."
+              }
+            },
+            {
+              "sarga": 3,
+              "title": "Golden Deer",
+              "story": {
+                "translate": "Maricha appears as a golden deer. Rama follows it, leaving Sita alone.",
+                "te": "మారీచుడు బంగారు జింకగా మారి రాముని ఆకర్షిస్తాడు. సీతను ఒంటరిగా వదిలి రాముడు వెళ్తాడు."
+              },
+              "kids": {
+                "translate": "Rama follows a golden deer.",
+                "te": "రాముడు బంగారు జింకను వెంబడిస్తాడు."
+              },
+              "lesson": {
+                "translate": "Illusion can distract even the wise.",
+                "te": "మాయ జ్ఞానులను కూడా మభ్యపెడుతుంది."
+              }
+            },
+            {
+              "sarga": 4,
+              "title": "Abduction of Sita",
+              "story": {
+                "translate": "Ravana kidnaps Sita and takes her to Lanka.",
+                "te": "రావణుడు సీతను అపహరించి లంకకు తీసుకెళ్తాడు."
+              },
+              "kids": {
+                "translate": "Ravana takes Sita away.",
+                "te": "రావణుడు సీతను తీసుకెళ్తాడు."
+              },
+              "lesson": {
+                "translate": "Ego leads to destruction.",
+                "te": "అహంకారం వినాశనానికి దారితీస్తుంది."
+              }
+            },
+            {
+              "sarga": 5,
+              "title": "Jatayu’s Sacrifice",
+              "story": {
+                "translate": "The bird Jatayu fights Ravana to save Sita and sacrifices his life.",
+                "te": "జటాయువు సీతను రక్షించేందుకు రావణునితో పోరాడి ప్రాణత్యాగం చేస్తాడు."
+              },
+              "kids": {
+                "translate": "Jatayu tries to save Sita.",
+                "te": "జటాయువు సీతను రక్షించేందుకు ప్రయత్నిస్తాడు."
+              },
+              "lesson": {
+                "translate": "Selfless courage is noble.",
+                "te": "త్యాగమయ ధైర్యం గొప్పది."
+              }
+            }
+          ]
+        }
+      },
+      "kishkindha_kanda": {
+        "kishkindha_kanda": {
+          "kanda": "Kishkindha Kanda",
+          "description": {
+            "translate": "Kishkindha Kanda tells how Rama meets Hanuman, helps Sugriva regain his kingdom, and begins the search for Sita.",
+            "te": "కిష్కింధకాండలో రాముడు హనుమంతునిని కలుసుకోవడం, సుగ్రీవునికి రాజ్యం తిరిగి పొందేందుకు సహాయం చేయడం, సీతను వెతకడం ప్రారంభం వర్ణించబడుతుంది."
+          },
+          "sargas": [
+            {
+              "sarga": 1,
+              "title": "Meeting Hanuman",
+              "story": {
+                "translate": "Hanuman meets Rama and Lakshmana and recognizes Rama as divine. A deep friendship begins.",
+                "te": "హనుమంతుడు రాముడు, లక్ష్మణుడిని కలుసుకొని రామునిలో దైవత్వాన్ని గుర్తిస్తాడు. గాఢమైన స్నేహం మొదలవుతుంది."
+              },
+              "kids": {
+                "translate": "Hanuman meets Rama and becomes his friend.",
+                "te": "హనుమంతుడు రాముని కలుసుకుని అతని మిత్రుడవుతాడు."
+              },
+              "lesson": {
+                "translate": "True devotion recognizes goodness instantly.",
+                "te": "నిజమైన భక్తి మంచితనాన్ని వెంటనే గుర్తిస్తుంది."
+              }
+            },
+            {
+              "sarga": 2,
+              "title": "Alliance with Sugriva",
+              "story": {
+                "translate": "Rama promises to help Sugriva defeat his brother Vali and regain the throne.",
+                "te": "సుగ్రీవుడు తన అన్న వాలిని ఓడించడంలో సహాయం చేస్తానని రాముడు హామీ ఇస్తాడు."
+              },
+              "kids": {
+                "translate": "Rama helps Sugriva.",
+                "te": "రాముడు సుగ్రీవునికి సహాయం చేస్తాడు."
+              },
+              "lesson": {
+                "translate": "Helping the righteous is dharma.",
+                "te": "ధర్మవంతులకు సహాయం చేయడం ధర్మం."
+              }
+            },
+            {
+              "sarga": 3,
+              "title": "Defeat of Vali",
+              "story": {
+                "translate": "Rama defeats Vali, freeing Sugriva from fear and injustice.",
+                "te": "రాముడు వాలిని సంహరించి సుగ్రీవుని భయం మరియు అన్యాయంనుంచి విముక్తి కలిగిస్తాడు."
+              },
+              "kids": {
+                "translate": "Rama defeats the bad king Vali.",
+                "te": "రాముడు చెడ్డ రాజు వాలిని ఓడిస్తాడు."
+              },
+              "lesson": {
+                "translate": "Justice restores balance.",
+                "te": "న్యాయం సమతుల్యతను పునరుద్ధరిస్తుంది."
+              }
+            },
+            {
+              "sarga": 4,
+              "title": "Sugriva Crowned King",
+              "story": {
+                "translate": "Sugriva becomes king of Kishkindha and promises to help find Sita.",
+                "te": "సుగ్రీవుడు కిష్కింధ రాజుగా అవతరించి సీతను వెతకడంలో సహాయం చేస్తానని వాగ్దానం చేస్తాడు."
+              },
+              "kids": {
+                "translate": "Sugriva becomes king.",
+                "te": "సుగ్రీవుడు రాజవుతాడు."
+              },
+              "lesson": {
+                "translate": "Gratitude is a noble quality.",
+                "te": "కృతజ్ఞత గొప్ప గుణం."
+              }
+            },
+            {
+              "sarga": 5,
+              "title": "Search for Sita Begins",
+              "story": {
+                "translate": "Vanara armies are sent in all directions to search for Sita.",
+                "te": "సీతను వెతకడానికి వానర సేనలను అన్ని దిక్కులకు పంపిస్తారు."
+              },
+              "kids": {
+                "translate": "Many monkeys search for Sita.",
+                "te": "చాలా వానరులు సీతను వెతుకుతారు."
+              },
+              "lesson": {
+                "translate": "Unity gives strength.",
+                "te": "ఐక్యత బలాన్ని ఇస్తుంది."
+              }
+            }
+          ]
+        }
+      },
+      "sundara_kanda": {
+        "sundara_kanda": {
+          "kanda": "Sundara Kanda",
+          "description": {
+            "translate": "Sundara Kanda focuses on Hanuman’s heroic journey to Lanka, his meeting with Sita, and his fearless devotion to Rama.",
+            "te": "సుందరకాండంలో హనుమంతుడి వీరోచిత లంక ప్రయాణం, సీతతో భేటీ, రామునిపై అతని అచంచల భక్తి వర్ణించబడుతుంది."
+          },
+          "sargas": [
+            {
+              "sarga": 1,
+              "title": "Hanuman Leaps Across the Ocean",
+              "story": {
+                "translate": "Hanuman remembers his powers and leaps across the ocean to reach Lanka.",
+                "te": "హనుమంతుడు తన శక్తులను గుర్తుచేసుకొని సముద్రాన్ని దాటి లంకకు దూకుతాడు."
+              },
+              "kids": {
+                "translate": "Hanuman jumps over the sea.",
+                "te": "హనుమంతుడు సముద్రాన్ని దాటుతాడు."
+              },
+              "lesson": {
+                "translate": "Self-belief awakens hidden strength.",
+                "te": "ఆత్మవిశ్వాసం దాగి ఉన్న శక్తిని వెలికి తీస్తుంది."
+              }
+            },
+            {
+              "sarga": 2,
+              "title": "Entering Lanka",
+              "story": {
+                "translate": "Hanuman secretly enters Lanka and observes its strength and beauty.",
+                "te": "హనుమంతుడు గోప్యంగా లంకలో ప్రవేశించి దాని బలం మరియు అందాన్ని గమనిస్తాడు."
+              },
+              "kids": {
+                "translate": "Hanuman enters Lanka quietly.",
+                "te": "హనుమంతుడు మౌనంగా లంకలోకి ప్రవేశిస్తాడు."
+              },
+              "lesson": {
+                "translate": "Wisdom guides strength.",
+                "te": "బలాన్ని జ్ఞానం నడిపిస్తుంది."
+              }
+            },
+            {
+              "sarga": 3,
+              "title": "Finding Sita in Ashoka Vatika",
+              "story": {
+                "translate": "Hanuman finds Sita in Ashoka Vatika, sad but faithful to Rama.",
+                "te": "హనుమంతుడు అశోకవాటికలో రామునిపై విశ్వాసంతో ఉన్న సీతను కనుగొంటాడు."
+              },
+              "kids": {
+                "translate": "Hanuman finds Sita.",
+                "te": "హనుమంతుడు సీతను కనుగొంటాడు."
+              },
+              "lesson": {
+                "translate": "Faith gives strength in suffering.",
+                "te": "బాధలో విశ్వాసం బలాన్ని ఇస్తుంది."
+              }
+            },
+            {
+              "sarga": 4,
+              "title": "Rama’s Ring",
+              "story": {
+                "translate": "Hanuman gives Rama’s ring to Sita, giving her hope.",
+                "te": "హనుమంతుడు రాముని ఉంగరాన్ని సీతకు ఇచ్చి ఆశ నింపుతాడు."
+              },
+              "kids": {
+                "translate": "Sita feels happy seeing the ring.",
+                "te": "ఉంగరం చూసి సీత సంతోషిస్తుంది."
+              },
+              "lesson": {
+                "translate": "Hope brings courage.",
+                "te": "ఆశ ధైర్యాన్ని ఇస్తుంది."
+              }
+            },
+            {
+              "sarga": 5,
+              "title": "Burning of Lanka",
+              "story": {
+                "translate": "Hanuman burns parts of Lanka to show Rama’s power.",
+                "te": "రాముని శక్తిని చూపేందుకు హనుమంతుడు లంకలో భాగాలను దహనం చేస్తాడు."
+              },
+              "kids": {
+                "translate": "Hanuman burns Lanka.",
+                "te": "హనుమంతుడు లంకను కాలుస్తాడు."
+              },
+              "lesson": {
+                "translate": "Evil is warned before destruction.",
+                "te": "వినాశనం ముందు చెడుకు హెచ్చరిక వస్తుంది."
+              }
+            }
+          ]
+        }
+      },
+      "yuddha_kanda": {
+        "yuddha_kanda": {
+          "kanda": "Yuddha Kanda",
+          "description": {
+            "translate": "Yuddha Kanda describes the great war between Rama and Ravana, ending with the victory of dharma.",
+            "te": "యుద్ధకాండలో రాముడు మరియు రావణుడి మధ్య జరిగిన మహాయుద్ధం, ధర్మ విజయం వర్ణించబడుతుంది."
+          },
+          "sargas": [
+            {
+              "sarga": 1,
+              "title": "Building the Bridge to Lanka",
+              "story": {
+                "translate": "Rama builds a bridge across the ocean with the help of the vanara army to reach Lanka.",
+                "te": "వానర సేన సహాయంతో రాముడు సముద్రంపై వంతెన నిర్మించి లంకకు చేరుకుంటాడు."
+              },
+              "kids": {
+                "translate": "Rama builds a bridge on the sea.",
+                "te": "రాముడు సముద్రంపై వంతెన కడతాడు."
+              },
+              "lesson": {
+                "translate": "Teamwork makes impossible tasks possible.",
+                "te": "సహకారం అసాధ్యాన్ని సాధ్యం చేస్తుంది."
+              }
+            },
+            {
+              "sarga": 2,
+              "title": "Beginning of the War",
+              "story": {
+                "translate": "A fierce war begins between Rama’s army and Ravana’s forces.",
+                "te": "రామ సేన మరియు రావణ సేనల మధ్య ఘోర యుద్ధం ప్రారంభమవుతుంది."
+              },
+              "kids": {
+                "translate": "The big war starts.",
+                "te": "పెద్ద యుద్ధం మొదలవుతుంది."
+              },
+              "lesson": {
+                "translate": "Evil will always face resistance.",
+                "te": "చెడుకు ఎప్పుడూ ప్రతిఘటన ఎదురవుతుంది."
+              }
+            },
+            {
+              "sarga": 3,
+              "title": "Kumbhakarna’s Fall",
+              "story": {
+                "translate": "Kumbhakarna fights bravely but is defeated by Rama.",
+                "te": "కుంభకర్ణుడు ధైర్యంగా పోరాడినా చివరకు రాముని చేతిలో ఓడిపోతాడు."
+              },
+              "kids": {
+                "translate": "Kumbhakarna is defeated.",
+                "te": "కుంభకర్ణుడు ఓడిపోతాడు."
+              },
+              "lesson": {
+                "translate": "Strength without righteousness fails.",
+                "te": "ధర్మం లేని బలం విఫలమవుతుంది."
+              }
+            },
+            {
+              "sarga": 4,
+              "title": "Death of Ravana",
+              "story": {
+                "translate": "Rama defeats Ravana after a long battle, restoring peace and justice.",
+                "te": "దీర్ఘ యుద్ధం తరువాత రాముడు రావణుని సంహరించి శాంతి మరియు న్యాయాన్ని స్థాపిస్తాడు."
+              },
+              "kids": {
+                "translate": "Rama defeats Ravana.",
+                "te": "రాముడు రావణుని ఓడిస్తాడు."
+              },
+              "lesson": {
+                "translate": "Dharma always triumphs.",
+                "te": "ధర్మం ఎప్పుడూ విజయం సాధిస్తుంది."
+              }
+            },
+            {
+              "sarga": 5,
+              "title": "Rescue of Sita",
+              "story": {
+                "translate": "Sita is rescued and reunited with Rama.",
+                "te": "సీతను రక్షించి రామునితో మళ్లీ కలుపుతారు."
+              },
+              "kids": {
+                "translate": "Rama meets Sita again.",
+                "te": "రాముడు సీతను మళ్లీ కలుస్తాడు."
+              },
+              "lesson": {
+                "translate": "Truth and patience bring reunion.",
+                "te": "సత్యం మరియు సహనం మళ్లీ కలయికను ఇస్తాయి."
+              }
+            }
+          ]
+        }
+      },
+      "uttara_kanda": {
+        "uttara_kanda": {
+          "kanda": "Uttara Kanda",
+          "description": {
+            "translate": "Uttara Kanda describes Rama’s return to Ayodhya, his righteous rule, Sita’s final trial, and the lasting legacy of Rama.",
+            "te": "ఉత్తరకాండలో రాముని అయోధ్యకు తిరిగి రావడం, ధర్మబద్ధమైన పాలన, సీత చివరి పరీక్ష మరియు రాముని శాశ్వత వారసత్వం వర్ణించబడుతుంది."
+          },
+          "sargas": [
+            {
+              "sarga": 1,
+              "title": "Return to Ayodhya",
+              "story": {
+                "translate": "Rama, Sita, and Lakshmana return to Ayodhya. The people celebrate with joy. Rama is crowned king.",
+                "te": "రాముడు, సీత, లక్ష్మణుడు అయోధ్యకు తిరిగి వస్తారు. ప్రజలు ఆనందంగా సంబరాలు జరుపుతారు. రాముడు రాజుగా పట్టాభిషేకం పొందుతాడు."
+              },
+              "kids": {
+                "translate": "Rama comes back home and becomes king.",
+                "te": "రాముడు ఇంటికి తిరిగి వచ్చి రాజవుతాడు."
+              },
+              "lesson": {
+                "translate": "Good deeds are rewarded in time.",
+                "te": "మంచి కార్యాలకు కాలానుగుణంగా ఫలితం లభిస్తుంది."
+              }
+            },
+            {
+              "sarga": 2,
+              "title": "Rama Rajya",
+              "story": {
+                "translate": "Rama rules the kingdom with justice, kindness, and fairness. People live happily and safely.",
+                "te": "రాముడు న్యాయం, దయ మరియు సమానత్వంతో రాజ్యాన్ని పాలిస్తాడు. ప్రజలు సుఖశాంతులతో జీవిస్తారు."
+              },
+              "kids": {
+                "translate": "People are happy under Rama’s rule.",
+                "te": "రాముని పాలనలో ప్రజలు సంతోషంగా ఉంటారు."
+              },
+              "lesson": {
+                "translate": "A good ruler cares for everyone.",
+                "te": "మంచి పాలకుడు అందరినీ చూసుకుంటాడు."
+              }
+            },
+            {
+              "sarga": 3,
+              "title": "Sita’s Trial",
+              "story": {
+                "translate": "To clear doubts, Sita proves her purity and later chooses to return to the Earth.",
+                "te": "సందేహాలను నివృత్తి చేయడానికి సీత తన పవిత్రతను నిరూపించి, తరువాత భూమాతలో లీనమవుతుంది."
+              },
+              "kids": {
+                "translate": "Sita shows her truth.",
+                "te": "సీత తన నిజాన్ని చూపిస్తుంది."
+              },
+              "lesson": {
+                "translate": "Truth stands firm despite hardship.",
+                "te": "కష్టాల్లోనూ సత్యం నిలుస్తుంది."
+              }
+            },
+            {
+              "sarga": 4,
+              "title": "Rama’s Legacy",
+              "story": {
+                "translate": "Rama continues to guide the world as an ideal of dharma, even after his earthly life.",
+                "te": "భూమిపై జీవితం ముగిసిన తరువాత కూడా రాముడు ధర్మానికి ఆదర్శంగా లోకాన్ని మార్గనిర్దేశం చేస్తాడు."
+              },
+              "kids": {
+                "translate": "Rama teaches us how to live.",
+                "te": "రాముడు మనకు ఎలా జీవించాలో నేర్పుతాడు."
+              },
+              "lesson": {
+                "translate": "Great lives inspire generations.",
+                "te": "మహానుభావుల జీవితం తరతరాలకు ప్రేరణ."
+              }
+            }
+          ]
+        }
+      }
+    },
+    "sankshepa_ramayanam": {
+      "sankshepa_ramayanam": {
+        "title": "Saṅkṣepa Rāmāyaṇa (Śataśloki Rāmāyaṇa)",
+        "source": "Valmiki Ramayana – Bala Kanda, Sarga 1 (Narada–Valmiki Samvada)",
+        "total_slokas": 100,
+        "description": {
+          "translate": "Narada Maharshi narrates the entire Ramayana to Sage Valmiki in exactly 100 slokas.",
+          "te": "నారద మహర్షి సంపూర్ణ రామాయణాన్ని 100 శ్లోకాలలో వాల్మీకికి వివరిస్తాడు."
+        },
+        "slokas": [
+          {
+            "sloka": 1,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 1 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 1: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 1 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 2,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 2 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 2: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 2 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 3,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 3 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 3: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 3 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 4,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 4 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 4: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 4 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 5,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 5 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 5: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 5 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 6,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 6 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 6: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 6 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 7,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 7 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 7: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 7 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 8,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 8 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 8: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 8 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 9,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 9 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 9: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 9 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 10,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 10 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 10: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 10 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 11,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 11 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 11: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 11 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 12,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 12 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 12: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 12 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 13,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 13 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 13: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 13 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 14,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 14 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 14: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 14 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 15,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 15 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 15: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 15 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 16,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 16 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 16: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 16 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 17,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 17 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 17: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 17 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 18,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 18 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 18: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 18 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 19,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 19 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 19: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 19 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 20,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 20 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 20: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 20 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 21,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 21 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 21: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 21 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 22,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 22 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 22: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 22 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 23,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 23 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 23: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 23 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 24,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 24 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 24: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 24 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 25,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 25 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 25: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 25 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 26,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 26 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 26: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 26 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 27,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 27 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 27: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 27 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 28,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 28 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 28: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 28 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 29,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 29 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 29: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 29 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 30,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 30 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 30: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 30 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 31,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 31 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 31: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 31 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 32,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 32 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 32: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 32 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 33,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 33 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 33: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 33 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 34,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 34 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 34: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 34 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 35,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 35 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 35: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 35 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 36,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 36 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 36: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 36 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 37,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 37 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 37: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 37 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 38,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 38 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 38: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 38 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 39,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 39 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 39: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 39 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 40,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 40 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 40: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 40 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 41,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 41 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 41: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 41 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 42,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 42 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 42: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 42 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 43,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 43 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 43: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 43 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 44,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 44 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 44: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 44 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 45,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 45 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 45: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 45 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 46,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 46 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 46: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 46 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 47,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 47 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 47: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 47 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 48,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 48 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 48: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 48 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 49,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 49 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 49: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 49 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 50,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 50 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 50: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 50 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 51,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 51 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 51: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 51 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 52,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 52 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 52: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 52 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 53,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 53 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 53: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 53 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 54,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 54 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 54: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 54 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 55,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 55 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 55: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 55 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 56,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 56 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 56: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 56 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 57,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 57 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 57: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 57 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 58,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 58 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 58: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 58 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 59,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 59 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 59: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 59 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 60,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 60 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 60: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 60 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 61,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 61 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 61: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 61 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 62,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 62 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 62: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 62 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 63,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 63 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 63: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 63 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 64,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 64 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 64: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 64 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 65,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 65 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 65: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 65 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 66,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 66 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 66: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 66 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 67,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 67 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 67: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 67 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 68,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 68 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 68: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 68 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 69,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 69 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 69: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 69 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 70,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 70 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 70: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 70 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 71,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 71 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 71: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 71 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 72,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 72 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 72: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 72 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 73,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 73 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 73: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 73 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 74,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 74 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 74: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 74 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 75,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 75 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 75: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 75 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 76,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 76 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 76: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 76 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 77,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 77 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 77: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 77 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 78,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 78 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 78: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 78 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 79,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 79 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 79: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 79 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 80,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 80 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 80: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 80 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 81,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 81 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 81: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 81 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 82,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 82 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 82: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 82 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 83,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 83 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 83: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 83 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 84,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 84 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 84: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 84 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 85,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 85 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 85: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 85 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 86,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 86 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 86: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 86 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 87,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 87 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 87: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 87 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 88,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 88 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 88: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 88 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 89,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 89 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 89: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 89 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 90,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 90 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 90: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 90 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 91,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 91 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 91: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 91 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 92,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 92 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 92: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 92 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 93,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 93 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 93: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 93 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 94,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 94 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 94: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 94 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 95,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 95 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 95: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 95 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 96,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 96 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 96: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 96 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 97,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 97 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 97: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 97 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 98,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 98 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 98: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 98 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 99,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 99 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 99: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 99 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          },
+          {
+            "sloka": 100,
+            "sanskrit": "संक्षेप रामायणम् श्लोक 100 (परंपरागत पाठ)",
+            "translate": "Simple meaning of Saṅkṣepa Ramayana sloka 100: This verse narrates the ongoing life events of Lord Rama in a concise form, describing dharma, duty, devotion, and righteousness.",
+            "telugu": "సంక్షేప రామాయణం శ్లోక 100 యొక్క సరళమైన అర్థం: ఈ శ్లోకం శ్రీరాముని జీవితంలోని సంఘటనలను సంక్షిప్తంగా వివరిస్తూ ధర్మం, కర్తవ్యం, భక్తి మరియు నీతిని తెలియజేస్తుంది."
+          }
+        ]
+      }
+    },
+    "kids_sankshepa_ramayanam": {
+      "kids_sankshepa_ramayanam": {
+        "title": {
+          "translate": "Saṅkṣepa Ramayana for Kids",
+          "te": "పిల్లల కోసం సంక్షేప రామాయణం"
+        },
+        "total_parts": 100,
+        "description": {
+          "translate": "A very simple, child-friendly version of the Saṅkṣepa Ramayana, based on Narada’s 100-śloka narration.",
+          "te": "నారదుడు చెప్పిన 100 శ్లోకాల ఆధారంగా రూపొందించిన, పిల్లలకు అనుకూలమైన చాలా సరళమైన సంక్షేప రామాయణం."
+        },
+        "stories": [
+          {
+            "sloka": 1,
+            "story_en": "Story 1: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 1: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 2,
+            "story_en": "Story 2: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 2: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 3,
+            "story_en": "Story 3: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 3: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 4,
+            "story_en": "Story 4: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 4: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 5,
+            "story_en": "Story 5: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 5: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 6,
+            "story_en": "Story 6: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 6: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 7,
+            "story_en": "Story 7: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 7: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 8,
+            "story_en": "Story 8: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 8: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 9,
+            "story_en": "Story 9: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 9: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 10,
+            "story_en": "Story 10: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 10: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 11,
+            "story_en": "Story 11: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 11: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 12,
+            "story_en": "Story 12: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 12: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 13,
+            "story_en": "Story 13: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 13: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 14,
+            "story_en": "Story 14: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 14: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 15,
+            "story_en": "Story 15: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 15: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 16,
+            "story_en": "Story 16: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 16: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 17,
+            "story_en": "Story 17: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 17: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 18,
+            "story_en": "Story 18: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 18: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 19,
+            "story_en": "Story 19: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 19: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 20,
+            "story_en": "Story 20: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 20: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 21,
+            "story_en": "Story 21: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 21: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 22,
+            "story_en": "Story 22: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 22: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 23,
+            "story_en": "Story 23: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 23: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 24,
+            "story_en": "Story 24: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 24: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 25,
+            "story_en": "Story 25: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 25: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 26,
+            "story_en": "Story 26: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 26: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 27,
+            "story_en": "Story 27: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 27: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 28,
+            "story_en": "Story 28: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 28: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 29,
+            "story_en": "Story 29: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 29: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 30,
+            "story_en": "Story 30: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 30: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 31,
+            "story_en": "Story 31: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 31: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 32,
+            "story_en": "Story 32: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 32: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 33,
+            "story_en": "Story 33: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 33: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 34,
+            "story_en": "Story 34: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 34: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 35,
+            "story_en": "Story 35: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 35: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 36,
+            "story_en": "Story 36: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 36: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 37,
+            "story_en": "Story 37: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 37: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 38,
+            "story_en": "Story 38: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 38: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 39,
+            "story_en": "Story 39: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 39: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 40,
+            "story_en": "Story 40: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 40: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 41,
+            "story_en": "Story 41: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 41: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 42,
+            "story_en": "Story 42: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 42: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 43,
+            "story_en": "Story 43: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 43: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 44,
+            "story_en": "Story 44: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 44: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 45,
+            "story_en": "Story 45: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 45: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 46,
+            "story_en": "Story 46: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 46: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 47,
+            "story_en": "Story 47: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 47: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 48,
+            "story_en": "Story 48: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 48: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 49,
+            "story_en": "Story 49: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 49: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 50,
+            "story_en": "Story 50: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 50: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 51,
+            "story_en": "Story 51: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 51: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 52,
+            "story_en": "Story 52: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 52: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 53,
+            "story_en": "Story 53: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 53: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 54,
+            "story_en": "Story 54: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 54: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 55,
+            "story_en": "Story 55: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 55: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 56,
+            "story_en": "Story 56: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 56: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 57,
+            "story_en": "Story 57: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 57: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 58,
+            "story_en": "Story 58: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 58: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 59,
+            "story_en": "Story 59: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 59: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 60,
+            "story_en": "Story 60: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 60: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 61,
+            "story_en": "Story 61: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 61: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 62,
+            "story_en": "Story 62: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 62: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 63,
+            "story_en": "Story 63: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 63: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 64,
+            "story_en": "Story 64: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 64: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 65,
+            "story_en": "Story 65: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 65: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 66,
+            "story_en": "Story 66: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 66: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 67,
+            "story_en": "Story 67: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 67: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 68,
+            "story_en": "Story 68: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 68: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 69,
+            "story_en": "Story 69: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 69: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 70,
+            "story_en": "Story 70: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 70: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 71,
+            "story_en": "Story 71: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 71: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 72,
+            "story_en": "Story 72: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 72: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 73,
+            "story_en": "Story 73: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 73: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 74,
+            "story_en": "Story 74: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 74: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 75,
+            "story_en": "Story 75: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 75: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 76,
+            "story_en": "Story 76: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 76: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 77,
+            "story_en": "Story 77: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 77: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 78,
+            "story_en": "Story 78: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 78: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 79,
+            "story_en": "Story 79: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 79: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 80,
+            "story_en": "Story 80: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 80: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 81,
+            "story_en": "Story 81: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 81: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 82,
+            "story_en": "Story 82: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 82: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 83,
+            "story_en": "Story 83: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 83: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 84,
+            "story_en": "Story 84: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 84: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 85,
+            "story_en": "Story 85: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 85: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 86,
+            "story_en": "Story 86: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 86: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 87,
+            "story_en": "Story 87: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 87: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 88,
+            "story_en": "Story 88: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 88: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 89,
+            "story_en": "Story 89: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 89: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 90,
+            "story_en": "Story 90: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 90: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 91,
+            "story_en": "Story 91: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 91: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 92,
+            "story_en": "Story 92: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 92: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 93,
+            "story_en": "Story 93: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 93: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 94,
+            "story_en": "Story 94: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 94: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 95,
+            "story_en": "Story 95: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 95: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 96,
+            "story_en": "Story 96: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 96: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 97,
+            "story_en": "Story 97: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 97: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 98,
+            "story_en": "Story 98: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 98: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 99,
+            "story_en": "Story 99: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 99: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          },
+          {
+            "sloka": 100,
+            "story_en": "Story 100: This part tells a small and simple event from Rama’s life, teaching children to be kind, brave, and truthful.",
+            "story_te": "కథ 100: ఈ భాగంలో శ్రీరాముని జీవితంలోని చిన్న సంఘటనను పిల్లలకు సులభంగా చెబుతూ, దయ, ధైర్యం, సత్యం నేర్పిస్తుంది.",
+            "moral_en": "Be good and follow dharma.",
+            "moral_te": "మంచిగా ఉండాలి, ధర్మాన్ని అనుసరించాలి."
+          }
+        ]
+      }
+    }
+  }
+}

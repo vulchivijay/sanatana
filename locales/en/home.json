@@ -1,0 +1,217 @@
+{
+  "home": {
+    "SanatanaDharma": {
+      "title": "Sanatana Dharma — Explore Sanatana Dharma",
+      "Definition": "The eternal and universal way of life based on truth, righteousness, and spiritual principles that uphold cosmic order.",
+      "Etymology": {
+        "Sanatana": "Eternal, timeless, universal",
+        "Dharma": "That which sustains and upholds; moral, ethical, and spiritual law"
+      },
+      "CorePrinciples": [
+        "Satya (Truth)",
+        "Ahimsa (Non-violence)",
+        "Dharma (Righteous duty)",
+        "Purity of thought and action",
+        "Self-realization (Atma-Jnana)"
+      ],
+      "PhilosophicalThemes": [
+        "Unity of all existence",
+        "Law of Karma and rebirth",
+        "Liberation (Moksha) as life’s ultimate goal",
+        "Respect for diversity of paths"
+      ],
+      "Scriptures": {
+        "Primary": [
+          "Vedas",
+          "Upanishads",
+          "Bhagavad Gita"
+        ],
+        "Secondary": [
+          "Smritis",
+          "Puranas",
+          "Dharma Shastras"
+        ]
+      },
+      "Practices": [
+        "Yoga and Meditation",
+        "Yajna (Sacred rituals)",
+        "Bhakti (Devotion)",
+        "Jnana (Knowledge)",
+        "Seva (Selfless service)"
+      ],
+      "Values": [
+        "Compassion",
+        "Tolerance",
+        "Harmony with nature",
+        "Spiritual progress over materialism"
+      ],
+      "UltimateGoal": "Moksha – Liberation from the cycle of birth and death through realization of the Self as Brahman."
+    },
+    "hero": {
+      "title": "Shiva",
+      "description": "Lord Shiva’s “birth” is symbolic, not historical. He is revered as the eternal, unborn source of consciousness, appearing in forms like Rudra or Jyotirlinga to guide creation. His presence is celebrated in philosophy, yoga, and devotion rather than tied to a specific earthly year or place."
+    },
+    "slides": [
+      {
+        "sankritTitle": "ॐ गणेशाय नमः",
+        "englishTitle": "(Om Ganeshaya Namah)",
+        "subtitle": "`I bow to Lord Ganesha.` The remover of obstacles, patron of wisdom, prosperity, and auspicious beginnings.",
+        "imgSrc": "/images/slider/lord-ganesh.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ पार्वत्यै नमः",
+        "englishTitle": "(Om Parvatyai Namah)",
+        "subtitle": "`I bow to Parvati.` The divine mother goddess, symbolizing love, fertility, and devotion.",
+        "imgSrc": "/images/slider/lord-shiva-paravathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ शरवणभवाय नमः",
+        "englishTitle": "(Om Sharavanabhavaya Namah)",
+        "subtitle": "`I bow to Lord Murugan.` The god of war and victory, known for his courage, strength, and wisdom.",
+        "imgSrc": "/images/slider/lord-subramanyaswamy.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ नमः शिवाय",
+        "englishTitle": "(Om Namah Shivaya)",
+        "subtitle": "`I bow to Shiva.` The simplest and most powerful mantra for inner peace, purification, and spiritual awakening.",
+        "imgSrc": "/images/slider/lord-shiva.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ नमो भगवते वासुदेवाय",
+        "englishTitle": "(Om Namo Bhagavate Vasudevaya)",
+        "subtitle": "`I bow to Lord Vasudeva (Krishna).` A powerful mantra for devotion, protection, and spiritual growth.",
+        "imgSrc": "/images/slider/lord-vishnu-lakshmi.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "श्री राम जय राम जय जय राम",
+        "englishTitle": "(Shri Rama Jaya Rama Jaya Jaya Rama)",
+        "subtitle": "`Glory to Rama, Victory to Rama, All victory to Rama.` This is the famous *Tarak Mantra* (Liberation Mantra), chanted for **Moksha**, inner peace, and divine protection.",
+        "imgSrc": "/images/slider/lord-rama-sita.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "हरे राम हरे राम राम राम हरे हरे। हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे॥",
+        "englishTitle": "(Hare Rama Hare Rama Rama Rama Hare Hare. Hare Krishna Hare Krishna Krishna Krishna Hare Hare.)",
+        "subtitle": "`O Energy of the Lord, O Rama, O Krishna, please engage me in Your devotional service.` This Mahamantra is chanted for **spiritual liberation (Moksha), cleansing the mind of distress, and experiencing divine ecstasy and bliss.**",
+        "imgSrc": "/images/slider/lord-krishna-rada.png",
+        "placementImage": "left"
+      },
+      {
+        "sankritTitle": "ॐ सरस्वत्यै नमः",
+        "englishTitle": "(Om Sarasvatyai Namah)",
+        "subtitle": "`I bow to Saraswati.` The goddess of knowledge, music, arts, and wisdom.",
+        "imgSrc": "/images/slider/lord-saraswathi.png",
+        "placementImage": "right"
+      },
+      {
+        "sankritTitle": "ॐ हनुमते नमः",
+        "englishTitle": "(Om Hanumate Namah)",
+        "subtitle": "`I bow to Hanuman.` The simple and potent Moola Mantra invoking courage, strength, wisdom, and protection from all dangers.",
+        "imgSrc": "/images/slider/lord-hanuman.png",
+        "placementImage": "left"
+      }
+    ],
+    "topics": [
+      "Scriptures",
+      "Stotras & Mantras",
+      "Philosophy",
+      "Practices",
+      "Stories",
+      "and Kids Zone"
+    ],
+    "buttons": {
+      "explore": "Scriptures",
+      "learnMore": "Stotras & Mantras"
+    },
+    "aboutTitle": "Om Namah Shivaya.",
+    "aboutTitle2": " Brings peace, strength, and spiritual growth.",
+    "sections": {
+      "fastDataTitle": "Mantra: Na mah Shivaya. Mantra: Om Tatpurushaya Vidmahe Mahadevaya Dheemahi Tanno Rudrah Prachodayaat",
+      "fastDataDesc": "Na mah Shivaya meaning: The five sacred syllables representing Shiva. Om Tatpurushaya meaning: Meditation on Lord Rudra for wisdom and strength.",
+      "trendsTitle": "Mantra: Om Namo Naraayanaya. Mantra: Om Narayanaya Vidmahe Vasudevaya Dheemahi Tanno Vishnuh Prachodayaat",
+      "trendsDesc": "Om Namo Naraayanaya meaning: I bow to Lord Narayana (Vishnu). Om Narayanaya Vidmahe meaning: Meditation on Lord Vishnu for wisdom and guidance.",
+      "adaptyxTitle": "The Saṅkṣepa Rāmāyaṇa (also called Śataśloki Rāmāyaṇa).",
+      "adaptyxDesc": "Vālmīki asks Nārada: “Who is the greatest person in the world, endowed with all virtues?” Nārada replies by describing Śrī Rāma’s qualities and narrates the entire Ramayana in condensed form. These 100 ślokas are known as Saṅkṣepa Rāmāyaṇa and are often chanted daily or on special occasions like Rama Navami.",
+      "adaptyxProbeDesc": "Opening ślokas: Vālmīki’s questions about the ideal man. Nārada’s reply: Describes Rāma’s virtues (guṇas) and narrates his life: Birth in Ikṣvāku dynasty Marriage to Sītā Exile for 14 years Abduction of Sītā by Rāvaṇa Alliance with Sugrīva and Hanuman War with Rāvaṇa and victory Coronation and righteous rule Ends with Phalaśruti (benefits of chanting)."
+    },
+    "shiva": {
+      "heading": [
+        "ॐ त्र्यम्बकं यजामहे",
+        "सुगन्धिं पुष्टिवर्धनम्।",
+        "उर्वारुकमिव बन्धनान्",
+        "मृत्योर्मुक्षीय माऽमृतात्॥"
+      ],
+      "transliteration": "Oṃ tryambakaṃ yajāmahe sugandhiṃ puṣṭi-vardhanam | Urvarukam iva bandhanān mṛtyor mukṣīya māmṛtāt ||"
+    },
+    "gayathri": {
+      "heading": [
+        "ॐ भूर्भुवः स्वः",
+        "तत् सवितुर्वरेण्यम्",
+        "भर्गो देवस्य धीमहि",
+        "धियो यो नः प्रचोदयात्"
+      ],
+      "transliteration": "Om Bhur Bhuvah Svah Tat Savitur Varenyam Bhargo Devasya Dheemahi Dhiyo Yo Nah Prachodayat",
+      "translation": "We meditate upon the desirable effulgence of the divine Sun, the impeller. May he stimulate our intellects."
+    },
+    "krishnaBg": {
+      "heading": [
+        "शान्ताकारम् भुजगशयनम् पद्मनाभम् सुरेशम्।",
+        "विश्वाधारम् गगनसदृशम् मेघवर्णम् शुभाङ्गम्।",
+        "लक्ष्मीकान्तम् कमलनयनम् योगिभिर्ध्यानगम्यम्।",
+        "वन्दे विष्णुम् भवभयहरम् सर्वलोकैकनाथम्॥"
+      ],
+      "transliteration": "I bow to Vishnu—Who has a peaceful demeanor (Shanta-karam)..."
+    },
+    "krishnaStotram": {
+      "title": [
+        "यदा यदा हि",
+        "धर्मस्य ग्लानिर्भवति भारत ।",
+        "अभ्युत्थानम धर्मस्य",
+        "तदात्मानं सृजाम्यहम् ॥"
+      ],
+      "transliteration": "Yadā yadā hi dharmasya glānirbhavati bhārata, Abhyutthāna madharmasya tadātmānaṁ sṛjāmyaham.",
+      "credit": "- by Lord Krishna.",
+      "translation": "Whenever and wherever there is a decline in righteousness (Dharma), O descendant of Bharata (Arjuna), and a predominance of unrighteousness (Adharma)—at that time I manifest Myself (take birth)."
+    },
+    "shivaHeading": [
+      "Shiva as the ",
+      "Supreme Being. ",
+      "He is the ultimate ",
+      "reality, beyond ",
+      "time and space."
+    ],
+    "stat1": "10,00,000+",
+    "stat1Desc": "More than one million Shiva Temples in India",
+    "stat2": "10,000+",
+    "stat2Desc": "Thousands of Hindu temples outside India",
+    "stat3": "10+",
+    "stat3Desc": "top most Shiva temples outside India with locations and unique features.",
+    "lingamText": [
+      "Lingam: Abstract representation ",
+      "of Shiva. Nataraja: Cosmic ",
+      "dancer symbolizing rhythm ",
+      "of creation ",
+      "and destruction."
+    ],
+    "ourFourCoreYugas": {
+      "title": "Our Four Core Yuga's",
+      "satyaTitle": "Satya Yuga (Golden Age):",
+      "satyaDuration": "Duration of Satya Yuga:",
+      "satyaDesc": "The first and best age, characterized by truth, righteousness (dharma), long life, health, and divine connection.",
+      "tretaTitle": "Treta Yuga (Silver Age):",
+      "tretaDuration": "Duration of Treta Yuga:",
+      "tretaDesc": "A slight decline from Satya Yuga; the time of the Ramayana, with less spiritual perfection.",
+      "dvaparaTitle": "Dvapara Yuga (Bronze Age):",
+      "dvaparaDuration": "Duration of Dvapara Yuga:",
+      "dvaparaDesc": "Further decline; shorter lives, more conflict; the era of the Mahabharata and Krishna's departure.",
+      "kaliTitle": "Kali Yuga (Iron Age):",
+      "kaliDuration": "Duration of Kali Yuga:",
+      "kaliDesc": "The current age, marked by strife, ignorance, and materialism; spiritual practices are more difficult but still possible."
+    }
+  }
+}

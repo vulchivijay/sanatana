@@ -1,0 +1,142 @@
+{
+  "ganeshstotras": {
+    "title": "",
+    "ganesh_stotras": [
+      {
+        "id": 1,
+        "name": "Ganesha Pancharatnam",
+        "author": "Adi Shankaracharya",
+        "language": "Sanskrit",
+        "type": "Stotra",
+        "description": "A five-gem hymn composed by Adi Shankaracharya praising Lord Ganesha as the remover of obstacles and giver of wisdom.",
+        "benefits": [
+          "Removes obstacles",
+          "Enhances intellect and memory",
+          "Increases positive energy",
+          "Purifies the mind"
+        ],
+        "key_excerpt": "मुदाकरात्तमोदकं सदाविमुक्तिसाधकम् ।",
+        "structure": {
+          "verses": 5,
+          "theme": "Devotion, removal of obstacles, divine grace"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Ganesha Atharvashirsha",
+        "origin": "Atharva Veda (Ganapati Upanishad)",
+        "type": "Upanishadic Hymn",
+        "language": "Sanskrit",
+        "description": "A sacred Upanishadic text declaring Ganesha as the Supreme Brahman, the manifestation of Om, and the cosmic reality.",
+        "benefits": [
+          "Spiritual strength",
+          "Protection from negativity",
+          "Purifies mind and environment",
+          "Bestows success in all endeavors"
+        ],
+        "key_excerpt": "त्वं एव प्रत्यक्षं तत्त्वम् असि ।",
+        "sections": [
+          "Salutation to Ganapati",
+          "Identification with Brahman",
+          "Meditation and bija mantras",
+          "Phala Shruti"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Ganesha Stotra from Narada Purana (Ganesha Kavacham)",
+        "origin": "Narada Purana",
+        "type": "Kavacha",
+        "language": "Sanskrit",
+        "description": "A protective armor prayer invoking various forms of Ganesha to guard the body and mind.",
+        "benefits": [
+          "Protection from harm",
+          "Removes fear",
+          "Destroys negative influences",
+          "Improves courage"
+        ],
+        "key_excerpt": "लम्बोदरः पातु मे हृदयं",
+        "coverage": {
+          "body_protection": "Head, heart, limbs, senses",
+          "closing": "Blessings for success"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Ganesha Moola Mantra Stotra",
+        "origin": "Tantric Tradition",
+        "type": "Stotra / Mantra",
+        "language": "Sanskrit",
+        "description": "A hymn built around the core Ganesha moola mantra 'Om Gam Ganapataye Namaha', praising his cosmic form.",
+        "benefits": [
+          "Focus and clarity",
+          "Eliminates internal obstacles",
+          "Improves emotional balance"
+        ],
+        "key_excerpt": "ॐ गं गणपतये नमः"
+      },
+      {
+        "id": 5,
+        "name": "Vakratunda Mahakaya Stotra",
+        "origin": "Puranic tradition",
+        "type": "Dhyanam / Invocation",
+        "language": "Sanskrit",
+        "description": "One of the most popular short stotras used before starting any work or puja.",
+        "benefits": [
+          "Removes difficulties before beginning tasks",
+          "Enhances concentration",
+          "Invokes blessings for success"
+        ],
+        "key_excerpt": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ ।",
+        "verses": 1
+      },
+      {
+        "id": 6,
+        "name": "Gajananam Bhoota Ganadi Sevitam",
+        "origin": "Ritual Invocation (Deva Puja)",
+        "type": "Dhyanam",
+        "language": "Sanskrit",
+        "description": "A popular Ganesha dhyana shloka describing the one-tusked Lord, the remover of obstacles.",
+        "benefits": [
+          "Purifies the space",
+          "Brings peace and clarity",
+          "Invokes auspiciousness"
+        ],
+        "key_excerpt": "गजाननं भूतगणादि सेवितम्",
+        "verses": 1
+      },
+      {
+        "id": 7,
+        "name": "Sri Siddhi Vinayaka Stotram",
+        "origin": "Puranic tradition",
+        "language": "Sanskrit",
+        "type": "Stotra",
+        "description": "A hymn dedicated to the Siddhi-Vinayaka form of Ganesha, granting fulfillment and success.",
+        "benefits": [
+          "Material prosperity",
+          "Achievement of goals",
+          "Overcomes legal and professional obstacles"
+        ],
+        "key_excerpt": "सिद्धि विनायकं वन्दे",
+        "sections": {
+          "verses": 16,
+          "theme": "Success, prosperity, divine blessings"
+        }
+      },
+      {
+        "id": 8,
+        "name": "Ganapati Stotram from Rudra Samhita",
+        "origin": "Shiva Purana – Rudra Samhita",
+        "language": "Sanskrit",
+        "type": "Stotra",
+        "description": "A hymn describing Ganesha as the beloved son of Shiva who grants boons instantly.",
+        "benefits": [
+          "Removes karmic obstacles",
+          "Strengthens devotion",
+          "Brings family peace"
+        ],
+        "key_excerpt": "सुरासुरैर्यत् परिपूज्यमानम्"
+      }
+    ]
+  }
+}

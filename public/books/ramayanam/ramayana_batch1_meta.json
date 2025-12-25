@@ -1,0 +1,118 @@
+{
+  "ramayana_meta": {
+    "title": "The Ramayana",
+    "source": "Valmiki Ramayana",
+    "language": [
+      "Simple English",
+      "Simple Telugu"
+    ],
+    "description": {
+      "translate": "The Ramayana is an ancient Indian epic that teaches dharma, truth, devotion, and righteousness through the life of Lord Rama.",
+      "te": "రామాయణం అనేది శ్రీరాముని జీవిత ద్వారా ధర్మం, సత్యం, భక్తి మరియు నీతిని బోధించే ప్రాచీన భారతీయ ఇతిహాసం."
+    },
+    "main_characters": [
+      {
+        "name": "Rama",
+        "role": {
+          "translate": "Prince of Ayodhya, avatar of Vishnu, embodiment of dharma.",
+          "te": "అయోధ్య యువరాజు, విష్ణువుని అవతారం, ధర్మ స్వరూపుడు."
+        }
+      },
+      {
+        "name": "Sita",
+        "role": {
+          "translate": "Wife of Rama, symbol of purity and devotion.",
+          "te": "రాముని భార్య, పవిత్రత మరియు భక్తికి ప్రతీక."
+        }
+      },
+      {
+        "name": "Lakshmana",
+        "role": {
+          "translate": "Rama’s loyal brother.",
+          "te": "రామునికి నిబద్ధుడైన సోదరుడు."
+        }
+      },
+      {
+        "name": "Hanuman",
+        "role": {
+          "translate": "Devotee of Rama, symbol of strength and devotion.",
+          "te": "రామభక్తుడు, బలం మరియు భక్తికి ప్రతీక."
+        }
+      },
+      {
+        "name": "Ravana",
+        "role": {
+          "translate": "King of Lanka, symbol of ego and adharma.",
+          "te": "లంక రాజు, అహంకారం మరియు అధర్మానికి ప్రతీక."
+        }
+      }
+    ],
+    "important_places": [
+      {
+        "name": "Ayodhya",
+        "desc": {
+          "translate": "Capital of Rama’s kingdom.",
+          "te": "రాముని రాజ్య రాజధాని."
+        }
+      },
+      {
+        "name": "Mithila",
+        "desc": {
+          "translate": "King Janaka’s kingdom, birthplace of Sita.",
+          "te": "జనక మహారాజు రాజ్యం, సీత జన్మస్థలం."
+        }
+      },
+      {
+        "name": "Lanka",
+        "desc": {
+          "translate": "Ravana’s kingdom.",
+          "te": "రావణుని రాజ్యం."
+        }
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Birth of Rama",
+        "desc": {
+          "translate": "Rama is born to King Dasharatha in Ayodhya.",
+          "te": "అయోధ్యలో దశరథ మహారాజుకు శ్రీరాముడు జన్మించాడు."
+        }
+      },
+      {
+        "event": "Exile",
+        "desc": {
+          "translate": "Rama goes to forest for 14 years.",
+          "te": "రాముడు 14 సంవత్సరాల వనవాసానికి వెళ్తాడు."
+        }
+      },
+      {
+        "event": "War with Ravana",
+        "desc": {
+          "translate": "Rama defeats Ravana and rescues Sita.",
+          "te": "రాముడు రావణుని సంహరించి సీతను రక్షిస్తాడు."
+        }
+      },
+      {
+        "event": "Rama Rajya",
+        "desc": {
+          "translate": "Rama rules Ayodhya with justice and peace.",
+          "te": "రాముడు ధర్మబద్ధంగా అయోధ్యను పాలిస్తాడు."
+        }
+      }
+    ],
+    "core_themes": [
+      {
+        "translate": "Dharma (Righteousness)",
+        "te": "ధర్మం"
+      },
+      {
+        "translate": "Bhakti (Devotion)",
+        "te": "భక్తి"
+      },
+      {
+        "translate": "Truth and Sacrifice",
+        "te": "సత్యం మరియు త్యాగం"
+      }
+    ]
+  }
+}

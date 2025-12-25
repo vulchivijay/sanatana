@@ -1,0 +1,59 @@
+{
+  "advaita_philosophy": {
+    "title": "",
+    "definition": "Advaita Vedanta is a school of Hindu philosophy that teaches non-dualism, asserting that the individual self (Atman) and the ultimate reality (Brahman) are one and the same.",
+    "origin": {
+      "roots": "Upanishads and Brahma Sutras",
+      "texts": [
+        "Upanishads",
+        "Bhagavad Gita",
+        "Brahma Sutras"
+      ],
+      "founder": "Adi Shankaracharya",
+      "meaning": "Advaita means 'non-dual' in Sanskrit."
+    },
+    "core_principles": [
+      "Brahman is the only reality; the world is an illusion (Maya).",
+      "Atman (individual soul) is identical to Brahman.",
+      "Ignorance (Avidya) causes the illusion of separateness.",
+      "Knowledge (Jnana) leads to liberation (Moksha)."
+    ],
+    "key_concepts": {
+      "Brahman": "The ultimate, infinite, and changeless reality.",
+      "Atman": "The true self, beyond body and mind.",
+      "Maya": "Illusion that creates the perception of multiplicity.",
+      "Avidya": "Ignorance that binds beings to Samsara."
+    },
+    "paths_to_realization": {
+      "Jnana Yoga": "Path of knowledge and self-inquiry.",
+      "Shravana": "Listening to teachings of scriptures.",
+      "Manana": "Reflecting on the teachings.",
+      "Nididhyasana": "Deep meditation on truth."
+    },
+    "goals": [
+      "Realize the unity of Atman and Brahman.",
+      "Overcome ignorance and illusion.",
+      "Attain Moksha (liberation)."
+    ],
+    "relation_to_other_concepts": {
+      "dharma": "Ethical living supports clarity for realization.",
+      "karma": "Actions cannot grant liberation; only knowledge can.",
+      "moksha": "Ultimate goal achieved through self-realization."
+    },
+    "modern_relevance": {
+      "spirituality": "Encourages inner awareness and unity.",
+      "philosophy": "Influences global non-dualistic thought.",
+      "psychology": "Promotes detachment and mental peace."
+    },
+    "key_scriptural_references": [
+      {
+        "text": "Chandogya Upanishad",
+        "quote_summary": "Tat Tvam Asi – 'You are That'."
+      },
+      {
+        "text": "Bhagavad Gita",
+        "quote_summary": "The wise see the same Self in all beings."
+      }
+    ]
+  }
+}

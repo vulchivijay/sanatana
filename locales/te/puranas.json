@@ -1,0 +1,162 @@
+{
+  "puranas": {
+    "title": "Hindu Puranas Overview",
+    "definition": "Ancient Hindu texts that narrate stories of gods, sages, kings, cosmology, and philosophy.",
+    "classification": 18,
+    "major_puranas": [
+      {
+        "name": "Brahma Purana",
+        "highlights": [
+          "Creation of the universe",
+          "Glories of Lord Brahma",
+          "Sacred geography of India"
+        ]
+      },
+      {
+        "name": "Padma Purana",
+        "highlights": [
+          "Description of creation",
+          "Stories of Lord Vishnu",
+          "Glories of pilgrimage sites"
+        ]
+      },
+      {
+        "name": "Vishnu Purana",
+        "highlights": [
+          "Cosmic cycles and avatars of Vishnu",
+          "Genealogy of dynasties",
+          "Principles of dharma"
+        ]
+      },
+      {
+        "name": "Shiva Purana",
+        "highlights": [
+          "Stories of Lord Shiva",
+          "Rituals and worship methods",
+          "Philosophical teachings"
+        ]
+      },
+      {
+        "name": "Bhagavata Purana",
+        "highlights": [
+          "Life and teachings of Lord Krishna",
+          "Bhakti philosophy",
+          "Stories of devotees"
+        ]
+      },
+      {
+        "name": "Narada Purana",
+        "highlights": [
+          "Teachings of Narada",
+          "Bhakti and devotion",
+          "Rituals and festivals"
+        ]
+      },
+      {
+        "name": "Markandeya Purana",
+        "highlights": [
+          "Durga Saptashati",
+          "Stories of creation",
+          "Moral and spiritual lessons"
+        ]
+      },
+      {
+        "name": "Agni Purana",
+        "highlights": [
+          "Sacrificial rituals",
+          "Temple architecture",
+          "Astrology and medicine"
+        ]
+      },
+      {
+        "name": "Bhavishya Purana",
+        "highlights": [
+          "Prophecies of future events",
+          "Rituals and customs",
+          "Legends of kings"
+        ]
+      },
+      {
+        "name": "Brahmavaivarta Purana",
+        "highlights": [
+          "Stories of Radha and Krishna",
+          "Creation and cosmology",
+          "Glories of Ganga"
+        ]
+      },
+      {
+        "name": "Linga Purana",
+        "highlights": [
+          "Significance of Shiva Linga",
+          "Creation myths",
+          "Worship methods"
+        ]
+      },
+      {
+        "name": "Varaha Purana",
+        "highlights": [
+          "Varaha avatar of Vishnu",
+          "Sacred places",
+          "Rituals and dharma"
+        ]
+      },
+      {
+        "name": "Skanda Purana",
+        "highlights": [
+          "Stories of Lord Kartikeya",
+          "Pilgrimage sites",
+          "Legends of Shiva"
+        ]
+      },
+      {
+        "name": "Vamana Purana",
+        "highlights": [
+          "Vamana avatar of Vishnu",
+          "Sacred geography",
+          "Legends of kings"
+        ]
+      },
+      {
+        "name": "Kurma Purana",
+        "highlights": [
+          "Kurma avatar of Vishnu",
+          "Cosmic churning",
+          "Sacred places"
+        ]
+      },
+      {
+        "name": "Matsya Purana",
+        "highlights": [
+          "Matsya avatar of Vishnu",
+          "Flood story",
+          "Temple construction"
+        ]
+      },
+      {
+        "name": "Garuda Purana",
+        "highlights": [
+          "Life after death",
+          "Funeral rites",
+          "Spiritual liberation"
+        ]
+      },
+      {
+        "name": "Brahmanda Purana",
+        "highlights": [
+          "Universe structure",
+          "Lalita Sahasranama",
+          "Cosmic cycles"
+        ]
+      }
+    ],
+    "themes": [
+      "Creation and dissolution of the universe",
+      "Genealogies of gods, sages, and kings",
+      "Legends and stories",
+      "Philosophy and dharma",
+      "Rituals and festivals"
+    ],
+    "language": "Sanskrit",
+    "purpose": "To preserve and propagate spiritual knowledge, cultural traditions, and moral values."
+  }
+}

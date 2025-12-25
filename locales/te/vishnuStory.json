@@ -1,0 +1,156 @@
+{
+  "vishnu_story": {
+    "definition": "Lord Vishnu is one of the principal deities of Sanatana Dharma, known as the preserver and protector of the universe in the Hindu Trinity (Trimurti).",
+    "origin": {
+      "roots": "Vedic tradition evolving into Puranic texts",
+      "texts": [
+        "Rig Veda",
+        "Vishnu Purana",
+        "Bhagavata Purana",
+        "Mahabharata"
+      ],
+      "meaning": "Vishnu means 'all-pervading' or 'omnipresent'."
+    },
+    "attributes": {
+      "appearance": [
+        "Blue complexion symbolizing infinity.",
+        "Four arms holding Shankha (conch), Chakra (discus), Gada (mace), and Padma (lotus).",
+        "Crown and yellow garments representing divinity and purity."
+      ],
+      "vehicle": "Garuda (eagle) – symbol of speed and strength.",
+      "abode": "Vaikuntha – the eternal heavenly realm."
+    },
+    "major_legends": [
+      {
+        "name": "Churning of the Ocean (Samudra Manthan)",
+        "summary": "Vishnu took the form of Kurma (tortoise) to support Mount Mandara during the churning of the ocean for Amrita (nectar of immortality)."
+      },
+      {
+        "name": "Vamana Avatar",
+        "summary": "As a dwarf Brahmin, Vishnu humbled King Bali by covering the universe in three steps, restoring cosmic balance."
+      },
+      {
+        "name": "Krishna Avatar",
+        "summary": "Vishnu incarnated as Krishna to guide humanity through the Bhagavad Gita and destroy evil forces like Kamsa."
+      },
+      {
+        "name": "Rama Avatar",
+        "summary": "Vishnu incarnated as Rama to uphold Dharma and defeat Ravana in the Ramayana."
+      }
+    ],
+    "symbolism": [
+      "Shankha – Cosmic sound (Om).",
+      "Chakra – Power and protection.",
+      "Gada – Strength and authority.",
+      "Lotus – Purity and spiritual awakening."
+    ],
+    "ten_avatars (Dashavatara)": [
+      "Matsya (Fish) – Saved life during the great flood.",
+      "Kurma (Tortoise) – Supported cosmic churning.",
+      "Varaha (Boar) – Rescued Earth from demon Hiranyaksha.",
+      "Narasimha (Man-Lion) – Destroyed Hiranyakashipu.",
+      "Vamana (Dwarf) – Subdued King Bali.",
+      "Parashurama – Warrior sage.",
+      "Rama – Hero of Ramayana.",
+      "Krishna – Teacher of Bhagavad Gita.",
+      "Buddha – Enlightened teacher.",
+      "Kalki – Future avatar to end Kali Yuga."
+    ],
+    "festivals": [
+      {
+        "name": "Vaikuntha Ekadashi",
+        "significance": "Day of fasting and devotion to Vishnu for liberation.",
+        "practices": [
+          "Temple visits",
+          "Chanting Vishnu Sahasranama"
+        ]
+      },
+      {
+        "name": "Janmashtami",
+        "significance": "Celebrates Krishna's birth.",
+        "practices": [
+          "Midnight puja",
+          "Bhajans",
+          "Dahi Handi"
+        ]
+      },
+      {
+        "name": "Rama Navami",
+        "significance": "Celebrates Rama's birth.",
+        "practices": [
+          "Reading Ramayana",
+          "Fasting"
+        ]
+      }
+    ],
+    "philosophical_significance": {
+      "Vaishnavism": "Vishnu is supreme reality; devotion (Bhakti) leads to Moksha.",
+      "Bhagavad Gita": "Teaches Dharma, Karma Yoga, and surrender to God."
+    },
+    "modern_relevance": {
+      "spirituality": "Symbol of preservation and balance.",
+      "culture": "Inspires art, music, and literature.",
+      "ethics": "Represents righteousness and compassion."
+    }
+  },
+  "vishnu_dashavatara_with_morals": {
+    "definition": "The ten avatars of Vishnu (Dashavatara) represent divine interventions to restore Dharma and cosmic balance.",
+    "avatars": [
+      {
+        "name": "Matsya (Fish)",
+        "story": "Saved Manu and sacred scriptures during the great flood.",
+        "moral": "Preserve knowledge and righteousness even in times of crisis."
+      },
+      {
+        "name": "Kurma (Tortoise)",
+        "story": "Supported Mount Mandara during Samudra Manthan.",
+        "moral": "Patience and stability are essential for achieving great goals."
+      },
+      {
+        "name": "Varaha (Boar)",
+        "story": "Rescued Earth from demon Hiranyaksha.",
+        "moral": "Protect nature and uphold balance in creation."
+      },
+      {
+        "name": "Narasimha (Man-Lion)",
+        "story": "Destroyed Hiranyakashipu to protect Prahlada.",
+        "moral": "Faith and devotion triumph over arrogance and tyranny."
+      },
+      {
+        "name": "Vamana (Dwarf)",
+        "story": "Humbled King Bali by covering the universe in three steps.",
+        "moral": "Humility and wisdom overcome pride and ego."
+      },
+      {
+        "name": "Parashurama",
+        "story": "Destroyed corrupt Kshatriyas to restore Dharma.",
+        "moral": "Justice must prevail over misuse of power."
+      },
+      {
+        "name": "Rama",
+        "story": "Defeated Ravana and upheld Dharma in Ramayana.",
+        "moral": "Live by truth, honor, and righteousness even in adversity."
+      },
+      {
+        "name": "Krishna",
+        "story": "Guided humanity through Bhagavad Gita and destroyed evil forces.",
+        "moral": "Perform your duty selflessly and surrender to divine will."
+      },
+      {
+        "name": "Buddha",
+        "story": "Taught compassion and non-violence.",
+        "moral": "Peace and empathy are the highest virtues."
+      },
+      {
+        "name": "Kalki (Future Avatar)",
+        "story": "Will appear to end Kali Yuga and restore Dharma.",
+        "moral": "Truth and justice will ultimately prevail over chaos."
+      }
+    ],
+    "symbolism": "Each avatar represents a stage in evolution and a principle of Dharma restoration.",
+    "philosophical_significance": {
+      "Vaishnavism": "Dashavatara illustrates divine intervention to maintain cosmic order.",
+      "Ethics": "Teaches humility, courage, compassion, and righteousness."
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "shivastotras": {
+    "title": "Shiva Stotras Collection",
+    "stotras": [
+      {
+        "name": "Shiva Panchakshari Stotram",
+        "author": "Adi Shankaracharya",
+        "type": "Stotram",
+        "meter": "Various",
+        "deity_form": "Shiva (Namah Shivaya)",
+        "verses": 5,
+        "summary": "A hymn glorifying each syllable of 'Na-Ma-Shi-Va-Ya', representing the five elements and the cosmic form of Shiva.",
+        "benefits": "Removes fear, grants purity of mind, devotion, and grace of Shiva."
+      },
+      {
+        "name": "Shiv Tandav Stotram",
+        "author": "Ravana",
+        "type": "Stotram",
+        "meter": "Tandava Chandas",
+        "deity_form": "Nataraja (Dancing Shiva)",
+        "verses": 16,
+        "summary": "Describes the cosmic dance of Shiva, the power of creation, destruction, rhythm, and divine energy.",
+        "benefits": "Destroys negativity, grants strength, success, and inner power."
+      },
+      {
+        "name": "Lingashtakam",
+        "author": "Unknown (Traditional)",
+        "type": "Ashtakam",
+        "meter": "Anushtup",
+        "deity_form": "Shiva Linga",
+        "verses": 8,
+        "summary": "Praises the Shiva Linga as the symbol of cosmic creation, dissolution, and divine consciousness.",
+        "benefits": "Grants spiritual progress and liberation."
+      },
+      {
+        "name": "Rudrashtakam",
+        "author": "Tulsidas",
+        "type": "Ashtakam",
+        "meter": "Ramcharitmanas Metre",
+        "deity_form": "Rudra",
+        "verses": 8,
+        "summary": "Poetic prayer describing Shiva’s serene and fierce forms, expressing surrender and devotion.",
+        "benefits": "Destroys sins, brings peace and divine protection."
+      },
+      {
+        "name": "Bilvashtakam",
+        "author": "Adi Shankaracharya",
+        "type": "Ashtakam",
+        "meter": "Anushtup",
+        "deity_form": "Shiva (Bilva Leaf Worship)",
+        "verses": 8,
+        "summary": "Describes the spiritual significance of offering Bilva leaves to Lord Shiva.",
+        "benefits": "Equivalent to performing numerous yajñas; fulfills wishes."
+      },
+      {
+        "name": "Maha Mrityunjaya Mantra",
+        "author": "Rig Veda (Traditional)",
+        "type": "Mantra",
+        "meter": "Anushtup",
+        "deity_form": "Mrityunjaya (Conqueror of Death)",
+        "verses": 1,
+        "summary": "A powerful Vedic mantra for healing, protection, and overcoming fear of death.",
+        "benefits": "Removes disease, accidents, and bestows longevity."
+      },
+      {
+        "name": "Shiva Sahasranama Stotram",
+        "author": "Various (Linga Purana, Shiva Purana)",
+        "type": "Sahasranama",
+        "meter": "Various",
+        "deity_form": "Mahadeva (1000 names)",
+        "verses": 1000,
+        "summary": "A hymn listing 1000 sacred names of Lord Shiva describing various attributes, forms, and powers.",
+        "benefits": "Brings overall prosperity, spiritual upliftment, and divine favor."
+      },
+      {
+        "name": "Dakshinamurthy Stotram",
+        "author": "Adi Shankaracharya",
+        "type": "Stotram",
+        "meter": "Unknown",
+        "deity_form": "Dakshinamurthy (Guru form of Shiva)",
+        "verses": 10,
+        "summary": "Glorifies Shiva as the supreme teacher of wisdom and self-knowledge.",
+        "benefits": "Enhances knowledge, intellect, and spiritual clarity."
+      },
+      {
+        "name": "Shiva Manasa Puja",
+        "author": "Adi Shankaracharya",
+        "type": "Stotram",
+        "meter": "Anushtup",
+        "deity_form": "Maheshwara",
+        "verses": 5,
+        "summary": "A mental worship ritual where the devotee offers flowers, incense, and devotion through visualization.",
+        "benefits": "Purifies mind, improves concentration, increases devotion."
+      },
+      {
+        "name": "Shiva Mahimna Stotram",
+        "author": "Pushpadanta",
+        "type": "Stotram",
+        "meter": "Sanskrit Poetry",
+        "deity_form": "Mahadeva",
+        "verses": 43,
+        "summary": "One of the greatest hymns praising the greatness, virtues, and universal presence of Shiva.",
+        "benefits": "Removes obstacles, brings fame, virtue, and divine grace."
+      },
+      {
+        "name": "Shiva Aparadha Kshamapana Stotram",
+        "author": "Adi Shankaracharya",
+        "type": "Prayer/Stotram",
+        "meter": "Sanskrit",
+        "verses": 31,
+        "summary": "Prayer for forgiveness of mistakes committed knowingly or unknowingly.",
+        "benefits": "Clears karmic burdens and brings peace."
+      },
+      {
+        "name": "Chandrasekhara Ashtakam",
+        "author": "Adi Shankaracharya",
+        "type": "Ashtakam",
+        "meter": "Anushtup",
+        "deity_form": "Chandrasekhara (Moon-Crowned Shiva)",
+        "verses": 8,
+        "summary": "Praises Shiva who holds the crescent moon on his matted hair.",
+        "benefits": "Removes fear, grants courage and spiritual protection."
+      },
+      {
+        "name": "Nataraja Stotram",
+        "author": "Unknown",
+        "type": "Stotram",
+        "deity_form": "Nataraja (Cosmic Dancer)",
+        "verses": 14,
+        "summary": "Describes Shiva's cosmic dance that sustains creation and dissolution.",
+        "benefits": "Inspires creativity, rhythm, and spiritual awakening."
+      },
+      {
+        "name": "Kalabhairava Ashtakam",
+        "author": "Adi Shankaracharya",
+        "type": "Ashtakam",
+        "meter": "Anushtup",
+        "deity_form": "Kala Bhairava (Guardian of time and Kashi)",
+        "verses": 8,
+        "summary": "Praises Bhairava, the fierce protector of Dharma and ruler of time.",
+        "benefits": "Destroys fear, grants time-management, protection, and success."
+      }
+    ]
+  }
+}

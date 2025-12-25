@@ -1,0 +1,155 @@
+{
+  "bala_kanda": {
+    "kanda": "Bala Kanda",
+    "description": {
+      "translate": "The Bala Kanda describes the birth, childhood, education, and marriage of Lord Rama.",
+      "te": "బాలకాండంలో శ్రీరాముని జననం, బాల్యం, విద్యాభ్యాసం మరియు వివాహం వర్ణించబడుతుంది."
+    },
+    "sargas": [
+      {
+        "sarga": 1,
+        "title": "Narada Describes Rama",
+        "story": {
+          "translate": "Sage Valmiki asks Narada who the greatest man is. Narada tells him about Rama, a perfect man who follows dharma.",
+          "te": "వాల్మీకి మహర్షి నారదుని అత్యుత్తమ మనిషి ఎవరో అడుగుతాడు. నారదుడు ధర్మాన్ని అనుసరించే పరిపూర్ణ పురుషుడైన రాముని గురించి చెబుతాడు."
+        },
+        "kids": {
+          "translate": "Narada tells Valmiki about good Prince Rama.",
+          "te": "నారదుడు మంచి యువరాజు రాముని గురించి చెబుతాడు."
+        },
+        "lesson": {
+          "translate": "A good person always follows dharma.",
+          "te": "మంచి వ్యక్తి ఎప్పుడూ ధర్మాన్ని అనుసరిస్తాడు."
+        }
+      },
+      {
+        "sarga": 2,
+        "title": "Birth of Rama",
+        "story": {
+          "translate": "King Dasharatha performs a sacrifice. With divine blessings, Rama and his brothers are born.",
+          "te": "దశరథ మహారాజు యజ్ఞం చేస్తాడు. దైవ ఆశీర్వాదంతో రాముడు మరియు ఆయన సోదరులు జన్మిస్తారు."
+        },
+        "kids": {
+          "translate": "Rama is born with God’s blessing.",
+          "te": "దేవుని ఆశీర్వాదంతో రాముడు జన్మిస్తాడు."
+        },
+        "lesson": {
+          "translate": "Faith brings blessings.",
+          "te": "భక్తి ఆశీర్వాదాలను ఇస్తుంది."
+        }
+      },
+      {
+        "sarga": 3,
+        "title": "Rama’s Childhood",
+        "story": {
+          "translate": "Rama grows up as a kind, brave, and obedient prince loved by all.",
+          "te": "రాముడు దయగలవాడిగా, ధైర్యవంతుడిగా, విధేయుడిగా పెరుగుతాడు."
+        },
+        "kids": {
+          "translate": "Everyone loves young Rama.",
+          "te": "అందరూ చిన్న రాముని ప్రేమిస్తారు."
+        },
+        "lesson": {
+          "translate": "Good behavior earns love and respect.",
+          "te": "మంచి ప్రవర్తన ప్రేమను గౌరవాన్ని ఇస్తుంది."
+        }
+      },
+      {
+        "sarga": 4,
+        "title": "Training under Sage Vishwamitra",
+        "story": {
+          "translate": "Rama and Lakshmana go with Sage Vishwamitra to protect sacrifices from demons.",
+          "te": "విశ్వామిత్ర మహర్షితో కలిసి రాముడు, లక్ష్మణుడు యజ్ఞాలను రక్షించడానికి వెళ్తారు."
+        },
+        "kids": {
+          "translate": "Rama protects sages.",
+          "te": "రాముడు ఋషులను రక్షిస్తాడు."
+        },
+        "lesson": {
+          "translate": "Protecting good people is our duty.",
+          "te": "మంచివారిని రక్షించడం మన కర్తవ్యం."
+        }
+      },
+      {
+        "sarga": 5,
+        "title": "Killing of Demons",
+        "story": {
+          "translate": "Rama defeats demons like Tataka and Subahu using divine weapons.",
+          "te": "రాముడు తాటక, సుభాహు వంటి రాక్షసులను సంహరిస్తాడు."
+        },
+        "kids": {
+          "translate": "Rama defeats bad demons.",
+          "te": "రాముడు చెడ్డ రాక్షసులను ఓడిస్తాడు."
+        },
+        "lesson": {
+          "translate": "Good always wins over evil.",
+          "te": "మంచి ఎప్పుడూ చెడుపై గెలుస్తుంది."
+        }
+      },
+      {
+        "sarga": 6,
+        "title": "Journey to Mithila",
+        "story": {
+          "translate": "Rama travels to Mithila to attend Sita’s swayamvara.",
+          "te": "సీత స్వయంవరం కోసం రాముడు మిథిలకు ప్రయాణిస్తాడు."
+        },
+        "kids": {
+          "translate": "Rama goes to meet Sita.",
+          "te": "రాముడు సీతను కలవడానికి వెళ్తాడు."
+        },
+        "lesson": {
+          "translate": "Destiny unfolds step by step.",
+          "te": "విధి దశలవారీగా జరుగుతుంది."
+        }
+      },
+      {
+        "sarga": 7,
+        "title": "Breaking Shiva’s Bow",
+        "story": {
+          "translate": "Rama lifts and breaks Lord Shiva’s bow, winning Sita’s hand.",
+          "te": "రాముడు శివుని ధనుస్సును విరిచి సీతను వివాహం చేసుకుంటాడు."
+        },
+        "kids": {
+          "translate": "Rama breaks the big bow.",
+          "te": "రాముడు పెద్ద ధనుస్సును విరుస్తాడు."
+        },
+        "lesson": {
+          "translate": "True strength comes with humility.",
+          "te": "నిజమైన బలం వినయంతో ఉంటుంది."
+        }
+      },
+      {
+        "sarga": 8,
+        "title": "Marriage of Rama and Sita",
+        "story": {
+          "translate": "Rama and Sita are married in a grand ceremony.",
+          "te": "రాముడు మరియు సీత ఘనంగా వివాహం చేసుకుంటారు."
+        },
+        "kids": {
+          "translate": "Rama and Sita get married.",
+          "te": "రాముడు సీతను వివాహం చేసుకుంటాడు."
+        },
+        "lesson": {
+          "translate": "Marriage is a bond of love and duty.",
+          "te": "వివాహం ప్రేమ మరియు కర్తవ్యానికి బంధం."
+        }
+      },
+      {
+        "sarga": 9,
+        "title": "Return to Ayodhya",
+        "story": {
+          "translate": "Rama returns to Ayodhya with Sita and his brothers.",
+          "te": "సీతతో పాటు రాముడు అయోధ్యకు తిరిగి వస్తాడు."
+        },
+        "kids": {
+          "translate": "Everyone welcomes Rama home.",
+          "te": "అందరూ రాముని స్వాగతిస్తారు."
+        },
+        "lesson": {
+          "translate": "Joy is shared with family.",
+          "te": "సంతోషం కుటుంబంతో పంచుకోవాలి."
+        }
+      }
+    ]
+  }
+}

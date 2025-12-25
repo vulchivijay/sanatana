@@ -1,0 +1,42 @@
+
+{
+  "purusharthas_philosophy": {
+    "definition": "Purusharthas are the four fundamental goals of human life in Hindu philosophy, guiding individuals toward a balanced and meaningful existence.",
+    "origin": {
+      "roots": "Vedic and Dharmashastra teachings",
+      "texts": ["Vedas", "Upanishads", "Manusmriti", "Bhagavad Gita"],
+      "meaning": "Derived from Sanskrit 'Purusha' (human being) and 'Artha' (purpose or goal)."
+    },
+    "four_goals": {
+      "Dharma": "Righteousness, moral duties, and ethical living.",
+      "Artha": "Material prosperity, wealth, and resources for sustenance.",
+      "Kama": "Desires, pleasures, and emotional fulfillment.",
+      "Moksha": "Liberation from the cycle of birth and death; spiritual freedom."
+    },
+    "core_principles": [
+      "Balance between material and spiritual pursuits",
+      "Ethical framework for achieving goals",
+      "Progressive evolution from desire to liberation"
+    ],
+    "relation_to_other_concepts": {
+      "karma": "Actions in pursuit of these goals create karmic consequences.",
+      "dharma": "Acts as a guiding principle for Artha and Kama.",
+      "moksha": "The ultimate goal beyond worldly pursuits."
+    },
+    "modern_relevance": {
+      "personal development": "Encourages holistic growth—ethical, material, emotional, and spiritual.",
+      "society": "Promotes harmony through balanced living.",
+      "well-being": "Integrates duty, wealth, pleasure, and liberation for a fulfilling life."
+    },
+    "key_scriptural_references": [
+      {
+        "text": "Bhagavad Gita",
+        "quote_summary": "Perform duties without attachment to results for spiritual progress."
+      },
+      {
+        "text": "Manusmriti",
+        "quote_summary": "Defines the role of Dharma in guiding Artha and Kama."
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "contactForm": {
+    "name": "పేరు",
+    "email": "ఈమెయిల్",
+    "message": "సందేశం",
+    "placeholderName": "మీ పేరు",
+    "placeholderEmail": "you@example.com",
+    "placeholderMessage": "మేము మీకు ఎలా సహాయపడగలమో తెలియజేయండి...",
+    "sending": "పంపబడుతోంది...",
+    "sendMessage": "సందేశం పంపండి",
+    "visitor": "సందర్శకుడు"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Parashurama": {
+    "Role": "Sixth Avatar of Vishnu, Warrior Sage",
+    "ConnectionToEpics": {
+      "Ramayana": "Mentor to warriors, appears during Sita's swayamvara to challenge Rama.",
+      "Mahabharata": "Guru to Karna and other warriors; curses Karna for lying about his lineage."
+    },
+    "Attributes": {
+      "Weapons": [
+        "Parashu (Battle Axe)",
+        "Bow and arrows"
+      ],
+      "Virtues": [
+        "Justice",
+        "Discipline",
+        "Wrath against Adharma"
+      ],
+      "Iconography": [
+        "Holding an axe",
+        "Dressed as a sage",
+        "Fiery temperament"
+      ]
+    },
+    "LifeThemes": [
+      "Destroyer of Kshatriyas who abused power",
+      "Protector of Dharma",
+      "Teacher of martial arts and astras"
+    ],
+    "MajorStories": [
+      {
+        "Event": "Avenging his father’s death",
+        "Description": "Killed Kshatriyas 21 times to restore balance after his father was slain."
+      },
+      {
+        "Event": "Teaching Karna",
+        "Description": "Imparted knowledge of astras to Karna, later cursed him for deceit."
+      },
+      {
+        "Event": "Encounter with Rama",
+        "Description": "Challenged Rama after breaking Shiva’s bow; recognized Rama as Vishnu’s avatar."
+      }
+    ],
+    "CursesGiven": [
+      {
+        "Recipient": "Karna",
+        "Reason": "Lied about being a Brahmin to learn astras.",
+        "Consequence": "Would forget Brahmastra mantra at a crucial moment."
+      }
+    ],
+    "Mantras": [
+      {
+        "Name": "Parashurama Invocation",
+        "Text": "ॐ परशुरामाय नमः।",
+        "Transliteration": "Om Parashuramaya Namah",
+        "Meaning": "Salutation to Parashurama, the warrior sage."
+      }
+    ],
+    "Timeline": [
+      {
+        "Phase": "Birth",
+        "Event": "Born to sage Jamadagni and Renuka; blessed with divine strength and an axe from Shiva."
+      },
+      {
+        "Phase": "Early Life",
+        "Event": "Trained in warfare and Vedic knowledge; deeply devoted to Shiva."
+      },
+      {
+        "Phase": "Father’s Murder",
+        "Event": "Kshatriya king Kartavirya Arjuna kills Jamadagni; Parashurama vows revenge."
+      },
+      {
+        "Phase": "Kshatriya Extermination",
+        "Event": "Destroys Kshatriya clans 21 times to avenge his father and restore dharma."
+      },
+      {
+        "Phase": "Donation of Earth",
+        "Event": "Gives away conquered lands to Brahmins; retreats to penance."
+      },
+      {
+        "Phase": "Teaching Phase",
+        "Event": "Becomes guru to great warriors including Karna, Bhishma, and Drona."
+      },
+      {
+        "Phase": "Encounter with Rama",
+        "Event": "Challenges Rama after Shiva’s bow is broken; realizes Rama is Vishnu’s avatar and withdraws."
+      },
+      {
+        "Phase": "Later Life",
+        "Event": "Continues as a sage; immortal and present in many legends."
+      }
+    ]
+  }
+}
