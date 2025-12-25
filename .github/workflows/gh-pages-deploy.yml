@@ -70,10 +70,12 @@ jobs:
           set -ex
           npm run scss:build
       - name: Build (static export)
+        env:
+          NEXT_STATIC_EXPORT: 'true'
         run: |
           set -ex
-          # Build Next.js and export static files to ./out
-          npm run export
+          # Build Next.js with `output: 'export'` (uses next.config.ts)
+          npm run build
       # - name: Build (static export) + generate analytics
       #   env:
       #     NEXT_STATIC_EXPORT: 'true'
