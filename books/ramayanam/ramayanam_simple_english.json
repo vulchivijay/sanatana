@@ -1,0 +1,46 @@
+{
+  "ramayanam": {
+    "title": "The Ramayana",
+    "version": "Valmiki Ramayana",
+    "language": "Simple English",
+    "description": "A chapter-by-chapter simplified retelling of the Ramayana, suitable for all ages.",
+    "chapters": [
+      {
+        "chapter": 1,
+        "name": "Bala Kanda \u2013 Birth and Childhood",
+        "summary": "King Dasharatha of Ayodhya has no children. With divine blessings, Rama, Bharata, Lakshmana, and Shatrughna are born. Rama grows up as an ideal prince and later marries Sita after breaking Shiva\u2019s bow."
+      },
+      {
+        "chapter": 2,
+        "name": "Ayodhya Kanda \u2013 Exile of Rama",
+        "summary": "Rama is chosen as king, but Queen Kaikeyi demands that Bharata be crowned and Rama be sent to exile. Rama willingly leaves Ayodhya for fourteen years with Sita and Lakshmana."
+      },
+      {
+        "chapter": 3,
+        "name": "Aranya Kanda \u2013 Life in the Forest",
+        "summary": "Rama, Sita, and Lakshmana live in forests. Demoness Surpanakha is rejected, leading to conflict. Ravana abducts Sita and takes her to Lanka."
+      },
+      {
+        "chapter": 4,
+        "name": "Kishkindha Kanda \u2013 Alliance with the Vanaras",
+        "summary": "Rama befriends Sugriva and Hanuman. Sugriva regains his kingdom. Hanuman is sent to search for Sita."
+      },
+      {
+        "chapter": 5,
+        "name": "Sundara Kanda \u2013 Hanuman\u2019s Journey",
+        "summary": "Hanuman crosses the ocean, finds Sita in Lanka, gives her Rama\u2019s ring, and burns part of Lanka before returning."
+      },
+      {
+        "chapter": 6,
+        "name": "Yuddha Kanda \u2013 War with Ravana",
+        "summary": "Rama builds a bridge to Lanka. A great war follows. Ravana is defeated and Sita is rescued."
+      },
+      {
+        "chapter": 7,
+        "name": "Uttara Kanda \u2013 Rama\u2019s Rule",
+        "summary": "Rama returns to Ayodhya and becomes king. After trials and separation, Sita returns to the earth. Rama rules as an ideal king."
+      }
+    ],
+    "message": "The Ramayana teaches dharma, devotion, courage, and righteousness."
+  }
+}

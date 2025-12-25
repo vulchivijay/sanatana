@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002FkidsZone\u002FillustratedStories\u002F[id]","\u002Fscriptures\u002Fgita\u002Fchapter\u002F[chapter]","\u002Fscriptures\u002Fpuranas\u002Fchapter\u002F[chapter]","\u002Fscriptures\u002Framayana\u002Fchapter\u002F[chapter]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

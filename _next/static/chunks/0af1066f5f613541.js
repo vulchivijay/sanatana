@@ -1,0 +1,3 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,9615,e=>{e.v({quiz:{loading:"Loading questions…",preparing:"Preparing quiz…",readyTitle:"Ready for the Quiz?",readyDescription:"You will be asked {count} random questions. You have {time} to complete the quiz.",start:"Start Quiz",shuffle:"Shuffle Questions",resultsTitle:"Quiz Results",yourScore:"Your score:",timeTaken:"Time taken:",correctTag:"(Correct)",yourChoiceTag:"(Your choice)",restart:"Restart Quiz",questionCounter:"Question {current} / {total}",timeLeftLabel:"Time left:",previous:"Previous",next:"Next",finish:"Finish",answered:"Answered: {answered} / {total}"}})}]);
+
+//# sourceMappingURL=e936c3d750fb3712.js.map

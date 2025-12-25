@@ -1,0 +1,3 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,20630,e=>{e.v({contactForm:{name:"పేరు",email:"ఈమెయిల్",message:"సందేశం",placeholderName:"మీ పేరు",placeholderEmail:"you@example.com",placeholderMessage:"మేము మీకు ఎలా సహాయపడగలమో తెలియజేయండి...",sending:"పంపబడుతోంది...",sendMessage:"సందేశం పంపండి",visitor:"సందర్శకుడు"}})}]);
+
+//# sourceMappingURL=c1c2c809a8672cc7.js.map

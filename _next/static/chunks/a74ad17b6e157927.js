@@ -1,0 +1,3 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,37436,e=>{e.v({horoscope:{title:"Horoscope Generator",nameLabel:"Name (optional)",birthDate:"Birth date",period:"Period",periodDay:"Day",periodWeek:"Week",periodMonth:"Month",generate:"Generate",errorLabel:"Error:",luckyNumber:"Lucky number: {num} · Period: {periodLabel}"}})}]);
+
+//# sourceMappingURL=54d6a69b017408ed.js.map

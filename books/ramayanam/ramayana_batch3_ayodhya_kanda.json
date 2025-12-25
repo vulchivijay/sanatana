@@ -1,0 +1,123 @@
+{
+  "ayodhya_kanda": {
+    "kanda": "Ayodhya Kanda",
+    "description": {
+      "translate": "Ayodhya Kanda tells the story of Rama’s exile, Bharata’s devotion, and the pain and sacrifice of the royal family.",
+      "te": "అయోధ్యకాండలో రాముని వనవాసం, భరతుని భక్తి, రాజ కుటుంబం చేసిన త్యాగం వర్ణించబడుతుంది."
+    },
+    "sargas": [
+      {
+        "sarga": 1,
+        "title": "Rama Chosen as King",
+        "story": {
+          "translate": "King Dasharatha decides to crown Rama as king. The people of Ayodhya rejoice.",
+          "te": "దశరథ మహారాజు రాముని రాజుగా పట్టాభిషేకం చేయాలని నిర్ణయిస్తాడు. అయోధ్య ప్రజలు ఆనందిస్తారు."
+        },
+        "kids": {
+          "translate": "Everyone is happy that Rama will be king.",
+          "te": "రాముడు రాజు అవుతాడని అందరూ సంతోషిస్తారు."
+        },
+        "lesson": {
+          "translate": "Good leaders are loved by all.",
+          "te": "మంచి నాయకులను అందరూ ప్రేమిస్తారు."
+        }
+      },
+      {
+        "sarga": 2,
+        "title": "Kaikeyi’s Boons",
+        "story": {
+          "translate": "Queen Kaikeyi reminds Dasharatha of two boons. She asks Bharata to be king and Rama to go to the forest for fourteen years.",
+          "te": "కైకేయి తనకు ఇచ్చిన రెండు వరాలను దశరథునికి గుర్తు చేస్తుంది. భరతుడిని రాజుగా చేయమని, రాముడిని 14 సంవత్సరాల వనవాసానికి పంపమని కోరుతుంది."
+        },
+        "kids": {
+          "translate": "Kaikeyi asks Rama to go to the forest.",
+          "te": "కైకేయి రాముడిని అడవికి వెళ్లమంటుంది."
+        },
+        "lesson": {
+          "translate": "Wrong desires can cause great pain.",
+          "te": "తప్పు కోరికలు పెద్ద బాధను కలిగిస్తాయి."
+        }
+      },
+      {
+        "sarga": 3,
+        "title": "Rama Accepts Exile",
+        "story": {
+          "translate": "Rama calmly accepts exile to keep his father’s promise. Sita and Lakshmana decide to go with him.",
+          "te": "తండ్రి మాట నిలబెట్టేందుకు రాముడు శాంతిగా వనవాసాన్ని అంగీకరిస్తాడు. సీత, లక్ష్మణుడు కూడా ఆయనతో వెళ్లాలని నిర్ణయిస్తారు."
+        },
+        "kids": {
+          "translate": "Rama happily accepts the forest life.",
+          "te": "రాముడు ఆనందంగా అడవికి వెళ్తాడు."
+        },
+        "lesson": {
+          "translate": "Keeping one’s word is true dharma.",
+          "te": "మాట నిలబెట్టుకోవడం నిజమైన ధర్మం."
+        }
+      },
+      {
+        "sarga": 4,
+        "title": "Dasharatha’s Sorrow",
+        "story": {
+          "translate": "Dasharatha is heartbroken and soon passes away, remembering Rama.",
+          "te": "రాముని జ్ఞాపకాలతో దశరథుడు తీవ్ర దుఃఖంతో మరణిస్తాడు."
+        },
+        "kids": {
+          "translate": "The king becomes very sad.",
+          "te": "రాజు చాలా బాధపడతాడు."
+        },
+        "lesson": {
+          "translate": "Attachment can bring deep sorrow.",
+          "te": "అతిగా మమకారం బాధను తెస్తుంది."
+        }
+      },
+      {
+        "sarga": 5,
+        "title": "Bharata Returns",
+        "story": {
+          "translate": "Bharata returns from his uncle’s kingdom and is shocked to learn what happened.",
+          "te": "మామగారి రాజ్యం నుంచి వచ్చిన భరతుడు జరిగిన విషయాలు తెలుసుకుని దిగ్భ్రాంతికి గురవుతాడు."
+        },
+        "kids": {
+          "translate": "Bharata feels very sad.",
+          "te": "భరతుడు చాలా బాధపడతాడు."
+        },
+        "lesson": {
+          "translate": "True love feels others’ pain.",
+          "te": "నిజమైన ప్రేమ ఇతరుల బాధను అనుభవిస్తుంది."
+        }
+      },
+      {
+        "sarga": 6,
+        "title": "Bharata Meets Rama",
+        "story": {
+          "translate": "Bharata goes to the forest and begs Rama to return and rule. Rama refuses politely.",
+          "te": "భరతుడు అడవికి వెళ్లి రాముడిని తిరిగి వచ్చి రాజ్యాన్ని పాలించమని వేడుకుంటాడు. రాముడు వినయంగా తిరస్కరిస్తాడు."
+        },
+        "kids": {
+          "translate": "Bharata asks Rama to come back.",
+          "te": "భరతుడు రాముడిని తిరిగి రమ్మని అడుగుతాడు."
+        },
+        "lesson": {
+          "translate": "Duty is greater than personal comfort.",
+          "te": "కర్తవ్యం వ్యక్తిగత సౌకర్యాల కంటే గొప్పది."
+        }
+      },
+      {
+        "sarga": 7,
+        "title": "Padukas Rule Ayodhya",
+        "story": {
+          "translate": "Bharata places Rama’s sandals on the throne and rules as a servant of Rama.",
+          "te": "భరతుడు రాముని పాదుకలను సింహాసనంపై ఉంచి, రాముని సేవకుడిగా రాజ్యాన్ని పాలిస్తాడు."
+        },
+        "kids": {
+          "translate": "Rama’s sandals become king.",
+          "te": "రాముని పాదుకలే రాజుగా ఉంటాయి."
+        },
+        "lesson": {
+          "translate": "True devotion has no ego.",
+          "te": "నిజమైన భక్తిలో అహంకారం ఉండదు."
+        }
+      }
+    ]
+  }
+}

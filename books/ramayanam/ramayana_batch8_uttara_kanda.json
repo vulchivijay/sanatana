@@ -1,0 +1,75 @@
+{
+  "uttara_kanda": {
+    "kanda": "Uttara Kanda",
+    "description": {
+      "translate": "Uttara Kanda describes Rama’s return to Ayodhya, his righteous rule, Sita’s final trial, and the lasting legacy of Rama.",
+      "te": "ఉత్తరకాండలో రాముని అయోధ్యకు తిరిగి రావడం, ధర్మబద్ధమైన పాలన, సీత చివరి పరీక్ష మరియు రాముని శాశ్వత వారసత్వం వర్ణించబడుతుంది."
+    },
+    "sargas": [
+      {
+        "sarga": 1,
+        "title": "Return to Ayodhya",
+        "story": {
+          "translate": "Rama, Sita, and Lakshmana return to Ayodhya. The people celebrate with joy. Rama is crowned king.",
+          "te": "రాముడు, సీత, లక్ష్మణుడు అయోధ్యకు తిరిగి వస్తారు. ప్రజలు ఆనందంగా సంబరాలు జరుపుతారు. రాముడు రాజుగా పట్టాభిషేకం పొందుతాడు."
+        },
+        "kids": {
+          "translate": "Rama comes back home and becomes king.",
+          "te": "రాముడు ఇంటికి తిరిగి వచ్చి రాజవుతాడు."
+        },
+        "lesson": {
+          "translate": "Good deeds are rewarded in time.",
+          "te": "మంచి కార్యాలకు కాలానుగుణంగా ఫలితం లభిస్తుంది."
+        }
+      },
+      {
+        "sarga": 2,
+        "title": "Rama Rajya",
+        "story": {
+          "translate": "Rama rules the kingdom with justice, kindness, and fairness. People live happily and safely.",
+          "te": "రాముడు న్యాయం, దయ మరియు సమానత్వంతో రాజ్యాన్ని పాలిస్తాడు. ప్రజలు సుఖశాంతులతో జీవిస్తారు."
+        },
+        "kids": {
+          "translate": "People are happy under Rama’s rule.",
+          "te": "రాముని పాలనలో ప్రజలు సంతోషంగా ఉంటారు."
+        },
+        "lesson": {
+          "translate": "A good ruler cares for everyone.",
+          "te": "మంచి పాలకుడు అందరినీ చూసుకుంటాడు."
+        }
+      },
+      {
+        "sarga": 3,
+        "title": "Sita’s Trial",
+        "story": {
+          "translate": "To clear doubts, Sita proves her purity and later chooses to return to the Earth.",
+          "te": "సందేహాలను నివృత్తి చేయడానికి సీత తన పవిత్రతను నిరూపించి, తరువాత భూమాతలో లీనమవుతుంది."
+        },
+        "kids": {
+          "translate": "Sita shows her truth.",
+          "te": "సీత తన నిజాన్ని చూపిస్తుంది."
+        },
+        "lesson": {
+          "translate": "Truth stands firm despite hardship.",
+          "te": "కష్టాల్లోనూ సత్యం నిలుస్తుంది."
+        }
+      },
+      {
+        "sarga": 4,
+        "title": "Rama’s Legacy",
+        "story": {
+          "translate": "Rama continues to guide the world as an ideal of dharma, even after his earthly life.",
+          "te": "భూమిపై జీవితం ముగిసిన తరువాత కూడా రాముడు ధర్మానికి ఆదర్శంగా లోకాన్ని మార్గనిర్దేశం చేస్తాడు."
+        },
+        "kids": {
+          "translate": "Rama teaches us how to live.",
+          "te": "రాముడు మనకు ఎలా జీవించాలో నేర్పుతాడు."
+        },
+        "lesson": {
+          "translate": "Great lives inspire generations.",
+          "te": "మహానుభావుల జీవితం తరతరాలకు ప్రేరణ."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "sundara_kanda": {
+    "kanda": "Sundara Kanda",
+    "description": {
+      "translate": "Sundara Kanda focuses on Hanuman’s heroic journey to Lanka, his meeting with Sita, and his fearless devotion to Rama.",
+      "te": "సుందరకాండంలో హనుమంతుడి వీరోచిత లంక ప్రయాణం, సీతతో భేటీ, రామునిపై అతని అచంచల భక్తి వర్ణించబడుతుంది."
+    },
+    "sargas": [
+      {
+        "sarga": 1,
+        "title": "Hanuman Leaps Across the Ocean",
+        "story": {
+          "translate": "Hanuman remembers his powers and leaps across the ocean to reach Lanka.",
+          "te": "హనుమంతుడు తన శక్తులను గుర్తుచేసుకొని సముద్రాన్ని దాటి లంకకు దూకుతాడు."
+        },
+        "kids": {
+          "translate": "Hanuman jumps over the sea.",
+          "te": "హనుమంతుడు సముద్రాన్ని దాటుతాడు."
+        },
+        "lesson": {
+          "translate": "Self-belief awakens hidden strength.",
+          "te": "ఆత్మవిశ్వాసం దాగి ఉన్న శక్తిని వెలికి తీస్తుంది."
+        }
+      },
+      {
+        "sarga": 2,
+        "title": "Entering Lanka",
+        "story": {
+          "translate": "Hanuman secretly enters Lanka and observes its strength and beauty.",
+          "te": "హనుమంతుడు గోప్యంగా లంకలో ప్రవేశించి దాని బలం మరియు అందాన్ని గమనిస్తాడు."
+        },
+        "kids": {
+          "translate": "Hanuman enters Lanka quietly.",
+          "te": "హనుమంతుడు మౌనంగా లంకలోకి ప్రవేశిస్తాడు."
+        },
+        "lesson": {
+          "translate": "Wisdom guides strength.",
+          "te": "బలాన్ని జ్ఞానం నడిపిస్తుంది."
+        }
+      },
+      {
+        "sarga": 3,
+        "title": "Finding Sita in Ashoka Vatika",
+        "story": {
+          "translate": "Hanuman finds Sita in Ashoka Vatika, sad but faithful to Rama.",
+          "te": "హనుమంతుడు అశోకవాటికలో రామునిపై విశ్వాసంతో ఉన్న సీతను కనుగొంటాడు."
+        },
+        "kids": {
+          "translate": "Hanuman finds Sita.",
+          "te": "హనుమంతుడు సీతను కనుగొంటాడు."
+        },
+        "lesson": {
+          "translate": "Faith gives strength in suffering.",
+          "te": "బాధలో విశ్వాసం బలాన్ని ఇస్తుంది."
+        }
+      },
+      {
+        "sarga": 4,
+        "title": "Rama’s Ring",
+        "story": {
+          "translate": "Hanuman gives Rama’s ring to Sita, giving her hope.",
+          "te": "హనుమంతుడు రాముని ఉంగరాన్ని సీతకు ఇచ్చి ఆశ నింపుతాడు."
+        },
+        "kids": {
+          "translate": "Sita feels happy seeing the ring.",
+          "te": "ఉంగరం చూసి సీత సంతోషిస్తుంది."
+        },
+        "lesson": {
+          "translate": "Hope brings courage.",
+          "te": "ఆశ ధైర్యాన్ని ఇస్తుంది."
+        }
+      },
+      {
+        "sarga": 5,
+        "title": "Burning of Lanka",
+        "story": {
+          "translate": "Hanuman burns parts of Lanka to show Rama’s power.",
+          "te": "రాముని శక్తిని చూపేందుకు హనుమంతుడు లంకలో భాగాలను దహనం చేస్తాడు."
+        },
+        "kids": {
+          "translate": "Hanuman burns Lanka.",
+          "te": "హనుమంతుడు లంకను కాలుస్తాడు."
+        },
+        "lesson": {
+          "translate": "Evil is warned before destruction.",
+          "te": "వినాశనం ముందు చెడుకు హెచ్చరిక వస్తుంది."
+        }
+      }
+    ]
+  }
+}

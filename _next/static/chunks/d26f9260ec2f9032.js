@@ -1,0 +1,3 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,23842,e=>{e.v({mythologicalQuizzes:{title:"Mythological Quizzes",description:"Answer 10 random questions in 10 minutes. Good luck!",searchLabel:"Search",originLabel:"Origin",themeLabel:"Theme",allOrigins:"All origins",allThemes:"All themes",filter:"Filter",previous:"Previous",next:"Next",showing:"Showing {start}–{end} of {total}",comicNotFoundTitle:"Comic not found",comicNotFoundDesc:"We couldn't find that comic.",moralLabel:"Moral:",charactersLabel:"Characters:",themesLabel:"Themes:"}})}]);
+
+//# sourceMappingURL=8a2e149e61be5325.js.map

@@ -1,0 +1,91 @@
+{
+  "aranya_kanda": {
+    "kanda": "Aranya Kanda",
+    "description": {
+      "translate": "Aranya Kanda describes Rama’s life in the forest, the conflict with demons, and the abduction of Sita by Ravana.",
+      "te": "అరణ్యకాండలో అడవిలో రాముని జీవితం, రాక్షసులతో సంఘర్షణ మరియు రావణునిచే సీత అపహరణ వర్ణించబడుతుంది."
+    },
+    "sargas": [
+      {
+        "sarga": 1,
+        "title": "Life in the Forest",
+        "story": {
+          "translate": "Rama, Sita, and Lakshmana live peacefully in the forest, visiting sages and protecting them from danger.",
+          "te": "రాముడు, సీత, లక్ష్మణుడు అడవిలో ప్రశాంతంగా జీవిస్తూ, ఋషులను కలుసుకొని వారికి రక్షణ కల్పిస్తారు."
+        },
+        "kids": {
+          "translate": "Rama lives happily in the forest.",
+          "te": "రాముడు అడవిలో ఆనందంగా ఉంటాడు."
+        },
+        "lesson": {
+          "translate": "Peace comes from a simple life.",
+          "te": "సరళమైన జీవితం శాంతిని ఇస్తుంది."
+        }
+      },
+      {
+        "sarga": 2,
+        "title": "Surpanakha Appears",
+        "story": {
+          "translate": "The demoness Surpanakha tries to marry Rama. When rejected, she attacks Sita and is stopped by Lakshmana.",
+          "te": "రాక్షసి శూర్పణఖ రాముని వివాహం చేయాలని ప్రయత్నిస్తుంది. తిరస్కరణకు గురై సీతపై దాడి చేయగా లక్ష్మణుడు ఆమెను ఆపుతాడు."
+        },
+        "kids": {
+          "translate": "A demon woman causes trouble.",
+          "te": "ఒక రాక్షసి సమస్య కలిగిస్తుంది."
+        },
+        "lesson": {
+          "translate": "Uncontrolled desire leads to anger.",
+          "te": "అనియంత్రిత కోరిక కోపానికి దారితీస్తుంది."
+        }
+      },
+      {
+        "sarga": 3,
+        "title": "Golden Deer",
+        "story": {
+          "translate": "Maricha appears as a golden deer. Rama follows it, leaving Sita alone.",
+          "te": "మారీచుడు బంగారు జింకగా మారి రాముని ఆకర్షిస్తాడు. సీతను ఒంటరిగా వదిలి రాముడు వెళ్తాడు."
+        },
+        "kids": {
+          "translate": "Rama follows a golden deer.",
+          "te": "రాముడు బంగారు జింకను వెంబడిస్తాడు."
+        },
+        "lesson": {
+          "translate": "Illusion can distract even the wise.",
+          "te": "మాయ జ్ఞానులను కూడా మభ్యపెడుతుంది."
+        }
+      },
+      {
+        "sarga": 4,
+        "title": "Abduction of Sita",
+        "story": {
+          "translate": "Ravana kidnaps Sita and takes her to Lanka.",
+          "te": "రావణుడు సీతను అపహరించి లంకకు తీసుకెళ్తాడు."
+        },
+        "kids": {
+          "translate": "Ravana takes Sita away.",
+          "te": "రావణుడు సీతను తీసుకెళ్తాడు."
+        },
+        "lesson": {
+          "translate": "Ego leads to destruction.",
+          "te": "అహంకారం వినాశనానికి దారితీస్తుంది."
+        }
+      },
+      {
+        "sarga": 5,
+        "title": "Jatayu’s Sacrifice",
+        "story": {
+          "translate": "The bird Jatayu fights Ravana to save Sita and sacrifices his life.",
+          "te": "జటాయువు సీతను రక్షించేందుకు రావణునితో పోరాడి ప్రాణత్యాగం చేస్తాడు."
+        },
+        "kids": {
+          "translate": "Jatayu tries to save Sita.",
+          "te": "జటాయువు సీతను రక్షించేందుకు ప్రయత్నిస్తాడు."
+        },
+        "lesson": {
+          "translate": "Selfless courage is noble.",
+          "te": "త్యాగమయ ధైర్యం గొప్పది."
+        }
+      }
+    ]
+  }
+}
