@@ -93,6 +93,23 @@ jobs:
           # Create a .nojekyll file so GitHub Pages doesn't run Jekyll on the published site
           mkdir -p out
           echo > out/.nojekyll
+      - name: Ensure compiled SCSS is present in `out/`
+        run: |
+          set -ex
+          CSS_SRC=public/globals.from-scss.css
+          # If compiled CSS isn't present, try building it now
+          if [ ! -f "$CSS_SRC" ]; then
+            echo "Compiled SCSS not found at $CSS_SRC — building now"
+            npm run scss:build
+          else
+            echo "Found compiled SCSS at $CSS_SRC"
+          fi
+          if [ -f "$CSS_SRC" ]; then
+            echo "Copying $CSS_SRC into out/ to ensure it's published"
+            cp "$CSS_SRC" out/ || true
+          else
+            echo "Warning: compiled SCSS still missing ($CSS_SRC). The site may be missing CSS in the published output." >&2
+          fi
       - name: Print build log tail (on failure)
         if: failure()
         run: |
