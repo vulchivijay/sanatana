@@ -59,11 +59,11 @@ export default function Page({ searchParams }: any) {
 
             return (
               <Link key={i} href={`/scriptures/gita/chapter/${chapNum}`} className="block no-underline">
-                <article className="h-full bg-white dark:bg-slate-800 rounded-lg shadow hover:shadow-lg transform hover:-translate-y-1 transition flex flex-col">
+                <article className="h-full bg-white dark:bg-slate-800 rounded-md! shadow hover:shadow-lg transform hover:-translate-y-1 transition flex flex-col">
                   <div className="relative w-full h-44 rounded-md overflow-hidden bg-gray-100">
                     <Image src={imgSrc} alt={imgAlt} fill style={{ objectFit: 'cover' }} />
                   </div>
-                  <div className="rounded-sm shadow-sm flex-1">
+                  <div className="rounded-md! shadow-sm flex-1">
                     <p>{`Chapter ${chapNum}: ${chapTitle}`}</p>
                     {excerpt ? <p className="mt-2 text-sm text-gray-600 dark:text-gray-300 line-clamp-3">{excerpt}</p> : null}
                   </div>
