@@ -29,11 +29,12 @@ jobs:
             ~/.npm
             ${{ github.workspace }}/.next/cache
             node_modules
-          # Generate a new cache whenever packages or source files change.
-          key: ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json') }}-${{ hashFiles('**/*.js', '**/*.jsx', '**/*.ts', '**/*.tsx') }}
-          # If source files changed but packages didn't, rebuild from a prior cache.
+          # Generate a new cache whenever packages or key source files change.
+          key: ${{ runner.os }}-nextjs-${{ hashFiles('package-lock.json','package.json','next.config.ts','**/*.js','**/*.jsx','**/*.ts','**/*.tsx') }}
+          # If source files changed but packages didn't, try broader fallbacks.
           restore-keys: |
-            ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json') }}-          
+            ${{ runner.os }}-nextjs-${{ hashFiles('package-lock.json','package.json') }}-
+            ${{ runner.os }}-nextjs-
       - name: Install dependencies
         run: |
           set -ex
@@ -69,11 +70,87 @@ jobs:
         run: |
           set -ex
           npm run scss:build
-      - name: Build (static export)
+      - name: Build (static export) and capture logs
+        env:
+          NEXT_STATIC_EXPORT: 'true'
+        run: |
+          set -eo pipefail
+          mkdir -p logs
+          echo "Starting Next.js build (logs -> logs/build.log)"
+          # Capture full build output to logs/build.log
+          if npm run build 2>&1 | tee logs/build.log; then
+            echo "Build succeeded"
+          else
+            echo "Build failed — showing tail of logs and uploading artifact in later step"
+            echo "==== Build log (tail 200) ===="
+            tail -n 200 logs/build.log || true
+            # Exit with non-zero so subsequent 'if: failure()' steps run
+            exit 1
+          fi
+      - name: Prevent Jekyll processing on GitHub Pages
         run: |
           set -ex
-          # Build Next.js and export static files to ./out
-          npm run export
+          # Create a .nojekyll file so GitHub Pages doesn't run Jekyll on the published site
+          mkdir -p out
+          echo > out/.nojekyll
+      - name: Ensure compiled SCSS is present in `out/`
+        run: |
+          set -ex
+          CSS_SRC=public/globals.from-scss.css
+          # If compiled CSS isn't present, try building it now
+          if [ ! -f "$CSS_SRC" ]; then
+            echo "Compiled SCSS not found at $CSS_SRC — building now"
+            npm run scss:build
+          else
+            echo "Found compiled SCSS at $CSS_SRC"
+          fi
+          if [ -f "$CSS_SRC" ]; then
+            echo "Copying $CSS_SRC into out/ to ensure it's published"
+            cp "$CSS_SRC" out/ || true
+          else
+            echo "Warning: compiled SCSS still missing ($CSS_SRC). The site may be missing CSS in the published output." >&2
+          fi
+      - name: Print build log tail (on failure)
+        if: failure()
+        run: |
+          echo "==== Build log (tail 500) ===="
+          ls -la logs || true
+          tail -n 500 logs/build.log || true
+
+      - name: Upload build logs artifact (on failure)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-logs
+          path: logs/build.log
+      - name: Ensure GitHub Pages source is gh-pages root (uses `PERSONAL_ACCESS_TOKEN`)
+        env:
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          set -ex
+          if [ -z "$PERSONAL_ACCESS_TOKEN" ]; then
+            echo "No personal access token found in secret 'PERSONAL_ACCESS_TOKEN'. Skipping automatic Pages configuration."
+            echo "If you want automatic configuration, add a PAT with 'pages:write' or 'repo' scope as repository secret 'PERSONAL_ACCESS_TOKEN'."
+            exit 0
+          fi
+          OWNER=$(echo "$GITHUB_REPOSITORY" | cut -d'/' -f1)
+          REPO=$(echo "$GITHUB_REPOSITORY" | cut -d'/' -f2)
+          PAYLOAD='{"source":{"branch":"gh-pages","path":"/"}}'
+          HTTP_CODE=$(curl -s -w "%{http_code}" -o /tmp/pages_response.json -X PUT \
+            -H "Authorization: token $PERSONAL_ACCESS_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/$OWNER/$REPO/pages \
+            -d "$PAYLOAD" ) || true
+          echo "GitHub Pages API HTTP status: $HTTP_CODE"
+          echo "Response body:" && cat /tmp/pages_response.json || true
+          if [ "$HTTP_CODE" = "201" ] || [ "$HTTP_CODE" = "204" ] || [ "$HTTP_CODE" = "200" ]; then
+            echo "GitHub Pages source configured to gh-pages branch root."
+          else
+            echo "Warning: could not configure GitHub Pages source (HTTP $HTTP_CODE)." >&2
+            echo "Please set Pages source to 'gh-pages' branch root in Settings → Pages if this fails." >&2
+            echo "Continuing deployment — this step will not fail the workflow." >&2
+          fi
       # - name: Build (static export) + generate analytics
       #   env:
       #     NEXT_STATIC_EXPORT: 'true'
