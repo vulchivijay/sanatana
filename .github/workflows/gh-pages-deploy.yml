@@ -69,27 +69,27 @@ jobs:
         run: |
           set -ex
           npm run scss:build
-      - name: Build (static export) + generate analytics
-        env:
-          NEXT_STATIC_EXPORT: 'true'
-          # Provide GA/GTM and public site config from repo secrets so
-          # the layout's env-driven script blocks render in the generated HTML.
-          NEXT_PUBLIC_GA_ID: ${{ secrets.NEXT_PUBLIC_GA_ID }}
-          NEXT_PUBLIC_GA_MEASUREMENT_ID: ${{ secrets.NEXT_PUBLIC_GA_MEASUREMENT_ID }}
-          NEXT_PUBLIC_GTM_ID: ${{ secrets.NEXT_PUBLIC_GTM_ID }}
-          NEXT_PUBLIC_SITE_URL: ${{ secrets.NEXT_PUBLIC_SITE_URL }}
-          # Include compiled SCSS in CI static export (matches local .env behavior)
-          NEXT_PUBLIC_INCLUDE_SCSS: 'true'
-          # Secrets required to run the analytics generator script
-          GA_CLIENT_EMAIL: ${{ secrets.GA_CLIENT_EMAIL }}
-          GA_PRIVATE_KEY: ${{ secrets.GA_PRIVATE_KEY }}
-          GA_VIEW_ID: ${{ secrets.GA_VIEW_ID }}
-          GA_PROPERTY_ID: ${{ secrets.GA_PROPERTY_ID }}
-          ANALYTICS_BACKEND: ${{ secrets.ANALYTICS_BACKEND }}
-        run: |
-          set -ex
-          npm run build
-          npm run generate:analytics
+      # - name: Build (static export) + generate analytics
+      #   env:
+      #     NEXT_STATIC_EXPORT: 'true'
+      #     # Provide GA/GTM and public site config from repo secrets so
+      #     # the layout's env-driven script blocks render in the generated HTML.
+      #     NEXT_PUBLIC_GA_ID: ${{ secrets.NEXT_PUBLIC_GA_ID }}
+      #     NEXT_PUBLIC_GA_MEASUREMENT_ID: ${{ secrets.NEXT_PUBLIC_GA_MEASUREMENT_ID }}
+      #     NEXT_PUBLIC_GTM_ID: ${{ secrets.NEXT_PUBLIC_GTM_ID }}
+      #     NEXT_PUBLIC_SITE_URL: ${{ secrets.NEXT_PUBLIC_SITE_URL }}
+      #     # Include compiled SCSS in CI static export (matches local .env behavior)
+      #     NEXT_PUBLIC_INCLUDE_SCSS: 'true'
+      #     # Secrets required to run the analytics generator script
+      #     GA_CLIENT_EMAIL: ${{ secrets.GA_CLIENT_EMAIL }}
+      #     GA_PRIVATE_KEY: ${{ secrets.GA_PRIVATE_KEY }}
+      #     GA_VIEW_ID: ${{ secrets.GA_VIEW_ID }}
+      #     GA_PROPERTY_ID: ${{ secrets.GA_PROPERTY_ID }}
+      #     ANALYTICS_BACKEND: ${{ secrets.ANALYTICS_BACKEND }}
+      #   run: |
+      #     set -ex
+      #     npm run build
+      #     npm run generate:analytics
       - name: Deploy `out/` to `gh-pages` branch
         uses: peaceiris/actions-gh-pages@v3
         with:
