@@ -10,7 +10,7 @@
     "scss:build": "sass app/globals.scss public/globals.from-scss.css --no-source-map",
     "scss:watch": "sass --watch app/globals.scss:public/globals.from-scss.css --no-source-map",
     "predeploy": "npm run scss:build && npm run build",
-    "export": "next build",
+    "export": "next build && next export",
     "postinstall": "npx next telemetry disable || true",
     "deploy": "gh-pages -d out",
     "start": "next start",
