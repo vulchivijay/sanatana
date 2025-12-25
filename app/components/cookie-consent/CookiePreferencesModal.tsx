@@ -47,7 +47,7 @@ export default function CookiePreferencesModal({ open, onClose, onSave, initial 
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center">
-      <div className="w-full content-wrapper rounded-lg">
+      <div className="w-full content-wrapper rounded-md!">
         <div className="flex justify-between items-center">
           <h3>Cookie Preference Manager</h3>
           <button aria-label="close" onClick={onClose}>✕</button>
