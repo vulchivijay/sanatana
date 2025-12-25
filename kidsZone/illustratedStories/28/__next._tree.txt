@@ -1,6 +1,7 @@
-:HL["/_next/static/chunks/4985b20b0bddafd3.css","style"]
+:HL["/_next/static/chunks/b198c47b7bca9724.css","style"]
 :HL["/_next/static/media/a218039a3287bcfd-s.p.4a23d71b.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/ad85ec941b4c8b5c-s.p.abd41f7e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/images/lord-shiva.png","image"]
 :HL["/images/lord-krishna.png","image"]
-0:{"buildId":"beeUAGreP58PMlFP6fVMb","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"kidsZone","paramType":null,"paramKey":"kidsZone","hasRuntimePrefetch":false,"slots":{"children":{"name":"illustratedStories","paramType":null,"paramKey":"illustratedStories","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"28","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/globals.from-scss.css","style"]
+0:{"buildId":"-24x9Zugdda3DRnk613BC","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"kidsZone","paramType":null,"paramKey":"kidsZone","hasRuntimePrefetch":false,"slots":{"children":{"name":"illustratedStories","paramType":null,"paramKey":"illustratedStories","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"28","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
