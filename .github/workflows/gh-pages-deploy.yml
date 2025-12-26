@@ -1,11 +1,15 @@
-name: Deploy to GitHub Pages
+name: Deploy to GitHub Pages (run after production build)
 
+# Run this workflow only after the 'production' workflow completes.
+# It will only proceed when that workflow's run concluded with 'success'.
 on:
-  push:
-    branches: [ production, main ]
+  workflow_run:
+    workflows: ["production"]
+    types: [completed]
 
 jobs:
   build-and-deploy:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     concurrency:
       group: gh-pages-deploy
@@ -66,6 +70,17 @@ jobs:
             echo "One or more required secrets are missing. Set them in repository Settings → Secrets → Actions." >&2
             exit 1
           fi
+      - name: Run linters (ESLint)
+        run: |
+          set -ex
+          echo "Running ESLint across the repo"
+          # Lint the repository; the `lint` script delegates to eslint
+          npm run lint -- . || true
+      - name: Type-check (TypeScript)
+        run: |
+          set -ex
+          echo "Running TypeScript type-check (no emit)"
+          npm run noEmit
       - name: Build SCSS
         run: |
           set -ex

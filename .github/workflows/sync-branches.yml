@@ -1,0 +1,67 @@
+name: Sync `development` and `main` branches
+
+on:
+  push:
+    branches:
+      - development
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync-branches:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup GitHub CLI
+        uses: cli/gh-action@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create PR (development → main)
+        if: github.ref == 'refs/heads/development'
+        run: |
+          set -e
+          PR=$(gh pr list --head development --base main --json number --jq '.[0].number' || true)
+          if [ -z "$PR" ]; then
+            PR=$(gh pr create --base main --head development --title "Sync: development → main" --body "Automated PR to sync development into main." --json number --jq '.number' 2>/dev/null || true)
+            echo "Created PR: $PR"
+          else
+            echo "PR already exists: $PR"
+          fi
+
+          if [ -n "$PR" ]; then
+            echo "Enabling auto-merge for PR #$PR"
+            if gh pr merge "$PR" --auto --merge --delete-branch >/dev/null 2>&1; then
+              echo "Auto-merge enabled for PR #$PR"
+            else
+              echo "Warning: could not enable auto-merge for PR #$PR (it may already be enabled or branch protection prevents it)" >&2
+            fi
+          fi
+
+      - name: Create PR (main → development)
+        if: github.ref == 'refs/heads/main'
+        run: |
+          set -e
+          PR=$(gh pr list --head main --base development --json number --jq '.[0].number' || true)
+          if [ -z "$PR" ]; then
+            PR=$(gh pr create --base development --head main --title "Sync: main → development" --body "Automated PR to sync main into development." --json number --jq '.number' 2>/dev/null || true)
+            echo "Created PR: $PR"
+          else
+            echo "PR already exists: $PR"
+          fi
+
+          if [ -n "$PR" ]; then
+            echo "Enabling auto-merge for PR #$PR"
+            if gh pr merge "$PR" --auto --merge --delete-branch >/dev/null 2>&1; then
+              echo "Auto-merge enabled for PR #$PR"
+            else
+              echo "Warning: could not enable auto-merge for PR #$PR (it may already be enabled or branch protection prevents it)" >&2
+            fi
+          fi
