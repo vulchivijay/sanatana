@@ -19,10 +19,12 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup GitHub CLI
-        uses: cli/gh-action@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Install and authenticate GitHub CLI
+        run: |
+          set -ex
+          sudo apt-get update
+          sudo apt-get install -y gh
+          echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
 
       - name: Create PR (development → main)
         if: github.ref == 'refs/heads/development'
