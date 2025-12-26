@@ -1,6 +1,7 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
 import { t, detectLocale, getMeta } from '../../../../lib/i18n';
+import { createGenerateMetadata } from 'lib/pageUtils';
 import StructuredData from '@components/structured-data/StructuredData';
 
 export default async function NatyaPage() {
@@ -25,16 +26,5 @@ export default async function NatyaPage() {
 }
 
 
-export async function generateMetadata(props: any) {
-  const { searchParams } = props || {};
-  const locale = await detectLocale(searchParams);
-  const meta = getMeta('scriptures_shastras_natya', undefined, locale) || {};
-  return {
-    title: meta.title,
-    description: meta.description,
-    keywords: meta.keywords,
-    openGraph: { title: meta.title, description: meta.description, images: meta.ogImage ? [meta.ogImage] : undefined },
-    alternates: { canonical: meta.canonical || meta.url || process.env.NEXT_PUBLIC_SITE_URL || 'https://sanatanadharmam.in' }
-  };
-}
+export const generateMetadata = createGenerateMetadata('scriptures_shastras_natya');
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */

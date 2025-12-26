@@ -1,37 +1,11 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, interpolate, getMeta, DEFAULT_LOCALE, detectServerLocaleFromHeaders, detectLocale, getLocaleObject } from '@/lib/i18n';
-import { headers } from 'next/headers';
+import { t, interpolate, getMeta, DEFAULT_LOCALE, detectLocale, getLocaleObject } from '@/lib/i18n';
+import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
 import Link from 'next/link';
 import StructuredData from '@components/structured-data/StructuredData';
 import PageArticleJsonLd from '@components/structured-data/PageArticleJsonLd';
 
-function resolveLocaleFromHeaders() {
-  try {
-    const h: any = headers();
-    return detectServerLocaleFromHeaders(h);
-  } catch (e) {
-    return DEFAULT_LOCALE;
-  }
-}
-
-export async function generateMetadata({ params, searchParams }: { params: { chapter: string }, searchParams?: any }) {
-  const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
-  const chapters = t('puranas.chapters', locale) || [];
-  const num = Number(params.chapter || 0);
-  const ch = Array.isArray(chapters) ? chapters.find((c: any) => Number(c.chapter) === num) : null;
-  const siteMeta = getMeta('puranas', {}, locale);
-  const title = ch ? `${siteMeta.title || t('nav.scriptures.nav.puranas', locale)} — Chapter ${ch.chapter}: ${ch.title}` : `${t('nav.scriptures.nav.puranas', locale)} — Chapter ${num}`;
-  const meta = getMeta('puranas_slug', { title: title, excerpt: ch && ch.summary ? ch.summary : '' }, locale);
-  const description = ch && ch.summary ? ch.summary : meta.description;
-  const keywords = (meta.keywords && String(meta.keywords).trim()) ? meta.keywords : `${t('nav.scriptures.nav.puranas', locale)}, chapter ${num}`;
-  const ogImages = meta.ogImage ? [meta.ogImage] : undefined;
-  return {
-    title,
-    description,
-    keywords,
-    openGraph: { title, description, images: ogImages },
-  };
-}
+export const generateMetadata = createGenerateMetadata('puranas_slug');
 
 export function generateStaticParams() {
   try {

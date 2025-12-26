@@ -2,6 +2,7 @@
 import { getMeta, detectLocale, t, DEFAULT_LOCALE } from '../../../../lib/i18n';
 import StructuredData from '@components/structured-data/StructuredData';
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+import PageLayout from '@components/common/PageLayout';
 import fs from 'fs/promises';
 import path from 'path';
 import Image from 'next/image';
@@ -51,11 +52,9 @@ export default async function Page({ params, searchParams }: any) {
 
   if (!item) {
     return (
-      <main className="content-wrapper md page-space-xl">
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: t('kidsZone.illustratedStories.title', locale) }]} />
-        <h2>{t('kidsZone.illustratedStories.comicNotFoundTitle', locale)}</h2>
+      <PageLayout className="content-wrapper md page-space-xl" title={t('kidsZone.illustratedStories.comicNotFoundTitle', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: t('kidsZone.illustratedStories.title', locale) }]}>
         <p>{t('kidsZone.illustratedStories.comicNotFoundDesc', locale)}</p>
-      </main>
+      </PageLayout>
     );
   }
 
@@ -65,9 +64,7 @@ export default async function Page({ params, searchParams }: any) {
   return (
     <>
       <StructuredData metaKey="kidsZone_illustratedStories_item" />
-      <main className="content-wrapper md page-space-xl">
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: t('kidsZone.illustratedStories.title', locale), href: '/kidsZone/illustratedStories' }, { label: item.title }]} />
-        <h2>{item.title}</h2>
+      <PageLayout className="content-wrapper md page-space-xl" title={item.title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: t('kidsZone.illustratedStories.title', locale), href: '/kidsZone/illustratedStories' }, { label: item.title }]}>
         <div>{item.origin}</div>
         <div>
           <div>
@@ -87,7 +84,7 @@ export default async function Page({ params, searchParams }: any) {
             <Link href={`/kidsZone/illustratedStories/${next.id}`}>{next.title} &rarr;</Link>
           ) : <div />}
         </div>
-      </main>
+      </PageLayout>
     </>
   );
 }

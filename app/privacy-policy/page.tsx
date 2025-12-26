@@ -1,31 +1,18 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+import PageLayout from '@components/common/PageLayout';
 import { t, getMeta, detectLocale } from '../../lib/i18n';
+import { createGenerateMetadata } from 'lib/pageUtils';
 import StructuredData from '@components/structured-data/StructuredData';
 
-export async function generateMetadata(props: any) {
-  const { searchParams } = props || {};
-  const locale = await detectLocale(searchParams as any);
-  const meta = getMeta('privacy_policy', undefined, locale);
-  return {
-    title: meta.title,
-    description: meta.description,
-    openGraph: {
-      title: meta.title,
-      description: meta.description,
-      url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://sanatanadharmam.in'}/privacy-policy`,
-      images: meta.ogImage ? [meta.ogImage] : undefined,
-    },
-    alternates: { canonical: meta.canonical || meta.url || process.env.NEXT_PUBLIC_SITE_URL || 'https://sanatanadharmam.in' },
-  };
-}
+export const generateMetadata = createGenerateMetadata('privacy_policy');
 
 export default async function PrivacyPolicy() {
   const locale = await detectLocale();
   return (
     <>
       <StructuredData metaKey="privacy-policy" />
-      <main className="content-wrapper md page-space-xl">
+        <PageLayout className="content-wrapper md page-space-xl" title={t('privacy.title')}>
         <div>
           <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { labelKey: 'footer.privacy' }]} locale={locale} />
           <h2>{t('privacy.title')}</h2>
@@ -92,7 +79,7 @@ export default async function PrivacyPolicy() {
             </div>
           </div>
         </div>
-      </main>
+      </PageLayout>
     </>
   );
 }

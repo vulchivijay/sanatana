@@ -2,6 +2,7 @@
 import { getMeta, detectLocale, t } from '../../../lib/i18n';
 import StructuredData from '@components/structured-data/StructuredData';
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+import PageLayout from '@components/common/PageLayout';
 
 export async function generateMetadata(props: any) {
   const { searchParams } = props || {};
@@ -19,11 +20,10 @@ export default function Page() {
   return (
     <>
       <StructuredData metaKey="practices_festivals" />
-      <main className="content-wrapper md page-space-xl">
+      <PageLayout className="content-wrapper md page-space-xl" title={'Festivals'}>
         <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: 'Festivals' }]} />
-        <h2>Festivals</h2>
         <p>Placeholder page describing major festivals and observances.</p>
-      </main>
+      </PageLayout>
     </>
   );
 }

@@ -2,6 +2,7 @@
 import { getMeta, detectLocale, t } from '../../../lib/i18n';
 import StructuredData from '@components/structured-data/StructuredData';
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+import PageLayout from '@components/common/PageLayout';
 
 export async function generateMetadata(props: any) {
   const { searchParams } = props || {};
@@ -20,11 +21,9 @@ export default async function Page() {
   return (
     <>
       <StructuredData metaKey="kidsZone_easymantras" />
-      <main className="content-wrapper md page-space-xl">
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: meta.title || t('kidsZone.easymantras.title', locale) }]} locale={locale} />
-        <h2>{meta.title || t('kidsZone.easymantras.title', locale)}</h2>
+      <PageLayout className="content-wrapper md page-space-xl" title={meta.title || t('kidsZone.easymantras.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: meta.title || t('kidsZone.easymantras.title', locale) }]}>
         <p>Placeholder for simple mantras children can learn.</p>
-      </main>
+      </PageLayout>
     </>
   );
 }
