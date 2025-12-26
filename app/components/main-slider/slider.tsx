@@ -93,7 +93,7 @@ export default function MainSlider() {
             ) : ''}
             {slide.sankritTitle && heroSubtitles && (
               <div className={`slider-content relative md:absolute ${slide.placementImage === 'left' ? 'md:right-0' : 'md:left-0'} md:w-2/3 md:z-10`}>
-                <p className="text-2xl/10! md:text-4xl/12! font-semibold!">{slide.sankritTitle}</p>
+                <p className="text-2xl/10! md:text-3xl/12! font-semibold!">{slide.sankritTitle}</p>
                 <p>{slide.englishTitle}</p>
                 <p>{slide.subtitle}</p>
                 <div className="mt-10 flex flex-row gap-4">

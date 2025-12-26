@@ -1,0 +1,96 @@
+/* Base reset, typography and utility base styles */
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  position: relative;
+  text-decoration: none;
+  color: #7a4b00;
+  &::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 0;
+    height: 1px;
+    opacity: 0;
+    background-color: var(--theme-body-text-color);
+    transition: all 0.2s ease-in-out;
+  }
+
+  &.active::after,
+  &:hover::after {
+    width: 100%;
+    opacity: 1;
+  }
+  &.no-underline::after,
+  &.no-underline:hover::after {
+    display: none;
+  }
+}
+
+ul, ol {
+  padding-left: 1.25rem;
+  margin-bottom: var(--space-md);
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: var(--space-md);
+  font-size: 1rem;
+}
+
+small,
+.small,
+.meta {
+  font-size: 0.875rem;
+  color: var(--color-muted);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  line-height: 1.3;
+  margin-top: var(--space-xl);
+  margin-bottom: var(--space-sm);
+}
+
+h1 { font-size: 1.75rem; }
+h2 { font-size: 1.4rem; }
+h3 { font-size: 1.2rem; }
+h4 { font-size: 1.05rem; }
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  width: 100%;
+  padding: var(--space-xs) var(--space-sm);
+}
+
+button,
+.button {
+  display: inline-block;
+  font-size: 1rem;
+  padding: 8px 16px;
+  cursor: pointer;
+
+  &.scroll-to-top {
+    padding: var(--space-xs)
+  }
+}

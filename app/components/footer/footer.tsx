@@ -61,7 +61,7 @@ export default function Footer() {
     <footer className="w-full">
       <div className="content-wrapper relative z-29">
         <section className="text-center">
-          <p className="text-3xl! md:text-4xl! font-semibold">{translations["footer.title"]}</p>
+          <p className="text-3xl! md:text-3xl! font-semibold">{translations["footer.title"]}</p>
           <p>{translations["footer.quote"]}</p>
           <p>{translations["footer.quoteSource"]}</p>
           <div className="flex items-center justify-center gap-4">
@@ -215,30 +215,30 @@ export default function Footer() {
         </div>
         <div className="disclaimer w-full flex flex-col md:flex-row items-center justify-between">
           <div>
-            <p>{translations["footer.disclaimer"]}<br /> {translations["footer.contentChange"]}</p>
-            <p>I am using <Link href='https://gemini.google.com/' title='Gemini AI' target='_blank' className='text-white no-underline'>Gemini AI</Link>, <Link href='https://www.meta.ai/' title='Meta AI' target='_blank' className='text-white no-underline'>Meta AI</Link> and  <Link href='https://github.com/features/copilot' title='Github Copilot' target='_blank' className='text-white no-underline'>Github Copilot</Link> basic plan to generating content of the website.</p>
+            <p className="text-xs/4! text-gray-300">{translations["footer.disclaimer"]}<br /> {translations["footer.contentChange"]}</p>
+            <p className="text-xs/4! text-gray-300">I am using <Link href='https://gemini.google.com/' title='Gemini AI' target='_blank' className='text-white no-underline'>Gemini AI</Link>, <Link href='https://www.meta.ai/' title='Meta AI' target='_blank' className='text-white no-underline'>Meta AI</Link> and  <Link href='https://github.com/features/copilot' title='Github Copilot' target='_blank' className='text-white no-underline'>Github Copilot</Link> basic plan to generating content of the website.</p>
           </div>
           <nav role="menu" className="social-icons md:w-1/4 flex items-center justify-end gap-6">
-            <Link href="https://in.linkedin.com/in/vulchivijayakumar" target="_blank" className="no-underline">
+            <Link href="https://in.linkedin.com/in/vulchivijayakumar" target="_blank" className="text-sm! no-underline">
               <img src="/images/svg/linkedin.svg" alt="linkedin" width={24} height={24} className="inline-block" />
             </Link>
-            <Link href="https://codepen.io/vulchivijay" target="_blank" className="no-underline">
+            <Link href="https://codepen.io/vulchivijay" target="_blank" className="text-sm! no-underline">
               <img src="/images/svg/codepen.svg" alt="codepen" width={24} height={24} className="inline-block" />
             </Link>
-            <Link href="https://github.com/vulchivijay" target="_blank" className="no-underline">
+            <Link href="https://github.com/vulchivijay" target="_blank" className="text-sm! no-underline">
               <img src="/images/svg/github.svg" alt="github" width={24} height={24} className="inline-block" />
             </Link>
-            <Link href="#" target="_blank" className="no-underline">
+            <Link href="#" target="_blank" className="text-sm!no-underline">
               <img src="/images/svg/twitter.svg" alt="twitter" width={24} height={24} className="inline-block" />
             </Link>
           </nav>
         </div>
         <div className="copyrights w-full md:flex md:items-center md:justify-between">
           <div className="flex items-center gap-4">
-            <Link href="/privacy-policy" className={`${isActive("/privacy-policy") ? "active" : ""} text-white`}>{translations["footer.privacy"]}</Link>
-            <Link href="/terms-of-service" className={`${isActive("/terms-of-service") ? "active" : ""} text-white`}>{translations["footer.terms"]}</Link>
+            <Link href="/privacy-policy" className={`${isActive("/privacy-policy") ? "active" : ""} `}>{translations["footer.privacy"]}</Link>
+            <Link href="/terms-of-service" className={`${isActive("/terms-of-service") ? "active" : ""} `}>{translations["footer.terms"]}</Link>
           </div>
-          <div>{translations["footer.copyright"]}</div>
+          <div className="text-xs! color-gray-300">{translations["footer.copyright"]}</div>
         </div>
       </div>
     </footer>
