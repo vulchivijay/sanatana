@@ -98,7 +98,7 @@ export const metadata: Metadata = {
     images: [`${SITE_URL}/globe.svg`]
   },
   alternates: {
-    canonical: SITE_URL,
+    // Do not force a global canonical to SITE_URL — allow per-page canonical URLs.
     languages: {
       en: SITE_URL,
       te: `${SITE_URL}/?lang=te`

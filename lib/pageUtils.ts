@@ -13,7 +13,17 @@ export function resolveLocaleFromHeaders() {
 export function createGenerateMetadata(metaKey: string, titleKey?: string, descriptionKey?: string) {
   return async function generateMetadata(props: any) {
     const { searchParams } = props || {};
-    let locale = await detectLocale(searchParams);
+    // `searchParams` can be a Promise in newer Next.js versions — unwrap it first
+    let resolvedSearchParams: any = searchParams;
+    try {
+      if (resolvedSearchParams && typeof resolvedSearchParams.then === 'function') {
+        resolvedSearchParams = await resolvedSearchParams;
+      }
+    } catch (e) {
+      resolvedSearchParams = undefined;
+    }
+
+    let locale = detectLocale(resolvedSearchParams);
     if (!locale) locale = resolveLocaleFromHeaders();
     const title = titleKey ? t(titleKey, locale) : undefined;
     const meta = getMeta(metaKey, {}, locale) || {};
