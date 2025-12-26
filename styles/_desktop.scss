@@ -1,0 +1,65 @@
+@media (min-width: 1024px) {
+  html {
+    font-size: 18px;
+  }
+
+  body {
+    line-height: 1.75;
+  }
+
+  h1 {
+    font-size: 2.5rem; /* 40px */
+  }
+
+  h2 {
+    font-size: 2rem; /* 32px */
+  }
+
+  h3 {
+    font-size: 1.5rem; /* 24px */
+  }
+
+  h4 {
+    font-size: 1.25rem; /* 20px */
+  }
+
+  p {
+    font-size: 1.125rem; /* 18px */
+  }
+
+  .logo-title-nav-wrapper {
+    padding: var(--space-xs) var(--space-lg);
+  }
+
+  .content-wrapper {
+    padding-left: var(--space-lg);
+    padding-right: var(--space-lg);
+  }
+  
+  .social-icons {
+    padding-bottom: 0;
+  }
+
+  .map-wrapper {
+    padding: 0 var(--space-md);
+  }
+
+  .border-gradient-vertical {
+    border-right: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to bottom, red, rgba(0, 0, 0, 0)) 1 100%;
+  }
+
+  .image-shiva-wrapper,
+  .image-krishna-wrapper {
+    background-size: 88%, 100%;
+  }
+
+  .image-shiva-wrapper {
+    background-position: -200% 0, 0 0;
+  }
+
+  .image-krishna-wrapper {
+    background-position: 200% 0, 0 0;
+  }
+}

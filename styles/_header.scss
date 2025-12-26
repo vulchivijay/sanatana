@@ -1,0 +1,50 @@
+/* Header component styles (scoped global classes) */
+
+header {
+  background-color: var(--color-bg);
+
+  .logo-title h1 {
+    margin: 0;
+    color: var(--color-title);
+  }
+
+  .logo-title-nav-wrapper {
+    padding: var(--space-xs);
+  }
+
+  .nav-primary-btn {
+    display: flex;
+    padding: var(--space-xxs) var(--space-xs);
+    align-items: center;
+  }
+
+  button {
+    min-width: 36px;
+    min-height: 36px;
+    margin-left: var(--space-xs);
+    padding: var(--space-xs);
+    font-size: 0.9rem;
+  }
+
+  .mobile-primary-menu { padding-top: var(--space-sm); }
+
+  .mobile-primary-menu button { margin-left: 0; }
+
+  .mobile-primary-submenu { padding-left: var(--space-lg); }
+
+  .nav-primary-submenu {
+    margin: 0;
+    padding: 0;
+
+    li:nth-child(odd) { background-color: var(--color-bg-alt); }
+    li:nth-child(even) { background-color: var(--color-white); }
+
+    a { padding: var(--space-xxs) var(--space-xs); font-size: 0.85rem; }
+  }
+
+  /* Mobile drawer helpers */
+  .mobile { border-top: 1px solid rgba(255,255,255,0.06); border-bottom: 1px solid rgba(255,255,255,0.06); }
+
+  /* small transitions used by menu animations */
+  .dropdown-animate { transition: transform .15s ease, opacity .15s ease; }
+}

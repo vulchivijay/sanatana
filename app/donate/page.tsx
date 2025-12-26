@@ -2,42 +2,13 @@
 import Link from "next/link";
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
 import { t, getMeta, detectLocale, DEFAULT_LOCALE, SUPPORTED_LOCALES } from '../../lib/i18n';
-import { headers } from 'next/headers';
+import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
 import StructuredData from '@components/structured-data/StructuredData';
 import PayPalButton from "../components/paypalbutton";
 import Image from "next/image";
+import PageLayout from '@components/common/PageLayout';
 
-export async function generateMetadata(props: any) {
-  const supported = SUPPORTED_LOCALES;
-  let locale = DEFAULT_LOCALE;
-  try {
-    const hdrs = await headers();
-    const cookie = hdrs.get('cookie') || '';
-    const match = typeof cookie === 'string' ? cookie.match(/sanatana_dharma_language=([^;]+)/) : null;
-    if (match && supported.includes(match[1])) locale = match[1];
-    else {
-      const al = hdrs.get('accept-language');
-      if (al && typeof al === 'string') {
-        const first = al.split(',')[0].split(';')[0].trim();
-        const primary = first.split('-')[0];
-        if (supported.includes(primary)) locale = primary;
-      }
-    }
-  } catch (err) {
-    // fall back to DEFAULT_LOCALE
-  }
-  const meta = getMeta('donate', undefined, locale);
-  return {
-    title: meta.title,
-    description: meta.description,
-    openGraph: {
-      title: meta.title,
-      description: meta.description,
-      url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://sanatanadharmam.in'}/donate`,
-      images: meta.ogImage ? [meta.ogImage] : undefined,
-    },
-  };
-}
+export const generateMetadata = createGenerateMetadata('donate');
 
 export default function DonatePage() {
   const locale = detectLocale();
@@ -45,7 +16,7 @@ export default function DonatePage() {
   return (
     <>
       <StructuredData metaKey="donate" />
-      <main className="content-wrapper md page-space-xl page-donate">
+      <PageLayout className="content-wrapper md page-space-xl page-donate">
         <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { labelKey: 'nav.donate' }]} locale={locale} />
         <h2>{t('donatePage.title')}</h2>
         <p>{t('donatePage.lead')}</p>
@@ -109,7 +80,7 @@ export default function DonatePage() {
             </Link>
           </div>
         </section>
-      </main>
+      </PageLayout>
     </>
   );
 }

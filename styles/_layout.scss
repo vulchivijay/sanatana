@@ -1,0 +1,160 @@
+.multi-text-color {
+  span:first-child {
+    color: rgb(253, 174, 80);
+  }
+  span:nth-child(2) {
+    color: rgb(250, 89, 82);
+  }
+  span:nth-child(3) {
+    color: rgb(64, 62, 135);
+  }
+  span:last-child {
+    color: rgb(50, 84, 146);
+  }
+}
+
+.notifiction-bar {
+  line-height: 1;
+  padding: 6px 0 2px;
+}
+
+.main-slider {
+  .slider-content {
+    padding: var(--space-xxl) var(--space-lg);
+  }
+
+  p {
+    color: var(--color-white);
+  }
+
+  .left-4,
+  .right-4 {
+    min-width: 40px;
+    padding: var(--space-xs);
+  }
+
+  .slider-dots button {
+    padding: var(--space-xxs);
+  }
+}
+
+.gradient-background {
+  background-image: radial-gradient(circle farthest-corner at 90% 0%,
+  var(--color-yellow),
+  var(--color-red) 18%,
+  var(--color-orange) 46%,
+  var(--color-violet) 87%,
+  var(--color-blue));
+}
+
+.image-shiva-wrapper,
+.image-krishna-wrapper {
+  background-attachment: fixed, scroll;
+  background-size: cover, cover;
+  background-position: center, center;
+  background-repeat: no-repeat;
+}
+
+.image-shiva-wrapper {
+  background-color: rgb(5, 11, 24);
+}
+
+.image-krishna-wrapper {
+  background-color: rgb(5, 5, 5);
+}
+
+.section-gradient.image-bg-shiva {
+  background-image: radial-gradient(circle farthest-corner at 0% 100%, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.14) 31%, var(--color--blue) 73%);
+}
+
+.section-gradient.image-bg-krishna {
+  background-image: radial-gradient(circle farthest-corner at 0% 100%, var(--color--blue), var(--color--blue) 31%, rgba(0, 0, 0, 0) 73%);
+}
+
+.background-alternative {
+  background-color: var(--color-bg-alt);
+}
+
+.content-wrapper {
+  margin: 0 auto;
+  padding: var(--space-lg);
+  max-width: var(--content-width);
+
+  &.xs {
+    max-width: var(--content-width-xs);
+  }
+
+  &.sm {
+    max-width: var(--content-width-sm);
+  }
+
+  &.md {
+    max-width: var(--content-width-md);
+  }
+
+  &.lg {
+    max-width: var(--content-width-lg);
+  }
+
+  &.sanatana-dharma {
+    padding-top: var(--space-xl);
+    padding-bottom: var(--space-xxl);
+  }
+
+  &.krishna-stotram,
+  &.gayathri-stotram {
+    padding-top: calc(var(--space-xxl) * 2);
+    padding-bottom: calc(var(--space-xxl) * 2);
+  }
+
+  &.ourfour-coreyugas {
+    padding-top: var(--space-xxl);
+    padding-bottom: var(--space-xxl);
+  }
+}
+
+.map-wrapper {
+  padding: var(--space-xl) var(--space-md);
+  
+  .cta-content {
+    p {
+      color: var(--color-white);
+    }
+  }
+}
+
+.about-shiva {
+  padding-top: calc(var(--space-xxl) * 2);
+  padding-bottom: calc(var(--space-xxl) * 2);
+
+  .history {
+    padding-top: var(--space-xxl);
+    padding-bottom: var(--space-xxl);
+  }
+}
+
+.page-space-xl {
+  padding-top: var(--space-xl);
+  padding-bottom: var(--space-xl);
+
+  .breadcrumb-wrapper {
+    margin: 0;
+    padding: 0;
+
+    li {
+      margin: 0;
+    }
+  }
+}
+
+.donation-wrapper {
+
+  .bg-white {
+    padding: var(--space-lg);
+    margin-bottom: var(--space-md);
+  }
+}
+
+.contact-form-wrapper {
+  padding: var(--space-lg);
+}

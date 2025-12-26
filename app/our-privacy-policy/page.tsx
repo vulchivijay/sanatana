@@ -1,31 +1,14 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 import React from 'react';
-import { getMeta, detectLocale, t, DEFAULT_LOCALE, detectServerLocaleFromHeaders } from '../../lib/i18n';
-import { headers } from 'next/headers';
+import { getMeta, detectLocale, t, DEFAULT_LOCALE } from '../../lib/i18n';
+import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
 import StructuredData from '@components/structured-data/StructuredData';
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
 
 
-export async function generateMetadata(props: any) {
-  const { searchParams } = props || {};
-  const locale = await detectLocale(searchParams);
-  const meta = getMeta('our-privacy-policy', undefined, locale) || {};
-  return {
-    title: meta.title,
-    description: meta.description,
-    keywords: meta.keywords,
-    openGraph: { title: meta.title, description: meta.description, images: meta.ogImage ? [meta.ogImage] : undefined }
-  };
-}
+export const generateMetadata = createGenerateMetadata('our-privacy-policy');
 export default function PrivacyPolicyPage({ searchParams }: any) {
-  const locale = detectLocale(searchParams) || (() => {
-    try {
-      const h: any = headers();
-      return detectServerLocaleFromHeaders(h);
-    } catch (e) {
-      return DEFAULT_LOCALE;
-    }
-  })();
+  const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
 
   return (
     <>

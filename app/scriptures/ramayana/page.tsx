@@ -1,30 +1,10 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, detectLocale, DEFAULT_LOCALE, detectServerLocaleFromHeaders, getLocaleObject } from '../../../lib/i18n';
+import { t, getMeta, detectLocale, DEFAULT_LOCALE, getLocaleObject } from '../../../lib/i18n';
+import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
 import StructuredData from '@components/structured-data/StructuredData';
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
-import { headers } from 'next/headers';
 
-export async function generateMetadata(props: any) {
-  const { searchParams } = props || {};
-  const locale = await detectLocale(searchParams);
-  const meta = getMeta('scriptures_ramayana', undefined, locale) || {};
-  return {
-    title: meta.title,
-    description: meta.description,
-    keywords: meta.keywords,
-    openGraph: { title: meta.title, description: meta.description, images: meta.ogImage ? [meta.ogImage] : undefined },
-    alternates: { canonical: meta.canonical || meta.url || process.env.NEXT_PUBLIC_SITE_URL || 'https://sanatanadharmam.in' }
-  };
-}
-
-function resolveLocaleFromHeaders() {
-  try {
-    const h: any = headers();
-    return detectServerLocaleFromHeaders(h);
-  } catch (e) {
-    return DEFAULT_LOCALE;
-  }
-}
+export const generateMetadata = createGenerateMetadata('scriptures_ramayana');
 
 export default function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();

@@ -2,24 +2,10 @@
 import Link from 'next/link';
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
 import { getMeta, t, detectLocale } from '../../../lib/i18n';
+import { createGenerateMetadata } from 'lib/pageUtils';
 import StructuredData from '@components/structured-data/StructuredData';
 
-export async function generateMetadata(props: any) {
-  const locale = await detectLocale();
-  const meta = getMeta('shastras', undefined, locale);
-  return {
-    title: meta.title,
-    description: meta.description,
-    keywords: meta.keywords,
-    openGraph: {
-      title: meta.title,
-      description: meta.description,
-      url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://sanatanadharmam.in'}/shastras`,
-      images: meta.ogImage ? [meta.ogImage] : undefined,
-      alternates: { canonical: meta.canonical || meta.url || process.env.NEXT_PUBLIC_SITE_URL || 'https://sanatanadharmam.in' }
-    },
-  };
-}
+export const generateMetadata = createGenerateMetadata('shastras');
 
 export default async function ShastrasPage() {
   const locale = await detectLocale();
