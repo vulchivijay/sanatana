@@ -216,7 +216,7 @@ header {
   }
 
   .logo-title-nav-wrapper {
-    padding: var(--space-xs) var(--space-sm);
+    padding: var(--space-xs) var(--space-lg);
   }
 
   .nav-primary-btn {
@@ -230,6 +230,7 @@ header {
     min-height: 36px;
     margin-left: var(--space-xs);
     padding: var(--space-xs);
+    font-size: 0.8rem;
   }
 
   .mobile-primary-menu {
@@ -250,10 +251,19 @@ header {
 
     li {
       margin: 2px;
+
+      &:nth-child(odd) {
+        background-color: var(--color-bg-alt);
+      }
+
+      &:nth-child(even) {
+        background-color: var(--color-white);
+      }
     }
 
     a {
       padding: var(--space-xxs) var(--space-xs);
+      font-size: 0.85rem;
     }
   }
 }
@@ -287,7 +297,8 @@ footer {
     padding-bottom: var(--space-md);
   }
 
-  .text-white {
+  a:not(.button) {
+    font-size: 0.8rem;
     color: var(--color-white);
   }
 }

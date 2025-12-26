@@ -112,8 +112,8 @@ export default function MainSlider() {
             ) : ''}
           </div>
         ))}
-        <button onClick={prevSlide} className="absolute z-20 left-4 top-1/2 -translate-y-1/2 bg-amber-200 hover:bg-amber-400 no-underline rounded-md! shadow-md cursor-pointer">&#8592;</button>
-        <button onClick={nextSlide} className="absolute z-20 right-4 top-1/2 -translate-y-1/2 bg-amber-200 hover:bg-amber-400 no-underline rounded-md! shadow-md cursor-pointer">&#8594;</button>
+        <button onClick={prevSlide} className="absolute z-20 left-4 top-1/2 -translate-y-1/2 bg-amber-400 hover:bg-amber-200 no-underline rounded-md! shadow-md cursor-pointer">&#8592;</button>
+        <button onClick={nextSlide} className="absolute z-20 right-4 top-1/2 -translate-y-1/2 bg-amber-400 hover:bg-amber-200 no-underline rounded-md! shadow-md cursor-pointer">&#8594;</button>
       </div>
       <div className="slider-dots absolute z-20 left-0 bottom-10 w-full text-center flex justify-center gap-2">
         {slides.map((_: any, idx: number) => (

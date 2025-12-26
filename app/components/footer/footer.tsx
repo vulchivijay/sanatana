@@ -76,7 +76,7 @@ export default function Footer() {
         <div className="nav-wrapper w-full relative z-10 flex flex-col md:flex-row md:items-start md:justify-between border-t">
           <nav role="menu" className="md:w-full gap-4 flex flex-col  md:flex-row md:items-start">
             <div className="md:w-1/7 flex flex-col gap-2">
-              <p className="underline">{translations["footer.nav.scriptures.title"]}</p>
+              <p className="text-sm! underline">{translations["footer.nav.scriptures.title"]}</p>
               {(() => {
                 const entries = Object.entries(translations["footer.nav.scriptures.nav"]);
                 return entries.map(([key, val]: [string, any]) => {
@@ -86,7 +86,7 @@ export default function Footer() {
                       ? `no-underline ${isActive(href) ? " " : ""}`
                       : `${isActive(href) ? " active" : ""}`;
                     return (
-                      <Link key={key} href={href} className={className ? className : 'text-white'} role="menuitem">
+                      <Link key={key} href={href} className={className ? className : ''} role="menuitem">
                         {val}
                       </Link>
                     );
@@ -95,7 +95,7 @@ export default function Footer() {
               })()}
             </div>
             <div className="md:w-1/7 flex flex-col gap-2">
-              <p className="underline">{translations["footer.nav.stotrasmantras.title"]}</p>
+              <p className="text-sm! underline">{translations["footer.nav.stotrasmantras.title"]}</p>
               {(() => {
                 const entries = Object.entries(translations["footer.nav.stotrasmantras.nav"]);
                 return entries.map(([key, val]: [string, any]) => {
@@ -105,7 +105,7 @@ export default function Footer() {
                       ? `no-underline ${isActive(href) ? " " : ""}`
                       : `${isActive(href) ? " active" : ""}`;
                     return (
-                      <Link key={key} href={href} className={className ? className : 'text-white'} role="menuitem">
+                      <Link key={key} href={href} className={className ? className : ''} role="menuitem">
                         {val}
                       </Link>
                     );
@@ -114,7 +114,7 @@ export default function Footer() {
               })()}
             </div>
             <div className="md:w-1/7 flex flex-col gap-2">
-              <p className="underline">{translations["footer.nav.scriptures.title"]}</p>
+              <p className="text-sm! underline">{translations["footer.nav.scriptures.title"]}</p>
               {(() => {
                 const entries = Object.entries(translations["footer.nav.philosophy.nav"]);
                 return entries.map(([key, val]: [string, any]) => {
@@ -124,7 +124,7 @@ export default function Footer() {
                       ? `no-underline ${isActive(href) ? " " : ""}`
                       : `${isActive(href) ? " active" : ""}`;
                     return (
-                      <Link key={key} href={href} className={className ? className : 'text-white'} role="menuitem">
+                      <Link key={key} href={href} className={className ? className : ''} role="menuitem">
                         {val}
                       </Link>
                     );
@@ -133,7 +133,7 @@ export default function Footer() {
               })()}
             </div>
             <div className="md:w-1/7 flex flex-col gap-2">
-              <p className="underline">{translations["footer.nav.practices.title"]}</p>
+              <p className="text-sm! underline">{translations["footer.nav.practices.title"]}</p>
               {(() => {
                 const entries = Object.entries(translations["footer.nav.practices.nav"]);
                 return entries.map(([key, val]: [string, any]) => {
@@ -143,7 +143,7 @@ export default function Footer() {
                       ? `no-underline ${isActive(href) ? " " : ""}`
                       : `${isActive(href) ? "active" : ""}`;
                     return (
-                      <Link key={key} href={href} className={className ? className : 'text-white'} role="menuitem">
+                      <Link key={key} href={href} className={className ? className : ''} role="menuitem">
                         {val}
                       </Link>
                     );
@@ -152,7 +152,7 @@ export default function Footer() {
               })()}
             </div>
             <div className="md:w-1/7 flex flex-col gap-2">
-              <p className="underline">{translations["footer.nav.stories.title"]}</p>
+              <p className="text-sm! underline">{translations["footer.nav.stories.title"]}</p>
               {(() => {
                 const entries = Object.entries(translations["footer.nav.stories.nav"]);
                 return entries.map(([key, val]: [string, any]) => {
@@ -162,7 +162,7 @@ export default function Footer() {
                       ? `no-underline ${isActive(href) ? " " : ""}`
                       : `${isActive(href) ? " active" : ""}`;
                     return (
-                      <Link key={key} href={href} className={className ? className : 'text-white'} role="menuitem">
+                      <Link key={key} href={href} className={className ? className : ''} role="menuitem">
                         {val}
                       </Link>
                     );
@@ -171,7 +171,7 @@ export default function Footer() {
               })()}
             </div>
             <div className="md:w-1/7 flex flex-col gap-2">
-              <p className="underline">{translations["footer.nav.kidsZone.title"]}</p>
+              <p className="text-sm! underline">{translations["footer.nav.kidsZone.title"]}</p>
               {(() => {
                 const entries = Object.entries(translations["footer.nav.kidsZone.nav"]);
                 return entries.map(([key, val]: [string, any]) => {
@@ -181,7 +181,7 @@ export default function Footer() {
                       ? `no-underline ${isActive(href) ? " " : ""}`
                       : `${isActive(href) ? " active" : ""}`;
                     return (
-                      <Link key={key} href={href} className={className ? className : 'text-white'} role="menuitem">
+                      <Link key={key} href={href} className={className ? className : ''} role="menuitem">
                         {val}
                       </Link>
                     );
@@ -190,7 +190,7 @@ export default function Footer() {
               })()}
             </div>
             <div className="md:w-1/7 flex flex-col gap-2">
-              <p className="underline">{translations["footer.nav.others.title"]}</p>
+              <p className="text-sm! underline">{translations["footer.nav.others.title"]}</p>
               {(() => {
                 const entries = Object.entries(translations["footer.nav.others.nav"]);
                 return entries.map(([key, val]: [string, any]) => {
@@ -200,7 +200,7 @@ export default function Footer() {
                       ? `no-underline ${isActive(href) ? " " : ""}`
                       : `${isActive(href) ? " active" : ""}`;
                     return (
-                      <Link key={key} href={href} className={className ? className : 'text-white'} role="menuitem">
+                      <Link key={key} href={href} className={className ? className : ''} role="menuitem">
                         {val}
                       </Link>
                     );

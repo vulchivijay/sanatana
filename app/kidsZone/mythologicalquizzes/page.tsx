@@ -1,41 +1,21 @@
 import QuizClient from "./QuizClient";
-import { getMeta, detectLocale, t, DEFAULT_LOCALE, detectServerLocaleFromHeaders } from "@/lib/i18n";
-import { headers } from 'next/headers';
+import { getMeta, detectLocale, t, DEFAULT_LOCALE } from "@/lib/i18n";
+import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
 import StructuredData from "@components/structured-data/StructuredData";
 import Breadcrumbs from "@components/breadcrumbs/breadcrumbs";
+import PageLayout from '@components/common/PageLayout';
 
-export async function generateMetadata(props: any) {
-  const { searchParams } = props || {};
-  const locale = await detectLocale(searchParams);
-  const meta = getMeta('kidsZone_mythologicalquizzes', undefined, locale) || {};
-  return {
-    title: meta.title,
-    description: meta.description,
-    keywords: meta.keywords,
-    openGraph: { title: meta.title, description: meta.description, images: meta.ogImage ? [meta.ogImage] : undefined }
-  };
-}
-
-function resolveLocaleFromHeaders() {
-  try {
-    const h: any = headers();
-    return detectServerLocaleFromHeaders(h);
-  } catch (e) {
-    return DEFAULT_LOCALE;
-  }
-}
+export const generateMetadata = createGenerateMetadata('kidsZone_mythologicalquizzes');
 
 export default function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
   return (
     <>
       <StructuredData metaKey="kidsZone_mythologicalquizzes" />
-      <main className="content-wrapper md page-space-xl">
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: t('kidsZone.mythologicalQuizzes.title', locale) }]} />
-        <h2>{t('kidsZone.mythologicalQuizzes.title', locale)}</h2>
+      <PageLayout className="content-wrapper md page-space-xl" title={t('kidsZone.mythologicalQuizzes.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: t('kidsZone.mythologicalQuizzes.title', locale) }]}>
         <p>{t('kidsZone.mythologicalQuizzes.description', locale)}</p>
         <QuizClient />
-      </main>
+      </PageLayout>
     </>
   );
 }

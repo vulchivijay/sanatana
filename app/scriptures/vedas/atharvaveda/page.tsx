@@ -2,6 +2,7 @@
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
 import { t, detectLocale, getMeta } from '../../../../lib/i18n';
 import StructuredData from '@components/structured-data/StructuredData';
+import PageLayout from '@components/common/PageLayout';
 
 
 export async function generateMetadata(props: any) {
@@ -22,17 +23,13 @@ export default function AtharvavedaPage() {
   return (
     <>
       <StructuredData metaKey="scriptures_vedas_atharvaveda" />
-      <main className="content-wrapper md page-space-xl">
-        <div>
-          <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { labelKey: 'nav.vedas', href: '/vedas' }, { labelKey: 'atharvaveda.title' }]} locale={locale} />
-          <h2>{t('atharvaveda.title', locale)}</h2>
-          <p>{t('atharvaveda.summary', locale)}</p>
-          <section>
-            <h3>{t('atharvaveda.contentTitle', locale)}</h3>
-            <p>{t('atharvaveda.content', locale)}</p>
-          </section>
-        </div>
-      </main>
+      <PageLayout className="content-wrapper md page-space-xl" title={t('atharvaveda.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { labelKey: 'nav.vedas', href: '/vedas' }, { labelKey: 'atharvaveda.title' }]}>
+        <p>{t('atharvaveda.summary', locale)}</p>
+        <section>
+          <h3>{t('atharvaveda.contentTitle', locale)}</h3>
+          <p>{t('atharvaveda.content', locale)}</p>
+        </section>
+      </PageLayout>
     </>
   );
 }

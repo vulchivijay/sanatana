@@ -1,30 +1,11 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, detectLocale, DEFAULT_LOCALE, detectServerLocaleFromHeaders, getLocaleObject } from '../../../lib/i18n';
-import { headers } from 'next/headers';
+import { t, getMeta, detectLocale, DEFAULT_LOCALE, getLocaleObject } from '../../../lib/i18n';
+import { resolveLocaleFromHeaders, createGenerateMetadata } from '../../../lib/pageUtils';
 import StructuredData from '@components/structured-data/StructuredData';
+import PageLayout from '@components/common/PageLayout';
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
 
-function resolveLocaleFromHeaders() {
-  try {
-    const h: any = headers();
-    return detectServerLocaleFromHeaders(h);
-  } catch (e) {
-    return DEFAULT_LOCALE;
-  }
-}
-
-export function generateMetadata(props: any) {
-  const { searchParams } = props || {};
-  const locale = detectLocale(searchParams) || DEFAULT_LOCALE;
-  const meta = getMeta('philosophy_moksha', undefined, locale) || {};
-  return {
-    title: meta.title,
-    description: meta.description,
-    keywords: meta.keywords,
-    openGraph: { title: meta.title, description: meta.description, images: meta.ogImage ? [meta.ogImage] : undefined },
-    alternates: { canonical: meta.canonical || meta.url || process.env.NEXT_PUBLIC_SITE_URL || 'https://sanatanadharmam.in' }
-  };
-}
+export const generateMetadata = createGenerateMetadata('philosophy_moksha');
 
 export default function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
@@ -35,7 +16,7 @@ export default function Page({ searchParams }: any) {
   return (
     <>
       <StructuredData metaKey="philosophy_moksha" />
-      <main className="content-wrapper md page-space-xl">
+      <PageLayout className="content-wrapper md page-space-xl" title={title}>
         <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} />
         <h2>{title}</h2>
         <p><strong>Definition : </strong>{moksha.definition}</p>
@@ -82,7 +63,7 @@ export default function Page({ searchParams }: any) {
             })}
           </ul>
         </div>
-      </main>
+      </PageLayout>
     </>
   );
 }

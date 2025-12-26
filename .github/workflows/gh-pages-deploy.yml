@@ -1,11 +1,17 @@
-name: Deploy to GitHub Pages
+name: Deploy to GitHub Pages (run after production build)
 
+# Run this workflow after the 'production' workflow completes or on a daily schedule.
+# Scheduled cron is in UTC: 21:00 IST = 15:30 UTC => '30 15 * * *'
 on:
-  push:
-    branches: [ production, main ]
+  workflow_run:
+    workflows: ["production"]
+    types: [completed]
+  schedule:
+    - cron: '30 15 * * *'
 
 jobs:
   build-and-deploy:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     concurrency:
       group: gh-pages-deploy
@@ -53,19 +59,46 @@ jobs:
               echo "✔ ${2}: PRESENT"
             fi
           }
-          check "${{ secrets.NEXT_PUBLIC_GA_ID }}" NEXT_PUBLIC_GA_ID
-          check "${{ secrets.NEXT_PUBLIC_GA_MEASUREMENT_ID }}" NEXT_PUBLIC_GA_MEASUREMENT_ID
-          check "${{ secrets.NEXT_PUBLIC_GTM_ID }}" NEXT_PUBLIC_GTM_ID
+          # Site URL should be present
           check "${{ secrets.NEXT_PUBLIC_SITE_URL }}" NEXT_PUBLIC_SITE_URL
-          check "${{ secrets.GA_CLIENT_EMAIL }}" GA_CLIENT_EMAIL
-          check "${{ secrets.GA_PRIVATE_KEY }}" GA_PRIVATE_KEY
-          check "${{ secrets.GA_VIEW_ID }}" GA_VIEW_ID
-          check "${{ secrets.GA_PROPERTY_ID }}" GA_PROPERTY_ID
-          check "${{ secrets.ANALYTICS_BACKEND }}" ANALYTICS_BACKEND
+
+          # Require at least one client-side analytics tag (GA4 measurement id or GTM id).
+          if [ -n "${{ secrets.NEXT_PUBLIC_GA_MEASUREMENT_ID }}" ] || [ -n "${{ secrets.NEXT_PUBLIC_GTM_ID }}" ] || [ -n "${{ secrets.NEXT_PUBLIC_GA_ID }}" ]; then
+            echo "✔ Analytics config: at least one of NEXT_PUBLIC_GA_MEASUREMENT_ID / NEXT_PUBLIC_GTM_ID / NEXT_PUBLIC_GA_ID is set"
+          else
+            echo "✖ Analytics config: missing NEXT_PUBLIC_GA_MEASUREMENT_ID and NEXT_PUBLIC_GTM_ID and NEXT_PUBLIC_GA_ID" >&2
+            MISSING=1
+          fi
+
+          # Server-side analytics secrets (only required if analytics generator is used). Keep warnings rather than hard-fail.
+          warn() {
+            if [ -z "${1}" ]; then
+              echo "⚠ ${2}: MISSING (optional unless you run server analytics generator)"
+            else
+              echo "✔ ${2}: PRESENT"
+            fi
+          }
+          warn "${{ secrets.GA_CLIENT_EMAIL }}" GA_CLIENT_EMAIL
+          warn "${{ secrets.GA_PRIVATE_KEY }}" GA_PRIVATE_KEY
+          warn "${{ secrets.GA_VIEW_ID }}" GA_VIEW_ID
+          warn "${{ secrets.GA_PROPERTY_ID }}" GA_PROPERTY_ID
+          warn "${{ secrets.ANALYTICS_BACKEND }}" ANALYTICS_BACKEND
+
           if [ "$MISSING" -eq 1 ]; then
             echo "One or more required secrets are missing. Set them in repository Settings → Secrets → Actions." >&2
             exit 1
           fi
+      - name: Run linters (ESLint)
+        run: |
+          set -ex
+          echo "Running ESLint across the repo"
+          # Lint the repository; the `lint` script delegates to eslint
+          npm run lint -- . || true
+      - name: Type-check (TypeScript)
+        run: |
+          set -ex
+          echo "Running TypeScript type-check (no emit)"
+          npm run noEmit
       - name: Build SCSS
         run: |
           set -ex
@@ -109,6 +142,22 @@ jobs:
             cp "$CSS_SRC" out/ || true
           else
             echo "Warning: compiled SCSS still missing ($CSS_SRC). The site may be missing CSS in the published output." >&2
+          fi
+      - name: Validate analytics tags exist in built output
+        run: |
+          set -e
+          echo "Scanning built output (out/) for Google Analytics / GTM snippets..."
+          TMP=/tmp/analytics_hits.txt
+          rm -f "$TMP" || true
+          # Search for common GA/GTM patterns in the exported HTML
+          grep -R -I -E "googletagmanager.com/gtm.js|googletagmanager.com/gtag/js|gtag\(|measurement_id=G-|G-[A-Z0-9]{6,}|GTM-[A-Z0-9]+" out/ > "$TMP" || true
+          if [ -s "$TMP" ]; then
+            echo "Found analytics-related snippets in built output:" 
+            head -n 200 "$TMP" || true
+          else
+            echo "ERROR: No Google Analytics or GTM snippets found in out/." >&2
+            echo "If you expect analytics to be injected at build time, ensure NEXT_PUBLIC_GA_MEASUREMENT_ID or NEXT_PUBLIC_GTM_ID is provided and the site renders the snippet into HTML." >&2
+            exit 1
           fi
       - name: Print build log tail (on failure)
         if: failure()
