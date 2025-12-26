@@ -30,7 +30,7 @@ export default function KrishnaStotram() {
   return (
     <section ref={ref} className="bg-white" >
       <div className="content-wrapper krishna-stotram text-center">
-        <h3 className="text-2xl/10! md:text-4xl/12! multi-text-color">
+        <h3 className="text-2xl/10! md:text-3xl/12! multi-text-color">
           {Array.isArray(titleLines) ? (
             titleLines.map((ln: string, idx: number) => (
               <span key={idx}>{ln} </span>

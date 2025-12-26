@@ -7,7 +7,7 @@ export default function OurFourCoreYugas({ locale }: { locale?: string }) {
       <div className="content-wrapper ourfour-coreyugas">
         <div className="flex flex-col md:flex-row items-start justify-start">
           <div className="w-full md:w-1/2">
-            <p className="text-2xl/10! md:text-4xl/12!">{t('home.ourFourCoreYugas.title', loc)}</p>
+            <p className="text-2xl/10! md:text-3xl/12!">{t('home.ourFourCoreYugas.title', loc)}</p>
           </div>
           <div className="w-full md:w-1/2">
             <div>

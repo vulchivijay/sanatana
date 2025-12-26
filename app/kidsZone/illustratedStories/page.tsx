@@ -1,30 +1,12 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { getMeta, detectLocale, t, DEFAULT_LOCALE, detectServerLocaleFromHeaders } from '../../../lib/i18n';
-import { headers } from 'next/headers';
+import { getMeta, detectLocale, t, DEFAULT_LOCALE } from '../../../lib/i18n';
+import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
 import StructuredData from '@components/structured-data/StructuredData';
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+import PageLayout from '@components/common/PageLayout';
 import Image from 'next/image';
 
-export async function generateMetadata(props: any) {
-  const { searchParams } = props || {};
-  const locale = await detectLocale(searchParams);
-  const meta = getMeta('kidsZone_illustratedStories', undefined, locale) || {};
-  return {
-    title: meta.title,
-    description: meta.description,
-    keywords: meta.keywords,
-    openGraph: { title: meta.title, description: meta.description, images: meta.ogImage ? [meta.ogImage] : undefined }
-  };
-}
-
-function resolveLocaleFromHeaders() {
-  try {
-    const h: any = headers();
-    return detectServerLocaleFromHeaders(h);
-  } catch (e) {
-    return DEFAULT_LOCALE;
-  }
-}
+export const generateMetadata = createGenerateMetadata('kidsZone_illustratedStories');
 
 export default async function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
@@ -32,9 +14,7 @@ export default async function Page({ searchParams }: any) {
   return (
     <>
       <StructuredData metaKey="kidsZone_illustratedStories" />
-      <main className="content-wrapper md page-space-xl">
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: t('illustratedStories.title', locale) }]} />
-        <h2>{t('illustratedStories.title', locale)}</h2>
+      <PageLayout className="content-wrapper md page-space-xl" title={t('illustratedStories.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: t('illustratedStories.title', locale) }]}>
         <p>{t('illustratedStories.description', locale)}</p>
         <div>
           {(t('illustratedStories.kids_indian_stories', locale) as any[]).map((s: any) => (
@@ -53,7 +33,7 @@ export default async function Page({ searchParams }: any) {
             </article>
           ))}
         </div>
-      </main>
+      </PageLayout>
     </>
   );
 }

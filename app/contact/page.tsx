@@ -3,30 +3,18 @@ import Image from "next/image";
 import ContactForm from "../components/contact/ContactForm";
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
 import { t, getMeta, detectLocale } from '../../lib/i18n';
+import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
 import StructuredData from '@components/structured-data/StructuredData';
+import PageLayout from '@components/common/PageLayout';
 
-export async function generateMetadata(props: any) {
-  const { searchParams } = props || {};
-  const locale = await detectLocale(searchParams as any);
-  const meta = getMeta('contact', undefined, locale);
-  return {
-    title: meta.title,
-    description: meta.description,
-    openGraph: {
-      title: meta.title,
-      description: meta.description,
-      url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://sanatanadharmam.in'}/contact`,
-      images: meta.ogImage ? [meta.ogImage] : undefined,
-    },
-  };
-}
+export const generateMetadata = createGenerateMetadata('contact');
 
 export default async function ContactPage() {
   const locale = await detectLocale();
   return (
     <>
       <StructuredData metaKey="contact" />
-      <main className="content-wrapper md page-space-xl">
+      <PageLayout className="content-wrapper md page-space-xl">
         <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { labelKey: 'nav.contact' }]} locale={locale} />
         <h2>{t('contactPage.title')}</h2>
         <p>{t('contactPage.lead')}</p>
@@ -56,7 +44,7 @@ export default async function ContactPage() {
             <Image src="/images/map-location.png" alt="map location" width="1200" height="600" />
           </div>
         </section>
-      </main>
+      </PageLayout>
     </>
   );
 }

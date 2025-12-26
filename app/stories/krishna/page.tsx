@@ -1,8 +1,9 @@
+import PageLayout from '@components/common/PageLayout';
+
 export default function Page() {
   return (
-    <main className="content-wrapper md page-space-xl">
-      <h2>Krishna</h2>
+    <PageLayout title={'Krishna'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Stories' }]}>
       <p>Placeholder page generated from locales/en/nav.json for path /stories/krishna</p>
-    </main>
+    </PageLayout>
   );
 }

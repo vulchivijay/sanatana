@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import PageLayout from '@components/common/PageLayout';
 import { PATHS } from '../../lib/sitemapPaths';
 import { SUPPORTED_LOCALES } from '../../lib/i18n';
 
@@ -9,8 +10,7 @@ export const dynamic = 'force-static';
 
 export default function SitemapPage() {
   return (
-    <main className="content-wrapper md page-space-xl">
-      <h2>HTML Sitemap</h2>
+    <PageLayout className="content-wrapper md page-space-xl" title={'HTML Sitemap'}>
       <p>A human-friendly sitemap of important pages (also available as XML at <Link href="/sitemap.xml">/sitemap.xml</Link>).</p>
       <ul role="list" className="list-disc">
         {PATHS.map((p) => (
@@ -22,6 +22,6 @@ export default function SitemapPage() {
           </li>
         ))}
       </ul>
-    </main>
+    </PageLayout>
   );
 }
