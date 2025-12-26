@@ -19,7 +19,7 @@ export default function CTASection({ locale }: { locale?: string }) {
         showGraticule={false}
       />
       <div className="content-wrapper cta-content md:absolute md:top-1/2 md:left-20 md:-translate-y-1/2 md:z-1">
-        <p className="text-2xl/8! md:text-4xl/12!">{t('cta.title', loc)}</p>
+        <p className="text-2xl/8! md:text-3xl/12!">{t('cta.title', loc)}</p>
         <p>{t('cta.subtitle', loc)}</p>
         <div className="flex flex-col md:flex-row gap-4">
           <Link href="/contribute" className="button inline-block rounded-md! shadow-sm bg-amber-300 hover:bg-amber-400 no-underline">{t('cta.contribute', loc)}</Link>

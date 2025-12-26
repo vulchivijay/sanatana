@@ -61,7 +61,7 @@ export default function Footer() {
     <footer className="w-full">
       <div className="content-wrapper relative z-29">
         <section className="text-center">
-          <p className="text-3xl! md:text-4xl! font-semibold">{translations["footer.title"]}</p>
+          <p className="text-3xl! md:text-3xl! font-semibold">{translations["footer.title"]}</p>
           <p>{translations["footer.quote"]}</p>
           <p>{translations["footer.quoteSource"]}</p>
           <div className="flex items-center justify-center gap-4">
