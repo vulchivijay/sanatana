@@ -23,7 +23,7 @@ header {
     min-height: 36px;
     margin-left: var(--space-xs);
     padding: var(--space-xs);
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 
   .mobile-primary-menu { padding-top: var(--space-sm); }
@@ -35,8 +35,6 @@ header {
   .nav-primary-submenu {
     margin: 0;
     padding: 0;
-
-    li { margin: 2px; }
 
     li:nth-child(odd) { background-color: var(--color-bg-alt); }
     li:nth-child(even) { background-color: var(--color-white); }

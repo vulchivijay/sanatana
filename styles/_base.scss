@@ -75,13 +75,22 @@ h2 { font-size: 1.4rem; }
 h3 { font-size: 1.2rem; }
 h4 { font-size: 1.05rem; }
 
-.content-wrapper {
-  max-width: var(--content-width);
-  margin: 0 auto;
-  padding-left: var(--space-md);
-  padding-right: var(--space-md);
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea {
+  width: 100%;
+  padding: var(--space-xs) var(--space-sm);
+}
 
-  &.xs { max-width: var(--content-width-xs); }
-  &.sm { max-width: var(--content-width-sm); }
-  &.md { max-width: var(--content-width-md); }
+button,
+.button {
+  display: inline-block;
+  font-size: 1rem;
+  padding: 8px 16px;
+  cursor: pointer;
+
+  &.scroll-to-top {
+    padding: var(--space-xs)
+  }
 }
