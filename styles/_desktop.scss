@@ -27,6 +27,10 @@
     font-size: 1.125rem; /* 18px */
   }
 
+  .logo-title-nav-wrapper {
+    padding: var(--space-xs) var(--space-lg);
+  }
+
   .content-wrapper {
     padding-left: var(--space-lg);
     padding-right: var(--space-lg);
