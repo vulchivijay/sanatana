@@ -19,6 +19,7 @@
     "generate:component-from-locale": "node scripts/generate-component.js",
     "generate:analytics": "node scripts/generate-analytics-json.js",
     "noEmit:bigmem": "node --max-old-space-size=8192 ./node_modules/typescript/bin/tsc --noEmit",
-    "generate-meta-keywords": "node scripts/generate-meta-keywords.js"
+    "generate-meta-keywords": "node scripts/generate-meta-keywords.js",
+    "check-linter": "npm run lint -- --ext .js,.ts,.tsx"
   }
 }
