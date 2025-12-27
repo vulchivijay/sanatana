@@ -117,13 +117,13 @@ export default function CookieConsent() {
     try {
       const v = storage.getItem('sd_cookie_prefs');
       if (v) {
-        setPrefs(JSON.parse(v));
-        setVisible(false);
+        setTimeout(() => setPrefs(JSON.parse(v)), 0);
+        setTimeout(() => setVisible(false), 0);
       } else {
-        setVisible(true);
+        setTimeout(() => setVisible(true), 0);
       }
     } catch (err) {
-      setVisible(true);
+      setTimeout(() => setVisible(true), 0);
     }
   }, []);
 

@@ -17,7 +17,7 @@ export async function fetchItems() {
   return res.json();
 }
 
-export async function createItem(body: Record<string, any>) {
+export async function createItem(body: Record<string, unknown>) {
   const url = buildUrl('/api/items');
   const res = await fetch(url, {
     method: 'POST',
@@ -35,7 +35,7 @@ export async function fetchItem(id: string) {
   return res.json();
 }
 
-export async function updateItem(id: string, body: Record<string, any>) {
+export async function updateItem(id: string, body: Record<string, unknown>) {
   const url = buildUrl(`/api/items/${id}`);
   const res = await fetch(url, {
     method: 'PUT',

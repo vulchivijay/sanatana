@@ -23,23 +23,27 @@ export default function useDeferAssets(): boolean {
       return;
     }
 
-    if ('requestIdleCallback' in (window as any)) {
-      const w = window as any;
+    type IdleWindow = Window & {
+      requestIdleCallback?: (cb: () => void, options?: { timeout?: number }) => number;
+      cancelIdleCallback?: (id: number) => void;
+    };
+    const w = window as IdleWindow;
+    if (typeof w.requestIdleCallback === 'function') {
       idleId = w.requestIdleCallback(() => setReady(true), { timeout: 2000 });
       w.addEventListener('load', onLoad, { once: true });
       return () => {
         if (idleId != null) {
-          try { (window as any).cancelIdleCallback(idleId); } catch (_) { }
+          try { w.cancelIdleCallback?.(idleId); } catch (_) { }
         }
-        (window as any).removeEventListener('load', onLoad);
+        w.removeEventListener('load', onLoad);
       };
     }
 
-    (window as any).addEventListener('load', onLoad, { once: true });
-    const fallback = (globalThis as any).setTimeout(() => setReady(true), 2000);
+    w.addEventListener('load', onLoad, { once: true });
+    const fallback = globalThis.setTimeout(() => setReady(true), 2000);
     return () => {
-      (window as any).removeEventListener('load', onLoad);
-      (globalThis as any).clearTimeout(fallback);
+      w.removeEventListener('load', onLoad);
+      globalThis.clearTimeout(fallback);
     };
   }, [ready]);
 

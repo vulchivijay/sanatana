@@ -3,20 +3,22 @@ import { headers } from 'next/headers';
 
 export function resolveLocaleFromHeaders() {
   try {
-    const h: any = headers();
-    return detectServerLocaleFromHeaders(h);
+    const h = headers() as unknown;
+    return detectServerLocaleFromHeaders(h as Record<string, unknown>);
   } catch (e) {
     return DEFAULT_LOCALE;
   }
 }
 
 export function createGenerateMetadata(metaKey: string, titleKey?: string, descriptionKey?: string) {
-  return async function generateMetadata(props: any) {
-    const { searchParams } = props || {};
+  return async function generateMetadata(props: Record<string, unknown> | undefined) {
+    const { searchParams } = (props || {}) as { searchParams?: unknown };
     // `searchParams` can be a Promise in newer Next.js versions — unwrap it first
-    let resolvedSearchParams: any = searchParams;
+    let resolvedSearchParams: unknown = searchParams;
     try {
       if (resolvedSearchParams && typeof resolvedSearchParams.then === 'function') {
+        // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+        // @ts-expect-error - resolvedSearchParams is a Promise here
         resolvedSearchParams = await resolvedSearchParams;
       }
     } catch (e) {

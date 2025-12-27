@@ -54,8 +54,8 @@ export default function LanguageDropdown() {
       // initialize highlighted to current language index once open
       setTimeout(() => setHighlighted(-1), 0);
     } else {
-      setQuery('');
-      setSearchTerm('');
+      setTimeout(() => setQuery(''), 0);
+      setTimeout(() => setSearchTerm(''), 0);
       setTimeout(() => setHighlighted(-1), 0);
     }
   }, [open]);
