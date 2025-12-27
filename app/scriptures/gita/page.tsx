@@ -23,7 +23,7 @@ export default function Page({ searchParams }: any) {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
           {(t('bhagavadgita.chapters', locale) || []).map((item: any, i: number) => {
             // Determine chapter number robustly: prefer explicit numeric fields, else fallback to index+1
-            let chapRaw = item?.chapter ?? item?.chapter_number;
+            const chapRaw = item?.chapter ?? item?.chapter_number;
             let chapNumVal = Number(chapRaw);
             if (!Number.isFinite(chapNumVal) || chapNumVal < 1) {
               chapNumVal = i + 1;
