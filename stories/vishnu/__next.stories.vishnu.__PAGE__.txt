@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[97367,["/_next/static/chunks/87123bbc0e365894.js","/_next/static/chunks/b42848f755f46106.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"03zEkTJ7hFhSG3kbBh3Hv","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"content-wrapper md page-space-xl","children":[["$","h2",null,{"children":"Vishnu"}],["$","p",null,{"children":"Placeholder page generated from locales/en/nav.json for path /stories/vishnu"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"uOiGkLccL6-9OJMvUYKUh","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"content-wrapper md page-space-xl","children":[["$","h2",null,{"children":"Vishnu"}],["$","p",null,{"children":"Placeholder page generated from locales/en/nav.json for path /stories/vishnu"}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
