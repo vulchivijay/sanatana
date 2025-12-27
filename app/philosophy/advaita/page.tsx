@@ -19,7 +19,7 @@ export default function Page({ searchParams }: any) {
 
   return (
     <>
-      <PageLayout title={S('advaita.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} locale={locale}>
+      <PageLayout title={S('advaita.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={locale}>
         
         <h2>{title}</h2>
         <p><strong>Definition : </strong>{advaita.definition}</p>

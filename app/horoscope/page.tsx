@@ -13,7 +13,7 @@ export default function Page() {
 
   return (
     <>
-      <PageLayout title={'Horoscope Generator'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]}>
+      <PageLayout title={'Horoscope Generator'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]}>
         <HoroscopeClient />
       </PageLayout>
     </>

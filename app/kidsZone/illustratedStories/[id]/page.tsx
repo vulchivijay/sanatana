@@ -50,13 +50,14 @@ async function loadStories(locale: string) {
 export default async function Page({ params, searchParams }: any) {
   const locale = await detectLocale(searchParams);
   const stories = await loadStories(locale);
+  const S = (k: string, l?: any) => String(t(k, l));
   const id = String(params.id);
   const idx = stories.findIndex((s: any) => String(s.id) === id);
   const item = idx >= 0 ? stories[idx] : null;
 
   if (!item) {
     return (
-      <PageLayout title={S('kidsZone.illustratedStories.comicNotFoundTitle', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} locale={locale}>
+      <PageLayout title={S('kidsZone.illustratedStories.comicNotFoundTitle', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: S('kidsZone.illustratedStories.comicNotFoundTitle', locale) }]} locale={locale}>
         <p>{S('kidsZone.illustratedStories.comicNotFoundDesc', locale)}</p>
       </PageLayout>
     );

@@ -23,7 +23,7 @@ export default function TimelapsePage() {
   const timelineObj = t("timelinePoints");
   const timelinePoints: TimelinePoint[] = timelineObj ? Object.values(timelineObj) : [];
   return (
-    <PageLayout metaKey="timelapse" title={'Timelapse'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]}>
+    <PageLayout metaKey="timelapse" title={'Timelapse'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Timelapse' }]}>
       <div>
         {timelinePoints.map((point, index) => (
           <div key={index}>

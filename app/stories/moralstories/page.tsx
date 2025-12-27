@@ -6,7 +6,7 @@ export default function Page() {
   const S = (k: string) => String(t(k));
 
   return (
-    <PageLayout title={'Moral Stories'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]}>
+    <PageLayout title={'Moral Stories'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Moral Stories' }]}>
       <p>Placeholder page generated from locales/en/nav.json for path /stories/moralstories</p>
     </PageLayout>
   );

@@ -12,12 +12,12 @@ export const generateMetadata = createGenerateMetadata('kidsZone_illustratedStor
 export default async function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
 
-  const S = (k: string) => String(t(k, locale));
+  const S = (k: string, l?: any) => String(t(k, l ?? locale));
 
 
   return (
     <>
-      <PageLayout title={S('illustratedStories.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} locale={locale}>
+      <PageLayout title={S('illustratedStories.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={locale}>
         <p>{S('illustratedStories.description', locale)}</p>
         <div>
           {(t('illustratedStories.kids_indian_stories', locale) as any[]).map((s: any) => (

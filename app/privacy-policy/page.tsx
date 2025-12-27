@@ -15,7 +15,7 @@ export default async function PrivacyPolicy() {
 
   return (
     <>
-      <PageLayout title={S('privacy.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} locale={locale}>
+      <PageLayout title={S('privacy.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={locale}>
         <div>
           
           <h2>{S('privacy.title')}</h2>
