@@ -14,7 +14,7 @@ on:
 
 jobs:
   build-and-deploy:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') || github.event_name == 'workflow_dispatch' || github.event_name == 'schedule' }}
     runs-on: ubuntu-latest
     concurrency:
       group: gh-pages-deploy
@@ -98,7 +98,7 @@ jobs:
           mkdir -p logs
           echo "Starting Next.js build (logs -> logs/build.log)"
           # Capture full build output to logs/build.log
-          if npm run build 2>&1 | tee logs/build.log; then
+          if npm run export 2>&1 | tee logs/build.log; then
             echo "Build succeeded"
           else
             echo "Build failed — showing tail of logs and uploading artifact in later step"
