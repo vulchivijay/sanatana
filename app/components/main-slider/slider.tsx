@@ -51,6 +51,9 @@ export default function MainSlider() {
   }, [slides]);
 
   // Touch navigation handlers
+  const nextSlide = useCallback(() => setCurrent((c) => (c + 1) % slides.length), [slides.length]);
+  const prevSlide = useCallback(() => setCurrent((c) => (c - 1 + slides.length) % slides.length), [slides.length]);
+
   const onTouchStart = useCallback((e: React.TouchEvent) => {
     touchStartX.current = e.touches[0].clientX;
     setIsPaused(true);
@@ -69,10 +72,7 @@ export default function MainSlider() {
     touchStartX.current = null;
     touchEndX.current = null;
     setIsPaused(false);
-  }, []);
-
-  const nextSlide = useCallback(() => setCurrent((c) => (c + 1) % slides.length), [slides.length]);
-  const prevSlide = useCallback(() => setCurrent((c) => (c - 1 + slides.length) % slides.length), [slides.length]);
+  }, [nextSlide, prevSlide]);
 
   return (
     <section

@@ -63,8 +63,7 @@ export default function LanguageDropdown() {
   useEffect(() => {
     if (debounceRef.current) window.clearTimeout(debounceRef.current);
     // 180ms debounce
-    // @ts-ignore
-    debounceRef.current = window.setTimeout(() => setSearchTerm(query.trim()), 180);
+    debounceRef.current = window.setTimeout(() => setSearchTerm(query.trim()), 180) as unknown as number;
     return () => { if (debounceRef.current) window.clearTimeout(debounceRef.current); };
   }, [query]);
 

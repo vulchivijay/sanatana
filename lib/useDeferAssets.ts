@@ -23,9 +23,9 @@ export default function useDeferAssets(): boolean {
     }
 
     if ('requestIdleCallback' in (window as any)) {
-      // @ts-ignore - some environments may not have types
-      idleId = (window as any).requestIdleCallback(() => setReady(true), { timeout: 2000 });
-      (window as any).addEventListener('load', onLoad, { once: true });
+      const w = window as any;
+      idleId = w.requestIdleCallback(() => setReady(true), { timeout: 2000 });
+      w.addEventListener('load', onLoad, { once: true });
       return () => {
         if (idleId != null) {
           try { (window as any).cancelIdleCallback(idleId); } catch (_) { }
