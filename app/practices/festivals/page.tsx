@@ -21,6 +21,7 @@ export async function generateMetadata(props: any) {
   };
 }
 export default function Page() {
+  const locale = detectLocale();
   return (
     <>
       <PageLayout title={'Festivals'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Festivals' }]} locale={locale}>

@@ -18,22 +18,22 @@ export default async function ShastrasPage() {
       <main className="content-wrapper md page-space-xl">
         <div>
           
-          <h2>{S('shastrasPage.title', locale)}</h2>
-          <p>{S('shastrasPage.intro', locale)}</p>
+          <h2>{S('shastrasPage.title')}</h2>
+          <p>{S('shastrasPage.intro')}</p>
 
           <section>
-            <h3>{S('shastrasPage.sectionsTitle', locale)}</h3>
+            <h3>{S('shastrasPage.sectionsTitle')}</h3>
             <ul role="list" className="list-disc">
-              <li><Link href="/shastras/dharma">{S('shastrasPage.sections.dharma', locale)}</Link></li>
-              <li><Link href="/shastras/artha">{S('shastrasPage.sections.artha', locale)}</Link></li>
-              <li><Link href="/shastras/vastu">{S('shastrasPage.sections.vastu', locale)}</Link></li>
-              <li><Link href="/shastras/natya">{S('shastrasPage.sections.natya', locale)}</Link></li>
+              <li><Link href="/shastras/dharma">{S('shastrasPage.sections.dharma')}</Link></li>
+              <li><Link href="/shastras/artha">{S('shastrasPage.sections.artha')}</Link></li>
+              <li><Link href="/shastras/vastu">{S('shastrasPage.sections.vastu')}</Link></li>
+              <li><Link href="/shastras/natya">{S('shastrasPage.sections.natya')}</Link></li>
             </ul>
           </section>
 
           <section>
-            <h4>{S('shastrasPage.influenceTitle', locale)}</h4>
-            <p>{S('shastrasPage.influenceText', locale)}</p>
+            <h4>{S('shastrasPage.influenceTitle')}</h4>
+            <p>{S('shastrasPage.influenceText')}</p>
           </section>
         </div>
       </main>

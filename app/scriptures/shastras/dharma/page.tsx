@@ -15,11 +15,11 @@ export default async function DharmaPage() {
       <main className="content-wrapper md page-space-xl">
         <div>
           
-          <h2>{S('shastras.dharma.title', locale)}</h2>
-          <p>{S('shastras.dharma.summary', locale)}</p>
+          <h2>{S('shastras.dharma.title')}</h2>
+          <p>{S('shastras.dharma.summary')}</p>
           <section>
-            <h3>{S('shastras.dharma.title', locale)}</h3>
-            <p>{S('shastras.dharma.content', locale)}</p>
+            <h3>{S('shastras.dharma.title')}</h3>
+            <p>{S('shastras.dharma.content')}</p>
           </section>
         </div>
       </main>

@@ -13,7 +13,7 @@ export default function Page({ searchParams }: any) {
 
   const S = (k: string) => String(t(k, locale));
 
-  const loc = getLocaleObject(locale) || {};
+  const loc: any = getLocaleObject(locale) || {};
   const yoga = loc?.yoga_philosophy || {};
   const title = yoga.title || t('yoga_philosophy.title', locale) || 'Yoga Philosophy';
 

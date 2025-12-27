@@ -13,7 +13,7 @@ export default function Page({ searchParams }: any) {
 
   const S = (k: string) => String(t(k, locale));
 
-  const loc = getLocaleObject(locale) || {};
+  const loc: any = getLocaleObject(locale) || {};
   const moksha = loc?.moksha_philosophy || {};
   const title = moksha.title || t('moksha_philosophy.title', locale) || 'Moksha Philosophy';
 

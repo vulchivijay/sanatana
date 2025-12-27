@@ -16,11 +16,11 @@ export default async function NatyaPage() {
       <main className="content-wrapper md page-space-xl">
         <div>
           
-          <h2>{S('shastras.natya.title', locale)}</h2>
-          <p>{S('shastras.natya.summary', locale)}</p>
+          <h2>{S('shastras.natya.title')}</h2>
+          <p>{S('shastras.natya.summary')}</p>
           <section>
-            <h3>{S('shastras.natya.title', locale)}</h3>
-            <p>{S('shastras.natya.content', locale)}</p>
+            <h3>{S('shastras.natya.title')}</h3>
+            <p>{S('shastras.natya.content')}</p>
           </section>
         </div>
       </main>

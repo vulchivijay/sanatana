@@ -15,13 +15,13 @@ export default function Page({ searchParams }: any) {
 
   const S = (k: string) => String(t(k, locale));
 
-  const loc = getLocaleObject(locale) || {};
+  const loc: any = getLocaleObject(locale) || {};
   const samsara = loc?.samsara_philosophy || {};
   const title = samsara.title || t('samsara_philosophy.title', locale) || 'Samsara Philosophy';
 
   return (
     <>
-      <PageLayout title={S('samsara.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('samsara.title', locale)) }]} locale={locale}>
+      <PageLayout title={S('samsara.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('samsara.title', locale)) }]} locale={locale}>
         
         <p><strong>Definition : </strong>{samsara.definition}</p>
         {/* Core Principles of Samsara */}

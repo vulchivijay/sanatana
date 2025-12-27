@@ -13,13 +13,13 @@ export default function Page({ searchParams }: any) {
 
   const S = (k: string) => String(t(k, locale));
 
-  const loc = getLocaleObject(locale) || {};
+  const loc: any = getLocaleObject(locale) || {};
   const dharma = loc?.dharma_philosophy || {};
   const title = dharma.title || t('dharma_philosophy.title', locale) || 'Dharma Philosophy';
 
   return (
     <>
-      <PageLayout title={S('dharma.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('dharma.title', locale)) }]} locale={locale}>
+      <PageLayout title={S('dharma.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('dharma.title', locale)) }]} locale={locale}>
         
         <h2>{title}</h2>
         <p><strong>Definition : </strong>{dharma.definition.map((s: string) => (<span>{s}, </span>))}</p>

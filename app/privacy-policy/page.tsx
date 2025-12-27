@@ -31,10 +31,10 @@ export default async function PrivacyPolicy() {
               <h4>{S('privacy.informationWeCollect.title')}</h4>
               <p>{S('privacy.informationWeCollect.lead')}</p>
               <ul role="list" className="list-disc">
-                <li><strong>{S('privacy.informationWeCollect.usageLabel', locale)}</strong> {S('privacy.informationWeCollect.usage', locale)}</li>
-                <li><strong>{S('privacy.informationWeCollect.deviceLabel', locale)}</strong> {S('privacy.informationWeCollect.device', locale)}</li>
-                <li><strong>{S('privacy.informationWeCollect.cookiesLabel', locale)}</strong> {S('privacy.informationWeCollect.cookies', locale)}</li>
-                <li><strong>{S('privacy.informationWeCollect.contactLabel', locale)}</strong> {S('privacy.informationWeCollect.contact', locale)}</li>
+                <li><strong>{S('privacy.informationWeCollect.usageLabel')}</strong> {S('privacy.informationWeCollect.usage')}</li>
+                <li><strong>{S('privacy.informationWeCollect.deviceLabel')}</strong> {S('privacy.informationWeCollect.device')}</li>
+                <li><strong>{S('privacy.informationWeCollect.cookiesLabel')}</strong> {S('privacy.informationWeCollect.cookies')}</li>
+                <li><strong>{S('privacy.informationWeCollect.contactLabel')}</strong> {S('privacy.informationWeCollect.contact')}</li>
               </ul>
 
               <h5>{S('privacy.howWeUse.title')}</h5>

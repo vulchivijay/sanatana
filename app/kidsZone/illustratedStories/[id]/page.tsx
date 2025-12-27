@@ -57,8 +57,8 @@ export default async function Page({ params, searchParams }: any) {
 
   if (!item) {
     return (
-      <PageLayout title={S('kidsZone.illustratedStories.comicNotFoundTitle', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('kidsZone.illustratedStories.comicNotFoundTitle', locale)) }]} locale={locale}>
-        <p>{S('kidsZone.illustratedStories.comicNotFoundDesc', locale)}</p>
+      <PageLayout title={S('kidsZone.illustratedStories.comicNotFoundTitle')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('kidsZone.illustratedStories.comicNotFoundTitle', locale)) }]} locale={locale}>
+        <p>{S('kidsZone.illustratedStories.comicNotFoundDesc')}</p>
       </PageLayout>
     );
   }
@@ -76,9 +76,9 @@ export default async function Page({ params, searchParams }: any) {
           </div>
         </div>
         <p>{item.summary}</p>
-        {item.moral ? <p><strong>{S('kidsZone.illustratedStories.moralLabel', locale)}</strong> {item.moral}</p> : null}
-        {item.characters?.length ? <div><strong>{S('kidsZone.illustratedStories.charactersLabel', locale)}</strong> {item.characters.join(', ')}</div> : null}
-        {item.themes?.length ? <div><strong>{S('kidsZone.illustratedStories.themesLabel', locale)}</strong> {item.themes.join(', ')}</div> : null}
+        {item.moral ? <p><strong>{S('kidsZone.illustratedStories.moralLabel')}</strong> {item.moral}</p> : null}
+        {item.characters?.length ? <div><strong>{S('kidsZone.illustratedStories.charactersLabel')}</strong> {item.characters.join(', ')}</div> : null}
+        {item.themes?.length ? <div><strong>{S('kidsZone.illustratedStories.themesLabel')}</strong> {item.themes.join(', ')}</div> : null}
 
         <div>
           {prev ? (

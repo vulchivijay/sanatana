@@ -16,11 +16,11 @@ export default function SamavedaPage() {
 
   return (
     <>
-      <PageLayout title={S('samaveda.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('samaveda.title', locale)) }]} locale={locale}>
-        <p>{S('samaveda.summary', locale)}</p>
+      <PageLayout title={S('samaveda.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('samaveda.title', locale)) }]} locale={locale}>
+        <p>{S('samaveda.summary')}</p>
         <section>
-          <h3>{S('samaveda.contentTitle', locale)}</h3>
-          <p>{S('samaveda.content', locale)}</p>
+          <h3>{S('samaveda.contentTitle')}</h3>
+          <p>{S('samaveda.content')}</p>
         </section>
       </PageLayout>
     </>

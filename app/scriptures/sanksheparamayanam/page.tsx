@@ -12,7 +12,7 @@ export default function Page({ searchParams }: any) {
 
   const S = (k: string) => String(t(k, locale));
 
-  const loc = getLocaleObject(locale) || {};
+  const loc: any = getLocaleObject(locale) || {};
   const ram = loc?.sanksheparamayana || {};
   const title = ram.title || t('sanksheparamayana.title', locale) || '';
   const author = ram.source || '';

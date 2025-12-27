@@ -16,11 +16,11 @@ export default function RigvedaPage() {
 
   return (
     <>
-      <PageLayout title={S('rigveda.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('rigveda.title', locale)) }]} locale={locale}>
-        <p>{S('rigveda.summary', locale)}</p>
+      <PageLayout title={S('rigveda.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('rigveda.title', locale)) }]} locale={locale}>
+        <p>{S('rigveda.summary')}</p>
         <section>
-          <h3>{S('rigveda.contentTitle', locale)}</h3>
-          <p>{S('rigveda.content', locale)}</p>
+          <h3>{S('rigveda.contentTitle')}</h3>
+          <p>{S('rigveda.content')}</p>
         </section>
       </PageLayout>
     </>

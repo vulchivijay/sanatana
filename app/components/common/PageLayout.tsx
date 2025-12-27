@@ -1,4 +1,5 @@
 import React from 'react';
+
 import StructuredData from '@components/structured-data/StructuredData';
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
 

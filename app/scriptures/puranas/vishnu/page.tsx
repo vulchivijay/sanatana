@@ -27,11 +27,11 @@ export default function VishnuPage() {
       <main className="content-wrapper md page-space-xl">
         <div>
           
-          <h2>{S('puranas.vishnu.title', locale)}</h2>
-          <p>{S('puranas.vishnu.summary', locale)}</p>
+          <h2>{S('puranas.vishnu.title')}</h2>
+          <p>{S('puranas.vishnu.summary')}</p>
           <section>
-            <h3>{S('puranas.vishnu.title', locale)}</h3>
-            <p>{S('puranas.vishnu.content', locale)}</p>
+            <h3>{S('puranas.vishnu.title')}</h3>
+            <p>{S('puranas.vishnu.content')}</p>
           </section>
         </div>
       </main>

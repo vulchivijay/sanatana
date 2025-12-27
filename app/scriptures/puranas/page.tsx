@@ -12,7 +12,7 @@ export default function PuranasPage({ searchParams }: any) {
 
   const S = (k: string) => String(t(k, locale));
 
-  const loc = getLocaleObject(locale) || {};
+  const loc: any = getLocaleObject(locale) || {};
   const puranas = loc?.puranas || {};
   const title = puranas.title || t('puranas.title', locale) || '';
   return (
@@ -23,7 +23,7 @@ export default function PuranasPage({ searchParams }: any) {
         <p>{puranas.definition}</p>
 
         <div>
-          <p>{S('puranas.purpose', locale)}</p>
+          <p>{S('puranas.purpose')}</p>
           {/* Major Puranas */}
           {Array.isArray(puranas.major_puranas) && puranas.major_puranas.length > 0 && (
             <div>

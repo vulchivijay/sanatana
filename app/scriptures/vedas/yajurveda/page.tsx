@@ -16,11 +16,11 @@ export default function YajurvedaPage() {
 
   return (
     <>
-      <PageLayout title={S('yajurveda.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('yajurveda.title', locale)) }]} locale={locale}>
-        <p>{S('yajurveda.summary', locale)}</p>
+      <PageLayout title={S('yajurveda.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('yajurveda.title', locale)) }]} locale={locale}>
+        <p>{S('yajurveda.summary')}</p>
         <section>
-          <h3>{S('yajurveda.contentTitle', locale)}</h3>
-          <p>{S('yajurveda.content', locale)}</p>
+          <h3>{S('yajurveda.contentTitle')}</h3>
+          <p>{S('yajurveda.content')}</p>
         </section>
       </PageLayout>
     </>

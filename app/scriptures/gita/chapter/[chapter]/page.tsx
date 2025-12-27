@@ -31,10 +31,10 @@ export async function generateMetadata({ params, searchParams }: { params: any, 
   const resolvedParams = params && typeof params.then === 'function' ? await params : params;
   const num = Number(resolvedParams?.chapter || 0);
   const ch = Array.isArray(chapters) ? chapters.find((c: any) => Number(c.chapter) === num) : null;
-  const title = ch ? `${S('bhagavadgita.title', locale)} — Chapter ${ch.chapter}: ${ch.title}` : `${S('bhagavadgita.title', locale)} — Chapter ${num}`;
+  const title = ch ? `${S('bhagavadgita.title')} — Chapter ${ch.chapter}: ${ch.title}` : `${S('bhagavadgita.title')} — Chapter ${num}`;
   const meta = getMeta('bhagavadgita_slug', { title: title, excerpt: ch && ch.summary ? ch.summary : '' }, locale);
   const description = ch && ch.summary ? ch.summary : meta.description;
-  const keywords = (meta.keywords && String(meta.keywords).trim()) ? meta.keywords : `${S('bhagavadgita.title', locale)}, chapter ${num}`;
+  const keywords = (meta.keywords && String(meta.keywords).trim()) ? meta.keywords : `${S('bhagavadgita.title')}, chapter ${num}`;
   const ogImages = meta.ogImage ? [meta.ogImage] : undefined;
   return {
     title,
@@ -80,7 +80,7 @@ export default async function Page({ params, searchParams }: { params: any, sear
         </nav>
         
 
-        <h2>{ch ? `${S('bhagavadgita.title', locale)} — Chapter ${ch.chapter}: ${ch.title}` : `Chapter ${num}`}</h2>
+        <h2>{ch ? `${S('bhagavadgita.title')} — Chapter ${ch.chapter}: ${ch.title}` : `Chapter ${num}`}</h2>
 
         {ch && ch.verses && ch.verses.length > 0 ? (
           <div>

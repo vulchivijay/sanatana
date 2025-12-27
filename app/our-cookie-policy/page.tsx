@@ -18,27 +18,27 @@ export default function CookiePolicyPage({ searchParams }: any) {
     <>
       <PageLayout breadcrumbs={[{ labelKey: 'nav.home', href: '/' }]} locale={locale}>
         
-        <p>{S('policies.cookiePolicy.title', locale)}</p>
-        <p>{S('policies.cookiePolicy.intro', locale)}</p>
+        <p>{S('policies.cookiePolicy.title')}</p>
+        <p>{S('policies.cookiePolicy.intro')}</p>
 
-        <p>{S('policies.cookiePolicy.whatAreCookies', locale)}</p>
-        <p>{S('policies.cookiePolicy.whatAreCookiesDesc', locale) || 'Cookies are small text files stored on your device when you visit websites. They help websites remember preferences and improve your experience.'}</p>
+        <p>{S('policies.cookiePolicy.whatAreCookies')}</p>
+        <p>{S('policies.cookiePolicy.whatAreCookiesDesc') || 'Cookies are small text files stored on your device when you visit websites. They help websites remember preferences and improve your experience.'}</p>
 
-        <p>{S('policies.cookiePolicy.typesHeading', locale)}</p>
+        <p>{S('policies.cookiePolicy.typesHeading')}</p>
         <ul role="list" className="list-disc">
-          <li><strong>{S('policies.cookiePolicy.types.strictlyNecessary', locale)}</strong></li>
-          <li><strong>{S('policies.cookiePolicy.types.functionality', locale)}</strong></li>
-          <li><strong>{S('policies.cookiePolicy.types.performance', locale)}</strong></li>
-          <li><strong>{S('policies.cookiePolicy.types.targeting', locale)}</strong></li>
+          <li><strong>{S('policies.cookiePolicy.types.strictlyNecessary')}</strong></li>
+          <li><strong>{S('policies.cookiePolicy.types.functionality')}</strong></li>
+          <li><strong>{S('policies.cookiePolicy.types.performance')}</strong></li>
+          <li><strong>{S('policies.cookiePolicy.types.targeting')}</strong></li>
         </ul>
 
-        <p>{S('policies.cookiePolicy.managing', locale)}</p>
-        <p>{S('policies.cookiePolicy.managingDesc', locale)}</p>
+        <p>{S('policies.cookiePolicy.managing')}</p>
+        <p>{S('policies.cookiePolicy.managingDesc')}</p>
 
-        <p>{S('policies.cookiePolicy.dataSharing', locale)}</p>
-        <p>{S('policies.cookiePolicy.dataSharingDesc', locale)}</p>
+        <p>{S('policies.cookiePolicy.dataSharing')}</p>
+        <p>{S('policies.cookiePolicy.dataSharingDesc')}</p>
 
-        <p>{S('policies.cookiePolicy.lastUpdated', locale).replace('{date}', new Date().toLocaleDateString())}</p>
+        <p>{S('policies.cookiePolicy.lastUpdated').replace('{date}', new Date().toLocaleDateString())}</p>
       </PageLayout>
     </>
   );

@@ -13,13 +13,13 @@ export default function Page({ searchParams }: any) {
 
   const S = (k: string) => String(t(k, locale));
 
-  const loc = getLocaleObject(locale) || {};
+  const loc: any = getLocaleObject(locale) || {};
   const advaita = loc?.advaita_philosophy || {};
   const title = advaita.title || t('advaita_philosophy.title', locale) || 'Advaita Philosophy';
 
   return (
     <>
-      <PageLayout title={S('advaita.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('advaita.title', locale)) }]} locale={locale}>
+      <PageLayout title={S('advaita.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('advaita.title', locale)) }]} locale={locale}>
         
         <h2>{title}</h2>
         <p><strong>Definition : </strong>{advaita.definition}</p>

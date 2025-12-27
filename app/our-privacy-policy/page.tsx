@@ -17,19 +17,19 @@ export default function PrivacyPolicyPage({ searchParams }: any) {
     <>
       <main className="content-wrapper md page-space-xl">
         
-        <h2>{S('policies.privacyPolicy.title', locale)}</h2>
-        <p>{S('policies.privacyPolicy.intro', locale)}</p>
+        <h2>{S('policies.privacyPolicy.title')}</h2>
+        <p>{S('policies.privacyPolicy.intro')}</p>
 
-        <h3>{S('policies.privacyPolicy.informationHeading', locale)}</h3>
-        <p>{S('policies.privacyPolicy.informationDesc', locale)}</p>
+        <h3>{S('policies.privacyPolicy.informationHeading')}</h3>
+        <p>{S('policies.privacyPolicy.informationDesc')}</p>
 
-        <h4>{S('policies.privacyPolicy.howWeUse', locale)}</h4>
-        <p>{S('policies.privacyPolicy.howWeUseDesc', locale)}</p>
+        <h4>{S('policies.privacyPolicy.howWeUse')}</h4>
+        <p>{S('policies.privacyPolicy.howWeUseDesc')}</p>
 
-        <h5>{S('policies.privacyPolicy.yourRights', locale)}</h5>
-        <p>{S('policies.privacyPolicy.yourRightsDesc', locale)}</p>
+        <h5>{S('policies.privacyPolicy.yourRights')}</h5>
+        <p>{S('policies.privacyPolicy.yourRightsDesc')}</p>
 
-        <p>{S('policies.privacyPolicy.lastUpdated', locale).replace('{date}', new Date().toLocaleDateString())}</p>
+        <p>{S('policies.privacyPolicy.lastUpdated').replace('{date}', new Date().toLocaleDateString())}</p>
       </main>
     </>
   );

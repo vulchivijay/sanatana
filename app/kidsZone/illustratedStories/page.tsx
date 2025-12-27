@@ -17,8 +17,8 @@ export default async function Page({ searchParams }: any) {
 
   return (
     <>
-      <PageLayout title={S('illustratedStories.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('illustratedStories.title', locale)) }]} locale={locale}>
-        <p>{S('illustratedStories.description', locale)}</p>
+      <PageLayout title={S('illustratedStories.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('illustratedStories.title', locale)) }]} locale={locale}>
+        <p>{S('illustratedStories.description')}</p>
         <div>
           {(t('illustratedStories.kids_indian_stories', locale) as any[]).map((s: any) => (
             <article key={s.id}>
@@ -30,8 +30,8 @@ export default async function Page({ searchParams }: any) {
                 {/* <div>{s.origin}</div> */}
                 <p>{s.summary}</p>
                 {/* {s.moral ? <p><strong>Moral:</strong> {s.moral}</p> : null} */}
-                {s.characters?.length ? <div><strong>{S('s.characters', locale)}</strong> {s.characters.join(', ')}</div> : null}
-                {s.themes?.length ? <div><strong>{S('s.themes', locale)}</strong> {s.themes.join(', ')}</div> : null}
+                {s.characters?.length ? <div><strong>{S('s.characters')}</strong> {s.characters.join(', ')}</div> : null}
+                {s.themes?.length ? <div><strong>{S('s.themes')}</strong> {s.themes.join(', ')}</div> : null}
               </div>
             </article>
           ))}

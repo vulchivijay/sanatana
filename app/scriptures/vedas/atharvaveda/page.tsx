@@ -26,11 +26,11 @@ export default function AtharvavedaPage() {
 
   return (
     <>
-      <PageLayout title={S('atharvaveda.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('atharvaveda.title', locale)) }]} locale={locale}>
-        <p>{S('atharvaveda.summary', locale)}</p>
+      <PageLayout title={S('atharvaveda.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('atharvaveda.title', locale)) }]} locale={locale}>
+        <p>{S('atharvaveda.summary')}</p>
         <section>
-          <h3>{S('atharvaveda.contentTitle', locale)}</h3>
-          <p>{S('atharvaveda.content', locale)}</p>
+          <h3>{S('atharvaveda.contentTitle')}</h3>
+          <p>{S('atharvaveda.content')}</p>
         </section>
       </PageLayout>
     </>
