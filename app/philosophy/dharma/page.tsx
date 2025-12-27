@@ -19,7 +19,7 @@ export default function Page({ searchParams }: any) {
 
   return (
     <>
-      <PageLayout title={S('dharma.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('dharma.title', locale)) }]} locale={locale}>
+      <PageLayout title={S('dharma.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('dharma.title')) }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         
         <h2>{title}</h2>
         <p><strong>Definition : </strong>{dharma.definition.map((s: string) => (<span>{s}, </span>))}</p>

@@ -18,7 +18,7 @@ export default function Page({ searchParams }: any) {
 
   return (
     <>
-      <PageLayout title={title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} locale={locale}>
+      <PageLayout title={title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         <p>Placeholder for daily prayers and short mantras.</p>
       </PageLayout>
     </>

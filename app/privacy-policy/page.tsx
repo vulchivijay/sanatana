@@ -15,7 +15,7 @@ export default async function PrivacyPolicy() {
 
   return (
     <>
-      <PageLayout title={S('privacy.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('privacy.title')) }]} locale={locale}>
+      <PageLayout title={S('privacy.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('privacy.title')) }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         <div>
           
           <h2>{S('privacy.title')}</h2>
@@ -40,7 +40,7 @@ export default async function PrivacyPolicy() {
               <h5>{S('privacy.howWeUse.title')}</h5>
               <p>{S('privacy.howWeUse.lead')}</p>
               <ul role="list" className="list-disc">
-                {S('privacy.howWeUse.items').map((item: string, idx: number) => (
+                {(t('privacy.howWeUse.items', locale) as any[] || []).map((item: string, idx: number) => (
                   <li key={idx}>{item}</li>
                 ))}
               </ul>
@@ -57,7 +57,7 @@ export default async function PrivacyPolicy() {
               <p>{S('privacy.rights.title')}</p>
               <p>{S('privacy.rights.lead')}</p>
               <ul role="list" className="list-disc">
-                {S('privacy.rights.items').map((it: string, idx: number) => (
+                {(t('privacy.rights.items', locale) as any[] || []).map((it: string, idx: number) => (
                   <li key={idx}>{it}</li>
                 ))}
               </ul>

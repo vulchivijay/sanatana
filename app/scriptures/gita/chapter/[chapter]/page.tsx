@@ -80,7 +80,7 @@ export default async function Page({ params, searchParams }: { params: any, sear
         </nav>
         
 
-        <h2>{ch ? `${S('bhagavadgita.title')} — Chapter ${ch.chapter}: ${ch.title}` : `Chapter ${num}`}</h2>
+        <h2>{title}</h2>
 
         {ch && ch.verses && ch.verses.length > 0 ? (
           <div>

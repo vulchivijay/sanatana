@@ -57,7 +57,7 @@ export default async function Page({ params, searchParams }: any) {
 
   if (!item) {
     return (
-      <PageLayout title={S('kidsZone.illustratedStories.comicNotFoundTitle')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('kidsZone.illustratedStories.comicNotFoundTitle', locale)) }]} locale={locale}>
+      <PageLayout title={S('kidsZone.illustratedStories.comicNotFoundTitle')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('kidsZone.illustratedStories.comicNotFoundTitle')) }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         <p>{S('kidsZone.illustratedStories.comicNotFoundDesc')}</p>
       </PageLayout>
     );

@@ -13,7 +13,7 @@ export function generateStaticParams() {
     // At build time, synchronously load the default locale object
     // and read the chapters array directly to avoid dynamic import
     // pitfalls. `getLocaleObject` uses a server-side `require`.
-    const loc = getLocaleObject(DEFAULT_LOCALE) || {};
+    const loc: any = getLocaleObject(DEFAULT_LOCALE) || {};
     const chapters = (loc?.puranas && loc.puranas.chapters) || [];
     if (Array.isArray(chapters) && chapters.length > 0) {
       return chapters.map((c: any) => ({ chapter: String(c.chapter) }));

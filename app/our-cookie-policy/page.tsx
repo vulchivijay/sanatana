@@ -16,7 +16,7 @@ export default function CookiePolicyPage({ searchParams }: any) {
 
   return (
     <>
-      <PageLayout breadcrumbs={[{ labelKey: 'nav.home', href: '/' }]} locale={locale}>
+      <PageLayout breadcrumbs={[{ labelKey: 'nav.home', href: '/' }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         
         <p>{S('policies.cookiePolicy.title')}</p>
         <p>{S('policies.cookiePolicy.intro')}</p>

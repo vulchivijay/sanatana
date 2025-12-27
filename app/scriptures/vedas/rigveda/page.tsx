@@ -16,7 +16,7 @@ export default function RigvedaPage() {
 
   return (
     <>
-      <PageLayout title={S('rigveda.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('rigveda.title', locale)) }]} locale={locale}>
+      <PageLayout title={S('rigveda.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('rigveda.title')) }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         <p>{S('rigveda.summary')}</p>
         <section>
           <h3>{S('rigveda.contentTitle')}</h3>

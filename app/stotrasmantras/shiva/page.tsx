@@ -14,7 +14,7 @@ export default function Page() {
   const items = t('shivastotras.stotras', undefined) || [];
 
   return (
-    <PageLayout metaKey="stotrasmantras_shiva" title={S('shivastotras.title') || 'Shiva Stotras'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: S('shivastotras.title') || 'Shiva Stotras' }]} locale={locale}>
+    <PageLayout metaKey="stotrasmantras_shiva" title={S('shivastotras.title') || 'Shiva Stotras'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: S('shivastotras.title') || 'Shiva Stotras' }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
       {items.map((item: any, i: number) => (
         <section key={i}>
           <h3>{item.name || item.title || `Item ${i + 1}`}</h3>

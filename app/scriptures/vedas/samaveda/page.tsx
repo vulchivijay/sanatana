@@ -16,7 +16,7 @@ export default function SamavedaPage() {
 
   return (
     <>
-      <PageLayout title={S('samaveda.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('samaveda.title', locale)) }]} locale={locale}>
+      <PageLayout title={S('samaveda.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('samaveda.title')) }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         <p>{S('samaveda.summary')}</p>
         <section>
           <h3>{S('samaveda.contentTitle')}</h3>

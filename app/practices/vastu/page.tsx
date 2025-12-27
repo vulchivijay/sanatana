@@ -21,9 +21,10 @@ export async function generateMetadata(props: any) {
   };
 }
 export default function Page() {
+  const locale = detectLocale();
   return (
     <>
-      <PageLayout title={'Vastu'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Vastu' }]} locale={locale}>
+      <PageLayout title={'Vastu'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Vastu' }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         
         <p>Placeholder page about Vastu principles.</p>
       </PageLayout>

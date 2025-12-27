@@ -24,7 +24,7 @@ export default function Page() {
   const locale = detectLocale();
   return (
     <>
-      <PageLayout breadcrumbs={[{ labelKey: 'nav.home', href: '/' }]} locale={locale}>
+      <PageLayout breadcrumbs={[{ labelKey: 'nav.home', href: '/' }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         
         <p>Placeholder page for daily puja routines and short guides.</p>
       </PageLayout>

@@ -21,9 +21,10 @@ export async function generateMetadata(props: any) {
   };
 }
 export default function Page() {
+  const locale = detectLocale();
   return (
     <>
-      <PageLayout title={'Rituals'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Rituals' }]} locale={locale}>
+      <PageLayout title={'Rituals'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Rituals' }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         
         <p>Placeholder page about rituals and ceremonies.</p>
       </PageLayout>

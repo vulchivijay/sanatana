@@ -17,7 +17,7 @@ export default async function ContactPage() {
 
   return (
     <>
-      <PageLayout breadcrumbs={[{ labelKey: 'nav.home', href: '/' }]} locale={locale}>
+      <PageLayout breadcrumbs={[{ labelKey: 'nav.home', href: '/' }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
     
         <h2>{S('contactPage.title')}</h2>
         <p>{S('contactPage.lead')}</p>

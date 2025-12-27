@@ -24,7 +24,7 @@ export default async function Page() {
   const meta = getMeta('kidsZone_easymantras', undefined, locale) || {};
   return (
     <>
-      <PageLayout title={meta.title || t('kidsZone.easymantras.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: meta.title || t('kidsZone.easymantras.title', locale) }]} locale={locale}>
+      <PageLayout title={meta.title || t('kidsZone.easymantras.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: meta.title || t('kidsZone.easymantras.title', locale) }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         <p>Placeholder for simple mantras children can learn.</p>
       </PageLayout>
     </>

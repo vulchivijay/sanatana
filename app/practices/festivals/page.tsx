@@ -24,7 +24,7 @@ export default function Page() {
   const locale = detectLocale();
   return (
     <>
-      <PageLayout title={'Festivals'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Festivals' }]} locale={locale}>
+      <PageLayout title={'Festivals'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Festivals' }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         
         <p>Placeholder page describing major festivals and observances.</p>
       </PageLayout>

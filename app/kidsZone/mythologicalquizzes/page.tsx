@@ -15,7 +15,7 @@ export default function Page({ searchParams }: any) {
 
   return (
     <>
-      <PageLayout title={S('kidsZone.mythologicalQuizzes.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('kidsZone.mythologicalQuizzes.title', locale)) }]} locale={locale}>
+      <PageLayout title={S('kidsZone.mythologicalQuizzes.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('kidsZone.mythologicalQuizzes.title')) }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         <p>{S('kidsZone.mythologicalQuizzes.description')}</p>
         <QuizClient />
       </PageLayout>

@@ -21,7 +21,7 @@ export default function Page({ searchParams }: any) {
 
   return (
     <>
-      <PageLayout title={S('samsara.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('samsara.title', locale)) }]} locale={locale}>
+      <PageLayout title={S('samsara.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('samsara.title')) }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         
         <p><strong>Definition : </strong>{samsara.definition}</p>
         {/* Core Principles of Samsara */}
