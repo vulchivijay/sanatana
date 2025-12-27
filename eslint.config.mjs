@@ -13,6 +13,15 @@ const eslintConfig = defineConfig([
     "build/**",
     "next-env.d.ts",
   ]),
+  // Allow Node scripts in `scripts/` to use CommonJS `require()` and
+  // avoid TypeScript-eslint errors that are intended for TS/ESM code.
+  {
+    files: ["scripts/**"],
+    rules: {
+      "@typescript-eslint/no-require-imports": "off",
+      "@typescript-eslint/no-unused-vars": "warn"
+    }
+  }
 ]);
 
 export default eslintConfig;
