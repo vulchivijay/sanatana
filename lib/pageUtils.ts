@@ -16,10 +16,10 @@ export function createGenerateMetadata(metaKey: string, titleKey?: string, descr
     // `searchParams` can be a Promise in newer Next.js versions — unwrap it first
     let resolvedSearchParams: unknown = searchParams;
     try {
-      if (resolvedSearchParams && typeof resolvedSearchParams.then === 'function') {
+      if (resolvedSearchParams && typeof (resolvedSearchParams as any).then === 'function') {
         // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-        // @ts-expect-error - resolvedSearchParams is a Promise here
-        resolvedSearchParams = await resolvedSearchParams;
+        // @ts-ignore - resolvedSearchParams may be a Promise here
+        resolvedSearchParams = await (resolvedSearchParams as any);
       }
     } catch (e) {
       resolvedSearchParams = undefined;

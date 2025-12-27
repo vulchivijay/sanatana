@@ -67,7 +67,7 @@ export function t(key: string, locale = DEFAULT_LOCALE): any {
   for (const k of keys) {
     if (!cur) return key;
     // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-    // @ts-expect-error - reading dynamic locale object keys
+    // @ts-ignore - reading dynamic locale object keys
     cur = (cur as any)[k];
   }
   // If the resolved value is an array, return it for list usage.
@@ -103,7 +103,7 @@ function interpolateObject(obj: unknown, params?: Record<string, string>): unkno
     const out: Record<string, unknown> = {};
     for (const k of Object.keys(obj as Record<string, unknown>)) {
       // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-      // @ts-expect-error - dynamic indexing
+      // @ts-ignore - dynamic indexing
       out[k] = interpolateObject((obj as any)[k], params);
     }
     return out;
@@ -114,7 +114,7 @@ function interpolateObject(obj: unknown, params?: Record<string, string>): unkno
 // Return a metadata object from `locales[locale].meta[metaKey]` with interpolation
 export function getMeta(metaKey: string, params?: Record<string, string>, locale = DEFAULT_LOCALE) {
   const loc = getLocaleObject(locale) as Record<string, unknown> | undefined;
-  const metaRoot = (loc?.meta as Record<string, unknown> | undefined) ?? (getLocaleObject(DEFAULT_LOCALE)?.meta as Record<string, unknown> | undefined ?? {});
+  const metaRoot = ((loc as any)?.meta as Record<string, unknown> | undefined) ?? (((getLocaleObject(DEFAULT_LOCALE) as any)?.meta) as Record<string, unknown> | undefined) ?? {};
   const meta = (metaRoot?.[metaKey] as unknown) ?? {};
   return interpolateObject(meta, params) as Record<string, unknown>;
 }
@@ -123,9 +123,9 @@ export function detectLocale(searchParams?: unknown) {
   if (searchParams && typeof searchParams === "object") {
     try {
       // Only use .get if searchParams is a URLSearchParams or has a safe .get method
-      // @ts-expect-error - dynamic get method on unknown type
+      // @ts-ignore - dynamic get method on unknown type
       if (typeof (searchParams as any).get === "function") {
-        // @ts-expect-error
+        // @ts-ignore
         const v = (searchParams as any).get("lang");
         if (v) return String(v);
       }

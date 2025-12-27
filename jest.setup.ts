@@ -6,7 +6,7 @@ if (typeof (global as any).MessageChannel === 'undefined') {
 		// eslint-disable-next-line no-empty
 		const mod = await import('worker_threads').catch(() => null);
 		if (mod && (mod as any).MessageChannel) {
-			// @ts-expect-error - assigning polyfill to global
+			// @ts-ignore - assigning polyfill to global
 			(global as any).MessageChannel = (mod as any).MessageChannel;
 		}
 	} catch (err) {
@@ -19,9 +19,9 @@ if (typeof (global as any).TextEncoder === 'undefined') {
 	try {
 		const util = await import('util').catch(() => null);
 		if (util) {
-			// @ts-expect-error - assigning polyfill to global
+			// @ts-ignore - assigning polyfill to global
 			(global as any).TextEncoder = (util as any).TextEncoder;
-			// @ts-expect-error - assigning polyfill to global
+			// @ts-ignore - assigning polyfill to global
 			(global as any).TextDecoder = (util as any).TextDecoder;
 		}
 	} catch (err) {

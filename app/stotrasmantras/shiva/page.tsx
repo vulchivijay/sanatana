@@ -5,8 +5,8 @@ import { createGenerateMetadata } from 'lib/pageUtils';
 import PageLayout from '@components/common/PageLayout';
 
 export const generateMetadata = createGenerateMetadata('stotrasmantras_shiva');
-export default function Page() {
-  const locale = (async () => await detectLocale({}))();
+export default async function Page() {
+  const locale = await detectLocale({});
 
   const S = (k: string) => String(t(k, locale));
 
