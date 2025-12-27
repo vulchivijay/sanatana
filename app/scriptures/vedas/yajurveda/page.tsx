@@ -16,7 +16,7 @@ export default function YajurvedaPage() {
 
   return (
     <>
-      <PageLayout title={S('yajurveda.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={locale}>
+      <PageLayout title={S('yajurveda.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('yajurveda.title', locale)) }]} locale={locale}>
         <p>{S('yajurveda.summary', locale)}</p>
         <section>
           <h3>{S('yajurveda.contentTitle', locale)}</h3>

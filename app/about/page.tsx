@@ -25,7 +25,7 @@ export default function Page({ searchParams }: any) {
   const joinInvite = (t('about.joinUs.invite', locale) as unknown) || [];
 
   return (
-    <PageLayout metaKey="about" title={title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={locale}>
+    <PageLayout metaKey="about" title={title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} locale={locale}>
       <p>{intro}</p>
       <div>
         <h3>Vision</h3>

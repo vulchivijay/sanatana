@@ -26,7 +26,7 @@ export default function AtharvavedaPage() {
 
   return (
     <>
-      <PageLayout title={S('atharvaveda.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={locale}>
+      <PageLayout title={S('atharvaveda.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('atharvaveda.title', locale)) }]} locale={locale}>
         <p>{S('atharvaveda.summary', locale)}</p>
         <section>
           <h3>{S('atharvaveda.contentTitle', locale)}</h3>

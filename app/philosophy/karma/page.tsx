@@ -19,7 +19,7 @@ export default function Page({ searchParams }: any) {
 
   return (
     <>
-      <PageLayout title={S('karma.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={locale}>
+      <PageLayout title={S('karma.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('karma.title', locale)) }]} locale={locale}>
         
         <h2>{title}</h2>
         <p><strong>Definition : </strong>{karma.definition}</p>

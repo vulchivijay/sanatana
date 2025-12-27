@@ -23,7 +23,7 @@ export async function generateMetadata(props: any) {
 export default function Page() {
   return (
     <>
-      <PageLayout title={'Festivals'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={locale}>
+      <PageLayout title={'Festivals'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Festivals' }]} locale={locale}>
         
         <p>Placeholder page describing major festivals and observances.</p>
       </PageLayout>

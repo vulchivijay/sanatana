@@ -23,7 +23,7 @@ export async function generateMetadata(props: any) {
 export default function Page() {
   return (
     <>
-      <PageLayout title={'Vastu'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={locale}>
+      <PageLayout title={'Vastu'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Vastu' }]} locale={locale}>
         
         <p>Placeholder page about Vastu principles.</p>
       </PageLayout>

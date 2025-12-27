@@ -57,7 +57,7 @@ export default async function Page({ params, searchParams }: any) {
 
   if (!item) {
     return (
-      <PageLayout title={S('kidsZone.illustratedStories.comicNotFoundTitle', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: S('kidsZone.illustratedStories.comicNotFoundTitle', locale) }]} locale={locale}>
+      <PageLayout title={S('kidsZone.illustratedStories.comicNotFoundTitle', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('kidsZone.illustratedStories.comicNotFoundTitle', locale)) }]} locale={locale}>
         <p>{S('kidsZone.illustratedStories.comicNotFoundDesc', locale)}</p>
       </PageLayout>
     );
@@ -68,7 +68,7 @@ export default async function Page({ params, searchParams }: any) {
 
   return (
     <>
-      <PageLayout title={item.title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: S('kidsZone.illustratedStories.title', locale), href: '/kidsZone/illustratedStories' }, { label: item.title }]}>
+      <PageLayout title={item.title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: item.title }, { label: item.title }]}>
         <div>{item.origin}</div>
         <div>
           <div>

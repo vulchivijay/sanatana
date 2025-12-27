@@ -20,7 +20,7 @@ export default function Page({ searchParams }: any) {
 
   return (
     <>
-      <PageLayout title={S('vedas.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={locale}>
+      <PageLayout title={S('vedas.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('vedas.title', locale)) }]} locale={locale}>
         
         <h2>{title}</h2>
         <p>{intro}</p>

@@ -17,7 +17,7 @@ export default async function Page({ searchParams }: any) {
 
   return (
     <>
-      <PageLayout title={S('illustratedStories.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={locale}>
+      <PageLayout title={S('illustratedStories.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('illustratedStories.title', locale)) }]} locale={locale}>
         <p>{S('illustratedStories.description', locale)}</p>
         <div>
           {(t('illustratedStories.kids_indian_stories', locale) as any[]).map((s: any) => (

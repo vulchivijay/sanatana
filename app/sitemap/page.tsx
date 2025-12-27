@@ -13,7 +13,7 @@ export default function SitemapPage() {
   const S = (k: string) => String(t(k));
 
   return (
-    <PageLayout title={'HTML Sitemap'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]}>
+    <PageLayout title={'HTML Sitemap'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'HTML Sitemap' }]}>
       <p>A human-friendly sitemap of important pages (also available as XML at <Link href="/sitemap.xml">/sitemap.xml</Link>).</p>
       <ul role="list" className="list-disc">
         {PATHS.map((p) => (

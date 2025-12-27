@@ -11,7 +11,7 @@ export default async function TermsOfService() {
   const S = (k: string) => String(t(k, locale));
 
   return (
-    <PageLayout metaKey="terms-of-service" title={S('terms.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: S('terms.title') }]} locale={locale}>
+    <PageLayout metaKey="terms-of-service" title={S('terms.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('terms.title')) }]} locale={locale}>
       <div>
         <p>
           <strong>{S('terms.lastUpdated')}</strong> {S('terms.lastUpdated')}
