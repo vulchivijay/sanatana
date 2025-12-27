@@ -6,13 +6,8 @@ const withBundleAnalyzer = bundleAnalyzer({
   enabled: process.env.ANALYZE === 'true',
 });
 
-// Allow choosing static export vs server deployment via env var.
-// When `NEXT_STATIC_EXPORT="true"` the build sets `output: 'export'` and `trailingSlash: true`.
-// Otherwise the app builds as a server-capable Next app (API routes and server runtime available).
-// Allow forcing server-start even when `NEXT_STATIC_EXPORT` is set by using
-// `NEXT_ALLOW_START=true` in the environment. This keeps the default behavior
-// of static export but allows local `next start` when explicitly requested.
-const isStaticExport = process.env.NEXT_STATIC_EXPORT === 'true' && process.env.NEXT_ALLOW_START !== 'true';
+// This app is statically exported. `output: 'export'` and `trailingSlash: true`
+// are set permanently to produce a static site suitable for static hosts.
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -31,8 +26,8 @@ const nextConfig = {
   experimental: {
     optimizeCss: true,
   },
-  output: isStaticExport ? 'export' : undefined,
-  trailingSlash: isStaticExport ? true : false,
+  output: 'export',
+  trailingSlash: true,
   images: {
     // Disable Next Image optimization for static export / GitHub Pages
     unoptimized: true,
