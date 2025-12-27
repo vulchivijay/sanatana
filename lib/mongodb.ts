@@ -7,7 +7,7 @@ if (!process.env.MONGODB_URI) {
 }
 
 const uri = process.env.MONGODB_URI as string;
-let cached: { client: MongoClient | null; promise: Promise<MongoClient> | null } = { client: null, promise: null };
+const cached: { client: MongoClient | null; promise: Promise<MongoClient> | null } = { client: null, promise: null };
 
 export async function connectToDatabase() {
   if (cached.client) return { client: cached.client };

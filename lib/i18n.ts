@@ -32,7 +32,7 @@ export function getLocaleObject(locale = DEFAULT_LOCALE) {
   if (typeof window === 'undefined') {
     try {
       // use CommonJS require on the server for a sync load
-      // eslint-disable-next-line @typescript-eslint/no-var-requires
+       
       const mod = require(`../locales/${locale}`);
       const obj = (mod && (mod.default || mod)) as any;
       localesCache[locale] = obj;
