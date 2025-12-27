@@ -1,12 +1,16 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 import { getMeta, detectLocale, t } from '../../../lib/i18n';
-import StructuredData from '@components/structured-data/StructuredData';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
+
+
 import PageLayout from '@components/common/PageLayout';
 
 export async function generateMetadata(props: any) {
   const { searchParams } = props || {};
   const locale = await detectLocale(searchParams);
+
+  const S = (k: string) => String(t(k, locale));
+
   const meta = getMeta('practices_vastu', undefined, locale) || {};
   return {
     title: meta.title,
@@ -17,11 +21,11 @@ export async function generateMetadata(props: any) {
   };
 }
 export default function Page() {
+  const locale = detectLocale();
   return (
     <>
-      <StructuredData metaKey="practices_vastu" />
-      <PageLayout className="content-wrapper md page-space-xl" title={'Vastu'}>
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: 'Vastu' }]} />
+      <PageLayout title={'Vastu'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Vastu' }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
+        
         <p>Placeholder page about Vastu principles.</p>
       </PageLayout>
     </>

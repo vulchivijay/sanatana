@@ -1,14 +1,18 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, detectLocale, DEFAULT_LOCALE, getLocaleObject } from '../../../lib/i18n';
+import { t, detectLocale, getLocaleObject } from '../../../lib/i18n';
+
 import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
-import StructuredData from '@components/structured-data/StructuredData';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
+
 
 export const generateMetadata = createGenerateMetadata('scriptures_sanksheparamayana');
 
 export default function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
-  const loc = getLocaleObject(locale) || {};
+
+  const S = (k: string) => String(t(k, locale));
+
+  const loc: any = getLocaleObject(locale) || {};
   const ram = loc?.sanksheparamayana || {};
   const title = ram.title || t('sanksheparamayana.title', locale) || '';
   const author = ram.source || '';
@@ -20,9 +24,8 @@ export default function Page({ searchParams }: any) {
 
   return (
     <>
-      <StructuredData metaKey="scriptures_SankshepaRamayana" />
       <main className="content-wrapper md page-space-xl">
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} />
+        
         <h2>{title}</h2>
         <p><strong>Source: </strong>{author} - {description ? <span>{description}</span> : null}</p>
 

@@ -63,8 +63,11 @@ export default function TopProgress() {
     // set to 100%
     if (incRef.current) window.clearInterval(incRef.current);
     if (spinnerTimerRef.current) window.clearTimeout(spinnerTimerRef.current);
-    setShowSpinner(true);
-    setProgress(100);
+    // schedule state updates to avoid synchronous setState-in-effect
+    setTimeout(() => {
+      setShowSpinner(true);
+      setProgress(100);
+    }, 0);
     timerRef.current = window.setTimeout(() => {
       setVisible(false);
       setProgress(0);

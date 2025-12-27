@@ -1,6 +1,6 @@
 "use client";
-import React, { useState } from "react";
-import { generateHoroscope, Period } from "../../lib/horoscope";
+import { useState } from 'react';
+import { generateHoroscope, Period } from '../../lib/horoscope';
 
 export default function HoroscopeClient() {
   const today = new Date().toISOString().slice(0, 10);

@@ -1,7 +1,7 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
-import { useRef, useEffect, useState } from "react";
-import clsx from "clsx";
+import { useRef, useEffect, useState } from 'react';
+import clsx from 'clsx';
 import { useT } from '../../hooks/useT';
 
 // Usage: <SectionImg imgSrc="/your-image.jpg"><h2>Title</h2><p>Content...</p></SectionImg>

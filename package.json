@@ -13,7 +13,7 @@
     "scss:watch": "sass --watch styles/main.scss:public/globals.from-scss.css",
     "predeploy": "npm run scss:build && npm run export",
     "generate:sitemap": "node scripts/generate-sitemap.js",
-    "export": "next build && next export",
+    "export": "cross-env NEXT_STATIC_EXPORT=true npm run build",
     "postinstall": "npx next telemetry disable || true",
     "deploy": "gh-pages -d out",
     "start": "next start",

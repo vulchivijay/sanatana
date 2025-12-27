@@ -1,23 +1,26 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, detectLocale, DEFAULT_LOCALE, getLocaleObject } from '../../../lib/i18n';
+import { t, detectLocale, getLocaleObject } from '../../../lib/i18n';
+
 import { resolveLocaleFromHeaders, createGenerateMetadata } from '../../../lib/pageUtils';
-import StructuredData from '@components/structured-data/StructuredData';
+
 import PageLayout from '@components/common/PageLayout';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
 
 export const generateMetadata = createGenerateMetadata('philosophy_karma');
 
 export default function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
-  const loc = getLocaleObject(locale) || {};
+
+  const S = (k: string) => String(t(k, locale));
+
+  const loc: any = getLocaleObject(locale) || {};
   const karma = loc?.karma_philosophy || {};
   const title = karma.title || t('karma_philosophy.title', locale) || 'Karma Philosophy';
 
   return (
     <>
-      <StructuredData metaKey="philosophy_karma" />
-         <PageLayout className="content-wrapper md page-space-xl" title={t('karma.title', locale)}>
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} />
+      <PageLayout title={S('karma.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('karma.title')) }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
+        
         <h2>{title}</h2>
         <p><strong>Definition : </strong>{karma.definition}</p>
         {/* Core Principles of Karma */}

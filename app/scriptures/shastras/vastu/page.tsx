@@ -1,21 +1,20 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
 import { t, detectLocale, getMeta } from '../../../../lib/i18n';
-import StructuredData from '@components/structured-data/StructuredData';
+
+
 
 export default async function VastuPage() {
   const locale = await detectLocale();
 
+  const S = (k: string) => String(t(k, locale));
+
+
   return (
     <>
-      <StructuredData metaKey="scriptures_shastras_vastu" />
       <main className="content-wrapper md page-space-xl">
         <div>
-          <Breadcrumbs items={[
-            { labelKey: 'nav.home', href: '/' },
-            { labelKey: 'nav.shastras', href: '/shastras' },
-            { labelKey: 'shastras.vastu.title' }
-          ]} locale={locale} />
+          
           <h2>{await t('shastras.vastu.title', locale)}</h2>
           <p>{await t('shastras.vastu.summary', locale)}</p>
           <section>

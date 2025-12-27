@@ -1,6 +1,6 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import React, { useEffect, useRef, useState } from "react";
-import storage from "../../../lib/storage";
+import React, { useEffect, useRef } from 'react';
+import storage from '../../../lib/storage';
 
 // Runtime-created marquee wrapper to avoid relying on JSX intrinsic typings
 const MarqueeTag = React.forwardRef<any, any>(function MarqueeTag(props, ref) {

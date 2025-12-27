@@ -1,16 +1,20 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { getMeta, detectLocale, t } from '../../../lib/i18n';
+import { detectLocale, t } from '../../../lib/i18n';
+
 import { createGenerateMetadata } from 'lib/pageUtils';
 import PageLayout from '@components/common/PageLayout';
 
 export const generateMetadata = createGenerateMetadata('stotrasmantras_shiva');
-export default function Page() {
-  const locale = (async () => await detectLocale({}))();
+export default async function Page() {
+  const locale = await detectLocale({});
+
+  const S = (k: string) => String(t(k, locale));
+
   // detectLocale is async; but for static rendering we will fall back to default through t() when needed
   const items = t('shivastotras.stotras', undefined) || [];
 
   return (
-    <PageLayout metaKey="stotrasmantras_shiva" title={t('shivastotras.title', undefined) || 'Shiva Stotras'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Shiva Stotras' }]}>
+    <PageLayout metaKey="stotrasmantras_shiva" title={S('shivastotras.title') || 'Shiva Stotras'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: S('shivastotras.title') || 'Shiva Stotras' }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
       {items.map((item: any, i: number) => (
         <section key={i}>
           <h3>{item.name || item.title || `Item ${i + 1}`}</h3>

@@ -1,26 +1,29 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, detectLocale, DEFAULT_LOCALE, getLocaleObject } from '../../../lib/i18n';
+import { t, detectLocale, getLocaleObject } from '../../../lib/i18n';
+
 import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
-import StructuredData from '@components/structured-data/StructuredData';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
+
 
 export const generateMetadata = createGenerateMetadata('scriptures_puranas');
 
 export default function PuranasPage({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
-  const loc = getLocaleObject(locale) || {};
+
+  const S = (k: string) => String(t(k, locale));
+
+  const loc: any = getLocaleObject(locale) || {};
   const puranas = loc?.puranas || {};
   const title = puranas.title || t('puranas.title', locale) || '';
   return (
     <>
-      <StructuredData metaKey="scriptures_puranas" />
       <main className="content-wrapper md page-space-xl">
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { labelKey: title }]} locale={locale} />
+        
         <h2>{title} - {puranas.classification}</h2>
         <p>{puranas.definition}</p>
 
         <div>
-          <p>{t('puranas.purpose', locale)}</p>
+          <p>{S('puranas.purpose')}</p>
           {/* Major Puranas */}
           {Array.isArray(puranas.major_puranas) && puranas.major_puranas.length > 0 && (
             <div>

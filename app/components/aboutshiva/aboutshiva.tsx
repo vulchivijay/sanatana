@@ -1,4 +1,4 @@
-import { t, DEFAULT_LOCALE } from "../../../lib/i18n";
+import { t, DEFAULT_LOCALE } from '../../../lib/i18n';
 
 export default function AboutShiva({ locale }: { locale?: string }) {
   return (

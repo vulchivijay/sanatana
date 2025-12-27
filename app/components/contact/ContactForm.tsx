@@ -1,7 +1,7 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
 
-import React, { useState, useMemo } from "react";
+import React, { useState, useMemo } from 'react';
 import { useT } from '../../hooks/useT';
 
 export default function ContactForm() {

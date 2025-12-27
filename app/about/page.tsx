@@ -1,5 +1,6 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, DEFAULT_LOCALE, detectLocale } from '../../lib/i18n';
+import { t, detectLocale } from '../../lib/i18n';
+
 import { resolveLocaleFromHeaders, createGenerateMetadata } from '../../lib/pageUtils';
 import PageLayout from '@components/common/PageLayout';
 
@@ -7,18 +8,24 @@ export const generateMetadata = createGenerateMetadata('about', 'about.title', '
 
 export default function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
-  const title = t('about.title', locale);
-  const intro = t('about.intro', locale);
-  const visionDesc = t('about.vision.description', locale);
-  const focusAreas = t('about.vision.focusAreas', locale) || [];
-  const goal = t('about.vision.goal', locale);
-  const disclaimer = t('about.disclaimer', locale);
 
-  const joinMsg = t('about.joinUs.message', locale);
-  const joinInvite = t('about.joinUs.invite', locale) || [];
+  const S = (k: string) => String(t(k, locale));
+
+  const title = String(t('about.title', locale));
+  const intro = String(t('about.intro', locale));
+  const visionDesc = String(t('about.vision.description', locale));
+  const focusAreas = (t('about.vision.focusAreas', locale) as unknown) || [];
+  const goal = String(t('about.vision.goal', locale));
+  const disclaimer = String(t('about.disclaimer', locale));
+  const purpose = String(t('about.whyWeCreated.purpose', locale));
+  const problemsAddressed = (t('about.whyWeCreated.problemsAddressed', locale) as unknown) || [];
+  const commitment = (t('about.commitment', locale) as unknown) || [];
+
+  const joinMsg = String(t('about.joinUs.message', locale));
+  const joinInvite = (t('about.joinUs.invite', locale) as unknown) || [];
 
   return (
-    <PageLayout metaKey="about" title={title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} locale={locale}>
+    <PageLayout metaKey="about" title={title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
       <p>{intro}</p>
       <div>
         <h3>Vision</h3>
@@ -35,9 +42,9 @@ export default function Page({ searchParams }: any) {
 
       <div>
         <h4>Why we created this</h4>
-        <p>{t('about.whyWeCreated.purpose', locale)}</p>
+        <p>{purpose}</p>
         <ul role="list" className="list-disc">
-          {(t('about.whyWeCreated.problemsAddressed', locale) || []).map((p: string, i: number) => (
+          {(problemsAddressed as string[]).map((p: string, i: number) => (
             <li key={i}>{p}</li>
           ))}
         </ul>
@@ -46,7 +53,7 @@ export default function Page({ searchParams }: any) {
       <div>
         <h5>Commitment</h5>
         <ul role="list" className="list-disc">
-          {(t('about.commitment', locale) || []).map((c: string, i: number) => (
+          {(commitment as string[]).map((c: string, i: number) => (
             <li key={i}>{c}</li>
           ))}
         </ul>

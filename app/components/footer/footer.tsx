@@ -1,10 +1,10 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
 
-import Link from "next/link";
-import { useSearchParams, usePathname } from "next/navigation";
-import { DEFAULT_LOCALE, loadLocale, getLocaleObject } from "../../../lib/i18n";
-import { useEffect, useState } from "react";
+import Link from 'next/link';
+import { useSearchParams, usePathname } from 'next/navigation';
+import { loadLocale, getLocaleObject } from '../../../lib/i18n';
+import { useEffect, useState } from 'react';
 import { useLocale } from '../../context/locale-context';
 
 export default function Footer() {

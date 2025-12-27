@@ -1,10 +1,10 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
 
-import Image from "next/image";
-import Link from "next/link";
-import { useT } from "../../hooks/useT";
-import { useState } from "react";
+import Image from 'next/image';
+import Link from 'next/link';
+import { useT } from '../../hooks/useT';
+import { useState } from 'react';
 
 type InfoCardProps = {
   src: string;

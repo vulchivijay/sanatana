@@ -20,7 +20,7 @@ export default async function PageArticleJsonLd({ metaKey, params, locale, autho
   const headline = meta.title || undefined;
   const description = meta.description || undefined;
   const url = meta.url || SITE_URL;
-  const img = image || (meta.ogImage ? (meta.ogImage.startsWith('/') ? `${SITE_URL}${meta.ogImage}` : meta.ogImage) : undefined);
+  const img = image || (typeof meta.ogImage === 'string' ? (meta.ogImage.startsWith('/') ? `${SITE_URL}${meta.ogImage}` : meta.ogImage) : undefined);
 
   const authorObj = typeof author === 'string' ? { name: author } : author;
 

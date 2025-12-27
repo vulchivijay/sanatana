@@ -1,5 +1,6 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { getMeta, t, detectLocale } from '../../lib/i18n';
+import { t, detectLocale } from '../../lib/i18n';
+
 import { createGenerateMetadata } from 'lib/pageUtils';
 import PageLayout from '@components/common/PageLayout';
 
@@ -7,78 +8,79 @@ export const generateMetadata = createGenerateMetadata('terms');
 
 export default async function TermsOfService() {
   const locale = await detectLocale();
+  const S = (k: string) => String(t(k, locale));
 
   return (
-    <PageLayout metaKey="terms-of-service" title={t('terms.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { labelKey: 'footer.terms' }]} locale={locale}>
+    <PageLayout metaKey="terms-of-service" title={S('terms.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('terms.title')) }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
       <div>
         <p>
-          <strong>{t('terms.lastUpdated', locale)}</strong> {t('terms.lastUpdated', locale)}
+          <strong>{S('terms.lastUpdated')}</strong> {S('terms.lastUpdated')}
         </p>
 
-        <h3>{t('terms.acceptanceTitle', locale)}</h3>
-        <p>{t('terms.intro', locale)}</p>
+        <h3>{S('terms.acceptanceTitle')}</h3>
+        <p>{S('terms.intro')}</p>
 
-        <h4>{t('terms.useLicenseTitle', locale)}</h4>
-        <p>{t('terms.useLicenseText', locale)}</p>
+        <h4>{S('terms.useLicenseTitle')}</h4>
+        <p>{S('terms.useLicenseText')}</p>
         <ul role="list" className="list-disc">
-          <li>{t('terms.useLicenseList.modification', locale)}</li>
-          <li>{t('terms.useLicenseList.copying', locale)}</li>
-          <li>{t('terms.useLicenseList.unauthorizedAccess', locale)}</li>
-          <li>{t('terms.useLicenseList.reverseEngineering', locale)}</li>
-          <li>{t('terms.useLicenseList.interfering', locale)}</li>
+          <li>{S('terms.useLicenseList.modification')}</li>
+          <li>{S('terms.useLicenseList.copying')}</li>
+          <li>{S('terms.useLicenseList.unauthorizedAccess')}</li>
+          <li>{S('terms.useLicenseList.reverseEngineering')}</li>
+          <li>{S('terms.useLicenseList.interfering')}</li>
         </ul>
 
-        <h5>{t('terms.intellectualTitle', locale)}</h5>
-        <p>{t('terms.intellectualText', locale)}</p>
+        <h5>{S('terms.intellectualTitle')}</h5>
+        <p>{S('terms.intellectualText')}</p>
 
-        <h6>{t('terms.userConductTitle', locale)}</h6>
-        <p>{t('terms.userConductIntro', locale)}</p>
+        <h6>{S('terms.userConductTitle')}</h6>
+        <p>{S('terms.userConductIntro')}</p>
         <ul role="list" className="list-disc">
-          <li>{t('terms.userConductList.unlawful', locale)}</li>
-          <li>{t('terms.userConductList.harassment', locale)}</li>
-          <li>{t('terms.userConductList.malware', locale)}</li>
-          <li>{t('terms.userConductList.violateLaw', locale)}</li>
-          <li>{t('terms.userConductList.spam', locale)}</li>
-          <li>{t('terms.userConductList.bypass', locale)}</li>
+          <li>{S('terms.userConductList.unlawful')}</li>
+          <li>{S('terms.userConductList.harassment')}</li>
+          <li>{S('terms.userConductList.malware')}</li>
+          <li>{S('terms.userConductList.violateLaw')}</li>
+          <li>{S('terms.userConductList.spam')}</li>
+          <li>{S('terms.userConductList.bypass')}</li>
         </ul>
 
-        <p>{t('terms.disclaimerTitle', locale)}</p>
-        <p>{t('terms.disclaimerText', locale)}</p>
+        <p>{S('terms.disclaimerTitle')}</p>
+        <p>{S('terms.disclaimerText')}</p>
         <ul role="list" className="list-disc">
-          <li>{t('terms.disclaimerList.accuracy', locale)}</li>
-          <li>{t('terms.disclaimerList.functionality', locale)}</li>
-          <li>{t('terms.disclaimerList.errors', locale)}</li>
-          <li>{t('terms.disclaimerList.quality', locale)}</li>
+          <li>{S('terms.disclaimerList.accuracy')}</li>
+          <li>{S('terms.disclaimerList.functionality')}</li>
+          <li>{S('terms.disclaimerList.errors')}</li>
+          <li>{S('terms.disclaimerList.quality')}</li>
         </ul>
-        <p>{t('terms.disclaimerClosing', locale)}</p>
+        <p>{S('terms.disclaimerClosing')}</p>
 
-        <p>{t('terms.liabilityTitle', locale)}</p>
-        <p>{t('terms.liabilityText', locale)}</p>
+        <p>{S('terms.liabilityTitle')}</p>
+        <p>{S('terms.liabilityText')}</p>
 
-        <p>{t('terms.externalLinksTitle', locale)}</p>
-        <p>{t('terms.externalLinksText', locale)}</p>
+        <p>{S('terms.externalLinksTitle')}</p>
+        <p>{S('terms.externalLinksText')}</p>
 
-        <p>{t('terms.modificationsTitle', locale)}</p>
-        <p>{t('terms.modificationsText', locale)}</p>
+        <p>{S('terms.modificationsTitle')}</p>
+        <p>{S('terms.modificationsText')}</p>
 
-        <p>{t('terms.terminationTitle', locale)}</p>
-        <p>{t('terms.terminationText', locale)}</p>
+        <p>{S('terms.terminationTitle')}</p>
+        <p>{S('terms.terminationText')}</p>
 
-        <p>{t('terms.indemnificationTitle', locale)}</p>
-        <p>{t('terms.indemnificationText', locale)}</p>
+        <p>{S('terms.indemnificationTitle')}</p>
+        <p>{S('terms.indemnificationText')}</p>
 
-        <p>{t('terms.governingTitle', locale)}</p>
-        <p>{t('terms.governingTitle', locale)}</p>
+        <p>{S('terms.governingTitle')}</p>
+        <p>{S('terms.governingTitle')}</p>
 
-        <p>{t('terms.severabilityTitle', locale)}</p>
-        <p>{t('terms.severabilityTitle', locale)}</p>
+        <p>{S('terms.severabilityTitle')}</p>
+        <p>{S('terms.severabilityTitle')}</p>
 
-        <p>{t('terms.contactTitle', locale)}</p>
-        <p>{t('terms.contactTitle', locale)}</p>
-        <p><strong>{t('terms.contactEmailLabel', locale)}</strong> {t('terms.contactEmail', locale)}</p>
-        <p><strong>{t('terms.contactWebsiteLabel', locale)}</strong> <a href="https://sanatanadharmam.in">{t('terms.contactWebsite', locale)}</a></p>
+        <p>{S('terms.contactTitle')}</p>
+        <p>{S('terms.contactTitle')}</p>
+        <p><strong>{S('terms.contactEmailLabel')}</strong> {S('terms.contactEmail')}</p>
+        <p><strong>{S('terms.contactWebsiteLabel')}</strong> <a href="https://sanatanadharmam.in">{S('terms.contactWebsite')}</a></p>
 
-        <p>{t('terms.closing', locale)}</p>
+        <p>{S('terms.closing')}</p>
       </div>
     </PageLayout>
   );

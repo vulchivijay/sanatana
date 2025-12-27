@@ -1,21 +1,23 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, detectLocale, DEFAULT_LOCALE } from '../../../lib/i18n';
+import { t, detectLocale } from '../../../lib/i18n';
+
 import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
-import StructuredData from '@components/structured-data/StructuredData';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
+
 import PageLayout from '@components/common/PageLayout';
-import { headers } from 'next/headers';
 
 export const generateMetadata = createGenerateMetadata('scriptures_upanishads');
 
 export default function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
+
+  const S = (k: string) => String(t(k, locale));
+
   const title = t('upanishads.title', locale) || '';
 
   return (
     <>
-      <StructuredData metaKey="scriptures_upanishads" />
-      <PageLayout className="content-wrapper md page-space-xl" title={title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]}>
+      <PageLayout title={title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
         {(t('upanishads.list', locale) || []).map((item: any, i: number) => (
           <div key={i}>
             {item.category ? <h3>{item.catogory}</h3> : null}

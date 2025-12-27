@@ -1,8 +1,9 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, detectLocale, DEFAULT_LOCALE } from '../../../lib/i18n';
+import { t, detectLocale } from '../../../lib/i18n';
+
 import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
-import StructuredData from '@components/structured-data/StructuredData';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
+
 import { locales } from '../../../lib/i18n';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -12,12 +13,14 @@ export const generateMetadata = createGenerateMetadata('scriptures_bhagavadgita'
 
 export default function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
+
+  const S = (k: string) => String(t(k, locale));
+
   const title = t('bhagavadgita.title', locale) || '';
   return (
     <>
-      <StructuredData metaKey="scriptures_bhagavadgita" />
       <main className="content-wrapper lg page-space-xl">
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} />
+        
         <h2>{title}</h2>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">

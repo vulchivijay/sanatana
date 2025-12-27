@@ -1,6 +1,6 @@
 "use client";
-import { useEffect, useMemo, useState } from "react";
-import { t, detectLocale, DEFAULT_LOCALE } from "../../../lib/i18n";
+import { useEffect, useMemo, useState } from 'react';
+import { t, detectLocale, DEFAULT_LOCALE } from '../../../lib/i18n';
 
 type Options = { A: string; B: string; C: string; D: string };
 type Question = { id: number; question: string; options: Options; answer: keyof Options };

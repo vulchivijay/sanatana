@@ -1,6 +1,6 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import storage from '../../../lib/storage';
 import { DEFAULT_LOCALE } from '../../../lib/i18n';
 import { useT } from '../../hooks/useT';
@@ -117,13 +117,13 @@ export default function CookieConsent() {
     try {
       const v = storage.getItem('sd_cookie_prefs');
       if (v) {
-        setPrefs(JSON.parse(v));
-        setVisible(false);
+        setTimeout(() => setPrefs(JSON.parse(v)), 0);
+        setTimeout(() => setVisible(false), 0);
       } else {
-        setVisible(true);
+        setTimeout(() => setVisible(true), 0);
       }
     } catch (err) {
-      setVisible(true);
+      setTimeout(() => setVisible(true), 0);
     }
   }, []);
 

@@ -1,10 +1,11 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 import { headers } from 'next/headers';
+
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import StructuredData from '@components/structured-data/StructuredData';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
-import { t, interpolate, getMeta, detectLocale, DEFAULT_LOCALE, detectServerLocaleFromHeaders } from '@/lib/i18n';
+
+
+import { t, getMeta, detectLocale, DEFAULT_LOCALE, detectServerLocaleFromHeaders } from '@/lib/i18n';
 
 function resolveLocaleFromHeaders() {
   try {
@@ -17,6 +18,9 @@ function resolveLocaleFromHeaders() {
 
 export async function generateMetadata({ params, searchParams }: { params: any, searchParams?: any }) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
+
+  const S = (k: string) => String(t(k, locale));
+
   // load chapters from locale translations; if the locale doesn't include
   // structured chapters, fall back to English translations (no combined file)
   let chaptersRaw: any = t('bhagavadgita.chapters', locale);
@@ -27,10 +31,10 @@ export async function generateMetadata({ params, searchParams }: { params: any, 
   const resolvedParams = params && typeof params.then === 'function' ? await params : params;
   const num = Number(resolvedParams?.chapter || 0);
   const ch = Array.isArray(chapters) ? chapters.find((c: any) => Number(c.chapter) === num) : null;
-  const title = ch ? `${t('bhagavadgita.title', locale)} — Chapter ${ch.chapter}: ${ch.title}` : `${t('bhagavadgita.title', locale)} — Chapter ${num}`;
+  const title = ch ? `${S('bhagavadgita.title')} — Chapter ${ch.chapter}: ${ch.title}` : `${S('bhagavadgita.title')} — Chapter ${num}`;
   const meta = getMeta('bhagavadgita_slug', { title: title, excerpt: ch && ch.summary ? ch.summary : '' }, locale);
   const description = ch && ch.summary ? ch.summary : meta.description;
-  const keywords = (meta.keywords && String(meta.keywords).trim()) ? meta.keywords : `${t('bhagavadgita.title', locale)}, chapter ${num}`;
+  const keywords = (meta.keywords && String(meta.keywords).trim()) ? meta.keywords : `${S('bhagavadgita.title')}, chapter ${num}`;
   const ogImages = meta.ogImage ? [meta.ogImage] : undefined;
   return {
     title,
@@ -69,15 +73,14 @@ export default async function Page({ params, searchParams }: { params: any, sear
   // console.log(ch); // Removed stray console.log for debugging
   return (
     <>
-      <StructuredData metaKey="scriptures_gita_chapter_[chapter]" params={{ title, excerpt }} />
       {/* Debug removed */}
       <main className="content-wrapper md page-space-xl">
         <nav role="menu">
           <Link href="/scriptures/gita">&larr; Back to Bhagavad Gita</Link>
         </nav>
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} />
+        
 
-        <h2>{ch ? `${t('bhagavadgita.title', locale)} — Chapter ${ch.chapter}: ${ch.title}` : `Chapter ${num}`}</h2>
+        <h2>{title}</h2>
 
         {ch && ch.verses && ch.verses.length > 0 ? (
           <div>

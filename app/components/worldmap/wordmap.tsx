@@ -109,66 +109,67 @@ export default function WorldMapLoop({
         // If user asks to reduce motion, do not animate
         if (!prefersReduced) {
             // Animate stroke draw in a continuous loop
-            paths.each(function (this: SVGPathElement, _d: any, i: number) {
-              const el = this;
-            const length = el.getTotalLength();
+            // Use nodes() + forEach to avoid `this` usage inside d3.each
+            const nodeElems = paths.nodes() as SVGPathElement[];
+            nodeElems.forEach((el, i) => {
+              const length = el.getTotalLength();
 
-            // Prepare dash
-            el.style.strokeDasharray = `${length}`;
-            el.style.strokeDashoffset = `${length}`;
+              // Prepare dash
+              el.style.strokeDasharray = `${length}`;
+              el.style.strokeDashoffset = `${length}`;
 
-            // Looping line draw (draw -> erase -> draw ...)
-            const drawAnim = el.animate(
-              [
-                { strokeDashoffset: length },
-                { strokeDashoffset: 0 },
-              ],
-              {
-                duration: loopSpeed * 1000,
-                iterations: Infinity,
-                direction: 'alternate',        // draw then reverse
-                easing: 'ease-in-out',
-                delay: i * stagger,
-              }
-            );
-
-            // Gentle fill pulse (optional)
-            if (fillPulse) {
-              el.animate(
+              // Looping line draw (draw -> erase -> draw ...)
+              const drawAnim = el.animate(
                 [
-                  { fillOpacity: fillOpacity * 0.85 },
-                  { fillOpacity: fillOpacity * 1.15 },
-                ] as any,
+                  { strokeDashoffset: length },
+                  { strokeDashoffset: 0 },
+                ],
                 {
-                  duration: Math.max(2000, loopSpeed * 1000 * 0.8),
+                  duration: loopSpeed * 1000,
                   iterations: Infinity,
-                  direction: 'alternate',
+                  direction: 'alternate',        // draw then reverse
                   easing: 'ease-in-out',
-                  delay: i * stagger + 250,
+                  delay: i * stagger,
                 }
               );
-            }
 
-            // Hover accent (temporary bump)
-            el.addEventListener('mouseenter', () => {
-              el.animate(
-                [
-                  { strokeWidth: borderWidth, fillOpacity },
-                  { strokeWidth: borderWidth + 0.4, fillOpacity: Math.min(1, fillOpacity + 0.2) },
-                ] as any,
-                { duration: 180, fill: 'forwards', easing: 'ease-out' }
-              );
+              // Gentle fill pulse (optional)
+              if (fillPulse) {
+                el.animate(
+                  [
+                    { fillOpacity: fillOpacity * 0.85 },
+                    { fillOpacity: fillOpacity * 1.15 },
+                  ] as any,
+                  {
+                    duration: Math.max(2000, loopSpeed * 1000 * 0.8),
+                    iterations: Infinity,
+                    direction: 'alternate',
+                    easing: 'ease-in-out',
+                    delay: i * stagger + 250,
+                  }
+                );
+              }
+
+              // Hover accent (temporary bump)
+              el.addEventListener('mouseenter', () => {
+                el.animate(
+                  [
+                    { strokeWidth: borderWidth, fillOpacity },
+                    { strokeWidth: borderWidth + 0.4, fillOpacity: Math.min(1, fillOpacity + 0.2) },
+                  ] as any,
+                  { duration: 180, fill: 'forwards', easing: 'ease-out' }
+                );
+              });
+              el.addEventListener('mouseleave', () => {
+                el.animate(
+                  [
+                    { strokeWidth: borderWidth + 0.4, fillOpacity: Math.min(1, fillOpacity + 0.2) },
+                    { strokeWidth: borderWidth, fillOpacity },
+                  ] as any,
+                  { duration: 200, fill: 'forwards', easing: 'ease-out' }
+                );
+              });
             });
-            el.addEventListener('mouseleave', () => {
-              el.animate(
-                [
-                  { strokeWidth: borderWidth + 0.4, fillOpacity: Math.min(1, fillOpacity + 0.2) },
-                  { strokeWidth: borderWidth, fillOpacity },
-                ] as any,
-                { duration: 200, fill: 'forwards', easing: 'ease-out' }
-              );
-            });
-          });
 
           // Pause on hover over the whole map (optional)
           if (pauseOnHover && wrapRef.current) {

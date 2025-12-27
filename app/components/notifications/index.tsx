@@ -1,10 +1,10 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
 
-import { useEffect, useState } from "react";
-import storage from "../../../lib/storage";
-import Link from "next/link";
-import Marquee from "../marquee";
+import { useEffect, useState } from 'react';
+import storage from '../../../lib/storage';
+import Link from 'next/link';
+import Marquee from '../marquee';
 
 type BannerProps = {
   id: string,
@@ -54,7 +54,7 @@ export default function BannerNotifications({ id, message, marquee, showClose = 
   useEffect(() => {
     try {
       const val = storage.getItem(messageKey) || null;
-      if (val === "1") setClosed(true);
+      if (val === "1") setTimeout(() => setClosed(true), 0);
     } catch (e) {
       // ignore storage errors
     }
@@ -88,13 +88,13 @@ export default function BannerNotifications({ id, message, marquee, showClose = 
         <button aria-label="Close notification" onClick={closeBanner} className="absolute right-2 top-1/2 -translate-y-1/2 rounded bg-white text-red-600 shadow-md">×</button>
       ) : null}
       {marquee === "true" ? <Marquee id={id}>
-        " {title}
-        {alive ? <Link href={alive} title="Make a small donation!" className="underline underline-text-color">alive</Link> : null}
+        {title}
+          {alive ? <Link href={alive} title="Make a small donation!" className="underline underline-text-color">alive</Link> : null}
         {lbeforetext && iam && lbetweentext && laftertext ? <> {lbeforetext} <Link href={iam} target="_blank" title="Vulchi Vijaya Kumar Raju" className="underline underline-text-color">Iam</Link>
           {lbetweentext} <Link href={githubcopilot} target="_blank" title="Github Copilot" className="underline underline-text-color">Github Copilot</Link>
           {and} <Link href={chatgpt} title="ChatGPT" target="_blank" className="underline underline-text-color"> ChatGPT</Link>
           {laftertext} </> : null}
-        {subtitle} "
+        {subtitle}
       </Marquee> : <div className="flex items-center justify-center">{title} {subtitle}</div>}
     </div >
   )

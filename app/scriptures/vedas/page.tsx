@@ -1,14 +1,18 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, detectLocale, DEFAULT_LOCALE } from '../../../lib/i18n';
+import { t, detectLocale } from '../../../lib/i18n';
+
 import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
-import StructuredData from '@components/structured-data/StructuredData';
+
 import PageLayout from '@components/common/PageLayout';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
 
 export const generateMetadata = createGenerateMetadata('scriptures_vedas');
 
 export default function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
+
+  const S = (k: string) => String(t(k, locale));
+
   const title = t('vedas.title', locale) || '';
   const intro = t('vedas.intro', locale) || '';
   const origin = t('vedas.origin') || '';
@@ -16,9 +20,8 @@ export default function Page({ searchParams }: any) {
 
   return (
     <>
-      <StructuredData metaKey="scriptures_vedasPage" />
-        <PageLayout className="content-wrapper md page-space-xl" title={t('vedas.title', locale)}>
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} />
+      <PageLayout title={S('vedas.title')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('vedas.title')) }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
+        
         <h2>{title}</h2>
         <p>{intro}</p>
         <div>

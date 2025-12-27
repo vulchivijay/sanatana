@@ -1,11 +1,11 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
 
-import { useRef, useState, useEffect, useCallback } from "react";
-import { useT } from "../../hooks/useT";
-import SVGComponent from "../waves/wave";
-import Image from "next/image";
-import Link from "next/link";
+import { useRef, useState, useEffect, useCallback } from 'react';
+import { useT } from '../../hooks/useT';
+import SVGComponent from '../waves/wave';
+import Image from 'next/image';
+import Link from 'next/link';
 
 export default function MainSlider() {
   const t = useT();
@@ -51,6 +51,9 @@ export default function MainSlider() {
   }, [slides]);
 
   // Touch navigation handlers
+  const nextSlide = useCallback(() => setCurrent((c) => (c + 1) % slides.length), [slides.length]);
+  const prevSlide = useCallback(() => setCurrent((c) => (c - 1 + slides.length) % slides.length), [slides.length]);
+
   const onTouchStart = useCallback((e: React.TouchEvent) => {
     touchStartX.current = e.touches[0].clientX;
     setIsPaused(true);
@@ -69,10 +72,7 @@ export default function MainSlider() {
     touchStartX.current = null;
     touchEndX.current = null;
     setIsPaused(false);
-  }, []);
-
-  const nextSlide = useCallback(() => setCurrent((c) => (c + 1) % slides.length), [slides.length]);
-  const prevSlide = useCallback(() => setCurrent((c) => (c - 1 + slides.length) % slides.length), [slides.length]);
+  }, [nextSlide, prevSlide]);
 
   return (
     <section

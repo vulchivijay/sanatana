@@ -1,12 +1,12 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
 
-import { useEffect, useRef, useState, useMemo } from "react";
-import { useRouter, usePathname, useSearchParams } from "next/navigation";
-import { useLanguagePersistence } from "../../hooks/useLanguagePersistence";
+import { useEffect, useRef, useState, useMemo } from 'react';
+import { useRouter, usePathname, useSearchParams } from 'next/navigation';
+import { useLanguagePersistence } from '../../hooks/useLanguagePersistence';
 
-import { t, DEFAULT_LOCALE, loadLocale } from "../../../lib/i18n";
-import { useLocale } from "../../context/locale-context";
+import { t, DEFAULT_LOCALE, loadLocale } from '../../../lib/i18n';
+import { useLocale } from '../../context/locale-context';
 // Use plain <img> for small globe icon to avoid next/image intermittent issues
 import localesList from '../../../lib/localesList.json';
 import localeMeta from '../../../lib/localeMeta.json';
@@ -29,20 +29,21 @@ export default function LanguageDropdown() {
 
   // Set client flag and load stored language
   useEffect(() => {
-    setIsClient(true);
+    // Schedule state updates to avoid synchronous setState-in-effect
+    setTimeout(() => setIsClient(true), 0);
     // First check URL params, then fall back to stored language
     const urlLang = searchParams?.get("lang");
     if (urlLang) {
-      setCurrentLang(urlLang);
+      setTimeout(() => setCurrentLang(urlLang), 0);
     } else if (language) {
-      setCurrentLang(language);
+      setTimeout(() => setCurrentLang(language), 0);
     }
   }, [searchParams, language]);
 
   // Auto-open popup when there is no stored language after load
   useEffect(() => {
     if (isLoaded && !hasStoredLanguage) {
-      setOpen(true);
+      setTimeout(() => setOpen(true), 0);
     }
   }, [isLoaded, hasStoredLanguage]);
 
@@ -51,11 +52,11 @@ export default function LanguageDropdown() {
     if (open) {
       setTimeout(() => searchInputRef.current?.focus(), 10);
       // initialize highlighted to current language index once open
-      setHighlighted(-1);
+      setTimeout(() => setHighlighted(-1), 0);
     } else {
-      setQuery('');
-      setSearchTerm('');
-      setHighlighted(-1);
+      setTimeout(() => setQuery(''), 0);
+      setTimeout(() => setSearchTerm(''), 0);
+      setTimeout(() => setHighlighted(-1), 0);
     }
   }, [open]);
 
@@ -63,8 +64,7 @@ export default function LanguageDropdown() {
   useEffect(() => {
     if (debounceRef.current) window.clearTimeout(debounceRef.current);
     // 180ms debounce
-    // @ts-ignore
-    debounceRef.current = window.setTimeout(() => setSearchTerm(query.trim()), 180);
+    debounceRef.current = window.setTimeout(() => setSearchTerm(query.trim()), 180) as unknown as number;
     return () => { if (debounceRef.current) window.clearTimeout(debounceRef.current); };
   }, [query]);
 
@@ -146,15 +146,15 @@ export default function LanguageDropdown() {
   useEffect(() => {
     if (!open) return;
     if (filteredLanguages.length === 0) {
-      setHighlighted(-1);
+      setTimeout(() => setHighlighted(-1), 0);
       return;
     }
     // if no highlighted, set to index of current language or 0
     if (highlighted < 0) {
       const idx = filteredLanguages.findIndex((l) => l.code === currentLang);
-      setHighlighted(idx >= 0 ? idx : 0);
+      setTimeout(() => setHighlighted(idx >= 0 ? idx : 0), 0);
     } else if (highlighted >= filteredLanguages.length) {
-      setHighlighted(filteredLanguages.length - 1);
+      setTimeout(() => setHighlighted(filteredLanguages.length - 1), 0);
     }
   }, [filteredLanguages, open, currentLang]);
 

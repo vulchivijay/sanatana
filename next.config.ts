@@ -1,17 +1,13 @@
 import type { NextConfig } from "next";
 import path from 'path';
+import bundleAnalyzer from '@next/bundle-analyzer';
 
-const withBundleAnalyzer = require('@next/bundle-analyzer')({
+const withBundleAnalyzer = bundleAnalyzer({
   enabled: process.env.ANALYZE === 'true',
 });
 
-// Allow choosing static export vs server deployment via env var.
-// When `NEXT_STATIC_EXPORT="true"` the build sets `output: 'export'` and `trailingSlash: true`.
-// Otherwise the app builds as a server-capable Next app (API routes and server runtime available).
-// Allow forcing server-start even when `NEXT_STATIC_EXPORT` is set by using
-// `NEXT_ALLOW_START=true` in the environment. This keeps the default behavior
-// of static export but allows local `next start` when explicitly requested.
-const isStaticExport = process.env.NEXT_STATIC_EXPORT === 'true' && process.env.NEXT_ALLOW_START !== 'true';
+// This app is statically exported. `output: 'export'` and `trailingSlash: true`
+// are set permanently to produce a static site suitable for static hosts.
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -30,8 +26,8 @@ const nextConfig = {
   experimental: {
     optimizeCss: true,
   },
-  output: isStaticExport ? 'export' : undefined,
-  trailingSlash: isStaticExport ? true : false,
+  output: 'export',
+  trailingSlash: true,
   images: {
     // Disable Next Image optimization for static export / GitHub Pages
     unoptimized: true,
@@ -42,10 +38,11 @@ const nextConfig = {
   // compiled artifacts. This reduces build times and avoids "No build
   // cache found" warnings in environments that support a writable
   // filesystem cache (CI or developer machines).
-  webpack(config: any, { dev }: { dev: boolean }) {
+  webpack(config: unknown, { dev }: { dev: boolean }) {
     try {
-      if (!config.cache) {
-        config.cache = {
+      const cfg = config as any;
+      if (!cfg.cache) {
+        cfg.cache = {
           type: 'filesystem',
           cacheDirectory: path.join(__dirname, '.next', '.cache', 'webpack'),
           buildDependencies: {
@@ -55,12 +52,13 @@ const nextConfig = {
       }
       if (!dev) {
         // Emit source maps but don't link them in the JS files:
-        config.devtool = 'hidden-source-map';  // emit maps, don't link in JS
+        cfg.devtool = 'hidden-source-map';  // emit maps, don't link in JS
       }
+      return cfg;
     } catch (e) {
       // ignore cache configuration errors
+      return config as any;
     }
-    return config;
   },
   async headers() {
     return [
@@ -90,4 +88,4 @@ const nextConfig = {
   }
 };
 
-module.exports = withBundleAnalyzer(nextConfig);
+export default withBundleAnalyzer(nextConfig as NextConfig);

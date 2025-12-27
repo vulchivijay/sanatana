@@ -1,7 +1,8 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { getMeta, detectLocale, t, DEFAULT_LOCALE } from '../../../../lib/i18n';
-import StructuredData from '@components/structured-data/StructuredData';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+import { getMeta, detectLocale, t } from '../../../../lib/i18n';
+
+
+
 import PageLayout from '@components/common/PageLayout';
 import fs from 'fs/promises';
 import path from 'path';
@@ -11,6 +12,9 @@ import Link from 'next/link';
 export async function generateMetadata(props: any) {
   const { params, searchParams } = props || {};
   const locale = await detectLocale(searchParams);
+
+  const S = (k: string) => String(t(k, locale));
+
   const meta = getMeta('kidsZone_illustratedStories_item', undefined, locale) || {};
   return {
     title: meta.title || `Story ${params.id}`,
@@ -46,14 +50,15 @@ async function loadStories(locale: string) {
 export default async function Page({ params, searchParams }: any) {
   const locale = await detectLocale(searchParams);
   const stories = await loadStories(locale);
+  const S = (k: string, l?: any) => String(t(k, l));
   const id = String(params.id);
   const idx = stories.findIndex((s: any) => String(s.id) === id);
   const item = idx >= 0 ? stories[idx] : null;
 
   if (!item) {
     return (
-      <PageLayout className="content-wrapper md page-space-xl" title={t('kidsZone.illustratedStories.comicNotFoundTitle', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: t('kidsZone.illustratedStories.title', locale) }]}>
-        <p>{t('kidsZone.illustratedStories.comicNotFoundDesc', locale)}</p>
+      <PageLayout title={S('kidsZone.illustratedStories.comicNotFoundTitle')} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: String(t('kidsZone.illustratedStories.comicNotFoundTitle')) }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
+        <p>{S('kidsZone.illustratedStories.comicNotFoundDesc')}</p>
       </PageLayout>
     );
   }
@@ -63,8 +68,7 @@ export default async function Page({ params, searchParams }: any) {
 
   return (
     <>
-      <StructuredData metaKey="kidsZone_illustratedStories_item" />
-      <PageLayout className="content-wrapper md page-space-xl" title={item.title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: t('kidsZone.illustratedStories.title', locale), href: '/kidsZone/illustratedStories' }, { label: item.title }]}>
+      <PageLayout title={item.title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: item.title }, { label: item.title }]}>
         <div>{item.origin}</div>
         <div>
           <div>
@@ -72,9 +76,9 @@ export default async function Page({ params, searchParams }: any) {
           </div>
         </div>
         <p>{item.summary}</p>
-        {item.moral ? <p><strong>{t('kidsZone.illustratedStories.moralLabel', locale)}</strong> {item.moral}</p> : null}
-        {item.characters?.length ? <div><strong>{t('kidsZone.illustratedStories.charactersLabel', locale)}</strong> {item.characters.join(', ')}</div> : null}
-        {item.themes?.length ? <div><strong>{t('kidsZone.illustratedStories.themesLabel', locale)}</strong> {item.themes.join(', ')}</div> : null}
+        {item.moral ? <p><strong>{S('kidsZone.illustratedStories.moralLabel')}</strong> {item.moral}</p> : null}
+        {item.characters?.length ? <div><strong>{S('kidsZone.illustratedStories.charactersLabel')}</strong> {item.characters.join(', ')}</div> : null}
+        {item.themes?.length ? <div><strong>{S('kidsZone.illustratedStories.themesLabel')}</strong> {item.themes.join(', ')}</div> : null}
 
         <div>
           {prev ? (

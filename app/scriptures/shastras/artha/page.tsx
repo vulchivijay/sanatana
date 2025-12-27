@@ -1,21 +1,20 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
 import { t, detectLocale, getMeta } from '../../../../lib/i18n';
-import StructuredData from '@components/structured-data/StructuredData';
+
+
 
 export default async function ArthaPage() {
   const locale = await detectLocale();
 
+  const S = (k: string) => String(t(k, locale));
+
+
   return (
     <>
-      <StructuredData metaKey="scriptures_shastras_artha" />
       <main className="content-wrapper md page-space-xl">
         <div>
-          <Breadcrumbs items={[
-            { labelKey: 'nav.home', href: '/' },
-            { labelKey: 'nav.shastras', href: '/shastras' },
-            { labelKey: 'shastras.artha.title' }
-          ]} locale={locale} />
+          
           <h2>{await t('shastras.artha.title', locale)}</h2>
           <p>{await t('shastras.artha.summary', locale)}</p>
           <section>

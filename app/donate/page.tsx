@@ -1,11 +1,12 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import Link from "next/link";
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
-import { t, getMeta, detectLocale, DEFAULT_LOCALE, SUPPORTED_LOCALES } from '../../lib/i18n';
-import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
-import StructuredData from '@components/structured-data/StructuredData';
-import PayPalButton from "../components/paypalbutton";
-import Image from "next/image";
+import Link from 'next/link';
+
+
+import { t, detectLocale } from '../../lib/i18n';
+import { createGenerateMetadata } from 'lib/pageUtils';
+
+import PayPalButton from '../components/paypalbutton';
+import Image from 'next/image';
 import PageLayout from '@components/common/PageLayout';
 
 export const generateMetadata = createGenerateMetadata('donate');
@@ -13,30 +14,55 @@ export const generateMetadata = createGenerateMetadata('donate');
 export default function DonatePage() {
   const locale = detectLocale();
 
+  const S = (k: string) => String(t(k, locale));
+
+  const title = String(t('donatePage.title', locale));
+  const lead = String(t('donatePage.lead', locale));
+  const expansesTitle = String(t('donatePage.expansesTitle', locale));
+  const tableName = String(t('donatePage.table.name', locale));
+  const tableExpanses = String(t('donatePage.table.expanses', locale));
+  const tableDuration = String(t('donatePage.table.duration', locale));
+  const tableReasons = String(t('donatePage.table.reasons', locale));
+  const expenses = (t('donatePage.expenses', locale) as any[]) || [];
+  const oneTime = String(t('donatePage.oneTime', locale));
+  const oneTimeLead = String(t('donatePage.oneTimeLead', locale));
+  const upiTitle = String(t('donatePage.upiBank', locale));
+  const upiLead = String(t('donatePage.upiLead', locale));
+  const upiLabel = String(t('donatePage.upiLabel', locale));
+  const upiId = String(t('donatePage.upiId', locale));
+  const accountNameLabel = String(t('donatePage.accountNameLabel', locale));
+  const accountName = String(t('donatePage.accountName', locale));
+  const accountNumberLabel = String(t('donatePage.accountNumberLabel', locale));
+  const accountNumber = String(t('donatePage.accountNumber', locale));
+  const ifscLabel = String(t('donatePage.ifscLabel', locale));
+  const ifsc = String(t('donatePage.ifsc', locale));
+  const recurring = String(t('donatePage.recurring', locale));
+  const recurringLead = String(t('donatePage.recurringLead', locale));
+  const becomeMonthly = String(t('donatePage.becomeMonthly', locale));
+
   return (
     <>
-      <StructuredData metaKey="donate" />
-      <PageLayout className="content-wrapper md page-space-xl page-donate">
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { labelKey: 'nav.donate' }]} locale={locale} />
-        <h2>{t('donatePage.title')}</h2>
-        <p>{t('donatePage.lead')}</p>
+      <PageLayout title={title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: (typeof title !== 'undefined' ? title : '') }]} locale={(typeof locale !== 'undefined' ? locale : undefined)}>
+        
+        <h2>{title}</h2>
+        <p>{lead}</p>
         <section className="donation-wrapper">
 
-          <h3>{t('donatePage.expansesTitle')}</h3>
+          <h3>{expansesTitle}</h3>
 
           <div className="bg-white shadow-md rounded-xl overflow-auto">
             <table className="w-full border">
               <thead>
                 <tr>
-                  <th className="border p-2">{t('donatePage.table.name')}</th>
-                  <th className="border p-2">{t('donatePage.table.expanses')}</th>
-                  <th className="border p-2">{t('donatePage.table.duration')}</th>
-                  <th className="border p-2">{t('donatePage.table.reasons')}</th>
+                  <th className="border p-2">{tableName}</th>
+                  <th className="border p-2">{tableExpanses}</th>
+                  <th className="border p-2">{tableDuration}</th>
+                  <th className="border p-2">{tableReasons}</th>
                 </tr>
               </thead>
               <tbody>
-                {Array.isArray(t('donatePage.expenses', locale)) ? (
-                  (t('donatePage.expenses', locale) as any[]).map((r, i) => (
+                {expenses.length > 0 ? (
+                  expenses.map((r: any, i: number) => (
                     <tr key={i}>
                       <td className="border p-2">{r.name}</td>
                       <td className="border p-2">{r.expanses}</td>
@@ -49,21 +75,21 @@ export default function DonatePage() {
             </table>
           </div>
 
-          <h4>{t('donatePage.oneTime')}</h4>
+          <h4>{oneTime}</h4>
           <div className="bg-white shadow-md rounded-xl">
-            <p>{t('donatePage.oneTimeLead')}</p>
+            <p>{oneTimeLead}</p>
             <PayPalButton link="https://www.paypal.com/ncp/payment/WYDY7465MG69" />
           </div>
 
-          <h5>{t('donatePage.upiBank')}</h5>
+          <h5>{upiTitle}</h5>
           <div className="bg-white shadow-md rounded-xl">
             <div className="flex flex-col md:flex-row items-center justify-start gap-10">
               <ul role="list" className="list-disc">
-                <li>{t('donatePage.upiLead')}</li>
-                <li><strong>{t('donatePage.upiLabel', locale)}</strong> {t('donatePage.upiId', locale)}</li>
-                <li><strong>{t('donatePage.accountNameLabel', locale)}</strong> {t('donatePage.accountName', locale)}</li>
-                <li><strong>{t('donatePage.accountNumberLabel', locale)}</strong> {t('donatePage.accountNumber', locale)}</li>
-                <li><strong>{t('donatePage.ifscLabel', locale)}</strong> {t('donatePage.ifsc', locale)}</li>
+                <li>{upiLead}</li>
+                <li><strong>{upiLabel}</strong> {upiId}</li>
+                <li><strong>{accountNameLabel}</strong> {accountName}</li>
+                <li><strong>{accountNumberLabel}</strong> {accountNumber}</li>
+                <li><strong>{ifscLabel}</strong> {ifsc}</li>
               </ul>
               <b>(Or)</b>
               <figure>
@@ -73,10 +99,10 @@ export default function DonatePage() {
           </div>
 
           <div className="bg-white shadow-md hidden">
-            <p>{t('donatePage.recurring')}</p>
-            <p>{t('donatePage.recurringLead')}</p>
+            <p>{S('donatePage.recurring')}</p>
+            <p>{S('donatePage.recurringLead')}</p>
             <Link href="#">
-              {t('donatePage.becomeMonthly')}
+              {S('donatePage.becomeMonthly')}
             </Link>
           </div>
         </section>

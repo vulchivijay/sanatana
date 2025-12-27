@@ -25,9 +25,9 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
     try {
       const stored = storage.getItem('sd_theme');
       const initial: Theme = (stored as Theme) || 'system';
-      setThemeState(initial);
+      setTimeout(() => setThemeState(initial), 0);
     } catch (e) {
-      setThemeState('system');
+      setTimeout(() => setThemeState('system'), 0);
     }
   }, []);
 

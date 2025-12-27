@@ -1,4 +1,5 @@
 import React from 'react';
+
 import StructuredData from '@components/structured-data/StructuredData';
 import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
 
@@ -19,7 +20,7 @@ export default function PageLayout({ metaKey, title, breadcrumbs, locale, classN
     <>
       {metaKey ? <StructuredData metaKey={metaKey} /> : null}
       <main className={wrapper}>
-        {breadcrumbs ? <Breadcrumbs items={breadcrumbs} locale={locale} /> : null}
+        {breadcrumbs ? <Breadcrumbs items={breadcrumbs} /> : null}
         {title ? <h2>{title}</h2> : null}
         {children}
       </main>
