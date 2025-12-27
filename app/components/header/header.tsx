@@ -1,14 +1,14 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
 
-import { useEffect, useRef, useState } from "react";
-import Link from "next/link";
-import { usePathname, useSearchParams } from "next/navigation";
-import { getLocaleObject, loadLocale } from "../../../lib/i18n";
+import { useEffect, useRef, useState } from 'react';
+import Link from 'next/link';
+import { usePathname, useSearchParams } from 'next/navigation';
+import { getLocaleObject, loadLocale } from '../../../lib/i18n';
 import { useLocale } from '../../context/locale-context';
-import dynamic from "next/dynamic";
-import Image from "next/image";
-import BannerNotifications from "../notifications";
+import dynamic from 'next/dynamic';
+import Image from 'next/image';
+import BannerNotifications from '../notifications';
 import ThemeToggle from '../theme-toggle/ThemeToggle';
 
 const LanguageDropdown = dynamic(() => import("../language-dropdown/language-dropdown"), { ssr: false });
@@ -82,9 +82,9 @@ export default function Header() {
       try {
         await loadLocale(locale);
         if (!mounted) return;
-        const locObj = getLocaleObject(locale) || {};
+        const locObj = (getLocaleObject(locale) as any) || {};
         const siteTitle = (locObj?.siteTitle && (locObj.siteTitle?.siteTitle || locObj.siteTitle)) || 'Sanatana Dharma';
-        const nav = locObj?.nav || {};
+        const nav = (locObj?.nav as any) || {};
         const banner = (locObj && (locObj.bannerNotifications ?? locObj.banner)) || null;
         const banner2 = (locObj && (locObj.bannerNotifications2 ?? locObj.banner2)) || null;
         setTranslations({ siteTitle, nav, banner, banner2 });

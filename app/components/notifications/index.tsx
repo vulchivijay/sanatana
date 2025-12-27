@@ -1,10 +1,10 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
 
-import { useEffect, useState } from "react";
-import storage from "../../../lib/storage";
-import Link from "next/link";
-import Marquee from "../marquee";
+import { useEffect, useState } from 'react';
+import storage from '../../../lib/storage';
+import Link from 'next/link';
+import Marquee from '../marquee';
 
 type BannerProps = {
   id: string,

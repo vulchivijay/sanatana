@@ -1,12 +1,12 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { Suspense } from "react";
-import type { Metadata } from "next";
+import { Suspense } from 'react';
+import { Metadata } from 'next';
 import Script from 'next/script';
-import { Playfair_Display, Poppins } from "next/font/google";
-import Header from "./components/header/header";
-import Footer from "./components/footer/footer";
-import ScrollToTop from "./components/scroll-to-top/scroll-to-top";
-import { LocaleProvider } from "./context/locale-context";
+import { Playfair_Display, Poppins } from 'next/font/google';
+import Header from './components/header/header';
+import Footer from './components/footer/footer';
+import ScrollToTop from './components/scroll-to-top/scroll-to-top';
+import { LocaleProvider } from './context/locale-context';
 import { ThemeProvider } from './context/theme-context';
 import AnalyticsCollector from './components/analytics/AnalyticsCollector';
 import CookieConsent from './components/cookie-consent/CookieConsent';

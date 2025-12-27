@@ -1,5 +1,5 @@
-import Link from "next/link";
-import WorldMapAnimated from "../worldmap/wordmap";
+import Link from 'next/link';
+import WorldMapAnimated from '../worldmap/wordmap';
 import { t, DEFAULT_LOCALE } from '../../../lib/i18n';
 
 export default function CTASection({ locale }: { locale?: string }) {

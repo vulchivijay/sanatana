@@ -1,4 +1,5 @@
-import React from 'react';
+import { t } from '../../lib/i18n';
+
 import Link from 'next/link';
 import PageLayout from '@components/common/PageLayout';
 import { PATHS } from '../../lib/sitemapPaths';
@@ -9,8 +10,10 @@ const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://sanatanadharmam.in
 export const dynamic = 'force-static';
 
 export default function SitemapPage() {
+  const S = (k: string) => String(t(k));
+
   return (
-    <PageLayout className="content-wrapper md page-space-xl" title={'HTML Sitemap'}>
+    <PageLayout title={'HTML Sitemap'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]}>
       <p>A human-friendly sitemap of important pages (also available as XML at <Link href="/sitemap.xml">/sitemap.xml</Link>).</p>
       <ul role="list" className="list-disc">
         {PATHS.map((p) => (

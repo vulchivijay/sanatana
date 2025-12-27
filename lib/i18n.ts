@@ -61,7 +61,7 @@ export async function loadLocale(locale: string) {
   }
 }
 
-export function t(key: string, locale = DEFAULT_LOCALE) {
+export function t(key: string, locale = DEFAULT_LOCALE): any {
   const keys = key.split(".");
   let cur: unknown = getLocaleObject(locale);
   for (const k of keys) {
@@ -69,6 +69,18 @@ export function t(key: string, locale = DEFAULT_LOCALE) {
     // eslint-disable-next-line @typescript-eslint/ban-ts-comment
     // @ts-expect-error - reading dynamic locale object keys
     cur = (cur as any)[k];
+  }
+  // If the resolved value is an array, return it for list usage.
+  if (Array.isArray(cur)) return cur;
+  // If the resolved value is an object (but not array), stringify it so
+  // React/JSX and TypeScript don't complain when pages pass it into
+  // elements expecting strings or React nodes.
+  if (cur !== null && typeof cur === 'object') {
+    try {
+      return JSON.stringify(cur);
+    } catch (_) {
+      return String(cur);
+    }
   }
   return cur ?? key;
 }

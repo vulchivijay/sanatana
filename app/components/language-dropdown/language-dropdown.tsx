@@ -1,12 +1,12 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
 
-import { useEffect, useRef, useState, useMemo } from "react";
-import { useRouter, usePathname, useSearchParams } from "next/navigation";
-import { useLanguagePersistence } from "../../hooks/useLanguagePersistence";
+import { useEffect, useRef, useState, useMemo } from 'react';
+import { useRouter, usePathname, useSearchParams } from 'next/navigation';
+import { useLanguagePersistence } from '../../hooks/useLanguagePersistence';
 
-import { t, DEFAULT_LOCALE, loadLocale } from "../../../lib/i18n";
-import { useLocale } from "../../context/locale-context";
+import { t, DEFAULT_LOCALE, loadLocale } from '../../../lib/i18n';
+import { useLocale } from '../../context/locale-context';
 // Use plain <img> for small globe icon to avoid next/image intermittent issues
 import localesList from '../../../lib/localesList.json';
 import localeMeta from '../../../lib/localeMeta.json';

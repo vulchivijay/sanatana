@@ -1,8 +1,9 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, detectLocale, DEFAULT_LOCALE, getLocaleObject } from '../../../lib/i18n';
-import StructuredData from '@components/structured-data/StructuredData';
+import { t, detectLocale, getLocaleObject } from '../../../lib/i18n';
+
+
 import PageLayout from '@components/common/PageLayout';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
 import { resolveLocaleFromHeaders, createGenerateMetadata } from '../../../lib/pageUtils';
 
 
@@ -11,15 +12,17 @@ export const generateMetadata = createGenerateMetadata('philosophy_samsara');
 
 export default function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
+
+  const S = (k: string) => String(t(k, locale));
+
   const loc = getLocaleObject(locale) || {};
   const samsara = loc?.samsara_philosophy || {};
   const title = samsara.title || t('samsara_philosophy.title', locale) || 'Samsara Philosophy';
 
   return (
     <>
-      <StructuredData metaKey="philosophy_samsara" />
-         <PageLayout className="content-wrapper md page-space-xl" title={t('samsara.title', locale)}>
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} />
+      <PageLayout title={S('samsara.title', locale)} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} locale={locale}>
+        
         <p><strong>Definition : </strong>{samsara.definition}</p>
         {/* Core Principles of Samsara */}
         <div>

@@ -1,8 +1,8 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
 
-import { useEffect, useState } from "react";
-import { useT } from "../../hooks/useT";
+import { useEffect, useState } from 'react';
+import { useT } from '../../hooks/useT';
 
 export default function ScrollToTop() {
   const [isVisible, setIsVisible] = useState(false);

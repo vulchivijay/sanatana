@@ -1,10 +1,10 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
 
-import { createContext, useContext, useEffect, useState } from "react";
-import { DEFAULT_LOCALE, SUPPORTED_LOCALES, loadLocale } from "../../lib/i18n";
-import storage from "../../lib/storage";
-import { useSearchParams, useRouter } from "next/navigation";
+import { createContext, useContext, useEffect, useState } from 'react';
+import { DEFAULT_LOCALE, SUPPORTED_LOCALES, loadLocale } from '../../lib/i18n';
+import storage from '../../lib/storage';
+import { useSearchParams, useRouter } from 'next/navigation';
 
 type LocaleContextType = {
   locale: string;

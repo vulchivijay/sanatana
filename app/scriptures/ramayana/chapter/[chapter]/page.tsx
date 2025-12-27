@@ -1,8 +1,9 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, interpolate, getMeta, DEFAULT_LOCALE, detectServerLocaleFromHeaders, detectLocale, getLocaleObject } from '@/lib/i18n';
+import { t, getMeta, DEFAULT_LOCALE, detectServerLocaleFromHeaders, detectLocale, getLocaleObject } from '@/lib/i18n';
+
 import { headers } from 'next/headers';
 import Link from 'next/link';
-import StructuredData from '@components/structured-data/StructuredData';
+
 
 function resolveLocaleFromHeaders() {
   try {
@@ -15,13 +16,16 @@ function resolveLocaleFromHeaders() {
 
 export async function generateMetadata({ params, searchParams }: { params: { chapter: string }, searchParams?: any }) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
+
+  const S = (k: string) => String(t(k, locale));
+
   const chapters = t('ramayana.chapters', locale) || [];
   const num = Number(params.chapter || 0);
   const ch = Array.isArray(chapters) ? chapters.find((c: any) => Number(c.chapter) === num) : null;
-  const title = ch ? `${t('nav.stories.nav.ramayana', locale)} — Chapter ${ch.chapter}: ${ch.title}` : `${t('nav.stories.nav.ramayana', locale)} — Chapter ${num}`;
+  const title = ch ? `${S('nav.stories.nav.ramayana', locale)} — Chapter ${ch.chapter}: ${ch.title}` : `${S('nav.stories.nav.ramayana', locale)} — Chapter ${num}`;
   const meta = getMeta('ramayana_slug', { title: title, excerpt: ch && ch.summary ? ch.summary : '' }, locale);
   const description = ch && ch.summary ? ch.summary : meta.description;
-  const keywords = (meta.keywords && String(meta.keywords).trim()) ? meta.keywords : `${t('nav.stories.nav.ramayana', locale)}, chapter ${num}`;
+  const keywords = (meta.keywords && String(meta.keywords).trim()) ? meta.keywords : `${S('nav.stories.nav.ramayana', locale)}, chapter ${num}`;
   const ogImages = meta.ogImage ? [meta.ogImage] : undefined;
   return {
     title,
@@ -49,17 +53,16 @@ export default function Page({ params, searchParams }: { params: { chapter: stri
   const num = Number(params.chapter || 0);
   const ch = Array.isArray(chapters) ? chapters.find((c: any) => Number(c.chapter) === num) : null;
 
-  const title = ch ? `${t('nav.stories.nav.ramayana', locale)} — Chapter ${ch.chapter}: ${ch.title}` : `Chapter ${num}`;
+  const title = ch ? `${S('nav.stories.nav.ramayana', locale)} — Chapter ${ch.chapter}: ${ch.title}` : `Chapter ${num}`;
   const excerpt = ch && ch.summary ? ch.summary : '';
 
   return (
     <>
-      <StructuredData metaKey="scriptures_ramayana_chapter_[chapter]" params={{ title, excerpt }} />
       <main className="content-wrapper md page-space-xl">
         <nav role="menu">
           <Link href="/scriptures/ramayana">&larr; Back to Ramayana</Link>
         </nav>
-        <h2>{ch ? `${t('nav.stories.nav.ramayana', locale)} — Chapter ${ch.chapter}: ${ch.title}` : `Chapter ${num}`}</h2>
+        <h2>{ch ? `${S('nav.stories.nav.ramayana', locale)} — Chapter ${ch.chapter}: ${ch.title}` : `Chapter ${num}`}</h2>
         {ch && ch.verses && ch.verses.length > 0 ? (
           <ol role="list" className="list-disc">
             {ch.verses.map((v: any) => (

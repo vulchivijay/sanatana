@@ -1,11 +1,11 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
 
-import { useRef, useState, useEffect, useCallback } from "react";
-import { useT } from "../../hooks/useT";
-import SVGComponent from "../waves/wave";
-import Image from "next/image";
-import Link from "next/link";
+import { useRef, useState, useEffect, useCallback } from 'react';
+import { useT } from '../../hooks/useT';
+import SVGComponent from '../waves/wave';
+import Image from 'next/image';
+import Link from 'next/link';
 
 export default function MainSlider() {
   const t = useT();

@@ -1,23 +1,25 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, detectLocale, DEFAULT_LOCALE } from '../../../lib/i18n';
+import { t, detectLocale } from '../../../lib/i18n';
+
 import { resolveLocaleFromHeaders, createGenerateMetadata } from 'lib/pageUtils';
-import StructuredData from '@components/structured-data/StructuredData';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
+
 import PageLayout from '@components/common/PageLayout';
-import { headers } from 'next/headers';
 
 export const generateMetadata = createGenerateMetadata('stotrasmantras_hanuman');
 
 export default function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
+
+  const S = (k: string) => String(t(k, locale));
+
   const title = t('hanumanstotras.title', locale) || 'Hanuman Stotras';
 
   const items = t('hanumanstotras.hanuman_stotras', locale) || [];
 
   return (
     <>
-      <StructuredData metaKey="stotras_hanumanstotras" />
-      <PageLayout className="content-wrapper md page-space-xl" title={title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]}>
+      <PageLayout title={title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} locale={locale}>
 
         {items.map((item: any, i: number) => (
           <section key={i}>

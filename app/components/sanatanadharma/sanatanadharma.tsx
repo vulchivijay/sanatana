@@ -1,8 +1,8 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 "use client";
 
-import { useRef, useEffect, useState } from "react";
-import { useT } from "../../hooks/useT";
+import { useRef, useEffect, useState } from 'react';
+import { useT } from '../../hooks/useT';
 
 export default function SanatanaDharma() {
   const ref = useRef(null);

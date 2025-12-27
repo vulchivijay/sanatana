@@ -1,23 +1,26 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, detectLocale, DEFAULT_LOCALE, getLocaleObject } from '../../../lib/i18n';
+import { t, detectLocale, getLocaleObject } from '../../../lib/i18n';
+
 import { resolveLocaleFromHeaders, createGenerateMetadata } from '../../../lib/pageUtils';
-import StructuredData from '@components/structured-data/StructuredData';
+
 import PageLayout from '@components/common/PageLayout';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
 
 export const generateMetadata = createGenerateMetadata('philosophy_yoga');
 
 export default function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
+
+  const S = (k: string) => String(t(k, locale));
+
   const loc = getLocaleObject(locale) || {};
   const yoga = loc?.yoga_philosophy || {};
   const title = yoga.title || t('yoga_philosophy.title', locale) || 'Yoga Philosophy';
 
   return (
     <>
-      <StructuredData metaKey="philosophy_yoga" />
-      <PageLayout className="content-wrapper md page-space-xl" title={title}>
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} />
+      <PageLayout title={title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} locale={locale}>
+        
         <h2>{title}</h2>
         <p><strong>Definition : </strong>{yoga.definition}</p>
         {/* Core Principles of yoga */}

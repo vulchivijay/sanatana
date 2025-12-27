@@ -45,6 +45,7 @@ next-env.d.ts
 # dev options
 public/globals.from-scss.css
 lighthouse-report.html
+public/sitemap.xml
 
 # Additional build / cache artifacts
 .cache/

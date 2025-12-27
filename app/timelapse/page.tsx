@@ -1,5 +1,6 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, detectLocale } from '../../lib/i18n';
+import { t } from '../../lib/i18n';
+
 import { createGenerateMetadata } from 'lib/pageUtils';
 import PageLayout from '@components/common/PageLayout';
 
@@ -16,11 +17,13 @@ type TimelinePoint = {
 
 export const generateMetadata = createGenerateMetadata('timelapse');
 export default function TimelapsePage() {
+  const S = (k: string) => String(t(k));
+
   // timelinePoints is an object, not array, so convert to array
   const timelineObj = t("timelinePoints");
   const timelinePoints: TimelinePoint[] = timelineObj ? Object.values(timelineObj) : [];
   return (
-    <PageLayout metaKey="timelapse" title={'Timelapse'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: 'Timelapse' }]}>
+    <PageLayout metaKey="timelapse" title={'Timelapse'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]}>
       <div>
         {timelinePoints.map((point, index) => (
           <div key={index}>

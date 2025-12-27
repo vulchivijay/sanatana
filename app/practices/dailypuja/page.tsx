@@ -1,12 +1,16 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 import { getMeta, detectLocale, t } from '../../../lib/i18n';
-import StructuredData from '@components/structured-data/StructuredData';
+
+
 import PageLayout from '@components/common/PageLayout';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
 
 export async function generateMetadata(props: any) {
   const { searchParams } = props || {};
   const locale = await detectLocale(searchParams);
+
+  const S = (k: string) => String(t(k, locale));
+
   const meta = getMeta('practices_dailypuja', undefined, locale) || {};
   return {
     title: meta.title,
@@ -19,9 +23,8 @@ export async function generateMetadata(props: any) {
 export default function Page() {
   return (
     <>
-      <StructuredData metaKey="practices_dailypuja" />
-      <PageLayout className="content-wrapper md page-space-xl" title="Daily Puja">
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: 'Daily Puja' }]} />
+      <PageLayout breadcrumbs={[{ labelKey: 'nav.home', href: '/' }]} locale={locale}>
+        
         <p>Placeholder page for daily puja routines and short guides.</p>
       </PageLayout>
     </>

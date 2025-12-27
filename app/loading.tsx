@@ -1,5 +1,5 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import Loader from "./components/loader/loader";
+import Loader from './components/loader/loader';
 
 export default function Loading() {
   return (

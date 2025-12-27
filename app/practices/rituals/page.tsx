@@ -1,12 +1,16 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
 import { getMeta, detectLocale, t } from '../../../lib/i18n';
-import StructuredData from '@components/structured-data/StructuredData';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
+
+
 import PageLayout from '@components/common/PageLayout';
 
 export async function generateMetadata(props: any) {
   const { searchParams } = props || {};
   const locale = await detectLocale(searchParams);
+
+  const S = (k: string) => String(t(k, locale));
+
   const meta = getMeta('practices_rituals', undefined, locale) || {};
   return {
     title: meta.title,
@@ -19,9 +23,8 @@ export async function generateMetadata(props: any) {
 export default function Page() {
   return (
     <>
-      <StructuredData metaKey="practices_rituals" />
-      <PageLayout className="content-wrapper md page-space-xl" title={'Rituals'}>
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: 'Rituals' }]} />
+      <PageLayout title={'Rituals'} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} locale={locale}>
+        
         <p>Placeholder page about rituals and ceremonies.</p>
       </PageLayout>
     </>

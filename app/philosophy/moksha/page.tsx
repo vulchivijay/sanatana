@@ -1,23 +1,26 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-import { t, getMeta, detectLocale, DEFAULT_LOCALE, getLocaleObject } from '../../../lib/i18n';
+import { t, detectLocale, getLocaleObject } from '../../../lib/i18n';
+
 import { resolveLocaleFromHeaders, createGenerateMetadata } from '../../../lib/pageUtils';
-import StructuredData from '@components/structured-data/StructuredData';
+
 import PageLayout from '@components/common/PageLayout';
-import Breadcrumbs from '@components/breadcrumbs/breadcrumbs';
+
 
 export const generateMetadata = createGenerateMetadata('philosophy_moksha');
 
 export default function Page({ searchParams }: any) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
+
+  const S = (k: string) => String(t(k, locale));
+
   const loc = getLocaleObject(locale) || {};
   const moksha = loc?.moksha_philosophy || {};
   const title = moksha.title || t('moksha_philosophy.title', locale) || 'Moksha Philosophy';
 
   return (
     <>
-      <StructuredData metaKey="philosophy_moksha" />
-      <PageLayout className="content-wrapper md page-space-xl" title={title}>
-        <Breadcrumbs items={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} />
+      <PageLayout title={title} breadcrumbs={[{ labelKey: 'nav.home', href: '/' }, { label: title }]} locale={locale}>
+        
         <h2>{title}</h2>
         <p><strong>Definition : </strong>{moksha.definition}</p>
         {/* Core Principles of moksha */}
