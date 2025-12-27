@@ -1,14 +1,9 @@
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-
 import { t, detectLocale, getMeta } from '../../../../lib/i18n';
-
-
-
 
 export async function generateMetadata(props: any) {
   const { searchParams } = props || {};
   const locale = await detectLocale(searchParams);
-
   const S = (k: string) => String(t(k, locale));
 
   const meta = getMeta('scriptures_puranas_padma', undefined, locale) || {};
@@ -21,6 +16,7 @@ export async function generateMetadata(props: any) {
 }
 export default function PadmaPage() {
   const locale = detectLocale();
+  const S = (k: string) => String(t(k, locale));
 
   return (
     <>

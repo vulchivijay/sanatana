@@ -21,6 +21,7 @@ export async function generateMetadata(props: any) {
 }
 export default function ShivaPage() {
   const locale = detectLocale();
+  const S = (k: string) => String(t(k, locale));
 
   return (
     <>

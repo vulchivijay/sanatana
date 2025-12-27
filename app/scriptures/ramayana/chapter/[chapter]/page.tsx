@@ -38,7 +38,7 @@ export async function generateMetadata({ params, searchParams }: { params: { cha
 
 export function generateStaticParams() {
   try {
-    const chapters = (getLocaleObject(DEFAULT_LOCALE)?.ramayana?.chapters) || [];
+    const chapters = ((getLocaleObject(DEFAULT_LOCALE) as any)?.ramayana?.chapters) || [];
     if (Array.isArray(chapters) && chapters.length > 0) {
       return chapters.map((c: any) => ({ chapter: String(c.chapter) }));
     }
@@ -49,6 +49,7 @@ export function generateStaticParams() {
 
 export default function Page({ params, searchParams }: { params: { chapter: string }, searchParams?: any }) {
   const locale = detectLocale(searchParams) || resolveLocaleFromHeaders();
+  const S = (k: string) => String(t(k, locale));
   const chapters = t('ramayana.chapters', locale) || [];
   const num = Number(params.chapter || 0);
   const ch = Array.isArray(chapters) ? chapters.find((c: any) => Number(c.chapter) === num) : null;

@@ -23,6 +23,7 @@ export async function generateMetadata(props: any) {
 }
 export default function AtharvavedaPage() {
   const locale = detectLocale();
+  const S = (k: string) => String(t(k, locale));
 
   return (
     <>
