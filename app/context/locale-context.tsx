@@ -28,7 +28,8 @@ export function LocaleProvider({ children }: { children: React.ReactNode }) {
   const router = useRouter();
 
   useEffect(() => {
-    setIsClient(true);
+    // Schedule client flag to avoid synchronous setState inside effect
+    setTimeout(() => setIsClient(true), 0);
 
     // Helper to load locale, persist it, ensure cookie, and refresh server render.
     async function applyLocale(lang: string | null) {
@@ -40,7 +41,7 @@ export function LocaleProvider({ children }: { children: React.ReactNode }) {
       }
 
       // Update React state so client components re-render with the new locale
-      setLocale(lang);
+      setTimeout(() => setLocale(lang), 0);
 
       // Persist to storage (localStorage abstraction may throw in some envs)
       try {

@@ -18,7 +18,8 @@ export default function useDeferAssets(): boolean {
     const onLoad = () => setReady(true);
 
     if (document.readyState === 'complete') {
-      setReady(true);
+      // Avoid calling setState synchronously inside an effect — schedule it.
+      setTimeout(() => setReady(true), 0);
       return;
     }
 

@@ -18,20 +18,20 @@ export function useLanguagePersistence() {
       try {
         const storedLanguage = storage.getItem(LANGUAGE_STORAGE_KEY);
         if (storedLanguage) {
-          setLanguage(storedLanguage);
-          setHasStoredLanguage(true);
+          setTimeout(() => setLanguage(storedLanguage), 0);
+          setTimeout(() => setHasStoredLanguage(true), 0);
         } else {
           // No stored language — use the app default locale rather than
           // automatically switching to the browser language. This ensures
           // the UI respects `DEFAULT_LOCALE` unless the user has
           // explicitly chosen a different language.
-          setLanguage(DEFAULT_LOCALE);
-          setHasStoredLanguage(false);
+          setTimeout(() => setLanguage(DEFAULT_LOCALE), 0);
+          setTimeout(() => setHasStoredLanguage(false), 0);
         }
       } catch (e) {
-        setLanguage(DEFAULT_LOCALE);
+        setTimeout(() => setLanguage(DEFAULT_LOCALE), 0);
       }
-      setIsLoaded(true);
+      setTimeout(() => setIsLoaded(true), 0);
     }
   }, []);
 

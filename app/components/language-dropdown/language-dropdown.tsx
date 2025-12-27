@@ -29,20 +29,21 @@ export default function LanguageDropdown() {
 
   // Set client flag and load stored language
   useEffect(() => {
-    setIsClient(true);
+    // Schedule state updates to avoid synchronous setState-in-effect
+    setTimeout(() => setIsClient(true), 0);
     // First check URL params, then fall back to stored language
     const urlLang = searchParams?.get("lang");
     if (urlLang) {
-      setCurrentLang(urlLang);
+      setTimeout(() => setCurrentLang(urlLang), 0);
     } else if (language) {
-      setCurrentLang(language);
+      setTimeout(() => setCurrentLang(language), 0);
     }
   }, [searchParams, language]);
 
   // Auto-open popup when there is no stored language after load
   useEffect(() => {
     if (isLoaded && !hasStoredLanguage) {
-      setOpen(true);
+      setTimeout(() => setOpen(true), 0);
     }
   }, [isLoaded, hasStoredLanguage]);
 
@@ -51,11 +52,11 @@ export default function LanguageDropdown() {
     if (open) {
       setTimeout(() => searchInputRef.current?.focus(), 10);
       // initialize highlighted to current language index once open
-      setHighlighted(-1);
+      setTimeout(() => setHighlighted(-1), 0);
     } else {
       setQuery('');
       setSearchTerm('');
-      setHighlighted(-1);
+      setTimeout(() => setHighlighted(-1), 0);
     }
   }, [open]);
 
@@ -145,15 +146,15 @@ export default function LanguageDropdown() {
   useEffect(() => {
     if (!open) return;
     if (filteredLanguages.length === 0) {
-      setHighlighted(-1);
+      setTimeout(() => setHighlighted(-1), 0);
       return;
     }
     // if no highlighted, set to index of current language or 0
     if (highlighted < 0) {
       const idx = filteredLanguages.findIndex((l) => l.code === currentLang);
-      setHighlighted(idx >= 0 ? idx : 0);
+      setTimeout(() => setHighlighted(idx >= 0 ? idx : 0), 0);
     } else if (highlighted >= filteredLanguages.length) {
-      setHighlighted(filteredLanguages.length - 1);
+      setTimeout(() => setHighlighted(filteredLanguages.length - 1), 0);
     }
   }, [filteredLanguages, open, currentLang]);
 
