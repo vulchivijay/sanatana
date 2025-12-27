@@ -2,7 +2,7 @@
 if (typeof (global as any).MessageChannel === 'undefined') {
 	try {
 		// Node's worker_threads provides MessageChannel
-		// eslint-disable-next-line @typescript-eslint/no-var-requires
+		 
 		const { MessageChannel } = require('worker_threads');
 		// @ts-ignore
 		global.MessageChannel = MessageChannel;
@@ -14,7 +14,7 @@ if (typeof (global as any).MessageChannel === 'undefined') {
 // Polyfill TextEncoder/TextDecoder if missing (older Node/Jest environments)
 if (typeof (global as any).TextEncoder === 'undefined') {
 	try {
-		// eslint-disable-next-line @typescript-eslint/no-var-requires
+		 
 		const { TextEncoder, TextDecoder } = require('util');
 		// @ts-ignore
 		global.TextEncoder = TextEncoder;
