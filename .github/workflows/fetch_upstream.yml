@@ -19,4 +19,4 @@ jobs:
         run: git fetch upstream
 
       - name: Merge Upstream Changes
-        run: git merge upstream/main  # Adjust this if the default branch is different
+        run: git merge upstream/development  # Adjust this if the default branch is different
