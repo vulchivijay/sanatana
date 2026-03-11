@@ -19,7 +19,7 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: npm install --frozen-lockfile
 
       - name: Cache Next.js build cache
         uses: actions/cache@v4
@@ -30,10 +30,10 @@ jobs:
             next-cache-${{ runner.os }}-
 
       - name: Typecheck (tsc noEmit)
-        run: yarn run noEmit
+        run: npm run noEmit
 
       - name: Lint
-        run: yarn run lint
+        run: npm run lint
 
       - name: Build
         env:
