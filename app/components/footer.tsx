@@ -82,7 +82,7 @@ function NavColumn({ title, links, icon, iconBg }: {
         <Link
           key={href}
           href={href}
-          className={`text-md sm:text-base transition-all duration-300 rounded-xl px-2 my-1 ${isActive(href) ? 'bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-white shadow-xl animate-pulse' : 'text-indigo-700 hover:bg-indigo-50 hover:text-indigo-900'} animate-fadeIn`}
+          className={`text-sm transition-all duration-300 rounded-xl px-2 my-1 ${isActive(href) ? 'bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-white shadow-xl animate-pulse' : 'text-indigo-700 hover:bg-indigo-50 hover:text-indigo-900'} animate-fadeIn`}
           onClick={e => { if (isActive(href)) e.preventDefault(); }}
         >
           {label}
@@ -156,7 +156,7 @@ function ItihasaColumn({ section }: { section: Record<string, unknown> }) {
           <div className="flex items-center gap-1">
             <Link
               href={href}
-              className={`text-md sm:text-base transition-all duration-300 rounded-xl px-2 my-1 ${isActive(href) ? 'bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-white shadow-xl animate-pulse' : 'text-indigo-700 hover:bg-indigo-50 hover:text-indigo-900'} animate-fadeIn`}
+              className={`text-sm transition-all duration-300 rounded-xl px-2 my-1 ${isActive(href) ? 'bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-white shadow-xl animate-pulse' : 'text-indigo-700 hover:bg-indigo-50 hover:text-indigo-900'} animate-fadeIn`}
               onClick={e => { if (isActive(href)) e.preventDefault(); }}
             >
               {name}
@@ -186,7 +186,7 @@ function ItihasaColumn({ section }: { section: Record<string, unknown> }) {
                   <Link
                     key={subKey}
                     href={subHref}
-                    className={`text-md sm:text-base transition-all duration-300 rounded-xl my-1 ${isActive(subHref) ? 'bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 text-white shadow animate-pulse' : 'text-indigo-700 hover:bg-indigo-50 hover:text-indigo-900'}`}
+                    className={`text-sm transition-all duration-300 rounded-xl my-1 ${isActive(subHref) ? 'bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400 text-white shadow animate-pulse' : 'text-indigo-700 hover:bg-indigo-50 hover:text-indigo-900'}`}
                     onClick={e => { if (isActive(subHref)) e.preventDefault(); }}
                   >
                     {subLabel}
