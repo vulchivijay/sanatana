@@ -1,0 +1,35 @@
+name: SEO Guardrails
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  seo-guardrails:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build static export
+        env:
+          NEXT_PUBLIC_SITE_URL: https://sanatanadharmam.in
+        run: npm run build
+
+      - name: Enforce SEO guardrails
+        env:
+          NEXT_PUBLIC_SITE_URL: https://sanatanadharmam.in
+        run: node scripts/seo-guardrails.js --out out

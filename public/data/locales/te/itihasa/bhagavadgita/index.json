@@ -6,7 +6,7 @@
       "title": "Bhagavad Gita - Complete Guide, Chapters, Teachings & Philosophy",
       "description": "Explore the Bhagavad Gita, the sacred dialogue between Krishna and Arjuna. Discover its 18 chapters, core teachings on karma, dharma, yoga, and spiritual wisdom.",
       "author": "vyasa",
-      "canonical": "https://yourdomain.com/bhagavad-gita",
+      "canonical": "https://sanatanadharmam.in/itihasa/bhagavadgita",
       "content_type": "text/html; charset=UTF-8",
       "keywords": [
         "bhagavad gita",
@@ -26,12 +26,12 @@
     },
     "open_graph": {
       "og:description": "Discover the Bhagavad Gita: 18 chapters of spiritual wisdom covering karma, devotion, knowledge, and the path to liberation.",
-      "og:image": "https://yourdomain.com/images/bhagavad-gita-cover.jpg",
+      "og:image": "https://sanatanadharmam.in/images/bhagavad-gita-cover.jpg",
       "og:locale": "en_US",
       "og:site_name": "Vedic Knowledge Hub",
       "og:title": "Bhagavad Gita - The Eternal Wisdom of Krishna",
       "og:type": "book",
-      "og:url": "https://yourdomain.com/bhagavad-gita"
+      "og:url": "https://sanatanadharmam.in/itihasa/bhagavadgita"
     },
     "schema_org": {
       "description": "The Bhagavad Gita is a 700-verse Hindu scripture that is part of the Mahabharata, presenting a dialogue between Krishna and Arjuna on duty, righteousness, and spiritual liberation.",
@@ -176,7 +176,7 @@
     "twitter_card": {
       "twitter:card": "summary_large_image",
       "twitter:description": "Learn the Bhagavad Gita: karma yoga, bhakti yoga, jnana yoga, and timeless spiritual philosophy.",
-      "twitter:image": "https://yourdomain.com/images/bhagavad-gita-cover.jpg",
+      "twitter:image": "https://sanatanadharmam.in/images/bhagavad-gita-cover.jpg",
       "twitter:title": "Bhagavad Gita - Teachings of Krishna"
     }
   }

@@ -29,16 +29,12 @@ const LocaleContext = createContext<LocaleContextType>(defaultLocaleContext);
 
 export function LocaleProvider({ children }: { children: React.ReactNode }) {
   const [locale, setLocale] = useState(DEFAULT_LOCALE);
-  const [isClient, setIsClient] = useState(false);
   // Start with loading state as true since we need to load namespace files
   const [isLoading, setIsLoading] = useState(true);
   const searchParams = useSearchParams();
   const router = useRouter();
 
   useEffect(() => {
-    // Schedule client flag to avoid synchronous setState inside effect
-    setTimeout(() => setIsClient(true), 0);
-
     // Helper to load locale, persist it, ensure cookie, and refresh server render.
     async function applyLocale(lang: string | null) {
       if (!lang) return;
@@ -106,10 +102,6 @@ export function LocaleProvider({ children }: { children: React.ReactNode }) {
   // client components using `t(..., locale)` or `useT()` can
   // synchronously read translations after the async load completes.
   // Locale loading is now handled by useLocaleSection/context
-
-  if (!isClient) {
-    return <>{children}</>;
-  }
 
   return (
     <LocaleContext.Provider

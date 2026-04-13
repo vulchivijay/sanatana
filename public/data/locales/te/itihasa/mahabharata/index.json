@@ -6,7 +6,7 @@
       "title": "Mahabharata - Complete Epic Overview, Parvas, Characters & Philosophy",
       "description": "Explore the Mahabharata, the great Indian epic attributed to Vyasa. Discover its 18 parvas, key characters like Krishna and Arjuna, Bhagavad Gita teachings, and deep philosophical insights.",
       "author": "vyasa",
-      "canonical": "https://yourdomain.com/mahabharata",
+      "canonical": "https://sanatanadharmam.in/itihasa/mahabharata",
       "content_type": "text/html; charset=UTF-8",
       "keywords": [
         "mahabharata",
@@ -26,12 +26,12 @@
     },
     "open_graph": {
       "og:description": "Dive into the Mahabharata: 18 parvas, legendary characters, Kurukshetra war, and timeless wisdom of the Bhagavad Gita.",
-      "og:image": "https://yourdomain.com/images/mahabharata-cover.jpg",
+      "og:image": "https://sanatanadharmam.in/images/mahabharata-cover.jpg",
       "og:locale": "en_US",
       "og:site_name": "Vedic Knowledge Hub",
       "og:title": "Mahabharata - The Greatest Indian Epic Explained",
       "og:type": "book",
-      "og:url": "https://yourdomain.com/mahabharata"
+      "og:url": "https://sanatanadharmam.in/itihasa/mahabharata"
     },
     "parvas": [
       {
@@ -2120,7 +2120,7 @@
     "twitter_card": {
       "twitter:card": "summary_large_image",
       "twitter:description": "Understand the Mahabharata: story, philosophy, Krishna's teachings, and the Kurukshetra war.",
-      "twitter:image": "https://yourdomain.com/images/mahabharata-cover.jpg",
+      "twitter:image": "https://sanatanadharmam.in/images/mahabharata-cover.jpg",
       "twitter:title": "Mahabharata - Epic of Dharma and Destiny"
     }
   }

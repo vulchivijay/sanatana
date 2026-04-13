@@ -6,7 +6,7 @@
       "meta": {
         "title": "Mathematics – Vedic Science and Knowledge Traditions",
         "description": "Explore Mathematics in the Vedic knowledge traditions: historical context, core ideas, and how these disciplines connect to dharma and learning.",
-        "canonical": "https://sanatanadharmam.in/vedic-philosophy/mathematics",
+        "canonical": "https://sanatanadharmam.in/vedic-science/mathematics",
         "keywords": [
           "Mathematics",
           "Vedic science",
@@ -15,7 +15,7 @@
         ],
         "ogImage": "https://sanatanadharmam.in/og/vedic_philosophy_mathematics.png",
         "robots": "index, follow",
-        "url": "https://sanatanadharmam.in/vedic-philosophy/mathematics"
+        "url": "https://sanatanadharmam.in/vedic-science/mathematics"
       },
       "introduction": "Mathematics in the Indian knowledge traditions developed alongside astronomy, architecture, ritual measurement, and later formal scholarship. It includes practical calculation as well as deeper interest in patterns, proof, and the precision required to model space and time. This page provides a high-level introduction to how mathematical thinking supports sacred geometry, calendrical computation, and systematic learning.",
       "openGraph": {
@@ -31,7 +31,7 @@
         ],
         "siteName": "Sanatanadharmam",
         "type": "article",
-        "url": "https://sanatanadharmam.in/vedic-philosophy/mathematics"
+        "url": "https://sanatanadharmam.in/vedic-science/mathematics"
       },
       "philosophical_explanation": "Mathematics embodies clarity (viveka) and discipline. In a philosophical sense, it trains the mind to separate assumption from conclusion and to value consistency—skills that also support self-inquiry and careful interpretation of scripture.",
       "scripture_text": [
@@ -50,7 +50,7 @@
           "url": "https://sanatanadharmam.in"
         },
         "name": "Mathematics – Vedic Science and Knowledge Traditions",
-        "url": "https://sanatanadharmam.in/vedic-philosophy/mathematics"
+        "url": "https://sanatanadharmam.in/vedic-science/mathematics"
       }
     }
   }

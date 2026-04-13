@@ -94,7 +94,7 @@ export default async function RootLayout({
                 var l=document.createElement('link');
                 l.rel='preload';
                 l.as='style';
-                l.href='/globals.from-scss.css';
+                l.href='/globals.from-scss.51c44e30.51c44e30.51c44e30.css';
                 l.onload=function(){this.onload=null;this.rel='stylesheet'};
                 document.head.appendChild(l);
               })();
@@ -130,7 +130,7 @@ export default async function RootLayout({
             `
           }}
         />
-        <noscript><link rel="stylesheet" href="/globals.from-scss.css" /></noscript>
+        <noscript><link rel="stylesheet" href="/globals.from-scss.51c44e30.51c44e30.51c44e30.css" /></noscript>
         {/* JSON-LD structured data for Website/Organization */}
         <meta name="google-site-verification" content="kxWcUTvXW7Ag5H1jtSxNuYUoKcWm-sq0on2s-h5ILF8" />
         {/* Canonical global JSON-LD: single WebSite + Organization definitions */}
@@ -192,6 +192,18 @@ export default async function RootLayout({
               `}
             </Script>
           </>
+        )}
+        {/* Google Tag Manager script */}
+        {secrets.NEXT_PUBLIC_GTM_ID && (
+          <Script id="gtm-init" strategy="afterInteractive">
+            {`
+              (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+              'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+              })(window,document,'script','dataLayer','${secrets.NEXT_PUBLIC_GTM_ID}');
+            `}
+          </Script>
         )}
       </head>
       <body className={poppins.className} translate="no">

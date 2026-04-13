@@ -12,6 +12,7 @@ interface SimilarCategoriesProps {
 }
 
 const INITIAL_VISIBLE_LINKS = 5;
+const AVAILABLE_VEDIC_SCIENCE_SLUGS = new Set(['astronomy', 'mathematics', 'medicine']);
 
 type LinkItem = { key: string; label: string; href: string };
 type CategoryItem = { key: string; title: string; links: LinkItem[] };
@@ -143,6 +144,7 @@ function normalizeLinksForCategory(categoryKey: string, section: Record<string, 
     return Object.entries(nav)
       .map(([navKey, navLabel]) => {
         if (typeof navLabel !== 'string') return null;
+        if (categoryKey === 'science' && !AVAILABLE_VEDIC_SCIENCE_SLUGS.has(navKey)) return null;
         const href = basePath ? normalizeHref(`${basePath}/${navKey}`) : normalizeHref(`/${navKey}`);
         return { key: `${categoryKey}:${navKey}`, label: navLabel, href };
       })

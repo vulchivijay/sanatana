@@ -46,6 +46,11 @@ export default function PageLayout(
     !excludedPrimarySegments.has(primarySegment) && !hasPolicyOrPrivacySegment;
 
   const [panelOpen, setPanelOpen] = useState(false);
+  const [isMounted, setIsMounted] = useState(false);
+
+  useEffect(() => {
+    setIsMounted(true);
+  }, []);
 
   // Close panel on route change
   useEffect(() => {
@@ -101,7 +106,7 @@ export default function PageLayout(
         </div>
       </main>
       {/* ─── Floating Similar-Categories Toggle ─── */}
-      {showSimilarCategories && (
+      {isMounted && showSimilarCategories && (
         <>
           {/* Toggle tab — fixed right edge */}
           <button

@@ -179,6 +179,11 @@ function toWebPath(filePath) {
 }
 
 async function main() {
+  if (!process.env.RENDER) {
+    // console.log('Skipping SEO audit artifacts: not running in Render build environment.');
+    return;
+  }
+
   try {
     await fsp.access(OUT_DIR);
   } catch (e) {

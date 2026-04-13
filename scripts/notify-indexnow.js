@@ -49,7 +49,7 @@ const data = JSON.stringify({
   urlList: urls
 });
 
-console.log('Sending to IndexNow...');
+// console.log('Sending to IndexNow...');
 
 fetch('https://www.bing.com/indexnow', {
   method: 'POST',
@@ -61,7 +61,7 @@ fetch('https://www.bing.com/indexnow', {
   .then(response => {
     // console.log(`IndexNow response: ${response.status}`);
     if (response.status === 200 || response.status === 202) {
-      console.log('Successfully notified IndexNow.');
+      // console.log('Successfully notified IndexNow.');
     } else {
       console.error('Failed to notify IndexNow.');
       return response.text().then(text => console.error('Response:', text));

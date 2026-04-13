@@ -35,6 +35,7 @@ const ROUTE_MAP: Record<string, string> = {
 
 /* ── Section ordering & icons ── */
 const SECTION_ORDER = ['vedas', 'upanishads', 'puranas', 'itihasa', 'philosophy', 'science'];
+const AVAILABLE_VEDIC_SCIENCE_SLUGS = new Set(['astronomy', 'mathematics', 'medicine']);
 const SECTION_ICONS: Record<string, string> = {
   vedas: '📕',
   upanishads: '📜',
@@ -89,6 +90,7 @@ function buildNavSections(header: Record<string, unknown>): NavSection[] {
       // Object nav (upanishads, puranas, philosophy, science)
       for (const [slug, label] of Object.entries(nav as Record<string, unknown>)) {
         if (typeof label !== 'string') continue;
+        if (key === 'science' && !AVAILABLE_VEDIC_SCIENCE_SLUGS.has(slug)) continue;
         items.push({ href: `${basePath}/${slug}`, label });
       }
     }

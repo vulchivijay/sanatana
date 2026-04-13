@@ -1,278 +1,278 @@
 {
-  "about": {
-    "title": "About Sanatana Dharma: Meaning, History, Philosophy & Purpose Explained",
-    "description": "Learn what Sanatana Dharma is, its history, philosophy, and purpose. A complete beginner-friendly guide to Vedic wisdom, scriptures, and spiritual teachings.",
-    "meta": {
-      "title": "About Sanatana Dharma (Complete Guide) – Meaning, History & Philosophy",
-      "description": "Discover the meaning, origin, and philosophy of Sanatana Dharma. Learn its history, principles, and purpose in simple terms.",
-      "canonical": "https://sanatanadharmam.in/about",
-      "keywords": [
-        "what is sanatana dharma history",
-        "sanatana dharma meaning explained",
-        "origin of sanatana dharma",
-        "hinduism vs sanatana dharma",
-        "vedic philosophy explained",
-        "sanatana dharma purpose",
-        "sanatana dharma for beginners",
-        "ancient indian philosophy history",
-        "what is vedic religion",
-        "sanatana dharma teachings explained"
-      ],
-      "url": "https://sanatanadharmam.in/about"
-    },
-    "artha": "Artha",
-    "as_individu": "As is the individual, so is the universe",
-    "atman_true": "The Atman, your true self, is eternal and divine.",
-    "brahmach": "Brahmacharya",
-    "commitment": [
-      "To continually improve accuracy and clarity",
-      "To update the library with more scriptures, commentaries, and devotional material",
-      "To respect the sanctity and diversity of traditional knowledge",
-      "To keep essential content free and widely accessible",
-      "To clearly cite sources and encourage scholarly verification"
-    ],
-    "definationoflife": {
-      "artha": "Artha",
-      "as_individu": "As is the individual, so is the universe",
-      "atman_true": "The Atman, your true self, is eternal and divine.",
-      "brahmach": "Brahmacharya",
-      "desires": "(desires), and",
-      "dharma": "Dharma",
-      "essence_life": "The Essence of Life",
-      "eternal_soul": "आत्मा - The Eternal Soul",
-      "eternal_truth": "eternal truth",
-      "every_action": "Every action creates karma, shaping our destiny.",
-      "four_stages": "आश्रम - The Four Stages of Life",
-      "grihasth": "Grihastha",
-      "have_right": "— You have the right to perform your duty, but the fruits belong to the divine.",
-      "househol_family": "Householder - Family & Duty",
-      "illusion_truth": "माया - Illusion & Truth",
-      "kama": "Kama",
-      "know_thyself": "Know Thyself",
-      "law_action": "कर्म - Law of Action",
-      "liberati": "(liberation).",
-      "life_divine": "Life is the divine opportunity to realize your true nature—not this temporary body, but the immortal consciousness that witnesses all, untouched by birth or death, pleasure or pain. This realization is the highest goal of human existence.",
-      "life_play": "Life is a play of Maya, the cosmic illusion. True wisdom lies in seeing beyond appearances to recognize the",
-      "life_s": "पुरुषार्थ - Life`'`s Purpose",
-      "life_sacred": "Life is a sacred journey toward the four Purusharthas:",
-      "moksha": "Moksha",
-      "never_born": "— It is never born, nor does it die. Life is the soul`'`s journey to realize its oneness with Brahman.",
-      "pervades_all": "that pervades all existence.",
-      "prosperi": "(prosperity),",
-      "renuncia_complete": "Renunciation - Complete Liberation",
-      "retireme_detachme": "Retirement - Detachment & Reflection",
-      "righteou": "(righteousness),",
-      "sannyasa": "Sannyasa",
-      "student_life": "Student Life - Learning & Discipline",
-      "vanapras": "Vanaprastha"
-    },
-    "desires": "(desires), and",
-    "dharma": "Dharma",
-    "disclaim": "Disclaimer",
-    "disclaimer": "We do not claim to be traditional authorities or an exhaustive scholarly press. This website is maintained with devotion, care, and a commitment to accuracy. Readers should consult established editions or recognized teachers for canonical or liturgical decisions. We encourage cross-verification of important texts with authoritative sources when required.",
-    "essence_life": "The Essence of Life",
-    "eternal_soul": "आत्मा - The Eternal Soul",
-    "eternal_truth": "eternal truth",
-    "every_action": "Every action creates karma, shaping our destiny.",
-    "faq": {
-      "heading": "Frequently asked questions",
-      "items": [
-        {
-          "a": "The site aims to collect, preserve, and present texts, stotras, ritual guides, and explanatory articles related to Sanātana Dharma in accessible formats for learners, practitioners, and researchers.",
-          "q": "What is the purpose of Sanatanadharmam.in?"
+    "about": {
+        "title": "సనాతన ధర్మం గురించి: అర్థం, చరిత్ర, తత్వశాస్త్రం & ప్రయోజనం వివరించబడ్డాయి",
+        "description": "సనాతన ధర్మం అంటే ఏమిటో, దాని చరిత్ర, తత్వశాస్త్రం మరియు ఉద్దేశ్యం గురించి తెలుసుకోండి. వేద జ్ఞానం, గ్రంథాలు మరియు ఆధ్యాత్మిక బోధనలకు పూర్తి ప్రారంభ-స్నేహపూర్వక గైడ్.",
+        "meta": {
+            "title": "సనాతన ధర్మం గురించి (పూర్తి గైడ్) – అర్థం, చరిత్ర & తత్వశాస్త్రం",
+            "description": "సనాతన ధర్మం యొక్క అర్థం, మూలం మరియు తత్వశాస్త్రాన్ని కనుగొనండి. దాని చరిత్ర, సూత్రాలు మరియు ఉద్దేశ్యాన్ని సాధారణ పరంగా తెలుసుకోండి.",
+            "canonical": "https://sanatanadharmam.in/about",
+            "keywords": [
+                "సనాతన ధర్మ చరిత్ర అంటే ఏమిటి",
+                "సనాతన ధర్మం అర్థం వివరించబడింది",
+                "సనాతన ధర్మం యొక్క మూలం",
+                "హిందూయిజం vs సనాతన ధర్మం",
+                "వేద తత్వశాస్త్రం వివరించారు",
+                "సనాతన ధర్మ ప్రయోజనం",
+                "ప్రారంభకులకు సనాతన ధర్మం",
+                "ప్రాచీన భారతీయ తత్వశాస్త్రం చరిత్ర",
+                "వైదిక మతం అంటే ఏమిటి",
+                "సనాతన ధర్మ బోధనలను వివరించారు"
+            ],
+            "url": "https://sanatanadharmam.in/about"
         },
-        {
-          "a": "We strive to use reliable editions and cite sources. However, we are not a formal scholarly press; readers should consult primary editions and recognized teachers for canonical decisions.",
-          "q": "Are the texts on the site authoritative?"
+        "artha": "అర్థా",
+        "as_individu": "వ్యక్తి ఎలా ఉంటాడో, విశ్వం కూడా అంతే",
+        "atman_true": "ఆత్మ, మీ నిజమైన స్వయం, శాశ్వతమైనది మరియు దైవికమైనది.",
+        "brahmach": "బ్రహ్మచర్య",
+        "commitment": [
+            "ఖచ్చితత్వం మరియు స్పష్టతను నిరంతరం మెరుగుపరచడానికి",
+            "లైబ్రరీని మరిన్ని గ్రంథాలు, వ్యాఖ్యానాలు మరియు భక్తి విషయాలతో నవీకరించడానికి",
+            "సాంప్రదాయ జ్ఞానం యొక్క పవిత్రత మరియు వైవిధ్యాన్ని గౌరవించడం",
+            "అవసరమైన కంటెంట్‌ను ఉచితంగా మరియు విస్తృతంగా అందుబాటులో ఉంచడానికి",
+            "మూలాలను స్పష్టంగా ఉదహరించడం మరియు పండితుల ధృవీకరణను ప్రోత్సహించడం"
+        ],
+        "definationoflife": {
+            "artha": "అర్థా",
+            "as_individu": "వ్యక్తి ఎలా ఉంటాడో, విశ్వం కూడా అంతే",
+            "atman_true": "ఆత్మ, మీ నిజమైన స్వయం, శాశ్వతమైనది మరియు దైవికమైనది.",
+            "brahmach": "బ్రహ్మచర్య",
+            "desires": "(కోరికలు), మరియు",
+            "dharma": "ధర్మము",
+            "essence_life": "ది ఎసెన్స్ ఆఫ్ లైఫ్",
+            "eternal_soul": "ఆత్మ - శాశ్వతమైన ఆత్మ",
+            "eternal_truth": "శాశ్వతమైన సత్యం",
+            "every_action": "ప్రతి చర్య కర్మను సృష్టిస్తుంది, మన విధిని రూపొందిస్తుంది.",
+            "four_stages": "ఆశ్రమం - జీవితంలోని నాలుగు దశలు",
+            "grihasth": "గృహస్థ",
+            "have_right": "- మీ కర్తవ్యాన్ని నిర్వహించే హక్కు మీకు ఉంది, కానీ ఫలాలు దైవానికి చెందినవి.",
+            "househol_family": "గృహస్థుడు - కుటుంబం & విధి",
+            "illusion_truth": "మాయ - ఇల్యూజన్ & ట్రూత్",
+            "kama": "కామ",
+            "know_thyself": "నిన్ను నీవు తెలుసుకో",
+            "law_action": "కర్మ - చర్య యొక్క చట్టం",
+            "liberati": "(విముక్తి).",
+            "life_divine": "జీవితం అనేది మీ నిజమైన స్వభావాన్ని గ్రహించడానికి ఒక దివ్యమైన అవకాశం-ఈ తాత్కాలిక శరీరం కాదు, కానీ జనన మరణాలు, ఆనందం లేదా బాధలు తాకబడని అన్నింటినీ చూసే అమర స్పృహ. ఈ సాక్షాత్కారం మానవ ఉనికి యొక్క అత్యున్నత లక్ష్యం.",
+            "life_play": "జీవితం మాయ యొక్క నాటకం, విశ్వ భ్రాంతి. నిజమైన జ్ఞానం గుర్తించడానికి ప్రదర్శనలు దాటి చూడటంలో ఉంది",
+            "life_s": "పురుషార్థం - జీవితం`` యొక్క ప్రయోజనం",
+            "life_sacred": "జీవితం నాలుగు పురుషార్థాల వైపు ఒక పవిత్ర ప్రయాణం:",
+            "moksha": "మోక్షము",
+            "never_born": "- ఇది ఎప్పుడూ పుట్టదు, చనిపోదు. జీవితమే ఆత్మ``` బ్రహ్మంతో దాని ఏకత్వాన్ని గ్రహించే ప్రయాణం.",
+            "pervades_all": "అస్తిత్వం అంతా వ్యాపించి ఉంటుంది.",
+            "prosperi": "(శ్రేయస్సు),",
+            "renuncia_complete": "త్యజించుట - సంపూర్ణ విముక్తి",
+            "retireme_detachme": "పదవీ విరమణ - నిర్లిప్తత & ప్రతిబింబం",
+            "righteou": "(ధర్మం),",
+            "sannyasa": "సన్యాసం",
+            "student_life": "విద్యార్థి జీవితం - అభ్యాసం & క్రమశిక్షణ",
+            "vanapras": "వానప్రస్థ"
         },
-        {
-          "a": "Yes. We welcome contributions; please use the contact page to submit suggested corrections, translations, or sources along with references. Contributions are reviewed before publication.",
-          "q": "Can I contribute corrections or translations?"
+        "desires": "(కోరికలు), మరియు",
+        "dharma": "ధర్మము",
+        "disclaim": "నిరాకరణ",
+        "disclaimer": "మేము సాంప్రదాయ అధికారులు లేదా సమగ్ర పండితుల ప్రెస్ అని చెప్పుకోము. ఈ వెబ్‌సైట్ భక్తి, శ్రద్ధ మరియు ఖచ్చితత్వానికి నిబద్ధతతో నిర్వహించబడుతుంది. పాఠకులు కానానికల్ లేదా లిటర్జికల్ నిర్ణయాల కోసం స్థాపించబడిన ఎడిషన్‌లు లేదా గుర్తింపు పొందిన ఉపాధ్యాయులను సంప్రదించాలి. అవసరమైనప్పుడు అధీకృత మూలాధారాలతో ముఖ్యమైన గ్రంథాల క్రాస్ వెరిఫికేషన్‌ను మేము ప్రోత్సహిస్తాము.",
+        "essence_life": "ది ఎసెన్స్ ఆఫ్ లైఫ్",
+        "eternal_soul": "ఆత్మ - శాశ్వతమైన ఆత్మ",
+        "eternal_truth": "శాశ్వతమైన సత్యం",
+        "every_action": "ప్రతి చర్య కర్మను సృష్టిస్తుంది, మన విధిని రూపొందిస్తుంది.",
+        "faq": {
+            "heading": "తరచుగా అడిగే ప్రశ్నలు",
+            "items": [
+                {
+                    "a": "అభ్యాసకులు, అభ్యాసకులు మరియు పరిశోధకుల కోసం అందుబాటులో ఉన్న ఫార్మాట్లలో సనాతన ధర్మానికి సంబంధించిన గ్రంథాలు, స్తోత్రాలు, కర్మ మార్గదర్శకాలు మరియు వివరణాత్మక కథనాలను సేకరించడం, భద్రపరచడం మరియు ప్రదర్శించడం సైట్ లక్ష్యం.",
+                    "q": "సనాతనధర్మం.ఇన్ ప్రయోజనం ఏమిటి?"
+                },
+                {
+                    "a": "మేము నమ్మదగిన ఎడిషన్‌లను ఉపయోగించడానికి మరియు మూలాధారాలను ఉదహరించడానికి ప్రయత్నిస్తాము. అయితే, మేము అధికారిక పండితుల ప్రెస్ కాదు; పాఠకులు కానానికల్ నిర్ణయాల కోసం ప్రాథమిక సంచికలు మరియు గుర్తింపు పొందిన ఉపాధ్యాయులను సంప్రదించాలి.",
+                    "q": "సైట్‌లోని పాఠాలు అధికారికంగా ఉన్నాయా?"
+                },
+                {
+                    "a": "అవును. మేము సహకారాలను స్వాగతిస్తున్నాము; దయచేసి సూచనలతో పాటుగా సూచించబడిన దిద్దుబాట్లు, అనువాదాలు లేదా మూలాధారాలను సమర్పించడానికి సంప్రదింపు పేజీని ఉపయోగించండి. రచనలు ప్రచురణకు ముందు సమీక్షించబడతాయి.",
+                    "q": "నేను దిద్దుబాట్లు లేదా అనువాదాలను అందించవచ్చా?"
+                },
+                {
+                    "a": "మేము సరైన ఉచ్చారణకు సహాయం చేయడానికి సాధ్యమైన చోట ప్రామాణిక లిప్యంతరీకరణ మరియు డయాక్రిటిక్‌లను అందిస్తాము, అలాగే సాదా వచన సంస్కరణలు మరియు అందుబాటులో ఉన్నప్పుడు ఆడియో రికార్డింగ్‌లు.",
+                    "q": "లిప్యంతరీకరణ ఎలా నిర్వహించబడుతుంది?"
+                },
+                {
+                    "a": "సత్యాన్ని, కర్తవ్యాన్ని, ఆధ్యాత్మిక వృద్ధిని బోధించే నిత్య జీవన విధానం సనాతన ధర్మం.",
+                    "q": "సనాతన ధర్మం అంటే ఏమిటి?"
+                },
+                {
+                    "a": "సనాతన ధర్మానికి ఒక్క స్థాపకుడు లేడు. ఇది ఋషులు మరియు గ్రంధాల ద్వారా వేల సంవత్సరాలుగా పరిణామం చెందింది.",
+                    "q": "సనాతన ధర్మాన్ని ఎవరు స్థాపించారు?"
+                },
+                {
+                    "a": "సనాతన ధర్మం అసలైన తాత్విక వ్యవస్థ, అయితే హిందూమతం అనేది విస్తృత ఆధునిక పదం.",
+                    "q": "సనాతన ధర్మం అంటే హిందూ ధర్మమా?"
+                },
+                {
+                    "a": "అంతిమ లక్ష్యం మోక్షం, లేదా జన్మ మరియు పునర్జన్మ చక్రం నుండి విముక్తి.",
+                    "q": "సనాతన ధర్మం లక్ష్యం ఏమిటి?"
+                }
+            ]
         },
-        {
-          "a": "We provide standardized transliteration and diacritics where possible to aid correct pronunciation, alongside plain-text versions and audio recordings when available.",
-          "q": "How is transliteration handled?"
+        "four_stages": "ఆశ్రమం - జీవితంలోని నాలుగు దశలు",
+        "grihasth": "గృహస్థ",
+        "have_right": "- మీ కర్తవ్యాన్ని నిర్వహించే హక్కు మీకు ఉంది, కానీ ఫలాలు దైవానికి చెందినవి.",
+        "househol_family": "గృహస్థుడు - కుటుంబం & విధి",
+        "illusion_truth": "మాయ - ఇల్యూజన్ & ట్రూత్",
+        "introduction": "Sanatanadharmam.in అనేది సహస్రాబ్దాలుగా సనాతన ధర్మం ద్వారా ప్రసారం చేయబడిన ఆధ్యాత్మిక, సాంస్కృతిక మరియు ఆచరణాత్మక జ్ఞానాన్ని సేకరించడానికి, భద్రపరచడానికి, వివరించడానికి మరియు పంచుకోవడానికి రూపొందించబడిన అంకితమైన డిజిటల్ చొరవ. ప్రామాణికమైన గ్రంథాలు, భక్తి శ్లోకాలు, ఆచార విధానాలు, తాత్విక వ్యాసాలు మరియు సహాయకరమైన సందర్భోచిత వ్యాఖ్యానాలను స్పష్టమైన, ఉపయోగించదగిన ఫార్మాట్‌లలో అందించడం ద్వారా ఈ జీవన సంప్రదాయాన్ని అన్ని నేపథ్యాల నుండి అన్వేషకులు, విద్యార్థులు, అభ్యాసకులు మరియు ఆసక్తిగల పాఠకులకు అందుబాటులోకి తీసుకురావడమే మా లక్ష్యం. సనాతన ధర్మం అనేది ఒకే ఏకశిలా వ్యవస్థ కాదని, అనేక భాషలు, వంశాలు మరియు ప్రాంతీయ వ్యక్తీకరణలను విస్తరించి ఉన్న విస్తారమైన, అభివృద్ధి చెందుతున్న ఆలోచన మరియు అభ్యాసాల వ్యవస్థ అని మేము గుర్తించాము. ఈ సైట్ ఆ వైవిధ్యాన్ని గౌరవించటానికి ప్రయత్నిస్తుంది, అదే సమయంలో సంప్రదాయానికి కొత్త వారికి ఒక పొందికైన ఎంట్రీ పాయింట్‌ను అందిస్తుంది. మేము ప్రామాణికత, స్పష్టత మరియు వినియోగంపై దృష్టి పెడతాము: పఠించడం కోసం ఖచ్చితమైన లిప్యంతరీకరణ మరియు శుభ్రమైన వచనాన్ని అందించడం, సూక్ష్మభేదాన్ని కాపాడే విశ్వసనీయ అనువాదాలు మరియు పదార్థం యొక్క చారిత్రక, సాంస్కృతిక మరియు ఆధ్యాత్మిక ప్రాముఖ్యతను ప్రకాశించే సాదా భాషా వివరణలు. విశ్వసనీయ ఎడిషన్‌ల నుండి మూలాధారాలను సేకరించడం, అభ్యాసకుల కోసం సరైన డయాక్రిటిక్స్ మరియు లిప్యంతరీకరణతో స్తోత్రాలు మరియు మంత్రాలను అందించడం, సాధారణ గృహ ఆచారాలు మరియు పండుగల కోసం దశల వారీ పూజ విధి మార్గదర్శకాలను అందించడం మరియు పాఠకులు కేవలం ఆచరణాత్మక వర్ణనలను కాకుండా ఆచరణాత్మక చిక్కులను గ్రహించగలిగేలా కీలకమైన తాత్విక బోధనల సారాంశాలను రూపొందించడం మా ప్రాధాన్యతలలో ఉన్నాయి. సాధ్యమైన చోట మేము అసలు మూలాలకు సూచనలను చేర్చుతాము, మరింత చదవమని సూచిస్తాము మరియు పాఠకులకు సందర్భం మరియు మూలాధారాన్ని అర్థం చేసుకోవడంలో సహాయపడటానికి వేరియంట్ రీడింగ్‌లు లేదా ప్రాంతీయ తేడాలను సూచిస్తాము. టెక్స్ట్‌లను అందించడం కంటే, రోజువారీ ఆధ్యాత్మిక జీవితానికి సైట్ ఆచరణాత్మక సహచరుడిగా ఉండాలని మేము కోరుకుంటున్నాము. ఆ దిశగా మేము రోజువారీ ప్రార్థనలు, ఉదయం మరియు సాయంత్రం దినచర్యలు, రోజువారీ పారాయణానికి అనువైన చిన్న స్తోత్రాలు మరియు సాధారణ ఆచారాల కోసం సంక్షిప్త మార్గదర్శకాల సేకరణలను క్యూరేట్ చేస్తాము. మేము ఆచారాలు మరియు గ్రంధాలను వారి విస్తృత సాంస్కృతిక మరియు నైతిక ఫ్రేమ్‌వర్క్‌లలో ఉంచే వివరణాత్మక కథనాలను కూడా ప్రచురిస్తాము, పాఠకులకు అభ్యాసం మరియు అర్థాన్ని కనెక్ట్ చేయడంలో సహాయం చేస్తాము. సైట్ ఉద్దేశపూర్వకంగా సెక్టారియన్ కాదు మరియు సాధారణ మూలాలను పంచుకునే సంప్రదాయాలను వాటి తేడాలకు సున్నితత్వంతో పక్కపక్కనే ప్రదర్శించగలిగే గౌరవప్రదమైన స్థలాన్ని సృష్టించడం లక్ష్యంగా పెట్టుకుంది. యాక్సెసిబిలిటీ మాకు ముఖ్యం. విస్తృత ప్రేక్షకులను చేరుకోవడానికి మరియు ప్రాథమిక భాష ఆంగ్లం కాని వారికి మద్దతు ఇవ్వడానికి మేము బహుళ భారతీయ మరియు అంతర్జాతీయ భాషలలో కంటెంట్‌ను ప్రచురిస్తాము. టెక్స్ట్‌లలో లిప్యంతరీకరణ మరియు ఆడియో సాధ్యమయ్యే చోట ఉంటాయి, తద్వారా అభ్యాసకులు సరైన ఉచ్చారణ మరియు లయను అభ్యసించగలరు. లేయర్డ్ వివరణలను అందించడం ద్వారా ప్రారంభకులకు మరియు అధునాతన పాఠకులకు కంటెంట్ నావిగేబుల్, శోధించదగిన మరియు స్నేహపూర్వకంగా చేయడానికి మేము ప్రయత్నిస్తాము: శీఘ్ర పఠనం కోసం చిన్న సారాంశాలు, మరింత లోతుగా అధ్యయనం చేయాలనుకునే వారి కోసం మరింత వివరణాత్మక గమనికలు మరియు సూచనలు. సనాతన ధర్మాన్ని సంరక్షించడం మరియు భాగస్వామ్యం చేయడం బాధ్యతాయుతంగా భక్తి, పండితుల సంరక్షణ మరియు ఆధునిక ప్రచురణ పద్ధతుల సమ్మేళనం అవసరమని మేము నమ్ముతున్నాము. అన్ని పదార్థాలు సాంప్రదాయ రూపాలకు సంబంధించి మరియు స్పష్టత వైపు దృష్టిలో ఉంచబడతాయి, కాబట్టి వాటిని సమకాలీన జీవితంలో చదవవచ్చు, పఠించవచ్చు మరియు సాధన చేయవచ్చు.",
+        "joinus": {
+            "invite": [
+                "అవగాహనను వ్యాప్తి చేయడానికి వెబ్‌సైట్‌ను ఇతరులతో పంచుకోండి",
+                "మా ఫీడ్‌బ్యాక్ ఛానెల్‌ల ద్వారా మెరుగుదలలు లేదా దిద్దుబాట్లను సూచించండి",
+                "సమీక్ష కోసం అనువాదాలు, రికార్డింగ్‌లు లేదా వచనాలను అందించండి",
+                "స్వయంసేవకంగా సంపాదకీయ సహాయం లేదా సాంకేతిక సహాయాన్ని అందించడం ద్వారా ప్రాజెక్ట్‌కు మద్దతు ఇవ్వండి"
+            ],
+            "message": "సనాతన ధర్మం అనేది సత్యం, కరుణ మరియు సేవతో కూడిన జీవన విధానం. వినయం మరియు విచారణ స్ఫూర్తితో నేర్చుకోవడానికి, అభ్యాసం చేయడానికి మరియు సహకరించడానికి మేము పాఠకులను ఆహ్వానిస్తున్నాము."
         },
-        {
-          "a": "Sanatana Dharma is the eternal way of life that teaches truth, duty, and spiritual growth.",
-          "q": "What is Sanatana Dharma in simple words?"
+        "kama": "కామ",
+        "know_thyself": "నిన్ను నీవు తెలుసుకో",
+        "law_action": "కర్మ - చర్య యొక్క చట్టం",
+        "liberati": "(విముక్తి).",
+        "life_divine": "జీవితం అనేది మీ నిజమైన స్వభావాన్ని గ్రహించడానికి ఒక దివ్యమైన అవకాశం-ఈ తాత్కాలిక శరీరం కాదు, కానీ జనన మరణాలు, ఆనందం లేదా బాధలు తాకబడని అన్నింటినీ చూసే అమర స్పృహ. ఈ సాక్షాత్కారం మానవ ఉనికి యొక్క అత్యున్నత లక్ష్యం.",
+        "life_play": "జీవితం మాయ యొక్క నాటకం, విశ్వ భ్రాంతి. నిజమైన జ్ఞానం గుర్తించడానికి ప్రదర్శనలు దాటి చూడటంలో ఉంది",
+        "life_s": "పురుషార్థం - జీవిత ప్రయోజనం",
+        "life_sacred": "జీవితం నాలుగు పురుషార్థాల వైపు ఒక పవిత్ర ప్రయాణం:",
+        "longdescription": "This site grew from the recognition that living spiritual traditions require both preservation and renewal. Preservation means careful transcription of texts, responsible citation of sources, and a commitment to accuracy in transliteration and translation. Renewal means presenting those texts in ways that resonate with contemporary life, clarifying how ancient practices relate to modern ethical concerns, family life, community service, and personal development. We approach content curation through several complementary practices. Source integrity is central: whenever a text is digitized, we note the edition, provide bibliographic details, and indicate any editorial decisions we have made. For stotras and mantras, we offer guidance on pronunciation and rhythm, and when recordings are available we include short audio clips to assist learners. For ritual instructions, we break down the sequence into clear steps, articulate the meaning behind each action, and note regional or lineage-based variations so readers can adapt practice while understanding why variations exist. Pedagogy matters. Learners often need short, practical introductions before engaging with longer texts. Therefore our articles begin with concise, plain-language overviews, followed by progressively detailed sections that discuss historical background, scriptural references, linguistic notes, and suggested further reading. This layered format allows casual readers to find quick answers and serious students to pursue deeper study. Community contribution is encouraged. While we are not a scholarly press, we welcome input from practitioners, teachers, and scholars who wish to suggest corrections, offer additional sources, or contribute translations and commentary. All contributions are reviewed for fidelity to sources and clarity. We maintain a modest editorial policy intended to balance open collaboration with the responsibilities of curating sacred texts. Ethical considerations shape our approach. Sanātana Dharma teaches values such as dharma, compassion, truthfulness, and selfless service. We aim to reflect those values through respectful presentation, inclusivity, and avoidance of polemics. We do not promote commercial exploitation of sacred materials; most content is freely available on the site, and we explicitly credit sources and contributors. When material is used under specific permissions or licenses, that information is clearly provided. Practical use cases guide content design. A household practitioner looking for the correct sequence of a common puja should be able to find step-by-step guidance and an explanation of the essential mantras and gestures. A student preparing for a recitation should be able to access a clean text with transliteration and an audio model. A curious reader should be able to find a concise introduction to the Bhagavathgita, with links to primary verses and readable commentary. By focusing on real needs, we make the tradition more accessible while preserving depth. Technology is a tool, not a replacement for lived tradition. We use the web to index, search, and present materials; to host audio and transliteration tools; and to enable multilingual navigation. Yet we recognize that direct guidance from a teacher and participation in community practice remain vital. Our content is designed to complement—not replace—personal instruction and community-based learning. Looking ahead, we plan to expand audio and multimedia resources, to incorporate more regional and language-specific editions, and to build tools that help teachers and students interact with texts (for example, bookmarking, shared notes, and small-group reading guides). We also plan to strengthen citations and bibliographic references so that researchers and teachers can trace the textual lineage of materials found on the site. We invite readers to treat the site as a starting point: a careful, compassionate introduction to a living tradition. For those who wish to explore further, we provide pathways into primary sources, classical commentaries, and reputable contemporary expositions. Whether your interest is devotional, scholarly, cultural, or practical, Sanatanadharmam.in aims to offer resources that are accurate, accessible, and useful. If you find errors, omissions, or ways to improve presentation, please share them. Contributions that improve accuracy, add missing source citations, supply high-quality translations, or provide helpful audio recordings are especially welcome. We hope this work supports individual practice, communal life, and the intergenerational transmission of knowledge in ways that are respectful, open-hearted, and responsible. In sum, Sanatanadharmam.in seeks to safeguard a broad spectrum of knowledge from Sanātana Dharma, to present it with integrity and care, and to make it a living, usable resource for anyone seeking to learn, practice, or simply understand. We are guided by the conviction that ancient wisdom, when presented honestly and thoughtfully, can help individuals and communities cultivate insight, compassion, and a deeper sense of meaning.",
+        "moksha": "మోక్షము",
+        "never_born": "- ఇది ఎప్పుడూ పుట్టదు, చనిపోదు. బ్రహ్మతో తన ఏకత్వాన్ని గ్రహించడానికి ఆత్మ చేసే ప్రయాణమే జీవితం.",
+        "openGraph": {
+            "title": "సనాతన ధర్మం గురించి: అర్థం, చరిత్ర & తత్వశాస్త్రం",
+            "description": "సనాతన ధర్మం యొక్క మూలం, తత్వశాస్త్రం మరియు ఉద్దేశ్యాన్ని సరళమైన వివరణలు మరియు కాలాతీత జ్ఞానంతో అన్వేషించండి.",
+            "images": [
+                {
+                    "alt": "About Sanatana Dharma",
+                    "height": 630,
+                    "url": "https://sanatanadharmam.in/og/about.png",
+                    "width": 1200
+                }
+            ],
+            "siteName": "సనాతనధర్మం",
+            "type": "వ్యాసం",
+            "url": "https://sanatanadharmam.in/about"
         },
-        {
-          "a": "Sanatana Dharma has no single founder. It evolved over thousands of years through sages and scriptures.",
-          "q": "Who founded Sanatana Dharma?"
-        },
-        {
-          "a": "Sanatana Dharma is the original philosophical system, while Hinduism is a broader modern term.",
-          "q": "Is Sanatana Dharma the same as Hinduism?"
-        },
-        {
-          "a": "The ultimate goal is moksha, or liberation from the cycle of birth and rebirth.",
-          "q": "What is the goal of Sanatana Dharma?"
-        }
-      ]
-    },
-    "four_stages": "आश्रम - The Four Stages of Life",
-    "grihasth": "Grihastha",
-    "have_right": "— You have the right to perform your duty, but the fruits belong to the divine.",
-    "househol_family": "Householder - Family & Duty",
-    "illusion_truth": "माया - Illusion & Truth",
-    "introduction": "Sanatanadharmam.in is a dedicated digital initiative created to collect, preserve, explain, and share the spiritual, cultural, and practical knowledge that has been transmitted through Sanātana Dharma over millennia. Our aim is to make this living tradition approachable to seekers, students, practitioners, and curious readers from all backgrounds by presenting authentic texts, devotional hymns, ritual procedures, philosophical essays, and helpful contextual commentary in clear, usable formats. We recognize that Sanātana Dharma is not a single monolithic system but a vast, evolving body of thought and practice spanning many languages, lineages, and regional expressions. This site tries to honour that diversity while also offering a coherent entry point for those who are new to the tradition. We focus on authenticity, clarity, and usability: providing accurate transliteration and clean text for chanting, reliable translations that preserve nuance, and plain-language explanations that illuminate the historical, cultural, and spiritual significance of the material. Our priorities include collecting source materials from trusted editions, presenting stotras and mantras with correct diacritics and transliteration for learners, offering step-by-step puja vidhi guides for common household rituals and festivals, and creating accessible summaries of key philosophical teachings so readers can grasp practical implications rather than just academic descriptions. Wherever possible we include references to original sources, suggest further reading, and indicate variant readings or regional differences to help readers understand context and provenance. Beyond offering texts, we want the site to be a practical companion for daily spiritual life. To that end we curate collections of daily prayers, morning and evening routines, short stotras suitable for daily recitation, and concise guides for common observances. We also publish explanatory articles that place rituals and scriptures within their broader cultural and ethical frameworks, helping readers connect practice and meaning. The site is intentionally non-sectarian and aims to create a respectful space where traditions that share common roots can be presented side by side with sensitivity to their differences. Accessibility is important to us. We publish content in multiple Indian and international languages to reach a broad audience and to support those whose primary language is not English. Texts include transliteration and audio where feasible, so that learners can practice correct pronunciation and rhythm. We strive to make content navigable, searchable, and friendly for both beginners and advanced readers by offering layered explanations: short summaries for quick reading, followed by more detailed notes and references for those who wish to study more deeply. We believe that preserving and sharing Sanātana Dharma responsibly requires a blend of devotion, scholarly care, and modern publishing practices. All materials are collated with respect for traditional forms and with an eye toward clarity, so they can be read, chanted, and practiced in contemporary life.",
-    "joinus": {
-      "invite": [
-        "Share the website with others to spread awareness",
-        "Suggest improvements or corrections through our feedback channels",
-        "Contribute translations, recordings, or texts for review",
-        "Support the project by volunteering editorial help or technical assistance"
-      ],
-      "message": "Sanātana Dharma is a way of life rooted in truth, compassion, and service. We invite readers to learn, practice, and contribute with humility and a spirit of inquiry."
-    },
-    "kama": "Kama",
-    "know_thyself": "Know Thyself",
-    "law_action": "कर्म - Law of Action",
-    "liberati": "(liberation).",
-    "life_divine": "Life is the divine opportunity to realize your true nature—not this temporary body, but the immortal consciousness that witnesses all, untouched by birth or death, pleasure or pain. This realization is the highest goal of human existence.",
-    "life_play": "Life is a play of Maya, the cosmic illusion. True wisdom lies in seeing beyond appearances to recognize the",
-    "life_s": "पुरुषार्थ - Life's Purpose",
-    "life_sacred": "Life is a sacred journey toward the four Purusharthas:",
-    "longdescription": "This site grew from the recognition that living spiritual traditions require both preservation and renewal. Preservation means careful transcription of texts, responsible citation of sources, and a commitment to accuracy in transliteration and translation. Renewal means presenting those texts in ways that resonate with contemporary life, clarifying how ancient practices relate to modern ethical concerns, family life, community service, and personal development. We approach content curation through several complementary practices. Source integrity is central: whenever a text is digitized, we note the edition, provide bibliographic details, and indicate any editorial decisions we have made. For stotras and mantras, we offer guidance on pronunciation and rhythm, and when recordings are available we include short audio clips to assist learners. For ritual instructions, we break down the sequence into clear steps, articulate the meaning behind each action, and note regional or lineage-based variations so readers can adapt practice while understanding why variations exist. Pedagogy matters. Learners often need short, practical introductions before engaging with longer texts. Therefore our articles begin with concise, plain-language overviews, followed by progressively detailed sections that discuss historical background, scriptural references, linguistic notes, and suggested further reading. This layered format allows casual readers to find quick answers and serious students to pursue deeper study. Community contribution is encouraged. While we are not a scholarly press, we welcome input from practitioners, teachers, and scholars who wish to suggest corrections, offer additional sources, or contribute translations and commentary. All contributions are reviewed for fidelity to sources and clarity. We maintain a modest editorial policy intended to balance open collaboration with the responsibilities of curating sacred texts. Ethical considerations shape our approach. Sanātana Dharma teaches values such as dharma, compassion, truthfulness, and selfless service. We aim to reflect those values through respectful presentation, inclusivity, and avoidance of polemics. We do not promote commercial exploitation of sacred materials; most content is freely available on the site, and we explicitly credit sources and contributors. When material is used under specific permissions or licenses, that information is clearly provided. Practical use cases guide content design. A household practitioner looking for the correct sequence of a common puja should be able to find step-by-step guidance and an explanation of the essential mantras and gestures. A student preparing for a recitation should be able to access a clean text with transliteration and an audio model. A curious reader should be able to find a concise introduction to the Bhagavathgita, with links to primary verses and readable commentary. By focusing on real needs, we make the tradition more accessible while preserving depth. Technology is a tool, not a replacement for lived tradition. We use the web to index, search, and present materials; to host audio and transliteration tools; and to enable multilingual navigation. Yet we recognize that direct guidance from a teacher and participation in community practice remain vital. Our content is designed to complement—not replace—personal instruction and community-based learning. Looking ahead, we plan to expand audio and multimedia resources, to incorporate more regional and language-specific editions, and to build tools that help teachers and students interact with texts (for example, bookmarking, shared notes, and small-group reading guides). We also plan to strengthen citations and bibliographic references so that researchers and teachers can trace the textual lineage of materials found on the site. We invite readers to treat the site as a starting point: a careful, compassionate introduction to a living tradition. For those who wish to explore further, we provide pathways into primary sources, classical commentaries, and reputable contemporary expositions. Whether your interest is devotional, scholarly, cultural, or practical, Sanatanadharmam.in aims to offer resources that are accurate, accessible, and useful. If you find errors, omissions, or ways to improve presentation, please share them. Contributions that improve accuracy, add missing source citations, supply high-quality translations, or provide helpful audio recordings are especially welcome. We hope this work supports individual practice, communal life, and the intergenerational transmission of knowledge in ways that are respectful, open-hearted, and responsible. In sum, Sanatanadharmam.in seeks to safeguard a broad spectrum of knowledge from Sanātana Dharma, to present it with integrity and care, and to make it a living, usable resource for anyone seeking to learn, practice, or simply understand. We are guided by the conviction that ancient wisdom, when presented honestly and thoughtfully, can help individuals and communities cultivate insight, compassion, and a deeper sense of meaning.",
-    "moksha": "Moksha",
-    "never_born": "— It is never born, nor does it die. Life is the soul's journey to realize its oneness with Brahman.",
-    "openGraph": {
-      "title": "About Sanatana Dharma: Meaning, History & Philosophy",
-      "description": "Explore the origin, philosophy, and purpose of Sanatana Dharma with simple explanations and timeless wisdom.",
-      "images": [
-        {
-          "alt": "About Sanatana Dharma",
-          "height": 630,
-          "url": "https://sanatanadharmam.in/og/about.png",
-          "width": 1200
-        }
-      ],
-      "siteName": "Sanatanadharmam",
-      "type": "article",
-      "url": "https://sanatanadharmam.in/about"
-    },
-    "pervades_all": "that pervades all existence.",
-    "prosperi": "(prosperity),",
-    "renuncia_complete": "Renunciation - Complete Liberation",
-    "retireme_detachme": "Retirement - Detachment & Reflection",
-    "righteou": "(righteousness),",
-    "sannyasa": "Sannyasa",
-    "sections": [
-      {
-        "title": "What is Sanatana Dharma?",
-        "content": "Sanatana Dharma means the eternal way of life. It is an ancient spiritual philosophy that originated in India and explains how to live with truth, purpose, and harmony. It is based on principles like dharma (duty), karma (action), and moksha (liberation).",
-        "id": "what-is-sanatana-dharma"
-      },
-      {
-        "title": "History of Sanatana Dharma",
-        "content": "Sanatana Dharma is one of the oldest spiritual traditions in the world, dating back thousands of years. Its teachings are preserved in ancient texts like the Vedas, Upanishads, and epics such as the Ramayana and Mahabharata. Unlike organized religions, it evolved over time and adapted across cultures.",
-        "id": "history"
-      },
-      {
-        "title": "Philosophy of Sanatana Dharma",
-        "content": "The philosophy of Sanatana Dharma focuses on understanding the self (Atman) and ultimate reality (Brahman). It teaches that life is a journey of self-realization, guided by karma, dharma, and spiritual discipline.",
-        "id": "philosophy"
-      },
-      {
-        "title": "Purpose of Sanatana Dharma",
-        "content": "The purpose of Sanatana Dharma is to guide individuals toward a balanced life—fulfilling duties, achieving prosperity, experiencing desires responsibly, and ultimately attaining liberation (moksha).",
-        "id": "purpose"
-      },
-      {
-        "title": "Our Mission",
-        "id": "our-mission",
-        "points": [
-          "Make Sanatana Dharma simple and accessible for beginners",
-          "Preserve authentic Vedic knowledge",
-          "Provide practical spiritual guidance for daily life",
-          "Create a global platform for learning and understanding"
-        ]
-      },
-      {
-        "title": "What You Will Find Here",
-        "id": "what-we-offer",
-        "points": [
-          "Beginner-friendly explanations of Vedic concepts",
-          "Summaries of Vedas, Upanishads, and Bhagavad Gita",
-          "Practical guidance on karma, dharma, and meditation",
-          "Spiritual teachings explained for modern life"
-        ]
-      },
-      {
-        "title": "Why We Created This Website",
-        "content": "Many people find it difficult to understand Sanatana Dharma due to complex language and scattered resources. This platform simplifies ancient teachings and presents them in a structured and accessible format for global audiences.",
-        "id": "why-this-website"
-      },
-      {
-        "title": "Why Sanatana Dharma Matters Today",
-        "content": "In today’s world, Sanatana Dharma provides guidance for mental clarity, ethical living, and inner peace. Its teachings help individuals navigate stress, make better decisions, and live a meaningful life.",
-        "id": "importance-today"
-      }
-    ],
-    "student_life": "Student Life - Learning & Discipline",
-    "vanapras": "Vanaprastha",
-    "vision": {
-      "description": "To serve as a reliable, well-curated digital repository that preserves the essential teachings, devotional literature, ritual knowledge, and practical guidance of Sanātana Dharma while making them accessible, comprehensible, and usable for present and future generations.",
-      "focusareas": [
-        "Multilingual content spanning Sanskrit, regional Indian languages, and English",
-        "Devotional stotras, mantras, and daily prayers with transliteration and audio support",
-        "Detailed puja-vidhis, festival guides, and household ritual instructions",
-        "Clear expositions of philosophical concepts from the Upanishads, Bhagavathgita, Puranas, and classical commentaries",
-        "Contextual essays connecting scripture to lived practice and ethical life",
-        "Searchable, well-cataloged archives with citations to authoritative editions"
-      ],
-      "goal": "To build an enduring digital library that both conserves treasured texts and provides practical pathways for study and practice, supporting learners, practitioners, and scholars across generations."
-    },
-    "whywecreated": {
-      "problemsaddressed": [
-        "Hard-to-find, inconsistent, or poorly digitized versions of important texts",
-        "Fragmentation of resources across multiple sites and formats",
-        "Lack of accessible translations and transliteration for learners",
-        "Insufficient contextual guidance for applying ritual and philosophical teachings in daily life",
-        "Barriers for non-specialists to approach scripture without prior training"
-      ],
-      "purpose": "We created Sanatanadharmam.in to centralize trustworthy materials and to provide layered explanations that help readers move from curiosity to meaningful practice. By combining clean digital editions, careful translations, transliteration aids, practical ritual guides, and empathetic interpretation, we hope to lower the barrier to entry while maintaining respect for the tradition's depth and variety."
-    },
-    "schema": {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "AboutPage",
-          "name": "About Sanatanadharmam",
-          "url": "https://sanatanadharmam.in/about"
-        },
-        {
-          "description": "A complete guide explaining Sanatana Dharma, its origin, philosophy, and purpose.",
-          "@type": "Article",
-          "author": {
-            "@type": "Organization",
-            "name": "Sanatanadharmam"
-          },
-          "headline": "About Sanatana Dharma: Meaning, History & Philosophy"
-        },
-        {
-          "@type": "FAQPage",
-          "mainEntity": [
+        "pervades_all": "అస్తిత్వం అంతా వ్యాపించి ఉంటుంది.",
+        "prosperi": "(శ్రేయస్సు),",
+        "renuncia_complete": "త్యజించుట - సంపూర్ణ విముక్తి",
+        "retireme_detachme": "పదవీ విరమణ - నిర్లిప్తత & ప్రతిబింబం",
+        "righteou": "(ధర్మం),",
+        "sannyasa": "సన్యాసం",
+        "sections": [
             {
-              "@type": "Question",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Sanatana Dharma is the eternal way of life based on dharma, karma, and moksha."
-              },
-              "name": "What is Sanatana Dharma?"
+                "title": "సనాతన ధర్మం అంటే ఏమిటి?",
+                "content": "సనాతన ధర్మం అంటే నిత్య జీవన విధానం. ఇది భారతదేశంలో ఉద్భవించిన పురాతన ఆధ్యాత్మిక తత్వశాస్త్రం మరియు సత్యం, లక్ష్యం మరియు సామరస్యంతో ఎలా జీవించాలో వివరిస్తుంది. ఇది ధర్మం (కర్తవ్యం), కర్మ (క్రియ), మరియు మోక్షం (విముక్తి) వంటి సూత్రాలపై ఆధారపడి ఉంటుంది.",
+                "id": "what-is-sanatana-dharma"
             },
             {
-              "@type": "Question",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "It has no founder and evolved over thousands of years."
-              },
-              "name": "Who founded Sanatana Dharma?"
+                "title": "సనాతన ధర్మ చరిత్ర",
+                "content": "సనాతన ధర్మం ప్రపంచంలోని పురాతన ఆధ్యాత్మిక సంప్రదాయాలలో ఒకటి, ఇది వేల సంవత్సరాల నాటిది. దీని బోధనలు వేదాలు, ఉపనిషత్తులు మరియు రామాయణం మరియు మహాభారతం వంటి ఇతిహాసాలు వంటి పురాతన గ్రంథాలలో భద్రపరచబడ్డాయి. వ్యవస్థీకృత మతాలు కాకుండా, ఇది కాలక్రమేణా పరిణామం చెందింది మరియు సంస్కృతులలో స్వీకరించబడింది.",
+                "id": "చరిత్ర"
+            },
+            {
+                "title": "సనాతన ధర్మం యొక్క తత్వశాస్త్రం",
+                "content": "సనాతన ధర్మం యొక్క తత్వశాస్త్రం స్వీయ (ఆత్మన్) మరియు అంతిమ వాస్తవికత (బ్రాహ్మణం) పై దృష్టి పెడుతుంది. జీవితం అనేది కర్మ, ధర్మం మరియు ఆధ్యాత్మిక క్రమశిక్షణ ద్వారా మార్గనిర్దేశం చేయబడిన స్వీయ-సాక్షాత్కార ప్రయాణం అని ఇది బోధిస్తుంది.",
+                "id": "తత్వశాస్త్రం"
+            },
+            {
+                "title": "సనాతన ధర్మం యొక్క ఉద్దేశ్యం",
+                "content": "సనాతన ధర్మం యొక్క ఉద్దేశ్యం ఏమిటంటే, వ్యక్తులను సమతుల్య జీవితం వైపు నడిపించడం - విధులను నెరవేర్చడం, శ్రేయస్సును సాధించడం, కోరికలను బాధ్యతాయుతంగా అనుభవించడం మరియు చివరికి విముక్తి (మోక్షం) పొందడం.",
+                "id": "ప్రయోజనం"
+            },
+            {
+                "title": "మా మిషన్",
+                "id": "మా మిషన్",
+                "points": [
+                    "సనాతన ధర్మాన్ని సరళంగా మరియు ప్రారంభకులకు అందుబాటులో ఉండేలా చేయండి",
+                    "ప్రామాణికమైన వేద జ్ఞానాన్ని కాపాడుకోండి",
+                    "రోజువారీ జీవితంలో ఆచరణాత్మక ఆధ్యాత్మిక మార్గదర్శకత్వాన్ని అందించండి",
+                    "నేర్చుకోవడం మరియు అర్థం చేసుకోవడం కోసం ప్రపంచ వేదికను సృష్టించండి"
+                ]
+            },
+            {
+                "title": "మీరు ఇక్కడ ఏమి కనుగొంటారు",
+                "id": "ఏమి-మేము-ఆఫర్",
+                "points": [
+                    "వేద భావనల ప్రారంభకులకు అనుకూలమైన వివరణలు",
+                    "వేదాలు, ఉపనిషత్తులు మరియు భగవద్గీత సారాంశాలు",
+                    "కర్మ, ధర్మం మరియు ధ్యానంపై ఆచరణాత్మక మార్గదర్శకత్వం",
+                    "ఆధునిక జీవితానికి ఆధ్యాత్మిక బోధనలు వివరించారు"
+                ]
+            },
+            {
+                "title": "మేము ఈ వెబ్‌సైట్‌ను ఎందుకు సృష్టించాము",
+                "content": "సంక్లిష్టమైన భాష మరియు చెదురుమదురు వనరుల కారణంగా చాలా మందికి సనాతన ధర్మాన్ని అర్థం చేసుకోవడం కష్టం. ఈ ప్లాట్‌ఫారమ్ పురాతన బోధనలను సులభతరం చేస్తుంది మరియు ప్రపంచ ప్రేక్షకుల కోసం నిర్మాణాత్మకమైన మరియు ప్రాప్యత చేయగల ఆకృతిలో వాటిని అందిస్తుంది.",
+                "id": "ఎందుకు-ఈ-వెబ్‌సైట్"
+            },
+            {
+                "title": "ఈరోజు సనాతన ధర్మం ఎందుకు ముఖ్యం",
+                "content": "నేటి ప్రపంచంలో, సనాతన ధర్మం మానసిక స్పష్టత, నైతిక జీవనం మరియు అంతర్గత శాంతి కోసం మార్గదర్శకత్వం అందిస్తుంది. దీని బోధనలు వ్యక్తులు ఒత్తిడిని నావిగేట్ చేయడానికి, మంచి నిర్ణయాలు తీసుకోవడానికి మరియు అర్థవంతమైన జీవితాన్ని గడపడానికి సహాయపడతాయి.",
+                "id": "ప్రాముఖ్యత-ఈనాడు"
             }
-          ]
+        ],
+        "student_life": "విద్యార్థి జీవితం - అభ్యాసం & క్రమశిక్షణ",
+        "vanapras": "వానప్రస్థ",
+        "vision": {
+            "description": "సనాతన ధర్మం యొక్క ఆవశ్యక బోధనలు, భక్తి సాహిత్యం, ఆచార జ్ఞానం మరియు ఆచరణాత్మక మార్గదర్శకాలను భద్రపరిచే విశ్వసనీయమైన, చక్కగా క్యూరేటెడ్ డిజిటల్ రిపోజిటరీగా సేవలందించడం, వాటిని ప్రస్తుత మరియు భవిష్యత్తు తరాలకు అందుబాటులోకి, అర్థమయ్యేలా మరియు ఉపయోగపడేలా చేయడం.",
+            "focusareas": [
+                "బహుభాషా కంటెంట్ సంస్కృతం, ప్రాంతీయ భారతీయ భాషలు మరియు ఆంగ్లంలో విస్తరించి ఉంది",
+                "లిప్యంతరీకరణ మరియు ఆడియో మద్దతుతో భక్తి స్తోత్రాలు, మంత్రాలు మరియు రోజువారీ ప్రార్థనలు",
+                "వివరణాత్మక పూజ-విధులు, పండుగ మార్గదర్శకాలు మరియు గృహ ఆచార సూచనలు",
+                "ఉపనిషత్తులు, భగవద్గీత, పురాణాలు మరియు శాస్త్రీయ వ్యాఖ్యానాల నుండి తాత్విక భావనల స్పష్టమైన వివరణలు",
+                "ప్రత్యక్ష అభ్యాసం మరియు నైతిక జీవితానికి గ్రంథాన్ని అనుసంధానించే సందర్భోచిత వ్యాసాలు",
+                "అధికారిక ఎడిషన్‌లకు అనులేఖనాలతో శోధించదగిన, బాగా జాబితా చేయబడిన ఆర్కైవ్‌లు"
+            ],
+            "goal": "తరతరాలుగా అభ్యాసకులు, అభ్యాసకులు మరియు పండితులకు మద్దతునిస్తూ, అధ్యయనం మరియు అభ్యాసం కోసం ఆచరణాత్మక మార్గాలను అందించడంతోపాటు విలువైన గ్రంథాలను భద్రపరిచే శాశ్వత డిజిటల్ లైబ్రరీని నిర్మించడం."
+        },
+        "whywecreated": {
+            "problemsaddressed": [
+                "ముఖ్యమైన టెక్స్ట్‌లను కనుగొనడం కష్టం, అస్థిరమైన లేదా పేలవంగా డిజిటైజ్ చేయబడిన సంస్కరణలు",
+                "బహుళ సైట్‌లు మరియు ఫార్మాట్‌లలో వనరుల విభజన",
+                "అభ్యాసకులకు అందుబాటులో ఉన్న అనువాదాలు మరియు లిప్యంతరీకరణ లేకపోవడం",
+                "రోజువారీ జీవితంలో కర్మ మరియు తాత్విక బోధనలను వర్తింపజేయడానికి తగినంత సందర్భోచిత మార్గదర్శకత్వం లేదు",
+                "నాన్-స్పెషలిస్ట్‌లు ముందస్తు శిక్షణ లేకుండా గ్రంథాన్ని చేరుకోవడానికి అడ్డంకులు"
+            ],
+            "purpose": "విశ్వసనీయమైన మెటీరియల్‌లను కేంద్రీకరించడానికి మరియు పాఠకులు ఉత్సుకత నుండి అర్ధవంతమైన అభ్యాసానికి వెళ్లడానికి సహాయపడే లేయర్డ్ వివరణలను అందించడానికి మేము సనాతనధర్మం.ఇన్‌ని సృష్టించాము. క్లీన్ డిజిటల్ ఎడిషన్‌లు, జాగ్రత్తగా అనువాదాలు, లిప్యంతరీకరణ సహాయాలు, ఆచరణాత్మక కర్మ మార్గదర్శకాలు మరియు సానుభూతితో కూడిన వివరణలను కలపడం ద్వారా, సంప్రదాయం యొక్క లోతు మరియు వైవిధ్యాన్ని గౌరవిస్తూ ప్రవేశానికి అడ్డంకిని తగ్గించాలని మేము ఆశిస్తున్నాము."
+        },
+        "schema": {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "పేజీ గురించి",
+                    "name": "సనాతనధర్మం గురించి",
+                    "url": "https://sanatanadharmam.in/about"
+                },
+                {
+                    "description": "సనాతన ధర్మం, దాని మూలం, తత్వశాస్త్రం మరియు ఉద్దేశ్యాన్ని వివరించే పూర్తి గైడ్.",
+                    "@type": "వ్యాసం",
+                    "author": {
+                        "@type": "సంస్థ",
+                        "name": "సనాతనధర్మం"
+                    },
+                    "headline": "సనాతన ధర్మం గురించి: అర్థం, చరిత్ర & తత్వశాస్త్రం"
+                },
+                {
+                    "@type": "FAQపేజీ",
+                    "mainEntity": [
+                        {
+                            "@type": "ప్రశ్న",
+                            "acceptedAnswer": {
+                                "@type": "సమాధానం",
+                                "text": "సనాతన ధర్మం అనేది ధర్మం, కర్మ, మోక్షం ఆధారంగా నిత్య జీవన విధానం."
+                            },
+                            "name": "సనాతన ధర్మం అంటే ఏమిటి?"
+                        },
+                        {
+                            "@type": "ప్రశ్న",
+                            "acceptedAnswer": {
+                                "@type": "సమాధానం",
+                                "text": "దీనికి స్థాపకుడు లేడు మరియు వేల సంవత్సరాలుగా అభివృద్ధి చెందింది."
+                            },
+                            "name": "సనాతన ధర్మాన్ని ఎవరు స్థాపించారు?"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
     }
-  }
 }

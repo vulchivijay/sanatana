@@ -6,7 +6,7 @@
       "title": "Ramayana - Complete Epic Overview, Kandas, Characters & Teachings",
       "description": "Explore the Ramayana, the ancient Indian epic attributed to Valmiki. Discover its 7 kandas, key characters like Rama, Sita, and Hanuman, and its deep moral and philosophical teachings.",
       "author": "valmiki",
-      "canonical": "https://yourdomain.com/ramayana",
+      "canonical": "https://sanatanadharmam.in/itihasa/ramayana",
       "content_type": "text/html; charset=UTF-8",
       "keywords": [
         "ramayana",
@@ -2784,12 +2784,12 @@
     ],
     "open_graph": {
       "og:description": "Discover the Ramayana: the journey of Rama, Sita's devotion, Hanuman's valor, and the battle against Ravana.",
-      "og:image": "https://yourdomain.com/images/ramayana-cover.jpg",
+      "og:image": "https://sanatanadharmam.in/images/ramayana-cover.jpg",
       "og:locale": "en_US",
       "og:site_name": "Vedic Knowledge Hub",
       "og:title": "Ramayana - The Epic of Dharma, Devotion, and Duty",
       "og:type": "book",
-      "og:url": "https://yourdomain.com/ramayana"
+      "og:url": "https://sanatanadharmam.in/itihasa/ramayana"
     },
     "schema_org": {
       "description": "The Ramayana is one of the greatest ancient Indian epics narrating the life of Rama, his exile, the abduction of Sita by Ravana, and the eventual victory of good over evil.",
@@ -2887,7 +2887,7 @@
     "twitter_card": {
       "twitter:card": "summary_large_image",
       "twitter:description": "Understand the Ramayana: kandas, characters, moral values, and timeless lessons of dharma.",
-      "twitter:image": "https://yourdomain.com/images/ramayana-cover.jpg",
+      "twitter:image": "https://sanatanadharmam.in/images/ramayana-cover.jpg",
       "twitter:title": "Ramayana - Story of Rama, Sita & Hanuman"
     }
   }

@@ -92,7 +92,7 @@ function NavColumn({ title, links, icon, iconBg }: {
         <button
           type="button"
           onClick={() => setExpanded(prev => !prev)}
-          className="mt-1 flex items-center gap-1 px-2 text-md sm:text-base text-indigo-700 hover:text-pink-600 transition-all duration-300 cursor-pointer animate-fadeIn"
+          className="mt-1 flex items-center gap-1 px-2 text-sm text-indigo-700 hover:text-pink-600 transition-all duration-300 cursor-pointer animate-fadeIn"
           aria-expanded={expanded}
         >
           {/* ${links.length - INITIAL_VISIBLE} */}

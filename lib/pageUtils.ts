@@ -113,6 +113,41 @@ export function createGenerateMetadata(metaKey: string, titleKey?: string, descr
     }
   }
 
+  function canonicalPathFromMetaKey(key: string): string {
+    const raw = String(key || '').trim();
+    if (!raw || raw === 'home') return '/';
+
+    let cleaned = raw.replace(/^\/+/, '');
+    if (cleaned.endsWith('/index')) {
+      cleaned = cleaned.slice(0, -'/index'.length);
+    }
+    if (!cleaned) return '/';
+    return `/${cleaned}`;
+  }
+
+  function isSameHost(url: string, baseUrl: string): boolean {
+    try {
+      return new URL(url).host === new URL(baseUrl).host;
+    } catch (_) {
+      return false;
+    }
+  }
+
+  function sanitizeCanonical(rawCanonical: unknown, fallbackCanonical: string, baseUrl: string): string {
+    const raw = typeof rawCanonical === 'string' ? rawCanonical.trim() : (rawCanonical != null ? String(rawCanonical).trim() : '');
+    if (!raw) return fallbackCanonical;
+
+    // Ignore common placeholder values that should never be emitted.
+    if (/yourdomain\.com/i.test(raw)) return fallbackCanonical;
+
+    // If canonical is off-domain, prefer a same-origin canonical for indexing safety.
+    if ((raw.startsWith('http://') || raw.startsWith('https://')) && !isSameHost(raw, baseUrl)) {
+      return fallbackCanonical;
+    }
+
+    return raw;
+  }
+
   function unwrapPageObject(rawNs: unknown): Record<string, unknown> {
     if (!isPlainObject(rawNs)) return {};
 
@@ -218,9 +253,12 @@ export function createGenerateMetadata(metaKey: string, titleKey?: string, descr
       description = firstString(meta.description, (pageObj as any).description, (openGraph as any).description, schemaFallback.description);
     }
 
-    // Canonical (prefer meta.canonical, then meta.url, then openGraph.url, then schema.url)
+    // Canonical (prefer locale value, but sanitize placeholders/off-domain values).
+    const canonicalFallback = `${baseUrl}${canonicalPathFromMetaKey(metaKey)}`;
+    const canonicalCandidate =
+      (meta as any).canonical || (meta as any).url || (openGraph as any).url || schemaFallback.url;
     const canonical = normalizeCanonical(
-      (meta as any).canonical || (meta as any).url || (openGraph as any).url || schemaFallback.url || secrets.NEXT_PUBLIC_SITE_URL || 'https://sanatanadharmam.in'
+      sanitizeCanonical(canonicalCandidate, canonicalFallback, baseUrl)
     );
 
     // OpenGraph
@@ -257,7 +295,10 @@ export function createGenerateMetadata(metaKey: string, titleKey?: string, descr
 
     // const ogTitle = firstString((openGraph as any).title, title, meta.title, (pageObj as any).title, schemaFallback.title);
     // const ogDescription = firstString((openGraph as any).description, description, meta.description, (pageObj as any).description, schemaFallback.description);
-    const ogUrl = normalizeCanonical((openGraph as any).url || (meta as any).url || canonical);
+    const ogCandidate = (openGraph as any).url || (meta as any).url || canonical;
+    const ogUrl = normalizeCanonical(
+      sanitizeCanonical(ogCandidate, canonical || canonicalFallback, baseUrl)
+    );
     // const ogSiteName = firstString((openGraph as any).siteName, 'Sanatanadharmam');
     // const ogType = firstString((openGraph as any).type, 'website');
 

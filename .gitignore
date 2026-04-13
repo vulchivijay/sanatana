@@ -56,6 +56,9 @@ tmp
 public/critical-home.css
 .merge-json-errors
 .venv
+.vscode/
+public/data/audit-report-csv
+public/data/audit-report-json
 
 # Additional build / cache artifacts
 .cache/

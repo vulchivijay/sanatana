@@ -1,532 +1,532 @@
 {
-  "home": {
-    "title": "Sanatana Dharma Explained: Complete Guide to Vedas, Upanishads & Hindu Philosophy",
-    "description": "What is Sanatana Dharma? What is Santan Dharma? A complete beginner-friendly guide to Vedas, Upanishads, Bhagavad Gita, karma, dharma, and Hindu philosophy. Learn timeless spiritual wisdom.",
-    "meta": {
-      "title": "Sanatana Dharma Explained – Complete Guide to Vedas, Gita & Hindu Philosophy",
-      "description": "Discover Sanatana Dharma in simple terms. Learn Vedas, Upanishads, Bhagavad Gita, karma, dharma, moksha, and Hindu philosophy with practical explanations.",
-      "canonical": "https://sanatanadharmam.in",
-      "keywords": [
-        "what is sanatana dharma",
-        "About Sanatana Dharma",
-        "sanatana dharma meaning",
-        "hinduism explained simply",
-        "vedas summary",
-        "upanishads meaning",
-        "bhagavad gita teachings",
-        "karma and dharma explained",
-        "moksha meaning",
-        "hindu philosophy basics",
-        "ancient indian philosophy",
-        "spiritual wisdom india",
-        "sanatana dharma for beginners",
-        "difference between hinduism and sanatana dharma",
-        "life purpose in hinduism",
-        "vedic knowledge explained",
-        "what is sanatan dharma?",
-        "sanatana dharma",
-        "hinduism",
-        "vedas",
-        "upanishads",
-        "bhagavad gita",
-        "karma",
-        "dharma",
-        "moksha",
-        "hindu philosophy",
-        "ancient indian philosophy",
-        "spiritual wisdom india",
-        "sanatana dharma for beginners",
-        "difference between hinduism and sanatana dharma",
-        "life purpose in hinduism",
-        "vedic knowledge explained",
-        "Bharat",
-        "Bharat mata ki jai"
-      ]
-    },
-    "openGraph": {
-      "title": "Sanatana Dharma Explained: Beginner to Advanced Guide",
-      "description": "Explore Vedas, Upanishads, Bhagavad Gita, karma, and dharma with clear explanations. A complete guide to Sanatana Dharma.",
-      "images": [
-        {
-          "alt": "Sanatana Dharma Guide",
-          "height": 630,
-          "url": "https://sanatanadharmam.in/images/og/home.png",
-          "width": 1200
-        }
-      ],
-      "siteName": "Sanatanadharmam",
-      "type": "website",
-      "url": "https://sanatanadharmam.in"
-    },
-    "schema": {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "WebSite",
-          "name": "Sanatanadharmam",
-          "potentialAction": {
-            "@type": "SearchAction",
-            "query-input": "required name=search_term_string",
-            "target": "https://sanatanadharmam.in/search?q={search_term_string}"
-          },
-          "url": "https://sanatanadharmam.in"
+    "home": {
+        "title": "సనాతన ధర్మం వివరించబడింది: వేదాలు, ఉపనిషత్తులు & హిందూ తత్వశాస్త్రానికి పూర్తి మార్గదర్శి",
+        "description": "సనాతన ధర్మం అంటే ఏమిటి? సంతానం ధర్మం అంటే ఏమిటి? వేదాలు, ఉపనిషత్తులు, భగవద్గీత, కర్మ, ధర్మం మరియు హిందూ తత్వశాస్త్రాలకు పూర్తి ప్రారంభ-స్నేహపూర్వక గైడ్. కాలాతీతమైన ఆధ్యాత్మిక జ్ఞానాన్ని నేర్చుకోండి.",
+        "meta": {
+            "title": "సనాతన ధర్మం వివరించబడింది - వేదాలు, గీత & హిందూ తత్వశాస్త్రానికి పూర్తి గైడ్",
+            "description": "సనాతన ధర్మాన్ని సరళంగా కనుగొనండి. వేదాలు, ఉపనిషత్తులు, భగవద్గీత, కర్మ, ధర్మం, మోక్షం మరియు హిందూ తత్వశాస్త్రాన్ని ఆచరణాత్మక వివరణలతో నేర్చుకోండి.",
+            "canonical": "https://sanatanadharmam.in",
+            "keywords": [
+                "సనాతన ధర్మం అంటే ఏమిటి",
+                "సనాతన ధర్మం గురించి",
+                "సనాతన ధర్మం అర్థం",
+                "హిందూ మతం సరళంగా వివరించబడింది",
+                "వేదాల సారాంశం",
+                "ఉపనిషత్తుల అర్థం",
+                "భగవద్గీత బోధనలు",
+                "కర్మ మరియు ధర్మాన్ని వివరించారు",
+                "మోక్ష అర్థం",
+                "హిందూ ఫిలాసఫీ బేసిక్స్",
+                "ప్రాచీన భారతీయ తత్వశాస్త్రం",
+                "ఆధ్యాత్మిక జ్ఞానం భారతదేశం",
+                "ప్రారంభకులకు సనాతన ధర్మం",
+                "హిందూ మతం మరియు సనాతన ధర్మం మధ్య వ్యత్యాసం",
+                "హిందూమతంలో జీవిత లక్ష్యం",
+                "వేద జ్ఞానాన్ని వివరించారు",
+                "సనాతన ధర్మం అంటే ఏమిటి?",
+                "సనాతన ధర్మం",
+                "హిందూమతం",
+                "వేదాలు",
+                "ఉపనిషత్తులు",
+                "భగవద్గీత",
+                "కర్మ",
+                "ధర్మము",
+                "మోక్షము",
+                "హిందూ తత్వశాస్త్రం",
+                "ప్రాచీన భారతీయ తత్వశాస్త్రం",
+                "ఆధ్యాత్మిక జ్ఞానం భారతదేశం",
+                "ప్రారంభకులకు సనాతన ధర్మం",
+                "హిందూ మతం మరియు సనాతన ధర్మం మధ్య వ్యత్యాసం",
+                "హిందూమతంలో జీవిత లక్ష్యం",
+                "వేద జ్ఞానాన్ని వివరించారు",
+                "భరత్",
+                "భారత్ మాతా కీ జై"
+            ]
         },
-        {
-          "@type": "Organization",
-          "logo": "https://sanatanadharmam.in/images/logo.png",
-          "name": "Sanatanadharmam",
-          "url": "https://sanatanadharmam.in"
+        "openGraph": {
+            "title": "సనాతన ధర్మం వివరించబడింది: బిగినర్ టు అడ్వాన్స్‌డ్ గైడ్",
+            "description": "వేదాలు, ఉపనిషత్తులు, భగవద్గీత, కర్మ మరియు ధర్మాలను స్పష్టమైన వివరణలతో అన్వేషించండి. సనాతన ధర్మానికి పూర్తి మార్గదర్శి.",
+            "images": [
+                {
+                    "alt": "Sanatana Dharma Guide",
+                    "height": 630,
+                    "url": "https://sanatanadharmam.in/images/og/home.png",
+                    "width": 1200
+                }
+            ],
+            "siteName": "సనాతనధర్మం",
+            "type": "వెబ్సైట్",
+            "url": "https://sanatanadharmam.in"
         },
-        {
-          "description": "A detailed guide explaining Sanatana Dharma, its philosophy, scriptures, and relevance today.",
-          "@type": "Article",
-          "author": {
-            "@type": "Organization",
-            "name": "Sanatanadharmam"
-          },
-          "headline": "What is Sanatana Dharma? Complete Guide",
-          "publisher": {
-            "@type": "Organization",
-            "logo": {
-              "@type": "ImageObject",
-              "url": "https://sanatanadharmam.in/images/logo.png"
-            },
-            "name": "Sanatanadharmam"
-          }
+        "schema": {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "వెబ్‌సైట్",
+                    "name": "సనాతనధర్మం",
+                    "potentialAction": {
+                        "@type": "శోధన చర్య",
+                        "query-input": "అవసరమైన పేరు=search_term_string",
+                        "target": "https://sanatanadharmam.in/search?q={search_term_string}"
+                    },
+                    "url": "https://sanatanadharmam.in"
+                },
+                {
+                    "@type": "సంస్థ",
+                    "logo": "https://sanatanadharmam.in/images/logo.png",
+                    "name": "సనాతనధర్మం",
+                    "url": "https://sanatanadharmam.in"
+                },
+                {
+                    "description": "సనాతన ధర్మం, దాని తత్వశాస్త్రం, గ్రంథాలు మరియు నేటి ఔచిత్యాన్ని వివరించే వివరణాత్మక గైడ్.",
+                    "@type": "వ్యాసం",
+                    "author": {
+                        "@type": "సంస్థ",
+                        "name": "సనాతనధర్మం"
+                    },
+                    "headline": "సనాతన ధర్మం అంటే ఏమిటి? పూర్తి గైడ్",
+                    "publisher": {
+                        "@type": "సంస్థ",
+                        "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://sanatanadharmam.in/images/logo.png"
+                        },
+                        "name": "సనాతనధర్మం"
+                    }
+                },
+                {
+                    "@type": "FAQపేజీ",
+                    "mainEntity": [
+                        {
+                            "@type": "ప్రశ్న",
+                            "acceptedAnswer": {
+                                "@type": "సమాధానం",
+                                "text": "సనాతన ధర్మం అనేది ధర్మం, కర్మ మరియు మోక్షాలపై దృష్టి సారించే వేద జ్ఞానంలో పాతుకుపోయిన శాశ్వతమైన జీవన విధానం."
+                            },
+                            "name": "సనాతన ధర్మం అంటే ఏమిటి?"
+                        },
+                        {
+                            "@type": "ప్రశ్న",
+                            "acceptedAnswer": {
+                                "@type": "సమాధానం",
+                                "text": "సనాతన ధర్మం అసలైన తాత్విక పునాది, అయితే హిందూమతం అనేది ఆధునిక సందర్భంలో ఉపయోగించే విస్తృత పదం."
+                            },
+                            "name": "సనాతన ధర్మం అంటే హిందూ ధర్మమా?"
+                        },
+                        {
+                            "@type": "ప్రశ్న",
+                            "acceptedAnswer": {
+                                "@type": "సమాధానం",
+                                "text": "ప్రధాన బోధనలలో ధర్మం (కర్తవ్యం), కర్మ (చర్య), మోక్షం (విముక్తి) మరియు స్వీయ సాక్షాత్కారం ఉన్నాయి."
+                            },
+                            "name": "సనాతన ధర్మం యొక్క ప్రధాన బోధనలు ఏమిటి?"
+                        }
+                    ]
+                }
+            ]
         },
-        {
-          "@type": "FAQPage",
-          "mainEntity": [
-            {
-              "@type": "Question",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Sanatana Dharma is the eternal way of life rooted in Vedic wisdom, focusing on dharma, karma, and moksha."
-              },
-              "name": "What is Sanatana Dharma?"
+        "welcome": {
+            "clarity_devotion": "స్పష్టత, భక్తి మరియు దైవిక దయ",
+            "close": "మూసివేయి",
+            "deeply_honored": "ఇక్కడ మీ ఉనికిని బట్టి మేము ఎంతో గౌరవించబడ్డాము మరియు ఆశీర్వదించబడ్డాము.",
+            "do_not": "ఈ స్వాగత సందేశాన్ని మళ్లీ చూపవద్దు",
+            "eternal_truths": "సనాతన ధర్మం యొక్క శాశ్వతమైన సత్యాలు",
+            "may_journey": "ఈ పురాతన బోధనల ద్వారా మీ ప్రయాణం మిమ్మల్ని తీసుకురావాలి",
+            "namaste_welcome": "నమస్తే & స్వాగతం",
+            "thank_taking": "అర్థం చేసుకోవడానికి మరియు స్వీకరించడానికి ఈ పవిత్రమైన అడుగు వేసినందుకు ధన్యవాదాలు",
+            "timeless_wisdom": "- అంతర్గత శాంతి, ధర్మం మరియు ఆధ్యాత్మిక మేల్కొలుపు మార్గాన్ని ప్రకాశింపజేసే కాలాతీత జ్ఞానం.",
+            "truth_alone": "సత్యం ఒక్కటే విజయం సాధిస్తుంది · ధర్మాన్ని రక్షించేవారిని ధర్మం రక్షిస్తుంది"
+        },
+        "hero": {
+            "description": "సనాతన ధర్మం అనేది భారతదేశం యొక్క పురాతన ఆధ్యాత్మిక తత్వశాస్త్రం, ఇది జీవితం, ప్రయోజనం, కర్మ మరియు విముక్తిని వివరిస్తుంది. వేదాలు, ఉపనిషత్తులు మరియు భగవద్గీత ద్వారా దాని బోధనలను సరళంగా మరియు ఆచరణాత్మకంగా కనుగొనండి.",
+            "heading": "సనాతన ధర్మాన్ని వివరించారు",
+            "primarycta": {
+                "label": "సనాతన ధర్మాన్ని నేర్చుకోవడం ప్రారంభించండి",
+                "link": "sanatanadharma"
             },
-            {
-              "@type": "Question",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Sanatana Dharma is the original philosophical foundation, while Hinduism is a broader term used in modern context."
-              },
-              "name": "Is Sanatana Dharma the same as Hinduism?"
+            "secondarycta": {
+                "label": "లేఖనాలను అన్వేషించండి",
+                "link": "itihasa"
             },
-            {
-              "@type": "Question",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Core teachings include dharma (duty), karma (action), moksha (liberation), and realization of the self."
-              },
-              "name": "What are the main teachings of Sanatana Dharma?"
+            "subheading": "ది ఎటర్నల్ వే ఆఫ్ లైఫ్",
+            "supporting_points": [
+                "ఆచరణాత్మక రోజువారీ జీవనంతో ఆధ్యాత్మిక జ్ఞానాన్ని మిళితం చేస్తుంది",
+                "అంతర్గత జీవితం (మనస్సు, ఆత్మ) మరియు బాహ్య జీవితం (చర్యలు, సమాజం) రెండింటినీ అర్థం చేసుకోవడంలో సహాయపడుతుంది",
+                "నేపథ్యం లేదా నమ్మకంతో సంబంధం లేకుండా ప్రజలందరికీ వర్తిస్తుంది",
+                "బ్లైండ్ ఫాలోయింగ్ కంటే స్వీయ-ఆవిష్కరణను ప్రోత్సహిస్తుంది"
+            ],
+            "user_benefits": [
+                "జీవిత లక్ష్యం మరియు దిశ గురించి స్పష్టత పొందండి",
+                "చర్యలు భవిష్యత్తు ఫలితాలను ఎలా ప్రభావితం చేస్తాయో తెలుసుకోండి",
+                "ప్రశాంతత మరియు భావోద్వేగ సమతుల్యతను అభివృద్ధి చేయండి",
+                "అర్థవంతమైన మరియు విలువ ఆధారిత జీవితాన్ని నిర్మించుకోండి"
+            ],
+            "key_concepts_preview": [
+                "ధర్మం: సరైన జీవన విధానం",
+                "కర్మ: చర్య మరియు ఫలితం యొక్క చట్టం",
+                "మోక్షం: బాధ నుండి విముక్తి",
+                "ఆత్మ: శరీరం మరియు మనస్సుకు మించిన నిజమైన నేనే"
+            ],
+            "engagement_hooks": [
+                "సాధారణ ఆలోచనలతో ప్రారంభించండి మరియు దశలవారీగా లోతుగా ఎదగండి",
+                "మీరు రోజువారీ జీవితంలో వెంటనే దరఖాస్తు చేసుకోగల భావనలను నేర్చుకోండి",
+                "ఆధునిక సందర్భంలో ప్రాచీన జ్ఞానాన్ని అర్థం చేసుకోండి",
+                "తత్వశాస్త్రం మరియు ఆచరణాత్మక మార్గదర్శకత్వం రెండింటినీ అన్వేషించండి"
+            ],
+            "cta_context": {
+                "primarycta_reason": "నిర్మాణాత్మక అభ్యాసాన్ని ప్రారంభించడం ప్రారంభకులకు ఉత్తమమైనది",
+                "secondarycta_reason": "అసలు బోధనలు మరియు లోతైన జ్ఞానాన్ని అన్వేషించండి"
             }
-          ]
-        }
-      ]
-    },
-    "welcome": {
-      "clarity_devotion": "clarity, devotion, and divine grace",
-      "close": "Close",
-      "deeply_honored": "We are deeply honored and blessed by your presence here.",
-      "do_not": "Do not show this welcome message again",
-      "eternal_truths": "eternal truths of Sanātana Dharma",
-      "may_journey": "May your journey through these ancient teachings bring you",
-      "namaste_welcome": "Namaste & Welcome",
-      "thank_taking": "Thank you for taking this sacred step towards understanding and embracing the",
-      "timeless_wisdom": "— the timeless wisdom that illuminates the path to inner peace, righteousness, and spiritual awakening.",
-      "truth_alone": "Truth Alone Triumphs · Dharma Protects Those Who Protect It"
-    },
-    "hero": {
-      "description": "Sanatana Dharma is the ancient spiritual philosophy of India that explains life, purpose, karma, and liberation. Discover its teachings through the Vedas, Upanishads, and Bhagavad Gita in a simple and practical way.",
-      "heading": "Sanatana Dharma Explained",
-      "primarycta": {
-        "label": "Start Learning Sanatana Dharma",
-        "link": "sanatanadharma"
-      },
-      "secondarycta": {
-        "label": "Explore Scriptures",
-        "link": "itihasa"
-      },
-      "subheading": "The Eternal Way of Life",
-      "supporting_points": [
-        "Combines spiritual wisdom with practical daily living",
-        "Helps understand both inner life (mind, soul) and outer life (actions, society)",
-        "Applies to all people regardless of background or belief",
-        "Encourages self-discovery rather than blind following"
-      ],
-      "user_benefits": [
-        "Gain clarity about life purpose and direction",
-        "Learn how actions influence future outcomes",
-        "Develop calmness and emotional balance",
-        "Build a meaningful and value-based life"
-      ],
-      "key_concepts_preview": [
-        "Dharma: Right way of living",
-        "Karma: Law of action and result",
-        "Moksha: Freedom from suffering",
-        "Atman: True self beyond body and mind"
-      ],
-      "engagement_hooks": [
-        "Start with simple ideas and grow deeper step by step",
-        "Learn concepts you can apply immediately in daily life",
-        "Understand ancient wisdom in modern context",
-        "Explore both philosophy and practical guidance"
-      ],
-      "cta_context": {
-        "primarycta_reason": "Best for beginners to start structured learning",
-        "secondarycta_reason": "Explore original teachings and deeper knowledge"
-      }
-    },
-    "clarity_devotion": "clarity, devotion, and divine grace",
-    "close": "Close",
-    "cta": {
-      "title": "Help us make this website multilingual!",
-      "badge": "Supported: EN, TA, HI",
-      "contribute": "Contribute Now",
-      "guidelines": "Translation Guidelines",
-      "subtitle": "Your contribution makes our website accessible to everyone. Join our global community of translators."
-    },
-    "deeply_honored": "We are deeply honored and blessed by your presence here.",
-    "do_not": "Do not show this welcome message again",
-    "earth_age_comparison_note": "1 Kalpa (4.32 billion years) is surprisingly close to the modern scientific estimate of Earth's age (~4.54 billion years).",
-    "eternal_truths": "eternal truths of Sanātana Dharma",
-    "faqs": {
-      "title": "Frequently Asked Questions",
-      "questions": [
-        {
-          "answer": "Sanatana Dharma is the original eternal philosophy, while Hinduism is a modern term used to describe related traditions.",
-          "question": "What is the difference between Sanatana Dharma and Hinduism?"
         },
-        {
-          "answer": "It is more than a religion. It is a way of life and a philosophical system guiding human existence.",
-          "question": "Is Sanatana Dharma a religion?"
+        "clarity_devotion": "స్పష్టత, భక్తి మరియు దైవిక దయ",
+        "close": "మూసివేయి",
+        "cta": {
+            "title": "ఈ వెబ్‌సైట్‌ను బహుభాషా చేయడానికి మాకు సహాయం చేయండి!",
+            "badge": "మద్దతు ఉంది: EN, TA, HI",
+            "contribute": "ఇప్పుడే సహకరించండి",
+            "guidelines": "అనువాద మార్గదర్శకాలు",
+            "subtitle": "మీ సహకారం మా వెబ్‌సైట్‌ని అందరికీ అందుబాటులోకి తెచ్చింది. మా ప్రపంచ అనువాదకుల సంఘంలో చేరండి."
         },
-        {
-          "answer": "The ultimate goal is moksha, or liberation from the cycle of birth and rebirth.",
-          "question": "What is the goal of life in Sanatana Dharma?"
-        }
-      ]
-    },
-    "may_journey": "May your journey through these ancient teachings bring you",
-    "namaste_welcome": "Namaste & Welcome",
-    "ourfourcoreyugas": [
-      {
-        "name": "Satya Yuga",
-        "subtitle": "Dharma age",
-        "years": "1,728,000 years",
-        "gradientfrom": "from-amber-700",
-        "gradientto": "to-orange-600",
-        "description": [
-          "This is the first and most pure age where truth (satya) and righteousness (dharma) are at 100%",
-          "People are naturally good, honest, and follow moral values without being taught",
-          "There is no crime, no greed, and no suffering in society",
-          "Humans live very long lives (thousands of years) and have strong physical and mental health",
-          "People are deeply spiritual and have direct connection with the divine (God)",
-          "Meditation and inner realization are the main practices, not rituals",
-          "Nature is balanced and peaceful; no natural disasters or imbalance",
-          "Society does not need strict rules or laws because everyone follows dharma naturally"
-        ]
-      },
-      {
-        "name": "Treta Yuga",
-        "subtitle": "Divine age",
-        "years": "1,296,000 years",
-        "gradientfrom": "from-orange-500",
-        "gradientto": "to-amber-400",
-        "description": [
-          "Dharma reduces slightly to about 75%, meaning some decline in truth and purity",
-          "People begin to develop ego, desires, and social hierarchy",
-          "This is the age of the great epic ",
-          "Divine incarnations like Lord Rama appear to restore dharma",
-          "People still follow spiritual practices, but more structured rituals and sacrifices (yajnas) begin",
-          "Lifespans are still long but shorter than Satya Yuga",
-          "Society starts forming kingdoms, rules, and systems of governance",
-          "Good and evil both exist, but good is still dominant"
-        ]
-      },
-      {
-        "name": "Dvapara Yuga",
-        "subtitle": "Dharma age",
-        "years": "864,000 years",
-        "gradientfrom": "from-rose-500",
-        "gradientto": "to-orange-500",
-        "description": [
-          "Dharma is reduced to 50%, meaning balance between good and bad",
-          "This is the age of the epic  and the teachings of Bhagavad Gita",
-          "Conflicts, wars, and complexity in life increase significantly",
-          "People become more materialistic and less spiritually aware",
-          "Temples, idol worship, and external rituals become more common",
-          "Human lifespan and strength decrease further",
-          "Knowledge is still present, but people struggle to follow it completely",
-          "Divine incarnations like Lord Krishna appear to guide humanity"
-        ]
-      },
-      {
-        "name": "Kali Yuga",
-        "subtitle": "Folk age",
-        "years": "432,000 years",
-        "gradientfrom": "from-red-700",
-        "gradientto": "to-rose-700",
-        "description": [
-          "This is the current age, where dharma is only 25% remaining",
-          "Materialism, ignorance, greed, and conflict dominate society",
-          "Truth is often ignored, and falsehood becomes common",
-          "People have shorter lifespans, weaker health, and more stress",
-          "Spiritual understanding is low, and distractions are very high",
-          "Following dharma becomes difficult, but still possible with effort",
-          "Simple practices like devotion (bhakti), chanting, and remembering God are most effective",
-          "Even though it is a dark age, liberation (moksha) is still possible for sincere seekers"
-        ]
-      }
-    ],
-    "ourfourcoreyugassubtitle": "The eternal and universal way of life based on truth, righteousness, and spiritual principles that uphold cosmic order. These numbers are not random. They are derived from a base unit of 432,000, multiplied proportionally (4: 3: 2: 1). One Full Day of Brahma: Lifetime of Brahma - 100 Brahma years - Each year = 360 days - Each day = 4 yugas (ages) - Total = 311,040,000,000 human years.",
-    "ourfourcoreyugastitle": "Explore Sanātana Dharma",
-    "scaling_comment": "This mathematical scaling is highly structured and proportional across all cosmic levels.",
-    "sections": [
-      {
-        "title": "What is Sanatana Dharma?",
-        "id": "what-is-sanatana-dharma",
-        "nodecaration": true,
-        "src": "/images/home/om.png",
-        "content": "Sanatana Dharma means the 'eternal way of living.' It is not just a religion, but a way of understanding life, nature, and the universe. It teaches how to live in harmony with truth and cosmic order.",
-        "insights": [
-          "Focuses on understanding reality rather than following fixed rules",
-          "Encourages questioning and personal experience of truth",
-          "Sees life as a journey of learning and inner growth",
-          "Teaches that happiness comes from alignment with truth, not external things"
+        "deeply_honored": "ఇక్కడ మీ ఉనికిని బట్టి మేము ఎంతో గౌరవించబడ్డాము మరియు ఆశీర్వదించబడ్డాము.",
+        "do_not": "ఈ స్వాగత సందేశాన్ని మళ్లీ చూపవద్దు",
+        "earth_age_comparison_note": "1 కల్ప (4.32 బిలియన్ సంవత్సరాలు) ఆశ్చర్యకరంగా భూమి వయస్సు (~4.54 బిలియన్ సంవత్సరాలు) యొక్క ఆధునిక శాస్త్రీయ అంచనాకు దగ్గరగా ఉంది.",
+        "eternal_truths": "సనాతన ధర్మం యొక్క శాశ్వతమైన సత్యాలు",
+        "faqs": {
+            "title": "తరచుగా అడిగే ప్రశ్నలు",
+            "questions": [
+                {
+                    "answer": "సనాతన ధర్మం అనేది అసలైన శాశ్వతమైన తత్వశాస్త్రం, అయితే హిందూమతం అనేది సంబంధిత సంప్రదాయాలను వివరించడానికి ఉపయోగించే ఆధునిక పదం.",
+                    "question": "సనాతన ధర్మం మరియు హిందూ మతం మధ్య తేడా ఏమిటి?"
+                },
+                {
+                    "answer": "ఇది మతం కంటే ఎక్కువ. ఇది ఒక జీవన విధానం మరియు మానవ ఉనికికి మార్గనిర్దేశం చేసే తాత్విక వ్యవస్థ.",
+                    "question": "సనాతన ధర్మం ఒక మతమా?"
+                },
+                {
+                    "answer": "అంతిమ లక్ష్యం మోక్షం, లేదా జన్మ మరియు పునర్జన్మ చక్రం నుండి విముక్తి.",
+                    "question": "సనాతన ధర్మంలో జీవిత లక్ష్యం ఏమిటి?"
+                }
+            ]
+        },
+        "may_journey": "ఈ పురాతన బోధనల ద్వారా మీ ప్రయాణం మిమ్మల్ని తీసుకురావాలి",
+        "namaste_welcome": "నమస్తే & స్వాగతం",
+        "ourfourcoreyugas": [
+            {
+                "name": "సత్య యుగం",
+                "subtitle": "ధర్మ యుగం",
+                "years": "1,728,000 సంవత్సరాలు",
+                "gradientfrom": "నుండి-అంబర్-700",
+                "gradientto": "నుండి-నారింజ-600",
+                "description": [
+                    "సత్యం (సత్యం) మరియు ధర్మం (ధర్మం) 100% ఉన్న మొదటి మరియు అత్యంత స్వచ్ఛమైన యుగం ఇది.",
+                    "ప్రజలు సహజంగా మంచివారు, నిజాయితీపరులు మరియు నైతిక విలువలను బోధించకుండానే పాటిస్తారు",
+                    "సమాజంలో నేరం, దురాశ, బాధలు లేవు",
+                    "మానవులు చాలా కాలం (వేల సంవత్సరాలు) జీవిస్తారు మరియు బలమైన శారీరక మరియు మానసిక ఆరోగ్యాన్ని కలిగి ఉంటారు",
+                    "ప్రజలు లోతైన ఆధ్యాత్మికం మరియు దైవిక (దేవుని)తో ప్రత్యక్ష సంబంధం కలిగి ఉంటారు.",
+                    "ధ్యానం మరియు అంతర్గత సాక్షాత్కారం ప్రధాన అభ్యాసాలు, ఆచారాలు కాదు",
+                    "ప్రకృతి సమతుల్యత మరియు శాంతియుతమైనది; ప్రకృతి వైపరీత్యాలు లేదా అసమతుల్యత లేదు",
+                    "ప్రతి ఒక్కరూ సహజంగా ధర్మాన్ని అనుసరిస్తారు కాబట్టి సమాజానికి కఠినమైన నియమాలు లేదా చట్టాలు అవసరం లేదు"
+                ]
+            },
+            {
+                "name": "త్రేతా యుగం",
+                "subtitle": "దివ్య యుగం",
+                "years": "1,296,000 సంవత్సరాలు",
+                "gradientfrom": "నారింజ-500 నుండి",
+                "gradientto": "నుండి-అంబర్-400",
+                "description": [
+                    "ధర్మం 75%కి కొద్దిగా తగ్గుతుంది, అంటే సత్యం మరియు స్వచ్ఛతలో కొంత క్షీణత",
+                    "ప్రజలు అహం, కోరికలు మరియు సామాజిక సోపానక్రమాన్ని అభివృద్ధి చేయడం ప్రారంభిస్తారు",
+                    "ఇది మహా ఇతిహాస యుగం",
+                    "రాముడు వంటి దివ్య అవతారాలు ధర్మాన్ని పునరుద్ధరించడానికి కనిపిస్తాయి",
+                    "ప్రజలు ఇప్పటికీ ఆధ్యాత్మిక అభ్యాసాలను అనుసరిస్తారు, అయితే మరింత నిర్మాణాత్మకమైన ఆచారాలు మరియు త్యాగాలు (యజ్ఞాలు) ప్రారంభమవుతాయి",
+                    "జీవితకాలం ఇప్పటికీ చాలా పొడవుగా ఉంది, కానీ సత్యయుగం కంటే తక్కువ",
+                    "సమాజం రాజ్యాలు, నియమాలు మరియు పాలనా వ్యవస్థలను ఏర్పాటు చేయడం ప్రారంభిస్తుంది",
+                    "మంచి మరియు చెడు రెండూ ఉన్నాయి, కానీ మంచి ఇప్పటికీ ఆధిపత్యం"
+                ]
+            },
+            {
+                "name": "ద్వాపర యుగం",
+                "subtitle": "ధర్మ యుగం",
+                "years": "864,000 సంవత్సరాలు",
+                "gradientfrom": "నుండి-గులాబీ-500",
+                "gradientto": "నుండి-నారింజ-500",
+                "description": [
+                    "ధర్మం 50%కి తగ్గించబడింది, అంటే మంచి మరియు చెడుల మధ్య సమతుల్యత",
+                    "ఇది ఇతిహాసం మరియు భగవద్గీత బోధనల యుగం",
+                    "జీవితంలో సంఘర్షణలు, యుద్ధాలు మరియు సంక్లిష్టత గణనీయంగా పెరుగుతాయి",
+                    "ప్రజలు మరింత భౌతికంగా మరియు తక్కువ ఆధ్యాత్మిక అవగాహన కలిగి ఉంటారు",
+                    "దేవాలయాలు, విగ్రహారాధన మరియు బాహ్య ఆచారాలు సర్వసాధారణం",
+                    "మనిషి ఆయుష్షు, బలం మరింత తగ్గుతాయి",
+                    "జ్ఞానం ఇప్పటికీ ఉంది, కానీ ప్రజలు దానిని పూర్తిగా అనుసరించడానికి కష్టపడుతున్నారు",
+                    "శ్రీకృష్ణుడు వంటి దివ్య అవతారాలు మానవాళికి మార్గదర్శకత్వం వహిస్తాయి"
+                ]
+            },
+            {
+                "name": "కలియుగం",
+                "subtitle": "జానపద యుగం",
+                "years": "432,000 సంవత్సరాలు",
+                "gradientfrom": "నుండి-ఎరుపు-700",
+                "gradientto": "నుండి-రోజ్-700",
+                "description": [
+                    "ఇది ప్రస్తుత యుగం, ఇక్కడ ధర్మం 25% మాత్రమే మిగిలి ఉంది",
+                    "భౌతికవాదం, అజ్ఞానం, దురాశ మరియు సంఘర్షణ సమాజాన్ని శాసిస్తున్నాయి",
+                    "నిజం తరచుగా విస్మరించబడుతుంది మరియు అసత్యం సాధారణం అవుతుంది",
+                    "ప్రజలు తక్కువ జీవితకాలం, బలహీనమైన ఆరోగ్యం మరియు ఎక్కువ ఒత్తిడిని కలిగి ఉంటారు",
+                    "ఆధ్యాత్మిక అవగాహన తక్కువ, పరధ్యానం చాలా ఎక్కువ",
+                    "ధర్మాన్ని అనుసరించడం కష్టంగా ఉంటుంది, కానీ ప్రయత్నంతో సాధ్యమవుతుంది",
+                    "భక్తి (భక్తి), పఠించడం మరియు భగవంతుడిని స్మరించుకోవడం వంటి సాధారణ అభ్యాసాలు అత్యంత ప్రభావవంతమైనవి",
+                    "ఇది చీకటి యుగం అయినప్పటికీ, నిజాయితీగా కోరుకునేవారికి విముక్తి (మోక్షం) ఇప్పటికీ సాధ్యమే"
+                ]
+            }
         ],
-        "real_life_examples": [
-          "Helping others without expecting reward",
-          "Staying calm in difficult situations",
-          "Making decisions based on values, not pressure"
-        ]
-      },
-      {
-        "title": "Sanatana Dharma Explained in Simple Terms",
-        "id": "sanatana-dharma-simple-explanation",
-        "content": "Sanatana Dharma explains life using simple but powerful ideas that guide how we think, act, and grow.",
-        "insights": [
-          "You are responsible for your life through your choices",
-          "Balance is important — not too materialistic, not too detached",
-          "Growth happens through experience, not just knowledge",
-          "Inner peace is more important than temporary pleasure"
+        "ourfourcoreyugassubtitle": "విశ్వ క్రమాన్ని సమర్థించే సత్యం, ధర్మం మరియు ఆధ్యాత్మిక సూత్రాలపై ఆధారపడిన శాశ్వతమైన మరియు సార్వత్రిక జీవన విధానం. ఈ సంఖ్యలు యాదృచ్ఛికంగా లేవు. అవి 432,000 బేస్ యూనిట్ నుండి తీసుకోబడ్డాయి, దామాషా ప్రకారం గుణించబడతాయి (4: 3: 2: 1). బ్రహ్మ యొక్క ఒక పూర్తి రోజు: బ్రహ్మ జీవితకాలం - 100 బ్రహ్మ సంవత్సరాలు - ప్రతి సంవత్సరం = 360 రోజులు - ప్రతి రోజు = 4 యుగాలు (యుగాలు) - మొత్తం = 311,040,000,000 మానవ సంవత్సరాలు.",
+        "ourfourcoreyugastitle": "సనాతన ధర్మాన్ని అన్వేషించండి",
+        "scaling_comment": "ఈ గణిత స్కేలింగ్ అన్ని విశ్వ స్థాయిలలో అత్యంత నిర్మాణాత్మకంగా మరియు అనుపాతంగా ఉంటుంది.",
+        "sections": [
+            {
+                "title": "సనాతన ధర్మం అంటే ఏమిటి?",
+                "id": "what-is-sanatana-dharma",
+                "nodecaration": true,
+                "src": "/images/home/om.png",
+                "content": "సనాతన ధర్మం అంటే 'శాశ్వత జీవన విధానం.' ఇది ఒక మతం మాత్రమే కాదు, జీవితాన్ని, ప్రకృతిని మరియు విశ్వాన్ని అర్థం చేసుకునే మార్గం. ఇది సత్యం మరియు విశ్వ క్రమానికి అనుగుణంగా ఎలా జీవించాలో నేర్పుతుంది.",
+                "insights": [
+                    "స్థిర నియమాలను అనుసరించడం కంటే వాస్తవికతను అర్థం చేసుకోవడంపై దృష్టి పెడుతుంది",
+                    "ప్రశ్నించడం మరియు సత్యం యొక్క వ్యక్తిగత అనుభవాన్ని ప్రోత్సహిస్తుంది",
+                    "జీవితాన్ని నేర్చుకోవడం మరియు అంతర్గత పెరుగుదల యొక్క ప్రయాణంగా చూస్తుంది",
+                    "ఆనందం అనేది బాహ్య విషయాలతో కాకుండా సత్యంతో సమలేఖనం చేయడం వల్ల వస్తుందని బోధిస్తుంది"
+                ],
+                "real_life_examples": [
+                    "ప్రతిఫలం ఆశించకుండా ఇతరులకు సహాయం చేయడం",
+                    "క్లిష్ట పరిస్థితుల్లో ప్రశాంతంగా ఉండడం",
+                    "ఒత్తిడి కాకుండా విలువల ఆధారంగా నిర్ణయాలు తీసుకోవడం"
+                ]
+            },
+            {
+                "title": "సనాతన ధర్మం సాధారణ నిబంధనలలో వివరించబడింది",
+                "id": "సనాతన-ధర్మ-సరళమైన-వివరణ",
+                "content": "సనాతన ధర్మం సరళమైన కానీ శక్తివంతమైన ఆలోచనలను ఉపయోగించి జీవితాన్ని వివరిస్తుంది, అది మనం ఎలా ఆలోచిస్తామో, ఎలా ప్రవర్తిస్తామో మరియు ఎదుగుతుంది.",
+                "insights": [
+                    "మీ ఎంపికల ద్వారా మీ జీవితానికి మీరు బాధ్యత వహిస్తారు",
+                    "సంతులనం ముఖ్యం - చాలా భౌతికమైనది కాదు, చాలా నిర్లిప్తమైనది కాదు",
+                    "ఎదుగుదల అనేది కేవలం జ్ఞానం ద్వారా కాకుండా అనుభవం ద్వారా జరుగుతుంది",
+                    "తాత్కాలిక ఆనందం కంటే అంతర్గత శాంతి ముఖ్యం"
+                ],
+                "real_life_examples": [
+                    "ఎవరూ చూడనప్పటికీ నిజాయితీగా పనిచేస్తున్నారు",
+                    "నిరాశ లేకుండా ఫలితాలను అంగీకరించడం",
+                    "ఇతరులను నిందించే బదులు తప్పుల నుండి నేర్చుకోవడం"
+                ]
+            },
+            {
+                "title": "🌿 సనాతన ధర్మం యొక్క ప్రధాన సూత్రాలు",
+                "id": "ప్రధాన సూత్రాలు",
+                "content": "ఇవి అర్ధవంతమైన మరియు సమతుల్య జీవితాన్ని నడిపించే ప్రాథమిక ఆలోచనలు.",
+                "advanced_understanding": [
+                    "ధర్మం స్థిరమైనది కాదు - ఇది పరిస్థితి మరియు పాత్ర ఆధారంగా మారుతుంది",
+                    "కర్మ శిక్ష కాదు - ఇది సమతుల్యత యొక్క సహజ చట్టం",
+                    "మోక్షం అనేది మానసిక అనుబంధం నుండి విముక్తి, పునర్జన్మ మాత్రమే కాదు",
+                    "ఆత్మ సాక్షాత్కారం అంటే శరీరం మరియు మనస్సు దాటి మీ నిజమైన గుర్తింపును అర్థం చేసుకోవడం"
+                ],
+                "common_misunderstandings": [
+                    "ధర్మం మతం కాదు - ఇది సరైన చర్య",
+                    "కర్మ అనేది విధి కాదు - చర్యలు ఫలితాలను మార్చగలవు",
+                    "మోక్షం జీవితం నుండి తప్పించుకోవడం కాదు - జీవితాన్ని పూర్తిగా అర్థం చేసుకోవడం"
+                ],
+                "items": [
+                    {
+                        "title": "ధర్మం (విధి)",
+                        "description": "ప్రతి పరిస్థితిలో సరైనది చేస్తూ బాధ్యతాయుతంగా జీవించడం.",
+                        "details": [
+                            "వ్యక్తిగత మరియు సామాజిక జీవితంలో మీ నిర్ణయాలకు మార్గనిర్దేశం చేస్తుంది",
+                            "సమాజంలో సామరస్యాన్ని కాపాడేందుకు దోహదపడుతుంది",
+                            "మీ పాత్ర (విద్యార్థి, తల్లిదండ్రులు, నాయకుడు) ఆధారంగా మార్పులు"
+                        ],
+                        "link": "vedic-philosophy/dharma",
+                        "src": "/images/home/dharma.png"
+                    },
+                    {
+                        "title": "కర్మ (చర్య)",
+                        "description": "ప్రతి చర్యకు మంచి లేదా చెడు ఫలితం ఉంటుంది.",
+                        "details": [
+                            "మంచి చర్యలు సానుకూల ఫలితాలను ఇస్తాయి",
+                            "ప్రతికూల చర్యలు సవాళ్లు లేదా బాధలకు దారితీస్తాయి",
+                            "శ్రద్ధగల మరియు బాధ్యతాయుతమైన జీవనాన్ని ప్రోత్సహిస్తుంది"
+                        ],
+                        "link": "vedic-philosophy/karma",
+                        "src": "/images/home/karma.png"
+                    },
+                    {
+                        "title": "మోక్ష (విముక్తి)",
+                        "description": "జనన మరణ చక్రం నుండి విముక్తి.",
+                        "details": [
+                            "జీవితం యొక్క అత్యున్నత లక్ష్యం",
+                            "జ్ఞానం, భక్తి, క్రమశిక్షణ ద్వారా సాధించారు",
+                            "శాశ్వత శాంతి మరియు దైవిక ఐక్యతను తెస్తుంది"
+                        ],
+                        "link": "vedic-philosophy/moksha",
+                        "src": "/images/home/moksha.png"
+                    },
+                    {
+                        "title": "అహింస (అహింస)",
+                        "description": "ఆలోచన, మాట లేదా చర్యలో ఏదైనా జీవికి హాని కలిగించకుండా ఉండండి.",
+                        "details": [
+                            "కరుణ మరియు దయను ప్రోత్సహిస్తుంది",
+                            "మానవులకు, జంతువులకు మరియు ప్రకృతికి వర్తిస్తుంది",
+                            "శాంతియుత జీవనాన్ని ప్రోత్సహిస్తుంది"
+                        ],
+                        "link": "vedic-philosophy/ahimsa",
+                        "src": "/images/home/ahimsa.png"
+                    },
+                    {
+                        "title": "సత్య (సత్యం)",
+                        "description": "నిజాయితీతో, చిత్తశుద్ధితో జీవించడం.",
+                        "details": [
+                            "నిజాయితీగా మాట్లాడండి మరియు ప్రవర్తించండి",
+                            "విశ్వాసం మరియు అంతర్గత బలాన్ని పెంచుతుంది",
+                            "మీ జీవితాన్ని వాస్తవికతతో సమలేఖనం చేస్తుంది"
+                        ],
+                        "link": "vedic-philosophy/satya",
+                        "src": "/images/home/satya.png"
+                    }
+                ]
+            },
+            {
+                "title": "సనాతన ధర్మం యొక్క ప్రధాన గ్రంథాలు",
+                "id": "ప్రధాన గ్రంథాలు",
+                "content": "ఈ పవిత్ర గ్రంథాలు ఆధ్యాత్మిక జ్ఞానాన్ని సంరక్షిస్తాయి మరియు సత్యం మరియు సరైన జీవనం వైపు ప్రజలను నడిపిస్తాయి.",
+                "insights": [
+                    "వేర్వేరు గ్రంథాలు వేర్వేరు ప్రయోజనాలను అందిస్తాయి - ఆచారాలు, తత్వశాస్త్రం, కథలు",
+                    "అవి అర్థం చేసుకోవడానికి ఉద్దేశించినవి, గుడ్డిగా అనుసరించడం కాదు",
+                    "కథలు ప్రతీకాత్మకమైనవి మరియు లోతైన అర్థాలను కలిగి ఉంటాయి",
+                    "సమయం మరియు సందర్భం ఆధారంగా బోధనలను విభిన్నంగా అన్వయించవచ్చు"
+                ],
+                "how_to_use": [
+                    "లోతైన తత్వశాస్త్రం ముందు సాధారణ గ్రంథాలతో ప్రారంభించండి",
+                    "అర్థం చేసుకోవడంపై దృష్టి పెట్టండి, గుర్తుంచుకోవడం కాదు",
+                    "రోజువారీ జీవితంలో ఒక సమయంలో ఒక బోధనను వర్తింపజేయండి"
+                ],
+                "items": [
+                    {
+                        "title": "వేదాలు",
+                        "description": "ప్రకృతి, ఆచారాలు మరియు సత్యం గురించిన జ్ఞానాన్ని కలిగి ఉన్న పురాతన పవిత్ర గ్రంథాలు.",
+                        "details": [
+                            "సనాతన ధర్మానికి పునాదిగా భావిస్తారు",
+                            "శ్లోకాలు, ప్రార్థనలు మరియు తాత్విక ఆలోచనలను చేర్చండి",
+                            "కాస్మిక్ చట్టాలు మరియు ఆధ్యాత్మిక అభ్యాసాలను వివరించండి"
+                        ],
+                        "link": "vedas",
+                        "src": "/images/home/the-vedas.png"
+                    },
+                    {
+                        "title": "ఉపనిషత్తులు",
+                        "description": "ఆత్మ (ఆత్మన్) మరియు అంతిమ వాస్తవికత (బ్రహ్మం) గురించి బోధలు.",
+                        "details": [
+                            "లోతైన తాత్విక ప్రశ్నలపై దృష్టి పెట్టండి",
+                            "స్పృహ యొక్క స్వభావాన్ని వివరించండి",
+                            "స్వీయ-సాక్షాత్కారం వైపు మార్గదర్శకం"
+                        ],
+                        "link": "upanishads",
+                        "src": "/images/home/the-upanishads.png"
+                    },
+                    {
+                        "title": "పురాణాలు",
+                        "description": "దేవతలు, సృష్టి మరియు నైతిక విలువల గురించి కథలు మరియు బోధనలు.",
+                        "details": [
+                            "క్లిష్టమైన ఆలోచనలను కథల ద్వారా వివరించండి",
+                            "భక్తిని, ధర్మాన్ని బోధించండి",
+                            "కాస్మిక్ సైకిల్స్ మరియు చరిత్రను వివరించండి"
+                        ],
+                        "link": "puranas",
+                        "src": "/images/home/the-puranas.png"
+                    },
+                    {
+                        "title": "భగవద్గీత",
+                        "description": "కృష్ణుడు మరియు అర్జునుడి మధ్య సంభాషణ ద్వారా జీవితం మరియు విధికి మార్గదర్శకం.",
+                        "details": [
+                            "జీవిత సవాళ్లను ఎలా ఎదుర్కోవాలో నేర్పుతుంది",
+                            "కర్మ, భక్తి మరియు జ్ఞానాన్ని వివరిస్తుంది",
+                            "ఆచరణాత్మక ఆధ్యాత్మిక మార్గదర్శకత్వం ఇస్తుంది"
+                        ],
+                        "link": "itihasa",
+                        "src": "/images/home/the-ithihas.png"
+                    },
+                    {
+                        "title": "రామాయణం & మహాభారతం",
+                        "description": "విలువలను, కర్తవ్యాన్ని, ధర్మాన్ని బోధించే పురాణ కథలు.",
+                        "details": [
+                            "ధర్మానికి సంబంధించిన నిజ జీవిత ఉదాహరణలను చూపండి",
+                            "సరైన మరియు తప్పు చర్యల యొక్క పరిణామాలను వివరించండి",
+                            "భక్తిని, ధైర్యాన్ని, జ్ఞానాన్ని నేర్పండి"
+                        ],
+                        "link": "/itihasa",
+                        "src": "/images/home/the-vedas.png"
+                    }
+                ]
+            },
+            {
+                "title": "ఈరోజు సనాతన ధర్మం ఎందుకు ముఖ్యం",
+                "id": "ఎందుకు-ఇది-ముఖ్యమైనది",
+                "content": "ఆధునిక జీవితంలో కూడా, ఈ బోధనలు శాంతియుతంగా మరియు అర్థవంతంగా జీవించడానికి మార్గదర్శకాన్ని అందిస్తాయి.",
+                "modern_relevance": [
+                    "అంగీకారం ద్వారా ఒత్తిడి మరియు ఆందోళనను నిర్వహించడానికి సహాయపడుతుంది",
+                    "సంక్లిష్ట పరిస్థితుల్లో నైతిక మార్గదర్శకత్వం అందిస్తుంది",
+                    "స్థిరమైన మరియు శ్రద్ధగల జీవనాన్ని ప్రోత్సహిస్తుంది",
+                    "భావోద్వేగ బలం మరియు స్పష్టతను పెంచుతుంది"
+                ],
+                "practical_impact": [
+                    "Better relationships through understanding and patience",
+                    "మెరుగైన దృష్టి మరియు నిర్ణయం తీసుకోవడం",
+                    "అనిశ్చితి భయం తగ్గింది"
+                ]
+            },
+            {
+                "title": "సనాతన ధర్మాన్ని అనుసరించడం వల్ల కలిగే ప్రయోజనాలు",
+                "id": "ప్రయోజనాలు",
+                "points": [
+                    "మానసిక స్పష్టత మరియు అంతర్గత శాంతి",
+                    "ధర్మం ద్వారా మంచి నిర్ణయం తీసుకోవడం",
+                    "జీవిత లక్ష్యాన్ని అర్థం చేసుకోవడం",
+                    "ఆధ్యాత్మిక అవగాహన ద్వారా ఒత్తిడి తగ్గుతుంది",
+                    "సమతుల్య భౌతిక మరియు ఆధ్యాత్మిక జీవితం"
+                ],
+                "deeper_benefits": [
+                    "బలమైన అంతర్గత స్థిరత్వాన్ని అభివృద్ధి చేస్తుంది",
+                    "స్వీయ-అవగాహన మరియు నియంత్రణను మెరుగుపరుస్తుంది",
+                    "బాహ్య ధ్రువీకరణపై ఆధారపడటాన్ని తగ్గిస్తుంది",
+                    "తాత్కాలిక ఆనందానికి బదులుగా దీర్ఘకాల ఆనందాన్ని సృష్టిస్తుంది"
+                ],
+                "long_term_effect": [
+                    "స్పష్టమైన జీవిత దిశ",
+                    "భావోద్వేగ స్థితిస్థాపకత",
+                    "ప్రయోజనం మరియు నెరవేర్పు యొక్క భావం"
+                ],
+                "pointsrc": [
+                    "/images/home/why-sanatana-1.png",
+                    "/images/home/why-sanatana-2.png",
+                    "/images/home/why-sanatana-3.png",
+                    "/images/home/why-sanatana-4.png"
+                ]
+            },
+            {
+                "title": "మీ ఆధ్యాత్మిక ప్రయాణాన్ని ప్రారంభించండి",
+                "id": "cta",
+                "content": "నేర్చుకోవడం, సాధన చేయడం మరియు అనుభవించడం ద్వారా మీ ప్రయాణాన్ని దశలవారీగా ప్రారంభించండి.",
+                "step_by_step_path": [
+                    "Learn basic concepts like dharma and karma",
+                    "Observe your thoughts and actions daily",
+                    "Practice small improvements consistently",
+                    "Stay patient — growth takes time"
+                ],
+                "beginner_tips": [
+                    "ప్రతిదీ ఒకేసారి నేర్చుకోవడానికి ప్రయత్నించవద్దు",
+                    "సిద్ధాంతం కంటే ప్రాక్టీస్‌పై ఎక్కువ దృష్టి పెట్టండి",
+                    "చిన్న చిన్న దశలతో కూడా స్థిరంగా ఉండండి"
+                ]
+            }
         ],
-        "real_life_examples": [
-          "Working honestly even when no one is watching",
-          "Accepting results without frustration",
-          "Learning from mistakes instead of blaming others"
-        ]
-      },
-      {
-        "title": "🌿 Core Principles of Sanatana Dharma",
-        "id": "core-principles",
-        "content": "These are the fundamental ideas that guide a meaningful and balanced life.",
-        "advanced_understanding": [
-          "Dharma is not fixed — it changes based on situation and role",
-          "Karma is not punishment — it is a natural law of balance",
-          "Moksha is freedom from mental attachment, not just rebirth",
-          "Atman realization means understanding your true identity beyond body and mind"
-        ],
-        "common_misunderstandings": [
-          "Dharma is not religion — it is right action",
-          "Karma is not fate — actions can change outcomes",
-          "Moksha is not escaping life — it is understanding life fully"
-        ],
-        "items": [
-          {
-            "title": "Dharma (Duty)",
-            "description": "Living responsibly by doing what is right in every situation.",
-            "details": [
-              "Guides your decisions in personal and social life",
-              "Helps maintain harmony in society",
-              "Changes based on your role (student, parent, leader)"
-            ],
-            "link": "vedic-philosophy/dharma",
-            "src": "/images/home/dharma.png"
-          },
-          {
-            "title": "Karma (Action)",
-            "description": "Every action has a consequence, whether good or bad.",
-            "details": [
-              "Good actions bring positive results",
-              "Negative actions lead to challenges or suffering",
-              "Encourages mindful and responsible living"
-            ],
-            "link": "vedic-philosophy/karma",
-            "src": "/images/home/karma.png"
-          },
-          {
-            "title": "Moksha (Liberation)",
-            "description": "Freedom from the cycle of birth and death.",
-            "details": [
-              "The highest goal of life",
-              "Achieved through knowledge, devotion, and discipline",
-              "Brings permanent peace and unity with the divine"
-            ],
-            "link": "vedic-philosophy/moksha",
-            "src": "/images/home/moksha.png"
-          },
-          {
-            "title": "Ahimsa (Non-violence)",
-            "description": "Avoid harming any living being in thought, word, or action.",
-            "details": [
-              "Promotes compassion and kindness",
-              "Applies to humans, animals, and nature",
-              "Encourages peaceful living"
-            ],
-            "link": "vedic-philosophy/ahimsa",
-            "src": "/images/home/ahimsa.png"
-          },
-          {
-            "title": "Satya (Truth)",
-            "description": "Living with honesty and integrity.",
-            "details": [
-              "Speak and act truthfully",
-              "Builds trust and inner strength",
-              "Aligns your life with reality"
-            ],
-            "link": "vedic-philosophy/satya",
-            "src": "/images/home/satya.png"
-          }
-        ]
-      },
-      {
-        "title": "Main Scriptures of Sanatana Dharma",
-        "id": "main-scriptures",
-        "content": "These sacred texts preserve spiritual knowledge and guide people toward truth and right living.",
-        "insights": [
-          "Different texts serve different purposes — rituals, philosophy, stories",
-          "They are meant to be understood, not blindly followed",
-          "Stories are symbolic and contain deeper meanings",
-          "Teachings can be applied differently based on time and context"
-        ],
-        "how_to_use": [
-          "Start with simple texts before deep philosophy",
-          "Focus on understanding meaning, not memorizing",
-          "Apply one teaching at a time in daily life"
-        ],
-        "items": [
-          {
-            "title": "Vedas",
-            "description": "The oldest sacred texts containing knowledge about nature, rituals, and truth.",
-            "details": [
-              "Considered the foundation of Sanatana Dharma",
-              "Include hymns, prayers, and philosophical ideas",
-              "Explain cosmic laws and spiritual practices"
-            ],
-            "link": "vedas",
-            "src": "/images/home/the-vedas.png"
-          },
-          {
-            "title": "Upanishads",
-            "description": "Teachings about the soul (Atman) and ultimate reality (Brahman).",
-            "details": [
-              "Focus on deep philosophical questions",
-              "Explain the nature of consciousness",
-              "Guide toward self-realization"
-            ],
-            "link": "upanishads",
-            "src": "/images/home/the-upanishads.png"
-          },
-          {
-            "title": "Puranas",
-            "description": "Stories and teachings about gods, creation, and moral values.",
-            "details": [
-              "Explain complex ideas through stories",
-              "Teach devotion and dharma",
-              "Describe cosmic cycles and history"
-            ],
-            "link": "puranas",
-            "src": "/images/home/the-puranas.png"
-          },
-          {
-            "title": "Bhagavad Gita",
-            "description": "A guide to life and duty through a conversation between Krishna and Arjuna.",
-            "details": [
-              "Teaches how to handle life’s challenges",
-              "Explains karma, devotion, and knowledge",
-              "Gives practical spiritual guidance"
-            ],
-            "link": "itihasa",
-            "src": "/images/home/the-ithihas.png"
-          },
-          {
-            "title": "Ramayana & Mahabharata",
-            "description": "Epic stories that teach values, duty, and righteousness.",
-            "details": [
-              "Show real-life examples of dharma",
-              "Explain consequences of right and wrong actions",
-              "Teach devotion, courage, and wisdom"
-            ],
-            "link": "/itihasa",
-            "src": "/images/home/the-vedas.png"
-          }
-        ]
-      },
-      {
-        "title": "Why Sanatana Dharma Matters Today",
-        "id": "why-it-matters",
-        "content": "Even in modern life, these teachings provide guidance for living peacefully and meaningfully.",
-        "modern_relevance": [
-          "Helps manage stress and anxiety through acceptance",
-          "Provides ethical guidance in complex situations",
-          "Encourages sustainable and mindful living",
-          "Builds emotional strength and clarity"
-        ],
-        "practical_impact": [
-          "Better relationships through understanding and patience",
-          "Improved focus and decision-making",
-          "Reduced fear of uncertainty"
-        ]
-      },
-      {
-        "title": "Benefits of Following Sanatana Dharma",
-        "id": "benefits",
-        "points": [
-          "Mental clarity and inner peace",
-          "Better decision making through dharma",
-          "Understanding life purpose",
-          "Reduced stress through spiritual awareness",
-          "Balanced material and spiritual life"
-        ],
-        "deeper_benefits": [
-          "Develops strong inner stability",
-          "Improves self-awareness and control",
-          "Reduces dependence on external validation",
-          "Creates long-term happiness instead of temporary pleasure"
-        ],
-        "long_term_effect": [
-          "Clear life direction",
-          "Emotional resilience",
-          "Sense of purpose and fulfillment"
-        ],
-        "pointsrc": [
-          "/images/home/why-sanatana-1.png",
-          "/images/home/why-sanatana-2.png",
-          "/images/home/why-sanatana-3.png",
-          "/images/home/why-sanatana-4.png"
-        ]
-      },
-      {
-        "title": "Start Your Spiritual Journey",
-        "id": "cta",
-        "content": "Begin your journey step by step by learning, practicing, and experiencing.",
-        "step_by_step_path": [
-          "Learn basic concepts like dharma and karma",
-          "Observe your thoughts and actions daily",
-          "Practice small improvements consistently",
-          "Stay patient — growth takes time"
-        ],
-        "beginner_tips": [
-          "Do not try to learn everything at once",
-          "Focus on practice more than theory",
-          "Stay consistent even with small steps"
-        ]
-      }
-    ],
-    "thank_taking": "Thank you for taking this sacred step towards understanding and embracing the",
-    "timeless_wisdom": "— the timeless wisdom that illuminates the path to inner peace, righteousness, and spiritual awakening.",
-    "truth_alone": "Truth Alone Triumphs · Dharma Protects Those Who Protect It"
-  }
+        "thank_taking": "అర్థం చేసుకోవడానికి మరియు స్వీకరించడానికి ఈ పవిత్రమైన అడుగు వేసినందుకు ధన్యవాదాలు",
+        "timeless_wisdom": "- అంతర్గత శాంతి, ధర్మం మరియు ఆధ్యాత్మిక మేల్కొలుపు మార్గాన్ని ప్రకాశింపజేసే కాలాతీత జ్ఞానం.",
+        "truth_alone": "సత్యం ఒక్కటే విజయం సాధిస్తుంది · ధర్మాన్ని రక్షించేవారిని ధర్మం రక్షిస్తుంది"
+    }
 }

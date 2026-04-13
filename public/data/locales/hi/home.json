@@ -1,532 +1,532 @@
 {
-  "home": {
-    "title": "Sanatana Dharma Explained: Complete Guide to Vedas, Upanishads & Hindu Philosophy",
-    "description": "What is Sanatana Dharma? What is Santan Dharma? A complete beginner-friendly guide to Vedas, Upanishads, Bhagavad Gita, karma, dharma, and Hindu philosophy. Learn timeless spiritual wisdom.",
-    "meta": {
-      "title": "Sanatana Dharma Explained – Complete Guide to Vedas, Gita & Hindu Philosophy",
-      "description": "Discover Sanatana Dharma in simple terms. Learn Vedas, Upanishads, Bhagavad Gita, karma, dharma, moksha, and Hindu philosophy with practical explanations.",
-      "canonical": "https://sanatanadharmam.in",
-      "keywords": [
-        "what is sanatana dharma",
-        "About Sanatana Dharma",
-        "sanatana dharma meaning",
-        "hinduism explained simply",
-        "vedas summary",
-        "upanishads meaning",
-        "bhagavad gita teachings",
-        "karma and dharma explained",
-        "moksha meaning",
-        "hindu philosophy basics",
-        "ancient indian philosophy",
-        "spiritual wisdom india",
-        "sanatana dharma for beginners",
-        "difference between hinduism and sanatana dharma",
-        "life purpose in hinduism",
-        "vedic knowledge explained",
-        "what is sanatan dharma?",
-        "sanatana dharma",
-        "hinduism",
-        "vedas",
-        "upanishads",
-        "bhagavad gita",
-        "karma",
-        "dharma",
-        "moksha",
-        "hindu philosophy",
-        "ancient indian philosophy",
-        "spiritual wisdom india",
-        "sanatana dharma for beginners",
-        "difference between hinduism and sanatana dharma",
-        "life purpose in hinduism",
-        "vedic knowledge explained",
-        "Bharat",
-        "Bharat mata ki jai"
-      ]
-    },
-    "openGraph": {
-      "title": "Sanatana Dharma Explained: Beginner to Advanced Guide",
-      "description": "Explore Vedas, Upanishads, Bhagavad Gita, karma, and dharma with clear explanations. A complete guide to Sanatana Dharma.",
-      "images": [
-        {
-          "alt": "Sanatana Dharma Guide",
-          "height": 630,
-          "url": "https://sanatanadharmam.in/images/og/home.png",
-          "width": 1200
-        }
-      ],
-      "siteName": "Sanatanadharmam",
-      "type": "website",
-      "url": "https://sanatanadharmam.in"
-    },
-    "schema": {
-      "@context": "https://schema.org",
-      "@graph": [
-        {
-          "@type": "WebSite",
-          "name": "Sanatanadharmam",
-          "potentialAction": {
-            "@type": "SearchAction",
-            "query-input": "required name=search_term_string",
-            "target": "https://sanatanadharmam.in/search?q={search_term_string}"
-          },
-          "url": "https://sanatanadharmam.in"
+    "home": {
+        "title": "सनातन धर्म की व्याख्या: वेदों, उपनिषदों और हिंदू दर्शन की संपूर्ण मार्गदर्शिका",
+        "description": "सनातन धर्म क्या है? संतान धर्म क्या है? वेदों, उपनिषदों, भगवद गीता, कर्म, धर्म और हिंदू दर्शन के लिए एक संपूर्ण शुरुआती-अनुकूल मार्गदर्शिका। शाश्वत आध्यात्मिक ज्ञान सीखें.",
+        "meta": {
+            "title": "सनातन धर्म की व्याख्या - वेद, गीता और हिंदू दर्शन की संपूर्ण मार्गदर्शिका",
+            "description": "सरल शब्दों में सनातन धर्म की खोज करें। व्यावहारिक स्पष्टीकरण के साथ वेद, उपनिषद, भगवद गीता, कर्म, धर्म, मोक्ष और हिंदू दर्शन सीखें।",
+            "canonical": "https://sanatanadharmam.in",
+            "keywords": [
+                "सनातन धर्म क्या है?",
+                "सनातन धर्म के बारे में",
+                "सनातन धर्म का अर्थ",
+                "हिंदू धर्म को सरलता से समझाया गया",
+                "वेद सारांश",
+                "उपनिषदों का अर्थ",
+                "भगवद गीता उपदेश",
+                "कर्म और धर्म की व्याख्या की",
+                "मोक्ष का अर्थ",
+                "हिंदू दर्शन मूल बातें",
+                "प्राचीन भारतीय दर्शन",
+                "आध्यात्मिक ज्ञान भारत",
+                "शुरुआती लोगों के लिए सनातन धर्म",
+                "हिंदू धर्म और सनातन धर्म के बीच अंतर",
+                "हिंदू धर्म में जीवन का उद्देश्य",
+                "वैदिक ज्ञान समझाया",
+                "सनातन धर्म क्या है?",
+                "सनातन धर्म",
+                "हिंदू",
+                "वेद",
+                "उपनिषदों",
+                "भागवद गीता",
+                "कर्म",
+                "धर्म",
+                "मोक्ष",
+                "हिंदू दर्शन",
+                "प्राचीन भारतीय दर्शन",
+                "आध्यात्मिक ज्ञान भारत",
+                "शुरुआती लोगों के लिए सनातन धर्म",
+                "हिंदू धर्म और सनातन धर्म के बीच अंतर",
+                "हिंदू धर्म में जीवन का उद्देश्य",
+                "वैदिक ज्ञान समझाया",
+                "भारत",
+                "भारत माता की जय"
+            ]
         },
-        {
-          "@type": "Organization",
-          "logo": "https://sanatanadharmam.in/images/logo.png",
-          "name": "Sanatanadharmam",
-          "url": "https://sanatanadharmam.in"
+        "openGraph": {
+            "title": "सनातन धर्म की व्याख्या: आरंभिक से उन्नत मार्गदर्शक",
+            "description": "स्पष्ट व्याख्याओं के साथ वेदों, उपनिषदों, भगवद गीता, कर्म और धर्म का अन्वेषण करें। सनातन धर्म के लिए एक संपूर्ण मार्गदर्शिका।",
+            "images": [
+                {
+                    "alt": "Sanatana Dharma Guide",
+                    "height": 630,
+                    "url": "https://sanatanadharmam.in/images/og/home.png",
+                    "width": 1200
+                }
+            ],
+            "siteName": "सनातनधर्मम्",
+            "type": "वेबसाइट",
+            "url": "https://sanatanadharmam.in"
         },
-        {
-          "description": "A detailed guide explaining Sanatana Dharma, its philosophy, scriptures, and relevance today.",
-          "@type": "Article",
-          "author": {
-            "@type": "Organization",
-            "name": "Sanatanadharmam"
-          },
-          "headline": "What is Sanatana Dharma? Complete Guide",
-          "publisher": {
-            "@type": "Organization",
-            "logo": {
-              "@type": "ImageObject",
-              "url": "https://sanatanadharmam.in/images/logo.png"
-            },
-            "name": "Sanatanadharmam"
-          }
+        "schema": {
+            "@context": "https://schema.org",
+            "@graph": [
+                {
+                    "@type": "वेबसाइट",
+                    "name": "सनातनधर्मम्",
+                    "potentialAction": {
+                        "@type": "खोजक्रिया",
+                        "query-input": "आवश्यक नाम=search_term_string",
+                        "target": "https://sanatanadharmam.in/search?q={search_term_string}"
+                    },
+                    "url": "https://sanatanadharmam.in"
+                },
+                {
+                    "@type": "संगठन",
+                    "logo": "https://sanatanadharmam.in/images/logo.png",
+                    "name": "सनातनधर्मम्",
+                    "url": "https://sanatanadharmam.in"
+                },
+                {
+                    "description": "सनातन धर्म, उसके दर्शन, धर्मग्रंथों और आज की प्रासंगिकता को समझाने वाली एक विस्तृत मार्गदर्शिका।",
+                    "@type": "लेख",
+                    "author": {
+                        "@type": "संगठन",
+                        "name": "सनातनधर्मम्"
+                    },
+                    "headline": "सनातन धर्म क्या है? संपूर्ण गाइड",
+                    "publisher": {
+                        "@type": "संगठन",
+                        "logo": {
+                            "@type": "ImageObject",
+                            "url": "https://sanatanadharmam.in/images/logo.png"
+                        },
+                        "name": "सनातनधर्मम्"
+                    }
+                },
+                {
+                    "@type": "अक्सर पूछे जाने वाले प्रश्न पृष्ठ",
+                    "mainEntity": [
+                        {
+                            "@type": "सवाल",
+                            "acceptedAnswer": {
+                                "@type": "उत्तर",
+                                "text": "सनातन धर्म वैदिक ज्ञान में निहित जीवन का शाश्वत तरीका है, जो धर्म, कर्म और मोक्ष पर केंद्रित है।"
+                            },
+                            "name": "सनातन धर्म क्या है?"
+                        },
+                        {
+                            "@type": "सवाल",
+                            "acceptedAnswer": {
+                                "@type": "उत्तर",
+                                "text": "सनातन धर्म मूल दार्शनिक आधार है, जबकि हिंदू धर्म आधुनिक संदर्भ में प्रयुक्त एक व्यापक शब्द है।"
+                            },
+                            "name": "क्या सनातन धर्म हिंदू धर्म के समान है?"
+                        },
+                        {
+                            "@type": "सवाल",
+                            "acceptedAnswer": {
+                                "@type": "उत्तर",
+                                "text": "मुख्य शिक्षाओं में धर्म (कर्तव्य), कर्म (क्रिया), मोक्ष (मुक्ति), और स्वयं की प्राप्ति शामिल है।"
+                            },
+                            "name": "सनातन धर्म की मुख्य शिक्षाएँ क्या हैं?"
+                        }
+                    ]
+                }
+            ]
         },
-        {
-          "@type": "FAQPage",
-          "mainEntity": [
-            {
-              "@type": "Question",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Sanatana Dharma is the eternal way of life rooted in Vedic wisdom, focusing on dharma, karma, and moksha."
-              },
-              "name": "What is Sanatana Dharma?"
+        "welcome": {
+            "clarity_devotion": "स्पष्टता, भक्ति, और दिव्य कृपा",
+            "close": "बंद करना",
+            "deeply_honored": "हम यहां आपकी उपस्थिति से अत्यंत सम्मानित और धन्य महसूस कर रहे हैं।",
+            "do_not": "इस स्वागत संदेश को दोबारा न दिखाएं",
+            "eternal_truths": "सनातन धर्म के शाश्वत सत्य",
+            "may_journey": "इन प्राचीन शिक्षाओं के माध्यम से आपकी यात्रा आपके लिए उपयोगी हो सकती है",
+            "namaste_welcome": "नमस्ते एवं स्वागत है",
+            "thank_taking": "समझने और अपनाने की दिशा में यह पवित्र कदम उठाने के लिए धन्यवाद",
+            "timeless_wisdom": "- वह कालातीत ज्ञान जो आंतरिक शांति, धार्मिकता और आध्यात्मिक जागृति का मार्ग प्रशस्त करता है।",
+            "truth_alone": "सत्य की ही विजय होती है · धर्म उन लोगों की रक्षा करता है जो इसकी रक्षा करते हैं"
+        },
+        "hero": {
+            "description": "सनातन धर्म भारत का प्राचीन आध्यात्मिक दर्शन है जो जीवन, उद्देश्य, कर्म और मुक्ति की व्याख्या करता है। वेदों, उपनिषदों और भगवद गीता के माध्यम से इसकी शिक्षाओं को सरल और व्यावहारिक तरीके से खोजें।",
+            "heading": "सनातन धर्म की व्याख्या",
+            "primarycta": {
+                "label": "सनातन धर्म सीखना शुरू करें",
+                "link": "sanatanadharma"
             },
-            {
-              "@type": "Question",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Sanatana Dharma is the original philosophical foundation, while Hinduism is a broader term used in modern context."
-              },
-              "name": "Is Sanatana Dharma the same as Hinduism?"
+            "secondarycta": {
+                "label": "शास्त्रों का अन्वेषण करें",
+                "link": "itihasa"
             },
-            {
-              "@type": "Question",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Core teachings include dharma (duty), karma (action), moksha (liberation), and realization of the self."
-              },
-              "name": "What are the main teachings of Sanatana Dharma?"
+            "subheading": "जीवन का शाश्वत मार्ग",
+            "supporting_points": [
+                "आध्यात्मिक ज्ञान को व्यावहारिक दैनिक जीवन के साथ जोड़ता है",
+                "आंतरिक जीवन (मन, आत्मा) और बाहरी जीवन (कार्य, समाज) दोनों को समझने में मदद करता है",
+                "पृष्ठभूमि या विश्वास की परवाह किए बिना सभी लोगों पर लागू होता है",
+                "अंध अनुसरण के बजाय आत्म-खोज को प्रोत्साहित करता है"
+            ],
+            "user_benefits": [
+                "जीवन के उद्देश्य और दिशा के बारे में स्पष्टता प्राप्त करें",
+                "जानें कि कार्य कैसे भविष्य के परिणामों को प्रभावित करते हैं",
+                "शांति और भावनात्मक संतुलन विकसित करें",
+                "सार्थक एवं मूल्य आधारित जीवन का निर्माण करें"
+            ],
+            "key_concepts_preview": [
+                "धर्म: जीवन जीने का सही तरीका",
+                "कर्म: क्रिया और परिणाम का नियम",
+                "मोक्ष: कष्ट से मुक्ति",
+                "आत्मा: शरीर और मन से परे सच्चा आत्म"
+            ],
+            "engagement_hooks": [
+                "सरल विचारों से शुरुआत करें और धीरे-धीरे गहराई तक बढ़ें",
+                "उन अवधारणाओं को सीखें जिन्हें आप दैनिक जीवन में तुरंत लागू कर सकते हैं",
+                "प्राचीन ज्ञान को आधुनिक संदर्भ में समझें",
+                "दर्शन और व्यावहारिक मार्गदर्शन दोनों का अन्वेषण करें"
+            ],
+            "cta_context": {
+                "primarycta_reason": "शुरुआती लोगों के लिए संरचित शिक्षा शुरू करना सर्वोत्तम है",
+                "secondarycta_reason": "मूल शिक्षाओं और गहन ज्ञान का अन्वेषण करें"
             }
-          ]
-        }
-      ]
-    },
-    "welcome": {
-      "clarity_devotion": "clarity, devotion, and divine grace",
-      "close": "Close",
-      "deeply_honored": "We are deeply honored and blessed by your presence here.",
-      "do_not": "Do not show this welcome message again",
-      "eternal_truths": "eternal truths of Sanātana Dharma",
-      "may_journey": "May your journey through these ancient teachings bring you",
-      "namaste_welcome": "Namaste & Welcome",
-      "thank_taking": "Thank you for taking this sacred step towards understanding and embracing the",
-      "timeless_wisdom": "— the timeless wisdom that illuminates the path to inner peace, righteousness, and spiritual awakening.",
-      "truth_alone": "Truth Alone Triumphs · Dharma Protects Those Who Protect It"
-    },
-    "hero": {
-      "description": "Sanatana Dharma is the ancient spiritual philosophy of India that explains life, purpose, karma, and liberation. Discover its teachings through the Vedas, Upanishads, and Bhagavad Gita in a simple and practical way.",
-      "heading": "Sanatana Dharma Explained",
-      "primarycta": {
-        "label": "Start Learning Sanatana Dharma",
-        "link": "sanatanadharma"
-      },
-      "secondarycta": {
-        "label": "Explore Scriptures",
-        "link": "itihasa"
-      },
-      "subheading": "The Eternal Way of Life",
-      "supporting_points": [
-        "Combines spiritual wisdom with practical daily living",
-        "Helps understand both inner life (mind, soul) and outer life (actions, society)",
-        "Applies to all people regardless of background or belief",
-        "Encourages self-discovery rather than blind following"
-      ],
-      "user_benefits": [
-        "Gain clarity about life purpose and direction",
-        "Learn how actions influence future outcomes",
-        "Develop calmness and emotional balance",
-        "Build a meaningful and value-based life"
-      ],
-      "key_concepts_preview": [
-        "Dharma: Right way of living",
-        "Karma: Law of action and result",
-        "Moksha: Freedom from suffering",
-        "Atman: True self beyond body and mind"
-      ],
-      "engagement_hooks": [
-        "Start with simple ideas and grow deeper step by step",
-        "Learn concepts you can apply immediately in daily life",
-        "Understand ancient wisdom in modern context",
-        "Explore both philosophy and practical guidance"
-      ],
-      "cta_context": {
-        "primarycta_reason": "Best for beginners to start structured learning",
-        "secondarycta_reason": "Explore original teachings and deeper knowledge"
-      }
-    },
-    "clarity_devotion": "clarity, devotion, and divine grace",
-    "close": "Close",
-    "cta": {
-      "title": "Help us make this website multilingual!",
-      "badge": "Supported: EN, TA, HI",
-      "contribute": "Contribute Now",
-      "guidelines": "Translation Guidelines",
-      "subtitle": "Your contribution makes our website accessible to everyone. Join our global community of translators."
-    },
-    "deeply_honored": "We are deeply honored and blessed by your presence here.",
-    "do_not": "Do not show this welcome message again",
-    "earth_age_comparison_note": "1 Kalpa (4.32 billion years) is surprisingly close to the modern scientific estimate of Earth's age (~4.54 billion years).",
-    "eternal_truths": "eternal truths of Sanātana Dharma",
-    "faqs": {
-      "title": "Frequently Asked Questions",
-      "questions": [
-        {
-          "answer": "Sanatana Dharma is the original eternal philosophy, while Hinduism is a modern term used to describe related traditions.",
-          "question": "What is the difference between Sanatana Dharma and Hinduism?"
         },
-        {
-          "answer": "It is more than a religion. It is a way of life and a philosophical system guiding human existence.",
-          "question": "Is Sanatana Dharma a religion?"
+        "clarity_devotion": "स्पष्टता, भक्ति, और दिव्य कृपा",
+        "close": "बंद करना",
+        "cta": {
+            "title": "इस वेबसाइट को बहुभाषी बनाने में हमारी सहायता करें!",
+            "badge": "समर्थित: एन, टीए, हाय",
+            "contribute": "अभी योगदान करें",
+            "guidelines": "अनुवाद दिशानिर्देश",
+            "subtitle": "आपका योगदान हमारी वेबसाइट को सभी के लिए सुलभ बनाता है। अनुवादकों के हमारे वैश्विक समुदाय में शामिल हों।"
         },
-        {
-          "answer": "The ultimate goal is moksha, or liberation from the cycle of birth and rebirth.",
-          "question": "What is the goal of life in Sanatana Dharma?"
-        }
-      ]
-    },
-    "may_journey": "May your journey through these ancient teachings bring you",
-    "namaste_welcome": "Namaste & Welcome",
-    "ourfourcoreyugas": [
-      {
-        "name": "Satya Yuga",
-        "subtitle": "Dharma age",
-        "years": "1,728,000 years",
-        "gradientfrom": "from-amber-700",
-        "gradientto": "to-orange-600",
-        "description": [
-          "This is the first and most pure age where truth (satya) and righteousness (dharma) are at 100%",
-          "People are naturally good, honest, and follow moral values without being taught",
-          "There is no crime, no greed, and no suffering in society",
-          "Humans live very long lives (thousands of years) and have strong physical and mental health",
-          "People are deeply spiritual and have direct connection with the divine (God)",
-          "Meditation and inner realization are the main practices, not rituals",
-          "Nature is balanced and peaceful; no natural disasters or imbalance",
-          "Society does not need strict rules or laws because everyone follows dharma naturally"
-        ]
-      },
-      {
-        "name": "Treta Yuga",
-        "subtitle": "Divine age",
-        "years": "1,296,000 years",
-        "gradientfrom": "from-orange-500",
-        "gradientto": "to-amber-400",
-        "description": [
-          "Dharma reduces slightly to about 75%, meaning some decline in truth and purity",
-          "People begin to develop ego, desires, and social hierarchy",
-          "This is the age of the great epic ",
-          "Divine incarnations like Lord Rama appear to restore dharma",
-          "People still follow spiritual practices, but more structured rituals and sacrifices (yajnas) begin",
-          "Lifespans are still long but shorter than Satya Yuga",
-          "Society starts forming kingdoms, rules, and systems of governance",
-          "Good and evil both exist, but good is still dominant"
-        ]
-      },
-      {
-        "name": "Dvapara Yuga",
-        "subtitle": "Dharma age",
-        "years": "864,000 years",
-        "gradientfrom": "from-rose-500",
-        "gradientto": "to-orange-500",
-        "description": [
-          "Dharma is reduced to 50%, meaning balance between good and bad",
-          "This is the age of the epic  and the teachings of Bhagavad Gita",
-          "Conflicts, wars, and complexity in life increase significantly",
-          "People become more materialistic and less spiritually aware",
-          "Temples, idol worship, and external rituals become more common",
-          "Human lifespan and strength decrease further",
-          "Knowledge is still present, but people struggle to follow it completely",
-          "Divine incarnations like Lord Krishna appear to guide humanity"
-        ]
-      },
-      {
-        "name": "Kali Yuga",
-        "subtitle": "Folk age",
-        "years": "432,000 years",
-        "gradientfrom": "from-red-700",
-        "gradientto": "to-rose-700",
-        "description": [
-          "This is the current age, where dharma is only 25% remaining",
-          "Materialism, ignorance, greed, and conflict dominate society",
-          "Truth is often ignored, and falsehood becomes common",
-          "People have shorter lifespans, weaker health, and more stress",
-          "Spiritual understanding is low, and distractions are very high",
-          "Following dharma becomes difficult, but still possible with effort",
-          "Simple practices like devotion (bhakti), chanting, and remembering God are most effective",
-          "Even though it is a dark age, liberation (moksha) is still possible for sincere seekers"
-        ]
-      }
-    ],
-    "ourfourcoreyugassubtitle": "The eternal and universal way of life based on truth, righteousness, and spiritual principles that uphold cosmic order. These numbers are not random. They are derived from a base unit of 432,000, multiplied proportionally (4: 3: 2: 1). One Full Day of Brahma: Lifetime of Brahma - 100 Brahma years - Each year = 360 days - Each day = 4 yugas (ages) - Total = 311,040,000,000 human years.",
-    "ourfourcoreyugastitle": "Explore Sanātana Dharma",
-    "scaling_comment": "This mathematical scaling is highly structured and proportional across all cosmic levels.",
-    "sections": [
-      {
-        "title": "What is Sanatana Dharma?",
-        "id": "what-is-sanatana-dharma",
-        "nodecaration": true,
-        "src": "/images/home/om.png",
-        "content": "Sanatana Dharma means the 'eternal way of living.' It is not just a religion, but a way of understanding life, nature, and the universe. It teaches how to live in harmony with truth and cosmic order.",
-        "insights": [
-          "Focuses on understanding reality rather than following fixed rules",
-          "Encourages questioning and personal experience of truth",
-          "Sees life as a journey of learning and inner growth",
-          "Teaches that happiness comes from alignment with truth, not external things"
+        "deeply_honored": "हम यहां आपकी उपस्थिति से अत्यंत सम्मानित और धन्य महसूस कर रहे हैं।",
+        "do_not": "इस स्वागत संदेश को दोबारा न दिखाएं",
+        "earth_age_comparison_note": "1 कल्प (4.32 अरब वर्ष) आश्चर्यजनक रूप से पृथ्वी की आयु के आधुनिक वैज्ञानिक अनुमान (~4.54 अरब वर्ष) के करीब है।",
+        "eternal_truths": "सनातन धर्म के शाश्वत सत्य",
+        "faqs": {
+            "title": "अक्सर पूछे जाने वाले प्रश्नों",
+            "questions": [
+                {
+                    "answer": "सनातन धर्म मूल शाश्वत दर्शन है, जबकि हिंदू धर्म एक आधुनिक शब्द है जिसका उपयोग संबंधित परंपराओं का वर्णन करने के लिए किया जाता है।",
+                    "question": "सनातन धर्म और हिंदू धर्म में क्या अंतर है?"
+                },
+                {
+                    "answer": "यह एक धर्म से भी बढ़कर है. यह जीवन का एक तरीका और मानव अस्तित्व का मार्गदर्शन करने वाली एक दार्शनिक प्रणाली है।",
+                    "question": "क्या सनातन धर्म एक धर्म है?"
+                },
+                {
+                    "answer": "अंतिम लक्ष्य मोक्ष है, या जन्म और पुनर्जन्म के चक्र से मुक्ति।",
+                    "question": "सनातन धर्म में जीवन का लक्ष्य क्या है?"
+                }
+            ]
+        },
+        "may_journey": "इन प्राचीन शिक्षाओं के माध्यम से आपकी यात्रा आपके लिए उपयोगी हो सकती है",
+        "namaste_welcome": "नमस्ते एवं स्वागत है",
+        "ourfourcoreyugas": [
+            {
+                "name": "सतयुग",
+                "subtitle": "धर्म युग",
+                "years": "1,728,000 वर्ष",
+                "gradientfrom": "से-एम्बर-700",
+                "gradientto": "से-नारंगी-600",
+                "description": [
+                    "यह पहला और सबसे शुद्ध युग है जहां सत्य (सत्य) और धर्म (धर्म) 100% हैं",
+                    "लोग स्वाभाविक रूप से अच्छे, ईमानदार होते हैं और बिना सिखाए नैतिक मूल्यों का पालन करते हैं",
+                    "समाज में कोई अपराध, कोई लालच और कोई पीड़ा नहीं है",
+                    "मनुष्य बहुत लंबा जीवन (हजारों वर्ष) जीते हैं और उनका शारीरिक और मानसिक स्वास्थ्य मजबूत होता है",
+                    "लोग गहराई से आध्यात्मिक हैं और उनका परमात्मा (ईश्वर) से सीधा संबंध है।",
+                    "ध्यान और आंतरिक अनुभूति मुख्य अभ्यास हैं, अनुष्ठान नहीं",
+                    "प्रकृति संतुलित और शांतिपूर्ण है; कोई प्राकृतिक आपदा या असंतुलन नहीं",
+                    "समाज को सख्त नियमों या कानूनों की आवश्यकता नहीं है क्योंकि हर कोई स्वाभाविक रूप से धर्म का पालन करता है"
+                ]
+            },
+            {
+                "name": "त्रेता युग",
+                "subtitle": "दिव्य युग",
+                "years": "1,296,000 वर्ष",
+                "gradientfrom": "से-नारंगी-500",
+                "gradientto": "से-एम्बर-400",
+                "description": [
+                    "धर्म थोड़ा कम होकर लगभग 75% रह गया है, जिसका अर्थ है सत्य और पवित्रता में कुछ गिरावट",
+                    "लोगों में अहंकार, इच्छाएं और सामाजिक पदानुक्रम विकसित होने लगता है",
+                    "यह महान महाकाव्य का युग है",
+                    "धर्म की पुनर्स्थापना के लिए भगवान राम जैसे दिव्य अवतार अवतरित हुए",
+                    "लोग अभी भी आध्यात्मिक प्रथाओं का पालन करते हैं, लेकिन अधिक संरचित अनुष्ठान और बलिदान (यज्ञ) शुरू होते हैं",
+                    "जीवन काल अभी भी लंबा है लेकिन सतयुग से छोटा है",
+                    "समाज राज्यों, नियमों और शासन प्रणालियों का निर्माण करना शुरू कर देता है",
+                    "अच्छाई और बुराई दोनों मौजूद हैं, लेकिन अच्छाई अभी भी हावी है"
+                ]
+            },
+            {
+                "name": "द्वापर युग",
+                "subtitle": "धर्म युग",
+                "years": "864,000 वर्ष",
+                "gradientfrom": "गुलाब-500 से",
+                "gradientto": "से-नारंगी-500",
+                "description": [
+                    "धर्म 50% तक कम हो गया है, अर्थात अच्छे और बुरे के बीच संतुलन",
+                    "यह महाकाव्य और भगवद गीता की शिक्षाओं का युग है",
+                    "जीवन में संघर्ष, युद्ध और जटिलताएँ काफी बढ़ जाती हैं",
+                    "लोग अधिक भौतिकवादी और कम आध्यात्मिक रूप से जागरूक हो जाते हैं",
+                    "मंदिर, मूर्ति पूजा और बाहरी अनुष्ठान अधिक आम हो गए हैं",
+                    "मनुष्य की आयु और शक्ति घटती जाती है",
+                    "ज्ञान अभी भी मौजूद है, लेकिन लोग इसका पूरी तरह से पालन करने के लिए संघर्ष करते हैं",
+                    "भगवान कृष्ण जैसे दिव्य अवतार मानवता का मार्गदर्शन करते हैं"
+                ]
+            },
+            {
+                "name": "कलियुग",
+                "subtitle": "लोक युग",
+                "years": "432,000 वर्ष",
+                "gradientfrom": "से-लाल-700",
+                "gradientto": "से-गुलाब-700",
+                "description": [
+                    "यह वर्तमान युग है, जहां धर्म केवल 25% ही शेष रह गया है",
+                    "भौतिकवाद, अज्ञानता, लालच और संघर्ष समाज पर हावी हैं",
+                    "सत्य को अक्सर नजरअंदाज कर दिया जाता है और झूठ आम हो जाता है",
+                    "लोगों की आयु कम होती है, स्वास्थ्य कमज़ोर होता है और तनाव अधिक होता है",
+                    "आध्यात्मिक समझ कम है और भटकाव बहुत अधिक है",
+                    "धर्म का पालन करना कठिन हो जाता है, परंतु प्रयास से फिर भी संभव है",
+                    "भक्ति (भक्ति), जप और भगवान को याद करने जैसी सरल प्रथाएं सबसे प्रभावी हैं",
+                    "यद्यपि यह एक अंधकार युग है, फिर भी सच्चे साधकों के लिए मुक्ति (मोक्ष) अभी भी संभव है"
+                ]
+            }
         ],
-        "real_life_examples": [
-          "Helping others without expecting reward",
-          "Staying calm in difficult situations",
-          "Making decisions based on values, not pressure"
-        ]
-      },
-      {
-        "title": "Sanatana Dharma Explained in Simple Terms",
-        "id": "sanatana-dharma-simple-explanation",
-        "content": "Sanatana Dharma explains life using simple but powerful ideas that guide how we think, act, and grow.",
-        "insights": [
-          "You are responsible for your life through your choices",
-          "Balance is important — not too materialistic, not too detached",
-          "Growth happens through experience, not just knowledge",
-          "Inner peace is more important than temporary pleasure"
+        "ourfourcoreyugassubtitle": "सत्य, धार्मिकता और आध्यात्मिक सिद्धांतों पर आधारित जीवन का शाश्वत और सार्वभौमिक तरीका जो ब्रह्मांडीय व्यवस्था को कायम रखता है। ये संख्याएँ यादृच्छिक नहीं हैं. वे 432,000 की आधार इकाई से प्राप्त होते हैं, जिसे आनुपातिक रूप से गुणा किया जाता है (4:3:2:1)। ब्रह्मा का एक पूर्ण दिन: ब्रह्मा का जीवनकाल - 100 ब्रह्मा वर्ष - प्रत्येक वर्ष = 360 दिन - प्रत्येक दिन = 4 युग (उम्र) - कुल = 311,040,000,000 मानव वर्ष।",
+        "ourfourcoreyugastitle": "सनातन धर्म का अन्वेषण करें",
+        "scaling_comment": "यह गणितीय स्केलिंग सभी ब्रह्मांडीय स्तरों पर अत्यधिक संरचित और आनुपातिक है।",
+        "sections": [
+            {
+                "title": "सनातन धर्म क्या है?",
+                "id": "सनातन धर्म क्या है?",
+                "nodecaration": true,
+                "src": "/images/home/om.png",
+                "content": "सनातन धर्म का अर्थ है 'जीवन जीने का शाश्वत तरीका'। यह सिर्फ एक धर्म नहीं है, बल्कि जीवन, प्रकृति और ब्रह्मांड को समझने का एक तरीका है। यह सिखाता है कि सत्य और ब्रह्मांडीय व्यवस्था के साथ सद्भाव में कैसे रहना है।",
+                "insights": [
+                    "तय नियमों का पालन करने के बजाय वास्तविकता को समझने पर ध्यान केंद्रित करता है",
+                    "प्रश्न पूछने और सत्य के व्यक्तिगत अनुभव को प्रोत्साहित करता है",
+                    "जीवन को सीखने और आंतरिक विकास की यात्रा के रूप में देखता है",
+                    "सिखाता है कि ख़ुशी सत्य के साथ जुड़ने से आती है, बाहरी चीज़ों से नहीं"
+                ],
+                "real_life_examples": [
+                    "पुरस्कार की आशा किए बिना दूसरों की सहायता करना",
+                    "कठिन परिस्थितियों में शांत रहना",
+                    "मूल्यों के आधार पर निर्णय लेना, दबाव के आधार पर नहीं"
+                ]
+            },
+            {
+                "title": "सनातन धर्म को सरल शब्दों में समझाया गया",
+                "id": "सनातन-धर्म-सरल-व्याख्या",
+                "content": "सनातन धर्म सरल लेकिन शक्तिशाली विचारों का उपयोग करके जीवन की व्याख्या करता है जो हमारे सोचने, कार्य करने और बढ़ने के तरीके का मार्गदर्शन करता है।",
+                "insights": [
+                    "आप अपनी पसंद के माध्यम से अपने जीवन के लिए जिम्मेदार हैं",
+                    "संतुलन महत्वपूर्ण है - बहुत भौतिकवादी नहीं, बहुत अलग नहीं",
+                    "विकास अनुभव से होता है, सिर्फ ज्ञान से नहीं",
+                    "अस्थायी सुख से अधिक महत्वपूर्ण आंतरिक शांति है"
+                ],
+                "real_life_examples": [
+                    "जब कोई नहीं देख रहा हो तब भी ईमानदारी से काम करना",
+                    "निराशा के बिना परिणाम स्वीकार करना",
+                    "दूसरों को दोष देने के बजाय गलतियों से सीखें"
+                ]
+            },
+            {
+                "title": "🌿सनातन धर्म के मूल सिद्धांत",
+                "id": "मूल सिद्धांत",
+                "content": "ये मौलिक विचार हैं जो सार्थक और संतुलित जीवन का मार्गदर्शन करते हैं।",
+                "advanced_understanding": [
+                    "धर्म स्थिर नहीं है - यह स्थिति और भूमिका के आधार पर बदलता है",
+                    "कर्म दंड नहीं है - यह संतुलन का प्राकृतिक नियम है",
+                    "मोक्ष मानसिक लगाव से मुक्ति है, न कि केवल पुनर्जन्म",
+                    "आत्मानुभूति का अर्थ है शरीर और मन से परे अपनी वास्तविक पहचान को समझना"
+                ],
+                "common_misunderstandings": [
+                    "धर्म धर्म नहीं है - यह सही कार्य है",
+                    "कर्म भाग्य नहीं है - कर्म परिणाम बदल सकते हैं",
+                    "मोक्ष जीवन से भागना नहीं है - यह जीवन को पूरी तरह से समझना है"
+                ],
+                "items": [
+                    {
+                        "title": "धर्म (कर्तव्य)",
+                        "description": "हर स्थिति में जो सही है उसे करते हुए जिम्मेदारी से जीना।",
+                        "details": [
+                            "व्यक्तिगत और सामाजिक जीवन में आपके निर्णयों का मार्गदर्शन करता है",
+                            "समाज में सद्भाव बनाए रखने में मदद करता है",
+                            "आपकी भूमिका के आधार पर परिवर्तन (छात्र, अभिभावक, नेता)"
+                        ],
+                        "link": "vedic-philosophy/dharma",
+                        "src": "/images/home/dharma.png"
+                    },
+                    {
+                        "title": "कर्म",
+                        "description": "हर कार्य का एक परिणाम होता है, चाहे अच्छा हो या बुरा।",
+                        "details": [
+                            "अच्छे कार्य सकारात्मक परिणाम लाते हैं",
+                            "नकारात्मक कार्य चुनौतियों या कष्टों का कारण बनते हैं",
+                            "सचेतन और जिम्मेदार जीवन जीने को प्रोत्साहित करता है"
+                        ],
+                        "link": "vedic-philosophy/karma",
+                        "src": "/images/home/karma.png"
+                    },
+                    {
+                        "title": "मोक्ष (मुक्ति)",
+                        "description": "जन्म और मृत्यु के चक्र से मुक्ति.",
+                        "details": [
+                            "जीवन का सर्वोच्च लक्ष्य",
+                            "ज्ञान, भक्ति और अनुशासन से प्राप्त किया गया",
+                            "परमात्मा के साथ स्थायी शांति और एकता लाता है"
+                        ],
+                        "link": "vedic-philosophy/moksha",
+                        "src": "/images/home/moksha.png"
+                    },
+                    {
+                        "title": "अहिंसा",
+                        "description": "मन, वचन या कर्म से किसी भी जीवित प्राणी को नुकसान पहुंचाने से बचें।",
+                        "details": [
+                            "करुणा और दयालुता को बढ़ावा देता है",
+                            "मनुष्यों, जानवरों और प्रकृति पर लागू होता है",
+                            "शांतिपूर्ण जीवन को प्रोत्साहित करता है"
+                        ],
+                        "link": "vedic-philosophy/ahimsa",
+                        "src": "/images/home/ahimsa.png"
+                    },
+                    {
+                        "title": "सत्य (सत्य)",
+                        "description": "ईमानदारी और सत्यनिष्ठा के साथ जीना।",
+                        "details": [
+                            "सच बोलें और कार्य करें",
+                            "विश्वास और आंतरिक शक्ति बनाता है",
+                            "आपके जीवन को वास्तविकता के साथ संरेखित करता है"
+                        ],
+                        "link": "vedic-philosophy/satya",
+                        "src": "/images/home/satya.png"
+                    }
+                ]
+            },
+            {
+                "title": "सनातन धर्म के प्रमुख धर्मग्रंथ",
+                "id": "मुख्य-ग्रंथ",
+                "content": "ये पवित्र ग्रंथ आध्यात्मिक ज्ञान को संरक्षित करते हैं और लोगों को सच्चाई और सही जीवन की ओर मार्गदर्शन करते हैं।",
+                "insights": [
+                    "विभिन्न ग्रंथ अलग-अलग उद्देश्यों की पूर्ति करते हैं - अनुष्ठान, दर्शन, कहानियाँ",
+                    "वे समझने के लिए हैं, न कि आँख मूँद कर उनका अनुसरण करने के लिए",
+                    "कहानियाँ प्रतीकात्मक होती हैं और उनमें गहरे अर्थ समाहित होते हैं",
+                    "समय और संदर्भ के आधार पर शिक्षाओं को अलग-अलग तरीके से लागू किया जा सकता है"
+                ],
+                "how_to_use": [
+                    "गहन दर्शन से पहले सरल पाठ से शुरुआत करें",
+                    "अर्थ समझने पर ध्यान दें, याद रखने पर नहीं",
+                    "एक समय में एक शिक्षा को दैनिक जीवन में लागू करें"
+                ],
+                "items": [
+                    {
+                        "title": "वेद",
+                        "description": "सबसे पुराने पवित्र ग्रंथ जिनमें प्रकृति, अनुष्ठान और सत्य के बारे में ज्ञान है।",
+                        "details": [
+                            "सनातन धर्म का आधार माना जाता है",
+                            "भजन, प्रार्थना और दार्शनिक विचार शामिल करें",
+                            "ब्रह्मांडीय नियमों और आध्यात्मिक प्रथाओं की व्याख्या करें"
+                        ],
+                        "link": "vedas",
+                        "src": "/images/home/the-vedas.png"
+                    },
+                    {
+                        "title": "उपनिषदों",
+                        "description": "आत्मा (आत्मान) और परम वास्तविकता (ब्राह्मण) के बारे में शिक्षाएँ।",
+                        "details": [
+                            "गहरे दार्शनिक प्रश्नों पर ध्यान दें",
+                            "चेतना की प्रकृति स्पष्ट करें",
+                            "आत्म-साक्षात्कार की ओर मार्गदर्शन करें"
+                        ],
+                        "link": "upanishads",
+                        "src": "/images/home/the-upanishads.png"
+                    },
+                    {
+                        "title": "पुराणों",
+                        "description": "देवताओं, सृष्टि और नैतिक मूल्यों के बारे में कहानियाँ और शिक्षाएँ।",
+                        "details": [
+                            "जटिल विचारों को कहानियों के माध्यम से समझाएँ",
+                            "भक्ति और धर्म की शिक्षा दो",
+                            "ब्रह्मांडीय चक्र और इतिहास का वर्णन करें"
+                        ],
+                        "link": "puranas",
+                        "src": "/images/home/the-puranas.png"
+                    },
+                    {
+                        "title": "भागवद गीता",
+                        "description": "कृष्ण और अर्जुन के बीच बातचीत के माध्यम से जीवन और कर्तव्य का मार्गदर्शन।",
+                        "details": [
+                            "जीवन की चुनौतियों से निपटना सिखाता है",
+                            "कर्म, भक्ति और ज्ञान की व्याख्या करता है",
+                            "व्यावहारिक आध्यात्मिक मार्गदर्शन देता है"
+                        ],
+                        "link": "itihasa",
+                        "src": "/images/home/the-ithihas.png"
+                    },
+                    {
+                        "title": "रामायण और महाभारत",
+                        "description": "महाकाव्य कहानियाँ जो मूल्य, कर्तव्य और धार्मिकता सिखाती हैं।",
+                        "details": [
+                            "धर्म के वास्तविक जीवन के उदाहरण दिखाएँ",
+                            "सही और गलत कार्यों के परिणाम स्पष्ट करें",
+                            "भक्ति, साहस और बुद्धि सिखाओ"
+                        ],
+                        "link": "/itihasa",
+                        "src": "/images/home/the-vedas.png"
+                    }
+                ]
+            },
+            {
+                "title": "आज सनातन धर्म क्यों मायने रखता है?",
+                "id": "यह क्यों मायने रखती है",
+                "content": "आधुनिक जीवन में भी, ये शिक्षाएँ शांतिपूर्वक और सार्थक ढंग से जीने के लिए मार्गदर्शन प्रदान करती हैं।",
+                "modern_relevance": [
+                    "स्वीकृति के माध्यम से तनाव और चिंता को प्रबंधित करने में मदद करता है",
+                    "जटिल परिस्थितियों में नैतिक मार्गदर्शन प्रदान करता है",
+                    "टिकाऊ और सचेत जीवन को प्रोत्साहित करता है",
+                    "भावनात्मक शक्ति और स्पष्टता बनाता है"
+                ],
+                "practical_impact": [
+                    "समझ और धैर्य से बेहतर रिश्ते",
+                    "बेहतर फोकस और निर्णय लेने की क्षमता",
+                    "अनिश्चितता का डर कम हो गया"
+                ]
+            },
+            {
+                "title": "सनातन धर्म का पालन करने के लाभ",
+                "id": "फ़ायदे",
+                "points": [
+                    "मानसिक स्पष्टता और आंतरिक शांति",
+                    "धर्म के माध्यम से बेहतर निर्णय लेना",
+                    "जीवन का उद्देश्य समझना",
+                    "आध्यात्मिक जागरूकता के माध्यम से तनाव कम करें",
+                    "संतुलित भौतिक एवं आध्यात्मिक जीवन"
+                ],
+                "deeper_benefits": [
+                    "मजबूत आंतरिक स्थिरता विकसित करता है",
+                    "आत्म-जागरूकता और नियंत्रण में सुधार करता है",
+                    "बाहरी सत्यापन पर निर्भरता कम हो जाती है",
+                    "अस्थायी सुख के बजाय दीर्घकालिक सुख पैदा करता है"
+                ],
+                "long_term_effect": [
+                    "जीवन की स्पष्ट दिशा",
+                    "भावनात्मक लचीलापन",
+                    "उद्देश्य और पूर्ति की भावना"
+                ],
+                "pointsrc": [
+                    "/images/home/why-sanatana-1.png",
+                    "/images/home/why-sanatana-2.png",
+                    "/images/home/why-sanatana-3.png",
+                    "/images/home/why-sanatana-4.png"
+                ]
+            },
+            {
+                "title": "अपनी आध्यात्मिक यात्रा शुरू करें",
+                "id": "सीटीए",
+                "content": "सीखकर, अभ्यास करके और अनुभव करके चरण दर चरण अपनी यात्रा शुरू करें।",
+                "step_by_step_path": [
+                    "Learn basic concepts like dharma and karma",
+                    "Observe your thoughts and actions daily",
+                    "Practice small improvements consistently",
+                    "Stay patient — growth takes time"
+                ],
+                "beginner_tips": [
+                    "एक बार में ही सब कुछ सीखने की कोशिश न करें",
+                    "थ्योरी से ज्यादा प्रैक्टिस पर ध्यान दें",
+                    "छोटे-छोटे कदमों में भी लगातार बने रहें"
+                ]
+            }
         ],
-        "real_life_examples": [
-          "Working honestly even when no one is watching",
-          "Accepting results without frustration",
-          "Learning from mistakes instead of blaming others"
-        ]
-      },
-      {
-        "title": "🌿 Core Principles of Sanatana Dharma",
-        "id": "core-principles",
-        "content": "These are the fundamental ideas that guide a meaningful and balanced life.",
-        "advanced_understanding": [
-          "Dharma is not fixed — it changes based on situation and role",
-          "Karma is not punishment — it is a natural law of balance",
-          "Moksha is freedom from mental attachment, not just rebirth",
-          "Atman realization means understanding your true identity beyond body and mind"
-        ],
-        "common_misunderstandings": [
-          "Dharma is not religion — it is right action",
-          "Karma is not fate — actions can change outcomes",
-          "Moksha is not escaping life — it is understanding life fully"
-        ],
-        "items": [
-          {
-            "title": "Dharma (Duty)",
-            "description": "Living responsibly by doing what is right in every situation.",
-            "details": [
-              "Guides your decisions in personal and social life",
-              "Helps maintain harmony in society",
-              "Changes based on your role (student, parent, leader)"
-            ],
-            "link": "vedic-philosophy/dharma",
-            "src": "/images/home/dharma.png"
-          },
-          {
-            "title": "Karma (Action)",
-            "description": "Every action has a consequence, whether good or bad.",
-            "details": [
-              "Good actions bring positive results",
-              "Negative actions lead to challenges or suffering",
-              "Encourages mindful and responsible living"
-            ],
-            "link": "vedic-philosophy/karma",
-            "src": "/images/home/karma.png"
-          },
-          {
-            "title": "Moksha (Liberation)",
-            "description": "Freedom from the cycle of birth and death.",
-            "details": [
-              "The highest goal of life",
-              "Achieved through knowledge, devotion, and discipline",
-              "Brings permanent peace and unity with the divine"
-            ],
-            "link": "vedic-philosophy/moksha",
-            "src": "/images/home/moksha.png"
-          },
-          {
-            "title": "Ahimsa (Non-violence)",
-            "description": "Avoid harming any living being in thought, word, or action.",
-            "details": [
-              "Promotes compassion and kindness",
-              "Applies to humans, animals, and nature",
-              "Encourages peaceful living"
-            ],
-            "link": "vedic-philosophy/ahimsa",
-            "src": "/images/home/ahimsa.png"
-          },
-          {
-            "title": "Satya (Truth)",
-            "description": "Living with honesty and integrity.",
-            "details": [
-              "Speak and act truthfully",
-              "Builds trust and inner strength",
-              "Aligns your life with reality"
-            ],
-            "link": "vedic-philosophy/satya",
-            "src": "/images/home/satya.png"
-          }
-        ]
-      },
-      {
-        "title": "Main Scriptures of Sanatana Dharma",
-        "id": "main-scriptures",
-        "content": "These sacred texts preserve spiritual knowledge and guide people toward truth and right living.",
-        "insights": [
-          "Different texts serve different purposes — rituals, philosophy, stories",
-          "They are meant to be understood, not blindly followed",
-          "Stories are symbolic and contain deeper meanings",
-          "Teachings can be applied differently based on time and context"
-        ],
-        "how_to_use": [
-          "Start with simple texts before deep philosophy",
-          "Focus on understanding meaning, not memorizing",
-          "Apply one teaching at a time in daily life"
-        ],
-        "items": [
-          {
-            "title": "Vedas",
-            "description": "The oldest sacred texts containing knowledge about nature, rituals, and truth.",
-            "details": [
-              "Considered the foundation of Sanatana Dharma",
-              "Include hymns, prayers, and philosophical ideas",
-              "Explain cosmic laws and spiritual practices"
-            ],
-            "link": "vedas",
-            "src": "/images/home/the-vedas.png"
-          },
-          {
-            "title": "Upanishads",
-            "description": "Teachings about the soul (Atman) and ultimate reality (Brahman).",
-            "details": [
-              "Focus on deep philosophical questions",
-              "Explain the nature of consciousness",
-              "Guide toward self-realization"
-            ],
-            "link": "upanishads",
-            "src": "/images/home/the-upanishads.png"
-          },
-          {
-            "title": "Puranas",
-            "description": "Stories and teachings about gods, creation, and moral values.",
-            "details": [
-              "Explain complex ideas through stories",
-              "Teach devotion and dharma",
-              "Describe cosmic cycles and history"
-            ],
-            "link": "puranas",
-            "src": "/images/home/the-puranas.png"
-          },
-          {
-            "title": "Bhagavad Gita",
-            "description": "A guide to life and duty through a conversation between Krishna and Arjuna.",
-            "details": [
-              "Teaches how to handle life’s challenges",
-              "Explains karma, devotion, and knowledge",
-              "Gives practical spiritual guidance"
-            ],
-            "link": "itihasa",
-            "src": "/images/home/the-ithihas.png"
-          },
-          {
-            "title": "Ramayana & Mahabharata",
-            "description": "Epic stories that teach values, duty, and righteousness.",
-            "details": [
-              "Show real-life examples of dharma",
-              "Explain consequences of right and wrong actions",
-              "Teach devotion, courage, and wisdom"
-            ],
-            "link": "/itihasa",
-            "src": "/images/home/the-vedas.png"
-          }
-        ]
-      },
-      {
-        "title": "Why Sanatana Dharma Matters Today",
-        "id": "why-it-matters",
-        "content": "Even in modern life, these teachings provide guidance for living peacefully and meaningfully.",
-        "modern_relevance": [
-          "Helps manage stress and anxiety through acceptance",
-          "Provides ethical guidance in complex situations",
-          "Encourages sustainable and mindful living",
-          "Builds emotional strength and clarity"
-        ],
-        "practical_impact": [
-          "Better relationships through understanding and patience",
-          "Improved focus and decision-making",
-          "Reduced fear of uncertainty"
-        ]
-      },
-      {
-        "title": "Benefits of Following Sanatana Dharma",
-        "id": "benefits",
-        "points": [
-          "Mental clarity and inner peace",
-          "Better decision making through dharma",
-          "Understanding life purpose",
-          "Reduced stress through spiritual awareness",
-          "Balanced material and spiritual life"
-        ],
-        "deeper_benefits": [
-          "Develops strong inner stability",
-          "Improves self-awareness and control",
-          "Reduces dependence on external validation",
-          "Creates long-term happiness instead of temporary pleasure"
-        ],
-        "long_term_effect": [
-          "Clear life direction",
-          "Emotional resilience",
-          "Sense of purpose and fulfillment"
-        ],
-        "pointsrc": [
-          "/images/home/why-sanatana-1.png",
-          "/images/home/why-sanatana-2.png",
-          "/images/home/why-sanatana-3.png",
-          "/images/home/why-sanatana-4.png"
-        ]
-      },
-      {
-        "title": "Start Your Spiritual Journey",
-        "id": "cta",
-        "content": "Begin your journey step by step by learning, practicing, and experiencing.",
-        "step_by_step_path": [
-          "Learn basic concepts like dharma and karma",
-          "Observe your thoughts and actions daily",
-          "Practice small improvements consistently",
-          "Stay patient — growth takes time"
-        ],
-        "beginner_tips": [
-          "Do not try to learn everything at once",
-          "Focus on practice more than theory",
-          "Stay consistent even with small steps"
-        ]
-      }
-    ],
-    "thank_taking": "Thank you for taking this sacred step towards understanding and embracing the",
-    "timeless_wisdom": "— the timeless wisdom that illuminates the path to inner peace, righteousness, and spiritual awakening.",
-    "truth_alone": "Truth Alone Triumphs · Dharma Protects Those Who Protect It"
-  }
+        "thank_taking": "समझने और अपनाने की दिशा में यह पवित्र कदम उठाने के लिए धन्यवाद",
+        "timeless_wisdom": "- वह कालातीत ज्ञान जो आंतरिक शांति, धार्मिकता और आध्यात्मिक जागृति का मार्ग प्रशस्त करता है।",
+        "truth_alone": "सत्य की ही विजय होती है · धर्म उन लोगों की रक्षा करता है जो इसकी रक्षा करते हैं"
+    }
 }

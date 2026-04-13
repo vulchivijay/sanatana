@@ -43,10 +43,8 @@
     "minimist": "^1.2.8",
     "postcss": "^8.5.8",
     "prettier": "^3.8.1",
-    "readline-sync": "^1.4.10",
     "sass": "^1.98.0",
     "topojson-client": "^3.1.0",
-    "ts-prune": "^0.10.3",
     "typescript": "^5.9.3"
   }
 }

@@ -1,490 +1,490 @@
 {
   "sharable-strings": {
-    "sitetitle": "Sanātana Dharma",
+    "sitetitle": "సనాతన ధర్మం",
     "banner_notifications": {
-      "title": "If you find our work helpful, consider supporting us to keep this web page",
+      "title": "మీరు మా పనిని సహాయకరంగా భావిస్తే, ఈ వెబ్ పేజీని ఉంచడానికి మాకు మద్దతు ఇవ్వడాన్ని పరిగణించండి",
       "links": {
         "alive": "/donate"
       },
-      "subtitle": "and Help us grow by making a small donation."
+      "subtitle": "మరియు చిన్న విరాళం ఇవ్వడం ద్వారా మాకు ఎదగడానికి సహాయం చేయండి."
     },
     "banner_notifications2": {
-      "title": "Protecting the roots of Sanātana Dharma for a brighter future.",
-      "subtitle": "Empowering future generations through timeless Vedic knowledge."
+      "title": "ఉజ్వల భవిష్యత్తు కోసం సనాతన ధర్మ మూలాలను రక్షించడం.",
+      "subtitle": "కాలాతీతమైన వేద జ్ఞానం ద్వారా భవిష్యత్ తరాలకు సాధికారత కల్పించడం."
     },
     "header": {
       "itihasa": {
-        "title": "Itihasa",
+        "title": "ఇతిహాస",
         "nav": [
           {
-            "description": "Epic describing the life of Lord Rama.",
-            "author": "Valmiki",
+            "description": "శ్రీరాముని జీవితాన్ని వివరించే ఇతిహాసం.",
+            "author": "వాల్మీకి",
             "kandas": {
-              "aranya-kanda": "Aranya Kanda",
-              "ayodhya-kanda": "Ayodhya Kanda",
-              "bala-kanda": "Bala Kanda",
-              "kishkinda-kanda": "Kishkindha Kanda",
-              "sundara-kanda": "Sundara Kanda",
-              "uttara-kanda": "Uttara Kanda",
-              "yuddha-kanda": "Yuddha Kanda"
+              "aranya-kanda": "అరణ్య కాండ",
+              "ayodhya-kanda": "అయోధ్య కాండ",
+              "bala-kanda": "బాల కాండ",
+              "kishkinda-kanda": "కిష్కింధ కాండ",
+              "sundara-kanda": "సుందర కాండ",
+              "uttara-kanda": "ఉత్తర కాండ",
+              "yuddha-kanda": "యుద్ధ కాండ"
             },
-            "name": "Ramayana"
+            "name": "రామాయణం"
           },
           {
-            "description": "Epic describing the Kurukshetra war and dharma.",
-            "author": "Vyasa",
-            "name": "Mahabharata",
+            "description": "కురుక్షేత్ర యుద్ధం మరియు ధర్మాన్ని వివరించే ఇతిహాసం.",
+            "author": "వ్యాసుడు",
+            "name": "మహాభారతం",
             "parvas": 18
           },
           {
-            "description": "Sacred dialogue between Lord Krishna and Arjuna.",
+            "description": "శ్రీకృష్ణుడు మరియు అర్జునుడి మధ్య పవిత్రమైన సంభాషణ.",
             "chapters": 18,
             "chapters_list": {
-              "akshara-brahma-yoga": "Akshara Brahma Yoga",
-              "arjuna-vishada-yoga": "Arjuna Vishada Yoga",
-              "bhakti-yoga": "Bhakti Yoga",
-              "daivasura-sampad-vibhaga-yoga": "Daivasura Sampad Vibhaga Yoga",
-              "dhyana-yoga": "Dhyana Yoga",
-              "gunatraya-vibhaga-yoga": "Gunatraya Vibhaga Yoga",
-              "jnana-karma-sanyasa-yoga": "Jnana Karma Sanyasa Yoga",
-              "jnana-vijnana-yoga": "Jnana Vijnana Yoga",
-              "karma-sanyasa-yoga": "Karma Sanyasa Yoga",
-              "karma-yoga": "Karma Yoga",
-              "kshetra-kshetrajna-vibhaga-yoga": "Kshetra Kshetrajna Vibhaga Yoga",
-              "moksha-sanyasa-yoga": "Moksha Sanyasa Yoga",
-              "purushottama-yoga": "Purushottama Yoga",
-              "raja-vidya-raja-guhya-yoga": "Raja Vidya Raja Guhya Yoga",
-              "sankhya-yoga": "Sankhya Yoga",
-              "shraddhatray-vibhaga-yoga": "Shraddhatraya Vibhaga Yoga",
-              "vibhuti-yoga": "Vibhuti Yoga",
-              "vishvarupa-darshana-yoga": "Vishvarupa Darshana Yoga"
+              "akshara-brahma-yoga": "అక్షర బ్రహ్మ యోగము",
+              "arjuna-vishada-yoga": "అర్జున విషాద యోగం",
+              "bhakti-yoga": "భక్తి యోగము",
+              "daivasura-sampad-vibhaga-yoga": "దైవాసుర సంపద విభాగ యోగ",
+              "dhyana-yoga": "ధ్యాన యోగం",
+              "gunatraya-vibhaga-yoga": "గుణత్రయ విభాగ యోగ",
+              "jnana-karma-sanyasa-yoga": "జ్ఞాన కర్మ సన్యాస యోగం",
+              "jnana-vijnana-yoga": "జ్ఞాన విజ్ఞాన యోగా",
+              "karma-sanyasa-yoga": "కర్మ సన్యాస యోగము",
+              "karma-yoga": "కర్మ యోగము",
+              "kshetra-kshetrajna-vibhaga-yoga": "క్షేత్ర క్షేత్రజ్ఞ విభాగ యోగం",
+              "moksha-sanyasa-yoga": "మోక్ష సన్యాస యోగము",
+              "purushottama-yoga": "పురుషోత్తమ యోగము",
+              "raja-vidya-raja-guhya-yoga": "రాజ విద్యా రాజ గుహ్య యోగ",
+              "sankhya-yoga": "సాంఖ్య యోగా",
+              "shraddhatray-vibhaga-yoga": "శ్రద్ధాత్రయ విభాగ యోగ",
+              "vibhuti-yoga": "విభూతి యోగం",
+              "vishvarupa-darshana-yoga": "విశ్వరూప దర్శన యోగము"
             },
             "verses": 700
           }
         ]
       },
       "philosophy": {
-        "title": "Philosophy",
+        "title": "తత్వశాస్త్రం",
         "basePath": "/vedic-philosophy",
         "nav": {
-          "advaita": "Advaita",
-          "astronomy": "Astronomy",
-          "bhakti": "Bhakti",
-          "dharma": "Dharma",
-          "karma": "Karma",
-          "mathematics": "Mathematics",
-          "medicine": "Medicine",
-          "moksha": "Moksha",
-          "purushartha": "Purushartha",
-          "samsara": "Samsara",
-          "yoga": "Yoga"
+          "advaita": "అద్వైతం",
+          "astronomy": "ఖగోళ శాస్త్రం",
+          "bhakti": "భక్తి",
+          "dharma": "ధర్మము",
+          "karma": "కర్మ",
+          "mathematics": "గణితం",
+          "medicine": "మందు",
+          "moksha": "మోక్షము",
+          "purushartha": "పురుషార్థ",
+          "samsara": "సంసారం",
+          "yoga": "యోగా"
         },
-        "subtitle": "Vedic"
+        "subtitle": "వైదిక"
       },
       "puranas": {
-        "title": "Puranas",
+        "title": "పురాణాలు",
         "nav": {
-          "agni": "Agni Purana",
-          "bhagavata": "Bhagavata Purana",
-          "bhavishya": "Bhavishya Purana",
-          "brahma": "Brahma Purana",
-          "brahmanda": "Brahmanda Purana",
-          "brahmavaivarta": "Brahmavaivarta Purana",
-          "garuda": "Garuda Purana",
-          "kurma": "Kurma Purana",
-          "linga": "Linga Purana",
-          "markandeya": "Markandeya Purana",
-          "matsya": "Matsya Purana",
-          "narada": "Narada Purana",
-          "padma": "Padma Purana",
-          "shiva": "Shiva Purana",
-          "skanda": "Skanda Purana",
-          "vamana": "Vamana Purana",
-          "varaha": "Varaha Purana",
-          "vishnu": "Vishnu Purana"
+          "agni": "అగ్ని పురాణం",
+          "bhagavata": "భాగవత పురాణం",
+          "bhavishya": "భవిష్య పురాణం",
+          "brahma": "బ్రహ్మ పురాణం",
+          "brahmanda": "బ్రహ్మాండ పురాణం",
+          "brahmavaivarta": "బ్రహ్మవైవర్త పురాణం",
+          "garuda": "గరుడ పురాణం",
+          "kurma": "కూర్మ పురాణం",
+          "linga": "లింగ పురాణం",
+          "markandeya": "మార్కండేయ పురాణం",
+          "matsya": "మత్స్య పురాణం",
+          "narada": "నారద పురాణం",
+          "padma": "పద్మ పురాణం",
+          "shiva": "శివ పురాణం",
+          "skanda": "స్కంద పురాణం",
+          "vamana": "వామన పురాణం",
+          "varaha": "వరాహ పురాణం",
+          "vishnu": "విష్ణు పురాణం"
         }
       },
       "science": {
-        "title": "Science",
+        "title": "సైన్స్",
         "basePath": "/vedic-science",
         "nav": {
-          "architecture": "Architecture",
-          "astronomy": "Astronomy",
-          "mathematics": "Mathematics",
-          "medicine": "Medicine",
-          "metallurgy": "Metallurgy"
+          "architecture": "ఆర్కిటెక్చర్",
+          "astronomy": "ఖగోళ శాస్త్రం",
+          "mathematics": "గణితం",
+          "medicine": "మందు",
+          "metallurgy": "మెటలర్జీ"
         },
-        "subtitle": "Vedic"
+        "subtitle": "వైదిక"
       },
       "upanishads": {
-        "title": "Upanishads",
+        "title": "ఉపనిషత్తులు",
         "nav": {
-          "aitareya": "Aitareya Upanishad",
-          "brihadaranyaka": "Brihadaranyaka Upanishad",
-          "chandogya": "Chandogya Upanishad",
-          "isha": "Isha Upanishad",
-          "katha": "Katha Upanishad",
-          "kaushitaki": "Kaushitaki Upanishad",
-          "kena": "Kena Upanishad",
-          "maitri": "Maitri Upanishad",
-          "mandukya": "Mandukya Upanishad",
-          "mundaka": "Mundaka Upanishad",
-          "prashna": "Prashna Upanishad",
-          "shvetashvatara": "Shvetashvatara Upanishad",
-          "taittiriya": "Taittiriya Upanishad"
+          "aitareya": "ఐతరేయ ఉపనిషత్తు",
+          "brihadaranyaka": "బృహదారణ్యక ఉపనిషత్తు",
+          "chandogya": "ఛాందోగ్య ఉపనిషత్తు",
+          "isha": "ఈశా ఉపనిషత్తు",
+          "katha": "కథా ఉపనిషత్తు",
+          "kaushitaki": "కౌషితకీ ఉపనిషత్తు",
+          "kena": "కేన ఉపనిషత్తు",
+          "maitri": "మైత్రి ఉపనిషత్తు",
+          "mandukya": "మాండూక్య ఉపనిషత్తు",
+          "mundaka": "ముండక ఉపనిషత్తు",
+          "prashna": "ప్రశ్న ఉపనిషత్తు",
+          "shvetashvatara": "శ్వేతాశ్వతర ఉపనిషత్తు",
+          "taittiriya": "తైత్తిరీయ ఉపనిషత్తు"
         }
       },
       "vedas": {
-        "title": "Vedas",
+        "title": "వేదాలు",
         "nav": {
-          "rigveda": "Rigveda",
-          "yajurveda": "Yajurveda",
-          "samaveda": "Samaveda",
-          "atharvaveda": "Atharvaveda"
+          "rigveda": "ఋగ్వేదం",
+          "yajurveda": "యజుర్వేదం",
+          "samaveda": "సామవేదం",
+          "atharvaveda": "అథర్వవేదం"
         }
       }
     },
     "footer": {
-      "title": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत। अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
-      "contact": "Contact with us",
-      "contentchange": "Content may be incomplete or subject to change.",
-      "copyright": "Vulchi Vijaya Kumar Raju © 2025.",
-      "disclaimer": "Disclaimer: This website is currently in development.",
-      "shareMessage": "Share this page with friends and family to help others discover Vedic wisdom.",
-      "donate": "Donate",
+      "title": "యదా యదా హి ధర్మస్య గ్లానిర్భవతి భారత్ । అభ్యుత్థానమధర్మస్య తదాత్మానం సృజామ్యహమ్॥",
+      "contact": "మమ్మల్ని సంప్రదించండి",
+      "contentchange": "కంటెంట్ అసంపూర్ణంగా ఉండవచ్చు లేదా మార్పుకు లోబడి ఉండవచ్చు.",
+      "copyright": "వల్చి విజయ కుమార్ రాజు © 2025.",
+      "disclaimer": "నిరాకరణ: ఈ వెబ్‌సైట్ ప్రస్తుతం అభివృద్ధిలో ఉంది.",
+      "shareMessage": "ఇతరులు వేద జ్ఞానాన్ని కనుగొనడంలో సహాయపడటానికి ఈ పేజీని స్నేహితులు మరియు కుటుంబ సభ్యులతో భాగస్వామ్యం చేయండి.",
+      "donate": "దానం చేయండి",
       "itihasa": {
-        "title": "Itihasa",
+        "title": "ఇతిహాస",
         "nav": [
           {
-            "description": "Epic describing the life of Lord Rama.",
-            "author": "Valmiki",
+            "description": "శ్రీరాముని జీవితాన్ని వివరించే ఇతిహాసం.",
+            "author": "వాల్మీకి",
             "kandas": {
-              "aranya-kanda": "Aranya Kanda",
-              "ayodhya-kanda": "Ayodhya Kanda",
-              "bala-kanda": "Bala Kanda",
-              "kishkinda-kanda": "Kishkindha Kanda",
-              "sundara-kanda": "Sundara Kanda",
-              "uttara-kanda": "Uttara Kanda",
-              "yuddha-kanda": "Yuddha Kanda"
+              "aranya-kanda": "అరణ్య కాండ",
+              "ayodhya-kanda": "అయోధ్య కాండ",
+              "bala-kanda": "బాల కాండ",
+              "kishkinda-kanda": "కిష్కింధ కాండ",
+              "sundara-kanda": "సుందర కాండ",
+              "uttara-kanda": "ఉత్తర కాండ",
+              "yuddha-kanda": "యుద్ధ కాండ"
             },
-            "name": "Ramayana"
+            "name": "రామాయణం"
           },
           {
-            "description": "Epic describing the Kurukshetra war and dharma.",
-            "author": "Vyasa",
-            "name": "Mahabharata",
+            "description": "కురుక్షేత్ర యుద్ధం మరియు ధర్మాన్ని వివరించే ఇతిహాసం.",
+            "author": "వ్యాసుడు",
+            "name": "మహాభారతం",
             "parvas": 18
           },
           {
-            "description": "Sacred dialogue between Lord Krishna and Arjuna.",
+            "description": "శ్రీకృష్ణుడు మరియు అర్జునుడి మధ్య పవిత్రమైన సంభాషణ.",
             "chapters": 18,
             "chapters_list": {
-              "akshara-brahma-yoga": "Akshara Brahma Yoga",
-              "arjuna-vishada-yoga": "Arjuna Vishada Yoga",
-              "bhakti-yoga": "Bhakti Yoga",
-              "daivasura-sampad-vibhaga-yoga": "Daivasura Sampad Vibhaga Yoga",
-              "dhyana-yoga": "Dhyana Yoga",
-              "gunatraya-vibhaga-yoga": "Gunatraya Vibhaga Yoga",
-              "jnana-karma-sanyasa-yoga": "Jnana Karma Sanyasa Yoga",
-              "jnana-vijnana-yoga": "Jnana Vijnana Yoga",
-              "karma-sanyasa-yoga": "Karma Sanyasa Yoga",
-              "karma-yoga": "Karma Yoga",
-              "kshetra-kshetrajna-vibhaga-yoga": "Kshetra Kshetrajna Vibhaga Yoga",
-              "moksha-sanyasa-yoga": "Moksha Sanyasa Yoga",
-              "purushottama-yoga": "Purushottama Yoga",
-              "raja-vidya-raja-guhya-yoga": "Raja Vidya Raja Guhya Yoga",
-              "sankhya-yoga": "Sankhya Yoga",
-              "shraddhatray-vibhaga-yoga": "Shraddhatraya Vibhaga Yoga",
-              "vibhuti-yoga": "Vibhuti Yoga",
-              "vishvarupa-darshana-yoga": "Vishvarupa Darshana Yoga"
+              "akshara-brahma-yoga": "అక్షర బ్రహ్మ యోగము",
+              "arjuna-vishada-yoga": "అర్జున విషాద యోగం",
+              "bhakti-yoga": "భక్తి యోగము",
+              "daivasura-sampad-vibhaga-yoga": "దైవాసుర సంపద విభాగ యోగ",
+              "dhyana-yoga": "ధ్యాన యోగం",
+              "gunatraya-vibhaga-yoga": "గుణత్రయ విభాగ యోగ",
+              "jnana-karma-sanyasa-yoga": "జ్ఞాన కర్మ సన్యాస యోగం",
+              "jnana-vijnana-yoga": "జ్ఞాన విజ్ఞాన యోగా",
+              "karma-sanyasa-yoga": "కర్మ సన్యాస యోగము",
+              "karma-yoga": "కర్మ యోగము",
+              "kshetra-kshetrajna-vibhaga-yoga": "క్షేత్ర క్షేత్రజ్ఞ విభాగ యోగం",
+              "moksha-sanyasa-yoga": "మోక్ష సన్యాస యోగము",
+              "purushottama-yoga": "పురుషోత్తమ యోగము",
+              "raja-vidya-raja-guhya-yoga": "రాజ విద్యా రాజ గుహ్య యోగ",
+              "sankhya-yoga": "సాంఖ్య యోగా",
+              "shraddhatray-vibhaga-yoga": "శ్రద్ధాత్రయ విభాగ యోగ",
+              "vibhuti-yoga": "విభూతి యోగం",
+              "vishvarupa-darshana-yoga": "విశ్వరూప దర్శన యోగము"
             },
             "verses": 700
           }
         ]
       },
       "others": {
-        "title": "Sanātana Dharma",
+        "title": "సనాతన ధర్మం",
         "nav": {
-          "about": "About",
-          "religion-conversion": "Religion Conversion",
-          "sanksheparamayana": "Sanksheparamayana"
+          "about": "గురించి",
+          "religion-conversion": "మత మార్పిడి",
+          "sanksheparamayana": "సంక్షేపరామాయణం"
         }
       },
       "philosophy": {
-        "title": "Philosophy",
+        "title": "తత్వశాస్త్రం",
         "basePath": "/vedic-philosophy",
         "nav": {
-          "advaita": "Advaita",
-          "astronomy": "Astronomy",
-          "bhakti": "Bhakti",
-          "dharma": "Dharma",
-          "karma": "Karma",
-          "mathematics": "Mathematics",
-          "medicine": "Medicine",
-          "moksha": "Moksha",
-          "purushartha": "Purushartha",
-          "samsara": "Samsara",
-          "yoga": "Yoga"
+          "advaita": "అద్వైతం",
+          "astronomy": "ఖగోళ శాస్త్రం",
+          "bhakti": "భక్తి",
+          "dharma": "ధర్మము",
+          "karma": "కర్మ",
+          "mathematics": "గణితం",
+          "medicine": "మందు",
+          "moksha": "మోక్షము",
+          "purushartha": "పురుషార్థ",
+          "samsara": "సంసారం",
+          "yoga": "యోగా"
         },
-        "subtitle": "Vedic"
+        "subtitle": "వైదిక"
       },
-      "privacy": "Privacy Policy",
+      "privacy": "గోప్యతా విధానం",
       "puranas": {
-        "title": "Puranas",
+        "title": "పురాణాలు",
         "nav": {
-          "agni": "Agni Purana",
-          "bhagavata": "Bhagavata Purana",
-          "bhavishya": "Bhavishya Purana",
-          "brahma": "Brahma Purana",
-          "brahmanda": "Brahmanda Purana",
-          "brahmavaivarta": "Brahmavaivarta Purana",
-          "garuda": "Garuda Purana",
-          "kurma": "Kurma Purana",
-          "linga": "Linga Purana",
-          "markandeya": "Markandeya Purana",
-          "matsya": "Matsya Purana",
-          "narada": "Narada Purana",
-          "padma": "Padma Purana",
-          "shiva": "Shiva Purana",
-          "skanda": "Skanda Purana",
-          "vamana": "Vamana Purana",
-          "varaha": "Varaha Purana",
-          "vishnu": "Vishnu Purana"
+          "agni": "అగ్ని పురాణం",
+          "bhagavata": "భాగవత పురాణం",
+          "bhavishya": "భవిష్య పురాణం",
+          "brahma": "బ్రహ్మ పురాణం",
+          "brahmanda": "బ్రహ్మాండ పురాణం",
+          "brahmavaivarta": "బ్రహ్మవైవర్త పురాణం",
+          "garuda": "గరుడ పురాణం",
+          "kurma": "కూర్మ పురాణం",
+          "linga": "లింగ పురాణం",
+          "markandeya": "మార్కండేయ పురాణం",
+          "matsya": "మత్స్య పురాణం",
+          "narada": "నారద పురాణం",
+          "padma": "పద్మ పురాణం",
+          "shiva": "శివ పురాణం",
+          "skanda": "స్కంద పురాణం",
+          "vamana": "వామన పురాణం",
+          "varaha": "వరాహ పురాణం",
+          "vishnu": "విష్ణు పురాణం"
         }
       },
-      "quote": "Whenever righteousness declines and unrighteousness rises, I manifest Myself. To protect the righteous, to annihilate the wicked, and to reestablish the principles of dharma, I appear millennium after millennium.",
-      "quotesource": "(Bhagavad Gītā 4.7)",
+      "quote": "ఎప్పుడైతే ధర్మం క్షీణించి, అధర్మం పెరిగిందో, నేను నన్ను నేను వ్యక్తపరుస్తాను. సజ్జనులను రక్షించడానికి, దుష్టులను సంహరించడానికి మరియు ధర్మ సూత్రాలను పునఃస్థాపన చేయడానికి, నేను సహస్రాబ్ది తర్వాత సహస్రాబ్దాలుగా కనిపిస్తాను.",
+      "quotesource": "(భగవద్గీత 4.7)",
       "science": {
-        "title": "Science",
+        "title": "సైన్స్",
         "basePath": "/vedic-science",
         "nav": {
-          "architecture": "Architecture",
-          "astronomy": "Astronomy",
-          "mathematics": "Mathematics",
-          "medicine": "Medicine",
-          "metallurgy": "Metallurgy"
+          "architecture": "ఆర్కిటెక్చర్",
+          "astronomy": "ఖగోళ శాస్త్రం",
+          "mathematics": "గణితం",
+          "medicine": "మందు",
+          "metallurgy": "మెటలర్జీ"
         },
-        "subtitle": "Vedic"
+        "subtitle": "వైదిక"
       },
-      "terms": "Terms of Service",
+      "terms": "సేవా నిబంధనలు",
       "upanishads": {
-        "title": "Upanishads",
+        "title": "ఉపనిషత్తులు",
         "nav": {
-          "aitareya": "Aitareya Upanishad",
-          "brihadaranyaka": "Brihadaranyaka Upanishad",
-          "chandogya": "Chandogya Upanishad",
-          "isha": "Isha Upanishad",
-          "katha": "Katha Upanishad",
-          "kaushitaki": "Kaushitaki Upanishad",
-          "kena": "Kena Upanishad",
-          "maitri": "Maitri Upanishad",
-          "mandukya": "Mandukya Upanishad",
-          "mundaka": "Mundaka Upanishad",
-          "prashna": "Prashna Upanishad",
-          "shvetashvatara": "Shvetashvatara Upanishad",
-          "taittiriya": "Taittiriya Upanishad"
+          "aitareya": "ఐతరేయ ఉపనిషత్తు",
+          "brihadaranyaka": "బృహదారణ్యక ఉపనిషత్తు",
+          "chandogya": "ఛాందోగ్య ఉపనిషత్తు",
+          "isha": "ఈశా ఉపనిషత్తు",
+          "katha": "కథా ఉపనిషత్తు",
+          "kaushitaki": "కౌషితకీ ఉపనిషత్తు",
+          "kena": "కేన ఉపనిషత్తు",
+          "maitri": "మైత్రి ఉపనిషత్తు",
+          "mandukya": "మాండూక్య ఉపనిషత్తు",
+          "mundaka": "ముండక ఉపనిషత్తు",
+          "prashna": "ప్రశ్న ఉపనిషత్తు",
+          "shvetashvatara": "శ్వేతాశ్వతర ఉపనిషత్తు",
+          "taittiriya": "తైత్తిరీయ ఉపనిషత్తు"
         }
       },
       "vedas": {
-        "title": "Vedas",
+        "title": "వేదాలు",
         "nav": {
-          "rigveda": "Rigveda",
-          "yajurveda": "Yajurveda",
-          "samaveda": "Samaveda",
-          "atharvaveda": "Atharvaveda"
+          "rigveda": "ఋగ్వేదం",
+          "yajurveda": "యజుర్వేదం",
+          "samaveda": "సామవేదం",
+          "atharvaveda": "అథర్వవేదం"
         }
       }
     },
     "scrolltotop": {
-      "title": "Back to top",
-      "arialabel": "Scroll to top"
+      "title": "తిరిగి పైకి",
+      "arialabel": "పైకి స్క్రోల్ చేయండి"
     },
     "cookieconsent": {
-      "acceptall": "Accept all",
-      "cookiepolicy": "Cookie Policy",
-      "managerbutton": "Cookie Preference Manager",
-      "paragraph": "We use cookies to track visitors, measure ads, ad campaign effectiveness and analyze site traffic. We may also share information about your use of our site with 3rd parties. For more info, see our {cookiePolicyLink} and {privacyPolicyLink}. By clicking on \"{managerLabel}\" you can choose to enable only certain cookie categories. By clicking \"{acceptAllLabel}\" you agree to the storing of all cookies on your device. In case you don't choose one of these options and use our website we will treat it as if you have accepted all cookies.",
-      "privacypolicy": "Privacy Policy"
+      "acceptall": "అన్నింటినీ అంగీకరించండి",
+      "cookiepolicy": "కుకీ విధానం",
+      "managerbutton": "కుకీ ప్రాధాన్యత మేనేజర్",
+      "paragraph": "మేము సందర్శకులను ట్రాక్ చేయడానికి, ప్రకటనలను కొలవడానికి, ప్రకటన ప్రచార ప్రభావాన్ని మరియు సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి కుక్కీలను ఉపయోగిస్తాము. మేము మా సైట్ యొక్క మీ ఉపయోగం గురించి సమాచారాన్ని 3వ పక్షాలతో కూడా పంచుకోవచ్చు. మరింత సమాచారం కోసం, మా {cookiePolicyLink} మరియు {privacyPolicyLink}ని చూడండి. \"{managerLabel}\"పై క్లిక్ చేయడం ద్వారా మీరు నిర్దిష్ట కుక్కీ వర్గాలను మాత్రమే ప్రారంభించడాన్ని ఎంచుకోవచ్చు. \"{acceptAllLabel}\"ని క్లిక్ చేయడం ద్వారా మీరు మీ పరికరంలో అన్ని కుక్కీలను నిల్వ చేయడానికి అంగీకరిస్తున్నారు. మీరు ఈ ఎంపికలలో ఒకదానిని ఎంచుకొని మా వెబ్‌సైట్‌ని ఉపయోగించకుంటే, మీరు అన్ని కుక్కీలను ఆమోదించినట్లుగా మేము పరిగణిస్తాము.",
+      "privacypolicy": "గోప్యతా విధానం"
     },
     "cookiepolicy": {
-      "title": "Cookie Policy",
-      "datasharing": "Data sharing",
-      "datasharingdesc": "We may share aggregated information with third parties for analytics and advertising. No sensitive personal data is shared by default.",
-      "intro": "This Cookie Policy explains how we use cookies and similar technologies on our website.",
-      "lastupdated": "Last updated: {date}",
-      "managing": "Managing your preferences",
-      "managingdesc": "Open the Cookie Preference Manager from the banner to enable or disable categories. If you accept all cookies, we will store your choices and apply them across visits.",
+      "title": "కుకీ విధానం",
+      "datasharing": "డేటా భాగస్వామ్యం",
+      "datasharingdesc": "మేము విశ్లేషణలు మరియు ప్రకటనల కోసం సమగ్ర సమాచారాన్ని మూడవ పక్షాలతో పంచుకోవచ్చు. డిఫాల్ట్‌గా సున్నితమైన వ్యక్తిగత డేటా ఏదీ షేర్ చేయబడదు.",
+      "intro": "ఈ కుకీ పాలసీ మేము మా వెబ్‌సైట్‌లో కుక్కీలను మరియు సారూప్య సాంకేతికతలను ఎలా ఉపయోగిస్తామో వివరిస్తుంది.",
+      "lastupdated": "చివరిగా నవీకరించబడింది: {date}",
+      "managing": "మీ ప్రాధాన్యతలను నిర్వహించడం",
+      "managingdesc": "వర్గాలను ఎనేబుల్ లేదా డిసేబుల్ చేయడానికి బ్యానర్ నుండి కుక్కీ ప్రిఫరెన్స్ మేనేజర్‌ని తెరవండి. మీరు అన్ని కుక్కీలను అంగీకరిస్తే, మేము మీ ఎంపికలను నిల్వ చేస్తాము మరియు సందర్శనల అంతటా వాటిని వర్తింపజేస్తాము.",
       "types": {
-        "functionality": "Functionality: Remember choices and preferences.",
-        "performance": "Performance: Help us analyze traffic and performance.",
-        "strictlynecessary": "Strictly necessary: Required for the site to function.",
-        "targeting": "Targeting: Used for advertising and personalization."
+        "functionality": "కార్యాచరణ: ఎంపికలు మరియు ప్రాధాన్యతలను గుర్తుంచుకోండి.",
+        "performance": "పనితీరు: ట్రాఫిక్ మరియు పనితీరును విశ్లేషించడంలో మాకు సహాయపడండి.",
+        "strictlynecessary": "ఖచ్చితంగా అవసరం: సైట్ పని చేయడానికి అవసరం.",
+        "targeting": "లక్ష్యం: ప్రకటనలు మరియు వ్యక్తిగతీకరణ కోసం ఉపయోగించబడుతుంది."
       },
-      "typesheading": "Types of cookies we use",
-      "whatarecookies": "What are cookies?"
+      "typesheading": "మేము ఉపయోగించే కుక్కీల రకాలు",
+      "whatarecookies": "కుక్కీలు అంటే ఏమిటి?"
     },
     "policies": {
       "cookiepolicy": {
-        "title": "Cookie Policy",
-        "datasharing": "Data sharing",
-        "datasharingdesc": "We may share aggregated information with third parties for analytics and advertising. No sensitive personal data is shared by default.",
-        "intro": "This Cookie Policy explains how we use cookies and similar technologies on our website.",
-        "lastupdated": "Last updated: {date}",
-        "managing": "Managing your preferences",
-        "managingdesc": "Open the Cookie Preference Manager from the banner to enable or disable categories. If you accept all cookies, we will store your choices and apply them across visits.",
+        "title": "కుకీ విధానం",
+        "datasharing": "డేటా భాగస్వామ్యం",
+        "datasharingdesc": "మేము విశ్లేషణలు మరియు ప్రకటనల కోసం సమగ్ర సమాచారాన్ని మూడవ పక్షాలతో పంచుకోవచ్చు. డిఫాల్ట్‌గా సున్నితమైన వ్యక్తిగత డేటా ఏదీ షేర్ చేయబడదు.",
+        "intro": "ఈ కుకీ పాలసీ మేము మా వెబ్‌సైట్‌లో కుక్కీలను మరియు సారూప్య సాంకేతికతలను ఎలా ఉపయోగిస్తామో వివరిస్తుంది.",
+        "lastupdated": "చివరిగా నవీకరించబడింది: {date}",
+        "managing": "మీ ప్రాధాన్యతలను నిర్వహించడం",
+        "managingdesc": "వర్గాలను ఎనేబుల్ లేదా డిసేబుల్ చేయడానికి బ్యానర్ నుండి కుక్కీ ప్రిఫరెన్స్ మేనేజర్‌ని తెరవండి. మీరు అన్ని కుక్కీలను అంగీకరిస్తే, మేము మీ ఎంపికలను నిల్వ చేస్తాము మరియు సందర్శనల అంతటా వాటిని వర్తింపజేస్తాము.",
         "types": {
-          "functionality": "Functionality: Remember choices and preferences.",
-          "performance": "Performance: Help us analyze traffic and performance.",
-          "strictlynecessary": "Strictly necessary: Required for the site to function.",
-          "targeting": "Targeting: Used for advertising and personalization."
+          "functionality": "కార్యాచరణ: ఎంపికలు మరియు ప్రాధాన్యతలను గుర్తుంచుకోండి.",
+          "performance": "పనితీరు: ట్రాఫిక్ మరియు పనితీరును విశ్లేషించడంలో మాకు సహాయపడండి.",
+          "strictlynecessary": "ఖచ్చితంగా అవసరం: సైట్ పని చేయడానికి అవసరం.",
+          "targeting": "లక్ష్యం: ప్రకటనలు మరియు వ్యక్తిగతీకరణ కోసం ఉపయోగించబడుతుంది."
         },
-        "typesheading": "Types of cookies we use",
-        "whatarecookies": "What are cookies?"
+        "typesheading": "మేము ఉపయోగించే కుక్కీల రకాలు",
+        "whatarecookies": "కుక్కీలు అంటే ఏమిటి?"
       },
       "privacypolicy": {
-        "title": "Privacy Policy",
-        "howweuse": "How we use information",
-        "howweusedesc": "Information is used to operate, maintain and provide the features of the website, and to analyze usage patterns.",
-        "informationdesc": "We collect information you provide, cookies, and anonymized analytics data to improve the service.",
-        "informationheading": "Information we collect",
-        "intro": "This Privacy Policy outlines how we collect, use and protect your personal information.",
-        "lastupdated": "Last updated: {date}",
-        "yourrights": "Your rights",
-        "yourrightsdesc": "You can request access, correction or deletion of your personal data by contacting us on the site."
+        "title": "గోప్యతా విధానం",
+        "howweuse": "మేము సమాచారాన్ని ఎలా ఉపయోగిస్తాము",
+        "howweusedesc": "వెబ్‌సైట్ ఫీచర్‌లను ఆపరేట్ చేయడానికి, నిర్వహించడానికి మరియు అందించడానికి మరియు వినియోగ విధానాలను విశ్లేషించడానికి సమాచారం ఉపయోగించబడుతుంది.",
+        "informationdesc": "సేవను మెరుగుపరచడానికి మీరు అందించే సమాచారం, కుక్కీలు మరియు అనామక విశ్లేషణల డేటాను మేము సేకరిస్తాము.",
+        "informationheading": "మేము సేకరిస్తున్న సమాచారం",
+        "intro": "ఈ గోప్యతా విధానం మేము మీ వ్యక్తిగత సమాచారాన్ని ఎలా సేకరిస్తాము, ఉపయోగిస్తాము మరియు సంరక్షిస్తాము.",
+        "lastupdated": "చివరిగా నవీకరించబడింది: {date}",
+        "yourrights": "మీ హక్కులు",
+        "yourrightsdesc": "మీరు సైట్‌లో మమ్మల్ని సంప్రదించడం ద్వారా మీ వ్యక్తిగత డేటా యాక్సెస్, దిద్దుబాటు లేదా తొలగింపును అభ్యర్థించవచ్చు."
       }
     },
     "similar_categories": {
       "itihasa": {
-        "title": "Itihasa",
+        "title": "ఇతిహాస",
         "basePath": "/itihasa",
         "nav": [
           {
-            "description": "Epic describing the life of Lord Rama.",
-            "author": "Valmiki",
+            "description": "శ్రీరాముని జీవితాన్ని వివరించే ఇతిహాసం.",
+            "author": "వాల్మీకి",
             "kandas": {
-              "aranya-kanda": "Aranya Kanda",
-              "ayodhya-kanda": "Ayodhya Kanda",
-              "bala-kanda": "Bala Kanda",
-              "kishkinda-kanda": "Kishkindha Kanda",
-              "sundara-kanda": "Sundara Kanda",
-              "uttara-kanda": "Uttara Kanda",
-              "yuddha-kanda": "Yuddha Kanda"
+              "aranya-kanda": "అరణ్య కాండ",
+              "ayodhya-kanda": "అయోధ్య కాండ",
+              "bala-kanda": "బాల కాండ",
+              "kishkinda-kanda": "కిష్కింధ కాండ",
+              "sundara-kanda": "సుందర కాండ",
+              "uttara-kanda": "ఉత్తర కాండ",
+              "yuddha-kanda": "యుద్ధ కాండ"
             },
-            "name": "Ramayana"
+            "name": "రామాయణం"
           },
           {
-            "description": "Epic describing the Kurukshetra war and dharma.",
-            "author": "Vyasa",
-            "name": "Mahabharata",
+            "description": "కురుక్షేత్ర యుద్ధం మరియు ధర్మాన్ని వివరించే ఇతిహాసం.",
+            "author": "వ్యాసుడు",
+            "name": "మహాభారతం",
             "parvas": 18
           },
           {
-            "description": "Sacred dialogue between Lord Krishna and Arjuna.",
+            "description": "శ్రీకృష్ణుడు మరియు అర్జునుడి మధ్య పవిత్రమైన సంభాషణ.",
             "chapters": 18,
             "chapters_list": {
-              "akshara-brahma-yoga": "Akshara Brahma Yoga",
-              "arjuna-vishada-yoga": "Arjuna Vishada Yoga",
-              "bhakti-yoga": "Bhakti Yoga",
-              "daivasura-sampad-vibhaga-yoga": "Daivasura Sampad Vibhaga Yoga",
-              "dhyana-yoga": "Dhyana Yoga",
-              "gunatraya-vibhaga-yoga": "Gunatraya Vibhaga Yoga",
-              "jnana-karma-sanyasa-yoga": "Jnana Karma Sanyasa Yoga",
-              "jnana-vijnana-yoga": "Jnana Vijnana Yoga",
-              "karma-sanyasa-yoga": "Karma Sanyasa Yoga",
-              "karma-yoga": "Karma Yoga",
-              "kshetra-kshetrajna-vibhaga-yoga": "Kshetra Kshetrajna Vibhaga Yoga",
-              "moksha-sanyasa-yoga": "Moksha Sanyasa Yoga",
-              "purushottama-yoga": "Purushottama Yoga",
-              "raja-vidya-raja-guhya-yoga": "Raja Vidya Raja Guhya Yoga",
-              "sankhya-yoga": "Sankhya Yoga",
-              "shraddhatray-vibhaga-yoga": "Shraddhatraya Vibhaga Yoga",
-              "vibhuti-yoga": "Vibhuti Yoga",
-              "vishvarupa-darshana-yoga": "Vishvarupa Darshana Yoga"
+              "akshara-brahma-yoga": "అక్షర బ్రహ్మ యోగము",
+              "arjuna-vishada-yoga": "అర్జున విషాద యోగం",
+              "bhakti-yoga": "భక్తి యోగము",
+              "daivasura-sampad-vibhaga-yoga": "దైవాసుర సంపద విభాగ యోగ",
+              "dhyana-yoga": "ధ్యాన యోగం",
+              "gunatraya-vibhaga-yoga": "గుణత్రయ విభాగ యోగ",
+              "jnana-karma-sanyasa-yoga": "జ్ఞాన కర్మ సన్యాస యోగం",
+              "jnana-vijnana-yoga": "జ్ఞాన విజ్ఞాన యోగా",
+              "karma-sanyasa-yoga": "కర్మ సన్యాస యోగము",
+              "karma-yoga": "కర్మ యోగము",
+              "kshetra-kshetrajna-vibhaga-yoga": "క్షేత్ర క్షేత్రజ్ఞ విభాగ యోగం",
+              "moksha-sanyasa-yoga": "మోక్ష సన్యాస యోగము",
+              "purushottama-yoga": "పురుషోత్తమ యోగము",
+              "raja-vidya-raja-guhya-yoga": "రాజ విద్యా రాజ గుహ్య యోగ",
+              "sankhya-yoga": "సాంఖ్య యోగా",
+              "shraddhatray-vibhaga-yoga": "శ్రద్ధాత్రయ విభాగ యోగ",
+              "vibhuti-yoga": "విభూతి యోగం",
+              "vishvarupa-darshana-yoga": "విశ్వరూప దర్శన యోగము"
             },
             "verses": 700
           }
         ]
       },
       "philosophy": {
-        "title": "Philosophy",
+        "title": "తత్వశాస్త్రం",
         "basePath": "/vedic-philosophy",
         "nav": {
-          "advaita": "Advaita",
-          "astronomy": "Astronomy",
-          "bhakti": "Bhakti",
-          "dharma": "Dharma",
-          "karma": "Karma",
-          "mathematics": "Mathematics",
-          "medicine": "Medicine",
-          "moksha": "Moksha",
-          "purushartha": "Purushartha",
-          "samsara": "Samsara",
-          "yoga": "Yoga"
+          "advaita": "అద్వైతం",
+          "astronomy": "ఖగోళ శాస్త్రం",
+          "bhakti": "భక్తి",
+          "dharma": "ధర్మము",
+          "karma": "కర్మ",
+          "mathematics": "గణితం",
+          "medicine": "మందు",
+          "moksha": "మోక్షము",
+          "purushartha": "పురుషార్థ",
+          "samsara": "సంసారం",
+          "yoga": "యోగా"
         },
-        "subtitle": "Vedic"
+        "subtitle": "వైదిక"
       },
       "puranas": {
-        "title": "Puranas",
+        "title": "పురాణాలు",
         "basePath": "/puranas",
         "nav": {
-          "agni": "Agni Purana",
-          "bhagavata": "Bhagavata Purana",
-          "bhavishya": "Bhavishya Purana",
-          "brahma": "Brahma Purana",
-          "brahmanda": "Brahmanda Purana",
-          "brahmavaivarta": "Brahmavaivarta Purana",
-          "garuda": "Garuda Purana",
-          "kurma": "Kurma Purana",
-          "linga": "Linga Purana",
-          "markandeya": "Markandeya Purana",
-          "matsya": "Matsya Purana",
-          "narada": "Narada Purana",
-          "padma": "Padma Purana",
-          "shiva": "Shiva Purana",
-          "skanda": "Skanda Purana",
-          "vamana": "Vamana Purana",
-          "varaha": "Varaha Purana",
-          "vishnu": "Vishnu Purana"
+          "agni": "అగ్ని పురాణం",
+          "bhagavata": "భాగవత పురాణం",
+          "bhavishya": "భవిష్య పురాణం",
+          "brahma": "బ్రహ్మ పురాణం",
+          "brahmanda": "బ్రహ్మాండ పురాణం",
+          "brahmavaivarta": "బ్రహ్మవైవర్త పురాణం",
+          "garuda": "గరుడ పురాణం",
+          "kurma": "కూర్మ పురాణం",
+          "linga": "లింగ పురాణం",
+          "markandeya": "మార్కండేయ పురాణం",
+          "matsya": "మత్స్య పురాణం",
+          "narada": "నారద పురాణం",
+          "padma": "పద్మ పురాణం",
+          "shiva": "శివ పురాణం",
+          "skanda": "స్కంద పురాణం",
+          "vamana": "వామన పురాణం",
+          "varaha": "వరాహ పురాణం",
+          "vishnu": "విష్ణు పురాణం"
         }
       },
       "science": {
-        "title": "Science",
+        "title": "సైన్స్",
         "basePath": "/vedic-science",
         "nav": {
-          "architecture": "Architecture",
-          "astronomy": "Astronomy",
-          "mathematics": "Mathematics",
-          "medicine": "Medicine",
-          "metallurgy": "Metallurgy"
+          "architecture": "ఆర్కిటెక్చర్",
+          "astronomy": "ఖగోళ శాస్త్రం",
+          "mathematics": "గణితం",
+          "medicine": "మందు",
+          "metallurgy": "మెటలర్జీ"
         },
-        "subtitle": "Vedic"
+        "subtitle": "వైదిక"
       },
       "upanishads": {
-        "title": "Upanishads",
+        "title": "ఉపనిషత్తులు",
         "basePath": "/upanishads",
         "nav": {
-          "aitareya": "Aitareya Upanishad",
-          "brihadaranyaka": "Brihadaranyaka Upanishad",
-          "chandogya": "Chandogya Upanishad",
-          "isha": "Isha Upanishad",
-          "katha": "Katha Upanishad",
-          "kaushitaki": "Kaushitaki Upanishad",
-          "kena": "Kena Upanishad",
-          "maitri": "Maitri Upanishad",
-          "mandukya": "Mandukya Upanishad",
-          "mundaka": "Mundaka Upanishad",
-          "prashna": "Prashna Upanishad",
-          "shvetashvatara": "Shvetashvatara Upanishad",
-          "taittiriya": "Taittiriya Upanishad"
+          "aitareya": "ఐతరేయ ఉపనిషత్తు",
+          "brihadaranyaka": "బృహదారణ్యక ఉపనిషత్తు",
+          "chandogya": "ఛాందోగ్య ఉపనిషత్తు",
+          "isha": "ఈశా ఉపనిషత్తు",
+          "katha": "కథా ఉపనిషత్తు",
+          "kaushitaki": "కౌషితకీ ఉపనిషత్తు",
+          "kena": "కేన ఉపనిషత్తు",
+          "maitri": "మైత్రి ఉపనిషత్తు",
+          "mandukya": "మాండూక్య ఉపనిషత్తు",
+          "mundaka": "ముండక ఉపనిషత్తు",
+          "prashna": "ప్రశ్న ఉపనిషత్తు",
+          "shvetashvatara": "శ్వేతాశ్వతర ఉపనిషత్తు",
+          "taittiriya": "తైత్తిరీయ ఉపనిషత్తు"
         }
       },
       "vedas": {
-        "title": "Vedas",
+        "title": "వేదాలు",
         "nav": {
-          "atharvaveda": "Atharvaveda",
-          "rigveda": "Rigveda",
-          "samaveda": "Samaveda",
-          "yajurveda": "Yajurveda"
+          "atharvaveda": "అథర్వవేదం",
+          "rigveda": "ఋగ్వేదం",
+          "samaveda": "సామవేదం",
+          "yajurveda": "యజుర్వేదం"
         }
       }
     }
