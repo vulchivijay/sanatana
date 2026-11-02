@@ -7,8 +7,7 @@
     "predev": "node scripts/compile-scss.js --dev",
     "dev": "next dev",
     "build": "cross-env NODE_OPTIONS=--max_old_space_size=6144 next build",
-    "postbuild": "node scripts/generate-sitemap.js && node scripts/add-hash-to-assets.js && node scripts/audit-seo.js --out out --json public/data/audit-report.json && node scripts/notify-indexnow.js",
-    "render-build": "bash ./.render-build.sh",
+    "postbuild": "node scripts/generate-sitemap.js && node scripts/audit-seo.js --out out --json out/data/audit-report.json --csv out/data/audit-report.csv && node scripts/notify-indexnow.js",
     "start": "npx serve@latest out",
     "lint": "eslint --quiet app lib scripts",
     "prepare": "husky install"
@@ -38,7 +37,6 @@
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^7.0.1",
-    "glob": "^13.0.6",
     "html-minifier-terser": "^7.2.0",
     "husky": "^8.0.3",
     "minimist": "^1.2.8",

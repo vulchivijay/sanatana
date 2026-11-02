@@ -55,10 +55,21 @@ export default function ContactForm({ fields, submitButton }: Props) {
         return;
       }
     }
+    const configuredEndpoint = process.env.NEXT_PUBLIC_CONTACT_ENDPOINT?.trim();
+    const localizedEndpoint = submitButton?.action?.trim();
+    const endpoint = configuredEndpoint || (
+      process.env.NODE_ENV === 'production'
+        ? (localizedEndpoint && /^https?:\/\//i.test(localizedEndpoint) ? localizedEndpoint : undefined)
+        : '/api/contact'
+    );
+    if (!endpoint) {
+      setErrorMessage(localeObj?.contactForm?.error || 'Contact form is not configured yet. Please use the contact details listed on this page.');
+      return;
+    }
+
     setSubmitting(true);
     try {
-      const action = (submitButton && submitButton.action) ? submitButton.action : '/api/contact';
-      const res = await fetch(action, {
+      const res = await fetch(endpoint, {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify({ values }),
@@ -179,4 +190,3 @@ export default function ContactForm({ fields, submitButton }: Props) {
   );
 }
 /* Copyright (c) 2025 sanatanadharmam.in Licensed under SEE LICENSE IN LICENSE. All rights reserved. */
-
