@@ -1,0 +1,26 @@
+﻿{
+  "aitareya_chapter4": {
+    "title": "Aitareya Chapter 4",
+    "description": "Chapter 4 from Aitareya.",
+    "meta": {
+      "title": "Aitareya Chapter 4",
+      "canonical": "https://sanatanadharmam.in/upanishads/aitareya/chapter-4",
+      "description": "Chapter 4 from Aitareya.",
+      "url": "https://sanatanadharmam.in/upanishads/aitareya/chapter-4"
+    },
+    "openGraph": {
+      "title": "Aitareya Chapter 4",
+      "description": "Chapter 4 from Aitareya.",
+      "url": "https://sanatanadharmam.in/upanishads/aitareya/chapter-4",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Aitareya.",
+    "scripture_text": "Chapter-level summary text for Aitareya, Chapter 4.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 4,
+      "path": "/upanishads/aitareya/chapter-4"
+    }
+  }
+}

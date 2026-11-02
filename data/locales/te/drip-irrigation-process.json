@@ -1,0 +1,932 @@
+{
+  "drip-irrigation-process": {
+    "title": "Drip Irrigation — End‑to‑End Design & Operation",
+    "meta": {
+      "title": "Drip Irrigation — End‑to‑End Design & Operation",
+      "description": "Comprehensive guide covering principles, components, hydraulic design, scheduling, fertigation, maintenance, troubleshooting, and a bill of materials template for drip irrigation. — Sanātana Dharma - Explore Sanatan Dharma.",
+      "canonical": "https://sanatanadharmam.in/drip-irrigation-process",
+      "keywords": [
+        "Hazen-Williams head loss",
+        "acid treatment for scale",
+        "backwashing filters",
+        "capacitance probes",
+        "chlorination for biofilm",
+        "crop coefficient",
+        "crop water requirement",
+        "drip irrigation FAQ",
+        "drip irrigation bill of materials",
+        "drip irrigation components",
+        "drip irrigation design",
+        "drip irrigation for orchards",
+        "drip irrigation for vegetables",
+        "drip irrigation hydraulics",
+        "drip irrigation layout patterns",
+        "drip irrigation troubleshooting guide",
+        "drip system maintenance",
+        "evapotranspiration",
+        "fertigation best practices",
+        "irrigation scheduling",
+        "irrigation system design workflow",
+        "irrigation system layout patterns",
+        "irrigation troubleshooting",
+        "irrigation uniformity",
+        "pressure-compensating emitters",
+        "pump sizing for irrigation",
+        "soil water holding capacity",
+        "tensiometers"
+      ],
+      "ogimage": "/og/drip-irrigation-process.png",
+      "url": "https://sanatanadharmam.in/drip-irrigation-process"
+    },
+    "openGraph": {
+      "title": "Drip Irrigation — End-to-End Design & Operation",
+      "description": "Comprehensive guide covering principles, components, hydraulic design, scheduling, fertigation, maintenance, troubleshooting, and a bill of materials template for drip irrigation.",
+      "images": [
+        {
+          "alt": "Drip Irrigation Process",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/og/drip-irrigation-process.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "website",
+      "url": "https://sanatanadharmam.in/drip-irrigation-process"
+    },
+    "cta": {
+      "title": "Need a customized design?",
+      "body": "Provide crop, spacing, area, water source, and slope details to generate a block‑wise hydraulic plan.",
+      "button": {
+        "label": "Request a design"
+      }
+    },
+    "diagram": {
+      "title": "System flow (text schematic)",
+      "alt": "Diagram showing flow from water source to root zone with filtration, pressure regulation, and fertigation bypass",
+      "lines": [
+        "Water Source → Pump → Sand Filter → Screen/Disc Filter → Pressure Regulator → Main Line",
+        "Main Line → Sub‑Mains → Valves → Laterals → Emitters → Root Zone",
+        "Bypass: Fertilizer Injector (after filters) → Back to Main",
+        "Flushing: End caps/flush valves at mains and laterals"
+      ]
+    },
+    "discription": "Comprehensive guide covering principles, components, hydraulic design, scheduling, fertigation, maintenance, troubleshooting, and a bill of materials template for drip irrigation.",
+    "hero": {
+      "title": "Drip Irrigation",
+      "badge": "Field & Greenhouse Ready",
+      "subtitle": "Plan • Design • Install • Operate • Maintain"
+    },
+    "revolutions": [
+      {
+        "description": "The first farming revolution when humans shifted from hunting and gathering to agriculture and settled villages.",
+        "era": "Neolithic Agricultural Revolution",
+        "farming_tools": [
+          "Stone sickles",
+          "Digging sticks",
+          "Wooden plows"
+        ],
+        "impact": {
+          "population_growth": "World population increased from about 5 million to 50 million",
+          "society_changes": [
+            "Formation of villages",
+            "Development of early trade",
+            "Beginning of land ownership"
+          ]
+        },
+        "major_crops": [
+          "Wheat",
+          "Barley",
+          "Rice",
+          "Millets"
+        ],
+        "major_innovations": [
+          "Domestication of plants",
+          "Domestication of animals",
+          "Permanent villages",
+          "Basic irrigation systems"
+        ],
+        "time_period": "10000 BCE – 4000 BCE"
+      },
+      {
+        "description": "Agriculture expanded with irrigation systems in early civilizations.",
+        "era": "Ancient Irrigation Civilizations",
+        "impact": {
+          "trade_growth": "Agricultural surplus supported trade and markets",
+          "urban_development": "Cities formed around fertile river valleys"
+        },
+        "major_civilizations": [
+          "Mesopotamia",
+          "Indus Valley",
+          "Ancient Egypt",
+          "Ancient China"
+        ],
+        "major_crops": [
+          "Rice",
+          "Wheat",
+          "Cotton",
+          "Sugarcane"
+        ],
+        "major_innovations": [
+          "Canal irrigation",
+          "Animal-powered plows",
+          "Crop storage systems",
+          "Agricultural taxation"
+        ],
+        "time_period": "4000 BCE – 500 CE"
+      },
+      {
+        "description": "Improvements in farming tools and land management increased productivity.",
+        "era": "Medieval Agricultural Improvements",
+        "impact": {
+          "food_production": "Improved crop yields",
+          "population_growth": "Population expanded due to improved food supply"
+        },
+        "major_crops": [
+          "Wheat",
+          "Barley",
+          "Oats",
+          "Vegetables"
+        ],
+        "major_innovations": [
+          "Heavy iron plow",
+          "Three-field crop rotation system",
+          "Water mills",
+          "Wind mills"
+        ],
+        "time_period": "500 CE – 1500 CE"
+      },
+      {
+        "description": "Major improvements in farming methods and mechanization.",
+        "era": "Agricultural Revolution (Early Modern Europe)",
+        "impact": {
+          "industrialization": "Freed labor for industrial factories",
+          "productivity": "Large increase in agricultural productivity"
+        },
+        "major_crops": [
+          "Wheat",
+          "Potato",
+          "Corn"
+        ],
+        "major_innovations": [
+          "Seed drill",
+          "Selective breeding of livestock",
+          "Improved crop rotation",
+          "Mechanized plows"
+        ],
+        "time_period": "1700 CE – 1850 CE"
+      },
+      {
+        "description": "Introduction of machines and chemical fertilizers changed farming.",
+        "era": "Industrial Agriculture",
+        "impact": {
+          "food_production": "Significant increase in global food supply",
+          "large_scale_farming": "Large farms replaced many small farms"
+        },
+        "major_innovations": [
+          "Tractors",
+          "Mechanical harvesters",
+          "Chemical fertilizers",
+          "Pesticides"
+        ],
+        "time_period": "1850 CE – 1950 CE"
+      },
+      {
+        "description": "Agricultural transformation through improved seeds and irrigation.",
+        "era": "Green Revolution",
+        "impact": {
+          "food_security": "Major increase in food production in Asia and Latin America",
+          "population_support": "Supported rapidly growing global population"
+        },
+        "major_crops": [
+          "Rice",
+          "Wheat"
+        ],
+        "major_innovations": [
+          "High-yield variety seeds",
+          "Chemical fertilizers",
+          "Modern irrigation systems",
+          "Agricultural research institutions"
+        ],
+        "time_period": "1960 CE – 1990 CE"
+      },
+      {
+        "description": "Use of digital technology to improve farming efficiency.",
+        "era": "Precision Agriculture",
+        "impact": {
+          "data_driven_farming": "Farmers use data to manage crops",
+          "resource_efficiency": "Optimized water and fertilizer usage"
+        },
+        "major_innovations": [
+          "GPS-based farming",
+          "Satellite crop monitoring",
+          "Soil sensors",
+          "Computerized irrigation systems"
+        ],
+        "time_period": "1990 CE – 2010 CE"
+      },
+      {
+        "description": "Modern agriculture using AI, automation, and sustainable practices.",
+        "era": "Smart and Sustainable Agriculture",
+        "focus": [
+          "Water conservation",
+          "Organic farming",
+          "Climate-resilient crops"
+        ],
+        "impact": {
+          "sustainability": "Focus on environmental protection",
+          "technology_integration": "High-tech farming systems"
+        },
+        "major_innovations": [
+          "Artificial intelligence crop monitoring",
+          "Drone-based crop spraying",
+          "IoT soil moisture sensors",
+          "Vertical farming",
+          "Hydroponics"
+        ],
+        "time_period": "2010 CE – Present"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Overview",
+        "bullets": [
+          "Typical operating pressure at emitters: 0.7–1.5 bar (10–22 psi).",
+          "Common emitter discharges: 1, 2, 4, 8 LPH (liters per hour).",
+          "Uniformity depends on pressure stability, filtration efficiency, and hydraulic design."
+        ],
+        "id": "overview",
+        "paragraphs": [
+          "Drip irrigation delivers water at a controlled, low discharge directly to the root zone using emitters distributed along laterals. The objective is to match soil intake capacity and crop demand while minimizing evaporation, runoff, and deep percolation.",
+          "A complete system typically includes: water source and pumping, filtration, pressure regulation, main and sub‑main conveyance, laterals with emitters, valves and automation, fertigation, and flushing points."
+        ]
+      },
+      {
+        "title": "How it works",
+        "id": "principle",
+        "steps": [
+          {
+            "title": "Controlled application",
+            "details": "Emitters convert inlet pressure into a small, steady flow (drops or tiny streams). Water infiltrates around the dripper, forming a wetted bulb that overlaps with neighboring bulbs when spacing is correct.",
+            "icon": "🧭"
+          },
+          {
+            "title": "Filtration first",
+            "details": "Screen, sand/media, or disc filters remove suspended solids and bio‑load that would otherwise clog emitters. Filtration is sized to water quality and emitter orifice.",
+            "icon": "🧼"
+          },
+          {
+            "title": "Stable pressure",
+            "details": "Pressure regulators and balanced pipe sizing keep pressure variation low across the block so each emitter delivers near its rated discharge.",
+            "icon": "⚖️"
+          },
+          {
+            "title": "Periodic flushing",
+            "details": "Ends of mains and laterals include flush valves or removable end caps to purge sediment and biofilm at startup and after fertigation.",
+            "icon": "🔄"
+          }
+        ]
+      },
+      {
+        "title": "System components",
+        "id": "components",
+        "items": [
+          {
+            "function": "Provide adequate flow and head. Include foot valve/strainer when drawing from open sources.",
+            "name": "Water source & pump",
+            "sizingNotes": "Pump head must cover filter loss, regulator loss, pipe/friction loss, elevation, and minimum emitter pressure."
+          },
+          {
+            "function": "Protect emitters from clogging.",
+            "name": "Filtration unit",
+            "sizingNotes": "Use sand/media filter for high organic load, screen or disc for fine particles; size to system flow with backwash capability."
+          },
+          {
+            "function": "Inject soluble fertilizers into irrigation water.",
+            "name": "Fertilizer injection (venturi or dosing pump)",
+            "sizingNotes": "Provide non‑return valves and a bypass; place after filters to avoid media contamination."
+          },
+          {
+            "function": "Convey water to field blocks with minimal head loss.",
+            "name": "Main & sub‑main pipes",
+            "sizingNotes": "Keep velocity 0.6–1.5 m/s; add air‑release valves at high points; provide flush points at ends."
+          },
+          {
+            "function": "Carry water to emitters along crop rows.",
+            "name": "Laterals",
+            "sizingNotes": "Limit lateral length based on diameter, emitter spacing, and allowable pressure variation (usually ≤20%)."
+          },
+          {
+            "function": "Meter flow to the root zone.",
+            "name": "Emitters / drippers",
+            "sizingNotes": "Choose discharge (LPH) per crop/soil; pressure‑compensating types help on slopes or with varied lengths."
+          },
+          {
+            "function": "On/off control, zone selection, automatic scheduling.",
+            "name": "Valves & automation",
+            "sizingNotes": "Combine manual/solenoid valves with timers/controllers; add pressure gauges across filters."
+          }
+        ]
+      },
+      {
+        "title": "Design workflow",
+        "id": "design",
+        "steps": [
+          {
+            "details": [
+              "Map field dimensions, slopes, and elevation differences.",
+              "Locate water source, electricity, and maintenance access.",
+              "Identify soil texture (sand/loam/clay) and infiltration rate."
+            ],
+            "step": "Site survey"
+          },
+          {
+            "details": [
+              "Document row spacing and plant spacing; estimate canopy spread.",
+              "Decide laterals per row (vegetables: 1–2; orchards: emitters or ring layout)."
+            ],
+            "step": "Crop spacing & layout"
+          },
+          {
+            "details": [
+              "Pick discharge: 1–8 LPH are common.",
+              "Set emitter spacing by root zone and soil spread.",
+              "Target application rate at or below soil intake rate."
+            ],
+            "step": "Emitter selection"
+          },
+          {
+            "details": [
+              "Divide farm into hydraulic blocks so total flow fits pump capacity and filter rating.",
+              "Keep lateral lengths uniform within a block."
+            ],
+            "step": "Block sizing"
+          },
+          {
+            "details": [
+              "Select main/sub‑main diameters to keep friction losses reasonable.",
+              "Confirm velocity 0.6–1.5 m/s to avoid sediment settlement or water hammer."
+            ],
+            "step": "Pipe sizing"
+          },
+          {
+            "details": [
+              "Place regulator after filters.",
+              "Add isolation valves per block and pressure gauges for monitoring."
+            ],
+            "step": "Pressure regulation & control"
+          }
+        ]
+      },
+      {
+        "title": "Hydraulic calculations",
+        "formulae": [
+          {
+            "example": "1,200 emitters × 4 LPH = 4,800 LPH = 80 L/min",
+            "expr": "Q_block = n_emitters × q_emitter",
+            "name": "Block flow",
+            "units": "LPH or L/min (convert as required)"
+          },
+          {
+            "expr": "H_f = 10.67 × L × Q^1.852 / (C^1.852 × d^4.871)",
+            "name": "Hazen–Williams head loss (SI)",
+            "note": "Convert to pressure with 1 bar ≈ 10 m head.",
+            "variables": "L: length (m), Q: flow (L/s), C: HW coefficient (PVC ≈ 150), d: internal diameter (m)"
+          },
+          {
+            "expr": "P_emitter ≥ P_min_rated (typically 0.7–1.5 bar)",
+            "name": "Emitter pressure requirement"
+          },
+          {
+            "expr": "ΔP_lateral ≤ 20% of P_emitter",
+            "name": "Allowable pressure variation along a lateral",
+            "note": "Use ≤10% for high‑value crops or very long laterals."
+          }
+        ],
+        "id": "hydraulics",
+        "notes": "Keep pressure at the most downstream emitter ≥ the minimum rated value. Sum all head losses and elevation changes.",
+        "workedExample": {
+          "title": "Quick lateral check",
+          "calc": [
+            "Emitters per lateral = 60 / 0.5 = 120",
+            "Flow per lateral = 120 × 4 LPH = 480 LPH = 0.133 L/s",
+            "Estimate friction using Hazen–Williams (C=150) and verify ΔP < 0.2 bar",
+            "If ΔP is high, shorten lateral or increase diameter."
+          ],
+          "given": [
+            "Emitter: 4 LPH",
+            "Emitter spacing: 0.5 m",
+            "Lateral length: 60 m (Ø16 mm)",
+            "Target ΔP ≤ 0.2 bar"
+          ],
+          "result": "Choose lateral length/diameter to meet ΔP constraint; then size sub‑mains for balanced block pressure."
+        }
+      },
+      {
+        "title": "Layout patterns",
+        "id": "layout",
+        "patterns": [
+          {
+            "description": "Parallel laterals along each bed; 20–30 cm emitter spacing; tape 12–16 mm.",
+            "cons": [
+              "Seasonal replacement",
+              "Tape damage risk"
+            ],
+            "name": "Vegetable beds (drip tape)",
+            "pros": [
+              "Low cost",
+              "Fast deployment"
+            ]
+          },
+          {
+            "description": "2–4 emitters per tree; expand to ring as canopy grows.",
+            "cons": [
+              "Needs periodic repositioning"
+            ],
+            "name": "Orchards (point source)",
+            "pros": [
+              "Targeted wetting",
+              "Scales with tree age"
+            ]
+          },
+          {
+            "description": "Pressure‑compensating inline laterals on sloping blocks.",
+            "cons": [
+              "Higher emitter cost"
+            ],
+            "name": "Vineyards (in‑line PC)",
+            "pros": [
+              "Uniform on slopes",
+              "Long laterals possible"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Irrigation scheduling",
+        "applicationRateNote": "Keep emitter application rate below soil intake to prevent ponding—sands accept higher rates than clays.",
+        "id": "scheduling",
+        "method": [
+          "Compute reference evapotranspiration (ETo) from local weather or station data.",
+          "Select crop coefficient (Kc) by stage; ETc = ETo × Kc.",
+          "Application time per event = Net depth / Application rate × Field efficiency."
+        ],
+        "sensors": [
+          "Use tensiometers or capacitance probes to trigger irrigation at thresholds.",
+          "Mulch reduces evaporation; adjust runtime downward when mulched."
+        ],
+        "summary": "Schedule by crop water requirement (ETc), soil water holding capacity, and system application rate.",
+        "typicalKc": [
+          {
+            "crop": "Vegetables (mid‑season)",
+            "range": "0.95–1.05"
+          },
+          {
+            "crop": "Citrus (mid‑season)",
+            "range": "0.65–0.80"
+          },
+          {
+            "crop": "Grapevine (mid‑season)",
+            "range": "0.70–0.85"
+          }
+        ]
+      },
+      {
+        "title": "Fertigation",
+        "hardware": [
+          "Venturi injector or dosing pump",
+          "Non‑return/check valves",
+          "Bypass loop and isolation valves",
+          "Mixing tank with agitation"
+        ],
+        "id": "fertigation",
+        "procedure": [
+          "Backflush filters; inject through the manifold after filtration.",
+          "Start with clean water, begin injection at target ppm, finish with clean water rinse.",
+          "Monitor EC and pH; avoid precipitation (e.g., calcium with phosphates)."
+        ],
+        "safety": [
+          "Install anti‑siphon/backflow protection.",
+          "Store acids/fertilizers separately; use PPE during mixing."
+        ],
+        "why": [
+          "Delivers nutrients to the active root zone with high efficiency.",
+          "Allows split applications timed to growth stages."
+        ]
+      },
+      {
+        "title": "Maintenance & flushing",
+        "checklist": [
+          "Daily: read inlet/outlet pressure across filters; backwash when differential exceeds the threshold.",
+          "Weekly: open lateral end caps and flush until water runs clear.",
+          "Monthly: chemical treatment (chlorination/acid) if biofilm or scale is observed.",
+          "Seasonal: inspect emitters, repair rodent/mechanical damage, replace worn tape."
+        ],
+        "id": "maintenance"
+      },
+      {
+        "title": "Troubleshooting",
+        "id": "troubleshooting",
+        "items": [
+          {
+            "fixes": [
+              "Increase pipe diameter or shorten laterals",
+              "Clean/backwash filters",
+              "Use pressure‑compensating emitters"
+            ],
+            "likelyCauses": [
+              "Excessive pressure drop",
+              "Partial clogging",
+              "Elevation differences"
+            ],
+            "symptom": "Uneven wetting across block"
+          },
+          {
+            "fixes": [
+              "Upgrade filters and backwash schedule",
+              "Shock chlorination",
+              "Adjust fertigation chemistry; inject acids if scale forms"
+            ],
+            "likelyCauses": [
+              "Insufficient filtration",
+              "Algae/biofilm",
+              "Salt precipitation"
+            ],
+            "symptom": "Frequent emitter clogging"
+          },
+          {
+            "fixes": [
+              "Clean foot valve/strainer",
+              "Ensure adequate NPSH; adjust pump/water level"
+            ],
+            "likelyCauses": [
+              "Blocked suction",
+              "Low source level"
+            ],
+            "symptom": "Pump cavitation/noise"
+          }
+        ]
+      },
+      {
+        "title": "Bill of Materials (template)",
+        "columns": [
+          "Item",
+          "Spec / Size",
+          "Qty",
+          "Notes"
+        ],
+        "id": "bom",
+        "rows": [
+          [
+            "Pump",
+            "Flow ___ L/min, Head ___ m",
+            ""
+          ],
+          [
+            "Sand filter",
+            "Diameter ___, Flow ___ m³/h",
+            ""
+          ],
+          [
+            "Screen/Disc filter",
+            "Mesh/grade ___",
+            ""
+          ],
+          [
+            "Fertilizer injector",
+            "Venturi or Dosing pump",
+            ""
+          ],
+          [
+            "Pressure regulator",
+            "Set ___ bar",
+            ""
+          ],
+          [
+            "Main pipe",
+            "Material ___, Ø ___ mm, Length ___ m",
+            ""
+          ],
+          [
+            "Sub‑main pipe",
+            "Ø ___ mm, Length ___ m",
+            ""
+          ],
+          [
+            "Laterals",
+            "Ø 12/16 mm, Length ___ m",
+            ""
+          ],
+          [
+            "Emitters",
+            "___ LPH, Spacing ___ cm",
+            ""
+          ],
+          [
+            "Valves (isolation/solenoid)",
+            "Size ___",
+            ""
+          ],
+          [
+            "Gauges & accessories",
+            "0–6 bar",
+            ""
+          ],
+          [
+            "End flush valves/caps",
+            "—",
+            ""
+          ],
+          [
+            "Fittings",
+            "Elbows/tees/adaptors",
+            ""
+          ]
+        ]
+      },
+      {
+        "title": "Glossary",
+        "id": "glossary",
+        "terms": [
+          {
+            "def": "Liters per hour — common dripper discharge rating.",
+            "term": "LPH"
+          },
+          {
+            "def": "Pressure‑compensating emitter that maintains constant flow across a range of inlet pressures.",
+            "term": "PC emitter"
+          },
+          {
+            "def": "Evenness of water distribution; influenced by pressure variation and clogging.",
+            "term": "Uniformity"
+          },
+          {
+            "def": "Reversing flow through a filter to remove trapped particles.",
+            "term": "Backwash"
+          }
+        ]
+      },
+      {
+        "title": "FAQ",
+        "id": "faq",
+        "items": [
+          {
+            "a": "Depends on emitter spacing/flow and allowable pressure variation; many designs keep laterals within 60–100 m. Shorten on steep slopes or use PC emitters.",
+            "q": "How long can a 16 mm lateral be?"
+          },
+          {
+            "a": "If the source has organics or algae, include a sand/media filter followed by screen/disc for fine particle protection.",
+            "q": "Do I need both sand and screen filters?"
+          },
+          {
+            "a": "Many emitters perform well at around 1.0 bar; check your model’s rating and keep variation low across the block.",
+            "q": "What’s a good starting pressure at emitters?"
+          }
+        ]
+      }
+    ],
+    "technologies": [
+      {
+        "description": "A wooden tool pulled by animals used to turn soil before planting crops.",
+        "category": "Soil Preparation",
+        "impact": [
+          "Improved soil preparation",
+          "Allowed cultivation of larger areas",
+          "Reduced manual labor"
+        ],
+        "invention_period": "3000 BCE",
+        "name": "Wooden Plow",
+        "origin_region": "Mesopotamia"
+      },
+      {
+        "description": "Artificial channels built to transport water from rivers to agricultural fields.",
+        "category": "Water Management",
+        "impact": [
+          "Enabled farming in dry areas",
+          "Improved crop yields",
+          "Supported early civilizations"
+        ],
+        "invention_period": "4000 BCE",
+        "name": "Irrigation Canals",
+        "origin_region": "Ancient Egypt and Mesopotamia"
+      },
+      {
+        "description": "Practice of growing different crops in sequence on the same land to maintain soil nutrients.",
+        "category": "Soil Fertility",
+        "impact": [
+          "Improved soil fertility",
+          "Reduced pest problems",
+          "Increased agricultural productivity"
+        ],
+        "invention_period": "800 CE",
+        "name": "Crop Rotation System",
+        "origin_region": "Europe"
+      },
+      {
+        "description": "Machine that plants seeds in rows at uniform depth and spacing.",
+        "category": "Planting Technology",
+        "impact": [
+          "Reduced seed wastage",
+          "Improved crop growth",
+          "Increased yield"
+        ],
+        "invention_period": "1701 CE",
+        "inventor": "Jethro Tull",
+        "name": "Seed Drill"
+      },
+      {
+        "description": "A machine used to cut grain crops efficiently.",
+        "category": "Harvesting Equipment",
+        "impact": [
+          "Reduced harvesting labor",
+          "Faster crop harvesting",
+          "Supported large-scale farming"
+        ],
+        "invention_period": "1831 CE",
+        "inventor": "Cyrus McCormick",
+        "name": "Mechanical Reaper"
+      },
+      {
+        "description": "Early tractor powered by steam engines used for plowing and pulling farm equipment.",
+        "category": "Farm Machinery",
+        "impact": [
+          "Mechanized farming operations",
+          "Reduced reliance on animal labor"
+        ],
+        "invention_period": "1850 CE",
+        "name": "Steam Tractor"
+      },
+      {
+        "description": "Manufactured fertilizers providing essential nutrients like nitrogen, phosphorus, and potassium.",
+        "category": "Soil Nutrition",
+        "impact": [
+          "Improved crop productivity",
+          "Supported large-scale food production"
+        ],
+        "invention_period": "1900 CE",
+        "name": "Chemical Fertilizers"
+      },
+      {
+        "description": "Machine that combines reaping, threshing, and winnowing of grain crops.",
+        "category": "Harvesting Machinery",
+        "impact": [
+          "Increased harvesting efficiency",
+          "Reduced manual labor"
+        ],
+        "invention_period": "1930 CE",
+        "name": "Combine Harvester"
+      },
+      {
+        "description": "Micro-irrigation system delivering water directly to plant roots.",
+        "category": "Irrigation Technology",
+        "impact": [
+          "Water conservation",
+          "Improved crop yields",
+          "Efficient fertilizer use"
+        ],
+        "invention_period": "1960 CE",
+        "name": "Drip Irrigation System",
+        "origin_region": "Israel"
+      },
+      {
+        "description": "Genetically improved crop varieties developed during the Green Revolution.",
+        "category": "Seed Technology",
+        "impact": [
+          "Increased food production",
+          "Improved resistance to pests and diseases"
+        ],
+        "invention_period": "1960 CE",
+        "name": "High Yield Variety Seeds"
+      },
+      {
+        "description": "Use of GPS technology to guide tractors and manage field operations.",
+        "category": "Digital Agriculture",
+        "impact": [
+          "Precise fertilizer application",
+          "Reduced input costs",
+          "Improved farm efficiency"
+        ],
+        "invention_period": "1990 CE",
+        "name": "Precision Agriculture GPS Systems"
+      },
+      {
+        "description": "Unmanned aerial vehicles used for crop monitoring, spraying pesticides, and mapping fields.",
+        "category": "Smart Farming",
+        "impact": [
+          "Fast crop monitoring",
+          "Efficient pesticide spraying",
+          "Improved farm management"
+        ],
+        "invention_period": "2010 CE",
+        "name": "Agricultural Drones"
+      },
+      {
+        "description": "Sensors that measure soil moisture, temperature, and nutrient levels.",
+        "category": "Smart Irrigation",
+        "impact": [
+          "Smart irrigation scheduling",
+          "Water conservation",
+          "Better crop growth monitoring"
+        ],
+        "invention_period": "2015 CE",
+        "name": "IoT Soil Sensors"
+      },
+      {
+        "description": "AI systems analyze satellite images and sensor data to predict crop health and yield.",
+        "category": "Artificial Intelligence Agriculture",
+        "impact": [
+          "Early pest detection",
+          "Improved crop management",
+          "Higher agricultural productivity"
+        ],
+        "invention_period": "2020 CE",
+        "name": "AI Crop Monitoring Systems"
+      }
+    ],
+    "timeline_end1": "Present",
+    "timeline_end2": "Present",
+    "timeline_start1": "10000 BCE",
+    "timeline_start2": "10000 BCE",
+    "title1": "farming_revolutions_history",
+    "title2": "agriculture_technology_inventions",
+    "toc": {
+      "title": "On this page",
+      "items": [
+        {
+          "id": "overview",
+          "label": "Overview"
+        },
+        {
+          "id": "principle",
+          "label": "How it works"
+        },
+        {
+          "id": "components",
+          "label": "System components"
+        },
+        {
+          "id": "design",
+          "label": "Design workflow"
+        },
+        {
+          "id": "hydraulics",
+          "label": "Hydraulic calculations"
+        },
+        {
+          "id": "layout",
+          "label": "Layout patterns"
+        },
+        {
+          "id": "scheduling",
+          "label": "Irrigation scheduling"
+        },
+        {
+          "id": "fertigation",
+          "label": "Fertigation"
+        },
+        {
+          "id": "maintenance",
+          "label": "Maintenance & flushing"
+        },
+        {
+          "id": "troubleshooting",
+          "label": "Troubleshooting"
+        },
+        {
+          "id": "bom",
+          "label": "Bill of Materials (template)"
+        },
+        {
+          "id": "glossary",
+          "label": "Glossary"
+        },
+        {
+          "id": "faq",
+          "label": "FAQ"
+        }
+      ]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "mainentity": {
+        "@type": "Organization",
+        "contactpoint": {
+          "@type": "ContactPoint",
+          "areaserved": "Worldwide",
+          "availableLanguage": [
+            "English",
+            "Hindi",
+            "Telugu",
+            "Spanish",
+            "French"
+          ],
+          "contacttype": "Customer Support",
+          "email": "info@sanatanadharmam.in",
+          "telephone": "+91-8099181075"
+        },
+        "logo": "https://sanatanadharmam.in/images/logo.png",
+        "name": "About Sanatanadharmam.in",
+        "url": "https://sanatanadharmam.in"
+      }
+    }
+  }
+}

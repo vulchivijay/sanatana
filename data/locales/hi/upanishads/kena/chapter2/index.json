@@ -1,0 +1,26 @@
+﻿{
+  "kena_chapter2": {
+    "title": "Kena Chapter 2",
+    "description": "Chapter 2 from Kena.",
+    "meta": {
+      "title": "Kena Chapter 2",
+      "canonical": "https://sanatanadharmam.in/upanishads/kena/chapter-2",
+      "description": "Chapter 2 from Kena.",
+      "url": "https://sanatanadharmam.in/upanishads/kena/chapter-2"
+    },
+    "openGraph": {
+      "title": "Kena Chapter 2",
+      "description": "Chapter 2 from Kena.",
+      "url": "https://sanatanadharmam.in/upanishads/kena/chapter-2",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Kena.",
+    "scripture_text": "Chapter-level summary text for Kena, Chapter 2.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 2,
+      "path": "/upanishads/kena/chapter-2"
+    }
+  }
+}

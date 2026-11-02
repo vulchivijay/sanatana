@@ -1,0 +1,61 @@
+{
+  "brihadaranyaka": {
+    "title": "Brihadaranyaka Upanishad – Upanishad Teachings in Sanātana Dharma",
+    "description": "Overview of Brihadaranyaka Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+    "meta": {
+      "title": "Brihadaranyaka Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "description": "Overview of Brihadaranyaka Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "canonical": "https://sanatanadharmam.in/upanishads/brihadaranyaka",
+      "keywords": [
+        "Brihadaranyaka Upanishad",
+        "Upanishads",
+        "Vedanta",
+        "Atman",
+        "Brahman",
+        "Sanatana Dharma"
+      ],
+      "ogImage": "https://sanatanadharmam.in/og/upanishads_brihadaranyaka_upanishad.png",
+      "robots": "index, follow",
+      "url": "https://sanatanadharmam.in/upanishads/brihadaranyaka"
+    },
+    "introduction": "Brihadaranyaka Upanishad is one of the principal Upanishads—texts that explore the deepest questions of human life: Who am I? What is real? What is the Self (Atman) and the ultimate reality (Brahman)? Upanishadic teaching is often presented as dialogue and inquiry. Rather than offering a single “belief”, it trains attention and discernment so a seeker can move from outer identity to inner truth. The Brihadaranyaka Upanishad is one of the most influential and philosophically rich Upanishads. It contains deep dialogues on the Self, renunciation, and the limits of description—often pushing the seeker beyond simplistic answers.",
+    "openGraph": {
+      "title": "Brihadaranyaka Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "description": "Overview of Brihadaranyaka Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "images": [
+        {
+          "alt": "Brihadaranyaka Upanishad – Upanishad Teachings in Sanātana Dharma",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/og/upanishads_brihadaranyaka_upanishad.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "url": "https://sanatanadharmam.in/upanishads/brihadaranyaka"
+    },
+    "philosophical_explanation": "Brihadaranyaka strengthens the non-dual insight by systematically dismantling mistaken self-definitions. The result is not nihilism, but freedom: when the Self is not confined to roles or possessions, fear reduces and compassion becomes natural.",
+    "scripture_text": [
+      {
+        "content": "Self-inquiry, renunciation, discrimination between the real and the changing, and the use of negation to remove false identification.",
+        "section": "Central themes"
+      },
+      {
+        "content": "The text encourages a subtle honesty: release identities that depend on changing conditions, and rest in the awareness that does not depend on them.",
+        "section": "Practice reflection"
+      }
+    ],
+    "schema": {
+      "description": "Overview of Brihadaranyaka Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Sanatanadharmam",
+        "url": "https://sanatanadharmam.in"
+      },
+      "name": "Brihadaranyaka Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "url": "https://sanatanadharmam.in/upanishads/brihadaranyaka"
+    }
+  }
+}

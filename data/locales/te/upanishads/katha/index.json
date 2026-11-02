@@ -1,0 +1,61 @@
+{
+  "katha": {
+    "title": "Katha Upanishad – Upanishad Teachings in Sanātana Dharma",
+    "description": "Overview of Katha Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+    "meta": {
+      "title": "Katha Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "description": "Overview of Katha Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "canonical": "https://sanatanadharmam.in/upanishads/katha",
+      "keywords": [
+        "Katha Upanishad",
+        "Upanishads",
+        "Vedanta",
+        "Atman",
+        "Brahman",
+        "Sanatana Dharma"
+      ],
+      "ogImage": "https://sanatanadharmam.in/og/upanishads_katha_upanishad.png",
+      "robots": "index, follow",
+      "url": "https://sanatanadharmam.in/upanishads/katha"
+    },
+    "introduction": "Katha Upanishad is one of the principal Upanishads—texts that explore the deepest questions of human life: Who am I? What is real? What is the Self (Atman) and the ultimate reality (Brahman)? Upanishadic teaching is often presented as dialogue and inquiry. Rather than offering a single “belief”, it trains attention and discernment so a seeker can move from outer identity to inner truth. The Katha Upanishad is famed for the story of Nachiketa, who meets Yama (the lord of death). Through this encounter it explores the choice between the pleasant and the good, and the quest for what does not perish.",
+    "openGraph": {
+      "title": "Katha Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "description": "Overview of Katha Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "images": [
+        {
+          "alt": "Katha Upanishad – Upanishad Teachings in Sanātana Dharma",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/og/upanishads_katha_upanishad.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "url": "https://sanatanadharmam.in/upanishads/katha"
+    },
+    "philosophical_explanation": "Katha brings philosophy into daily decision-making: what you repeatedly choose becomes your character. By choosing the “good” over the merely pleasant, you cultivate the steadiness required to recognize the Self beyond fear, change, and death.",
+    "scripture_text": [
+      {
+        "content": "Discernment between short-term pleasure and lasting good, the immortality of the Self, discipline of the senses, and the “chariot” metaphor for mind and body.",
+        "section": "Central themes"
+      },
+      {
+        "content": "The text highlights self-mastery: when senses and mind are guided by inner intelligence, the seeker becomes fit for deeper knowledge.",
+        "section": "Practice reflection"
+      }
+    ],
+    "schema": {
+      "description": "Overview of Katha Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Sanatanadharmam",
+        "url": "https://sanatanadharmam.in"
+      },
+      "name": "Katha Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "url": "https://sanatanadharmam.in/upanishads/katha"
+    }
+  }
+}

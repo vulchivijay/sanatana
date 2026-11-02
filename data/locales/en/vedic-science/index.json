@@ -1,0 +1,201 @@
+{
+  "vedic_science": {
+    "title": "Vedic Science Explained – Ancient Knowledge of Nature, Health, and Universe",
+    "description": "Learn Vedic Science in simple English. Explore Ayurveda, Yoga, Jyotisha, and ancient knowledge of nature, health, and the universe from Sanatana Dharma.",
+    "meta": {
+      "title": "Vedic Science Explained – Ancient Knowledge of Nature, Health, and Universe",
+      "description": "Learn Vedic Science in simple English. Explore Ayurveda, Yoga, Jyotisha, and ancient knowledge of nature, health, and the universe from Sanatana Dharma.",
+      "keywords": [
+        "Vedic science meaning",
+        "What is Vedic science",
+        "Ayurveda and Vedic science",
+        "Yoga and Vedic knowledge",
+        "Ancient Indian science",
+        "Sanatana Dharma science",
+        "Vedic astronomy and mathematics",
+        "Holistic science India"
+      ],
+      "canonical": "https://sanatanadharmam.in/vedic-science"
+    },
+    "opengraph": {
+      "title": "Vedic Science Explained – Ancient Wisdom of Life and Universe",
+      "description": "Discover Vedic Science in simple terms. Learn how ancient knowledge explains health, nature, mind, and cosmic laws.",
+      "url": "https://sanatanadharmam.in/vedic-science",
+      "type": "article",
+      "image": "https://sanatanadharmam.in/images/vedic-science-cover.jpg",
+      "site_name": "Sanatana Dharma",
+      "locale": "en_US"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Vedic Science Explained – Ancient Knowledge of Nature, Health, and Universe",
+      "description": "A beginner-friendly guide to Vedic Science covering Ayurveda, Yoga, Jyotisha, and the connection between nature, body, and consciousness.",
+      "image": "https://sanatanadharmam.in/images/vedic-science-cover.jpg",
+      "author": {
+        "@type": "Organization",
+        "name": "Sanatana Dharma"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Sanatana Dharma",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://sanatanadharmam.in/logo.png"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://sanatanadharmam.in/vedic-science"
+      },
+      "datePublished": "2026-01-01",
+      "dateModified": "2026-04-10",
+      "articleSection": "Vedic Knowledge",
+      "keywords": [
+        "Vedic Science",
+        "Ayurveda",
+        "Yoga",
+        "Jyotisha",
+        "Ancient Indian knowledge",
+        "Holistic science"
+      ]
+    },
+    "meaning": "Vedic science is the knowledge found in the Vedas that explains nature, the universe, and human life in a systematic and thoughtful way.",
+
+    "introduction": "Vedic science is not separated from spirituality. It studies both the outer world (nature, space, body) and the inner world (mind, consciousness). It aims to understand how everything is connected and how life works in harmony with natural laws.",
+
+    "core_purpose": [
+      "To understand the laws of nature and the universe",
+      "To study the connection between body, mind, and consciousness",
+      "To apply knowledge for healthy and balanced living",
+      "To explore both physical and spiritual aspects of life",
+      "To live in harmony with natural and cosmic laws"
+    ],
+
+    "major_fields": [
+      {
+        "field": "Ayurveda (Health Science)",
+        "explanation": "A system of medicine that focuses on balance in body and mind.",
+        "deep_understanding": [
+          "Health is balance between body, mind, and environment",
+          "Focuses on prevention rather than only treatment",
+          "Uses natural methods like diet, herbs, and lifestyle"
+        ],
+        "key_concepts": [
+          "Doshas (Vata, Pitta, Kapha)",
+          "Natural healing",
+          "Daily routine (Dinacharya)"
+        ]
+      },
+      {
+        "field": "Jyotisha (Astronomy & Astrology)",
+        "explanation": "Study of planets, stars, and their influence on life.",
+        "deep_understanding": [
+          "Observes movements of celestial bodies",
+          "Connects time cycles with human life",
+          "Used for understanding patterns, not predicting fate blindly"
+        ],
+        "key_concepts": [
+          "Planetary positions",
+          "Time cycles",
+          "Cosmic influence"
+        ]
+      },
+      {
+        "field": "Vastu Shastra (Architecture)",
+        "explanation": "Science of designing buildings in harmony with natural forces.",
+        "deep_understanding": [
+          "Focuses on energy flow in spaces",
+          "Aligns structures with directions and elements",
+          "Aims to create balance and positivity"
+        ],
+        "key_concepts": [
+          "Five elements (earth, water, fire, air, space)",
+          "Directional alignment",
+          "Energy balance"
+        ]
+      },
+      {
+        "field": "Yoga (Mind & Body Science)",
+        "explanation": "A system to control the body and mind for inner growth.",
+        "deep_understanding": [
+          "Combines physical, mental, and spiritual practices",
+          "Improves focus and emotional stability",
+          "Leads to self-awareness and inner peace"
+        ],
+        "key_concepts": [
+          "Meditation",
+          "Breathing (Pranayama)",
+          "Mind control"
+        ]
+      },
+      {
+        "field": "Ganita (Mathematics)",
+        "explanation": "Early mathematical thinking and calculations.",
+        "deep_understanding": [
+          "Used in astronomy, rituals, and measurements",
+          "Focused on patterns and logical reasoning",
+          "Helped in calendar and time calculations"
+        ],
+        "key_concepts": [
+          "Numbers and counting",
+          "Geometry",
+          "Time calculation"
+        ]
+      }
+    ],
+
+    "scientific_principles": [
+      {
+        "principle": "Interconnection",
+        "explanation": "Everything in the universe is connected.",
+        "deep_understanding": [
+          "Changes in one area affect others",
+          "Humans are part of nature, not separate",
+          "Balance is essential for harmony"
+        ]
+      },
+      {
+        "principle": "Natural Law",
+        "explanation": "The universe follows fixed natural rules.",
+        "deep_understanding": [
+          "These laws maintain order in the universe",
+          "Understanding them helps in better living",
+          "Ignoring them leads to imbalance"
+        ]
+      },
+      {
+        "principle": "Balance",
+        "explanation": "Health and harmony come from balance.",
+        "deep_understanding": [
+          "Applies to body, mind, and environment",
+          "Too much or too little causes problems",
+          "Balance leads to stability and well-being"
+        ]
+      }
+    ],
+
+    "approach_to_knowledge": [
+      "Observation of nature and patterns",
+      "Experience through practice and lifestyle",
+      "Learning from teachers (guru-shishya tradition)",
+      "Combining logic with inner awareness",
+      "Applying knowledge in daily life"
+    ],
+
+    "differences_from_modern_science": [
+      "Includes both physical and spiritual understanding",
+      "Focuses on prevention and balance, not just solutions",
+      "Studies consciousness along with matter",
+      "Uses experience and intuition along with observation"
+    ],
+
+    "modern_relevance": [
+      "Promotes natural and healthy living",
+      "Helps manage stress and mental health",
+      "Encourages sustainable lifestyle",
+      "Improves understanding of mind-body connection",
+      "Supports holistic well-being"
+    ]
+  }
+}

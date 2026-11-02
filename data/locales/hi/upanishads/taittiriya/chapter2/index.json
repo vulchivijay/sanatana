@@ -1,0 +1,26 @@
+﻿{
+  "taittiriya_chapter2": {
+    "title": "Taittiriya Chapter 2",
+    "description": "Chapter 2 from Taittiriya.",
+    "meta": {
+      "title": "Taittiriya Chapter 2",
+      "canonical": "https://sanatanadharmam.in/upanishads/taittiriya/chapter-2",
+      "description": "Chapter 2 from Taittiriya.",
+      "url": "https://sanatanadharmam.in/upanishads/taittiriya/chapter-2"
+    },
+    "openGraph": {
+      "title": "Taittiriya Chapter 2",
+      "description": "Chapter 2 from Taittiriya.",
+      "url": "https://sanatanadharmam.in/upanishads/taittiriya/chapter-2",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Taittiriya.",
+    "scripture_text": "Chapter-level summary text for Taittiriya, Chapter 2.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 2,
+      "path": "/upanishads/taittiriya/chapter-2"
+    }
+  }
+}

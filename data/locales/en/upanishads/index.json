@@ -1,0 +1,324 @@
+{
+  "upanishads": {
+    "title": "108 Upanishads",
+    "description": "The 108 Upanishads are sacred philosophical texts of Sanatana Dharma exploring Brahman, Atman, liberation and ultimate reality.",
+    "meta": {
+      "title": "108 Upanishads – Teachings on Brahman and Renunciation",
+      "description": "The Isha Upanishad from the Shukla Yajurveda explores the unity of Atman and Brahman, renunciation, and the spiritual philosophy of Sanatana Dharma.",
+      "canonical": "https://sanatanadharmam.in/upanishads/isha",
+      "keywords": [
+        "108 Upanishads",
+        "Isha Upanishad",
+        "Upanishads philosophy",
+        "Vedanta teachings",
+        "Atman and Brahman",
+        "Vedic scriptures",
+        "Sanatana Dharma Upanishads"
+      ],
+      "robots": "index, follow",
+      "url": "https://sanatanadharmam.in/upanishads/isha"
+    },
+    "openGraph": {
+      "title": "Isha Upanishad – Sacred Vedantic Text",
+      "description": "Explore the teachings of the Isha Upanishad discussing Brahman, Atman and renunciation in the Vedic tradition.",
+      "images": [
+        {
+          "alt": "Isha Upanishad",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/og/upanishads-isha.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "url": "https://sanatanadharmam.in/upanishads/isha"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Book",
+          "about": [
+            "Vedanta philosophy",
+            "Atman",
+            "Brahman",
+            "Sanatana Dharma"
+          ],
+          "inLanguage": "Sanskrit",
+          "isPartOf": {
+            "@type": "Book",
+            "name": "Upanishads"
+          },
+          "name": "Isha Upanishad",
+          "url": "https://sanatanadharmam.in/upanishads/isha"
+        },
+        {
+          "@type": "Article",
+          "about": [
+            "Upanishads",
+            "Vedanta",
+            "Brahman",
+            "Atman"
+          ],
+          "headline": "Isha Upanishad – Teachings on Brahman and Renunciation",
+          "isPartOf": {
+            "@type": "WebSite",
+            "name": "Sanatanadharmam",
+            "url": "https://sanatanadharmam.in"
+          }
+        }
+      ]
+    },
+    "meaning": "The word 'Upanishad' means 'sitting near a teacher' to gain deep knowledge. It represents learning directly from a wise teacher about truth and life.",
+    "introduction": "The Upanishads are philosophical teachings that explain the deeper meaning of life, the self, and the universe. They focus on inner understanding rather than external rituals. They guide a person from ignorance to knowledge and from confusion to clarity.",
+    "core_purpose": [
+      "To understand the true nature of reality",
+      "To discover the inner self (Atman)",
+      "To explain the ultimate truth (Brahman)",
+      "To guide humans toward freedom from suffering (Moksha)"
+    ],
+    "key_teachings": [
+      {
+        "concept": "Atman (Self)",
+        "explanation": "Your real identity is not your body or mind, but your inner consciousness. This is eternal and does not change.",
+        "deep_understanding": [
+          "You are not your thoughts or emotions",
+          "Your true self is peaceful and unchanging",
+          "Knowing your true self removes fear and confusion"
+        ]
+      },
+      {
+        "concept": "Brahman (Ultimate Reality)",
+        "explanation": "Brahman is the infinite reality that exists everywhere and in everything.",
+        "deep_understanding": [
+          "Everything in the universe is connected through Brahman",
+          "It is beyond form, name, and limitations",
+          "It is pure existence, knowledge, and bliss"
+        ]
+      },
+      {
+        "concept": "Atman = Brahman",
+        "explanation": "The Upanishads teach that your inner self (Atman) and the ultimate reality (Brahman) are one.",
+        "deep_understanding": [
+          "You are not separate from the universe",
+          "Realizing this unity is true knowledge",
+          "This realization brings complete freedom"
+        ]
+      },
+      {
+        "concept": "Moksha (Liberation)",
+        "explanation": "Freedom from suffering and the cycle of birth and death.",
+        "deep_understanding": [
+          "Achieved through self-knowledge, not external success",
+          "Removes ignorance and attachment",
+          "Leads to permanent peace and fulfillment"
+        ]
+      },
+      {
+        "concept": "Ignorance (Avidya)",
+        "explanation": "Not knowing your true self is the root of suffering.",
+        "deep_understanding": [
+          "People identify with body and mind instead of true self",
+          "This creates fear, desire, and confusion",
+          "Knowledge removes ignorance"
+        ]
+      }
+    ],
+    "famous_mahavakyas": [
+      {
+        "statement": "Tat Tvam Asi",
+        "meaning": "You are That",
+        "simple_explanation": "Your true self is the same as the ultimate reality"
+      },
+      {
+        "statement": "Aham Brahmasmi",
+        "meaning": "I am Brahman",
+        "simple_explanation": "I am not separate from the universe"
+      },
+      {
+        "statement": "Prajnanam Brahma",
+        "meaning": "Consciousness is Brahman",
+        "simple_explanation": "Pure awareness is the ultimate truth"
+      },
+      {
+        "statement": "Ayam Atma Brahma",
+        "meaning": "This self is Brahman",
+        "simple_explanation": "Your inner self is divine reality"
+      }
+    ],
+    "major_upanishads": [
+      {
+        "name": "Isha Upanishad",
+        "focus": "Living in the world with spiritual awareness",
+        "simple_understanding": "Balance material life and spiritual wisdom"
+      },
+      {
+        "name": "Kena Upanishad",
+        "focus": "Source of mind and senses",
+        "simple_understanding": "The power behind thinking and perception is divine"
+      },
+      {
+        "name": "Katha Upanishad",
+        "focus": "Life, death, and the soul",
+        "simple_understanding": "Understanding death leads to understanding life"
+      },
+      {
+        "name": "Mundaka Upanishad",
+        "focus": "Higher knowledge vs lower knowledge",
+        "simple_understanding": "Spiritual knowledge is greater than material knowledge"
+      },
+      {
+        "name": "Mandukya Upanishad",
+        "focus": "Nature of consciousness",
+        "simple_understanding": "Explains waking, dream, deep sleep, and pure awareness"
+      },
+      {
+        "name": "Chandogya Upanishad",
+        "focus": "Meditation and inner truth",
+        "simple_understanding": "Everything is connected to one reality"
+      },
+      {
+        "name": "Brihadaranyaka Upanishad",
+        "focus": "Deep philosophical inquiry",
+        "simple_understanding": "Explores self, universe, and ultimate truth in depth"
+      }
+    ],
+    "learning_path": [
+      "Start by understanding the idea of the self (Atman)",
+      "Learn about the universal reality (Brahman)",
+      "Reflect on the unity of Atman and Brahman",
+      "Practice self-awareness and observation",
+      "Gradually move toward deeper understanding and realization"
+    ],
+    "modern_relevance": [
+      "Helps reduce stress by understanding the true self",
+      "Gives clarity about purpose and identity",
+      "Encourages mindfulness and self-awareness",
+      "Provides deep answers to existential questions",
+      "Promotes inner peace in a fast-paced world"
+    ],
+    "categories": {
+      "atharvaveda": [
+        "Prashna",
+        "Mundaka",
+        "Mandukya",
+        "Atharvashira",
+        "Atharvashikha",
+        "Brihajjabala",
+        "Nrisimhatapini",
+        "Narada Parivrajaka",
+        "Sita",
+        "Sharabha",
+        "Mahanarayana",
+        "Ramatapini",
+        "Rama Rahasya",
+        "Rama Uttara",
+        "Gopala Tapini",
+        "Krishna",
+        "Hayagriva",
+        "Dattatreya",
+        "Garuda",
+        "Kali Santarana",
+        "Bhavana",
+        "Rudra",
+        "Sannyasa",
+        "Paramahamsa Parivrajaka",
+        "Annapurna",
+        "Surya",
+        "Atma",
+        "Pashupata",
+        "Parabrahma",
+        "Tripuratapini",
+        "Devi",
+        "Tripura",
+        "Bhavanopanishad"
+      ],
+      "krishna_yajurveda": [
+        "Katha",
+        "Taittiriya",
+        "Brahma",
+        "Kaivalya",
+        "Shvetashvatara",
+        "Garbh",
+        "Narayana",
+        "Amritabindu",
+        "Amritanada",
+        "Kalagnirudra",
+        "Kshurika",
+        "Sarvasara",
+        "Sukarahasya",
+        "Tejobindu",
+        "Dhyanabindu",
+        "Brahmavidya",
+        "Yogatattva",
+        "Dakshinamurti",
+        "Skanda",
+        "Shariraka",
+        "Yogashikha",
+        "Ekakshara",
+        "Akshi",
+        "Avadhuta",
+        "Katharudra",
+        "Rudrahridaya",
+        "Yoga Kundalini",
+        "Panchabrahma",
+        "Pranagnihotra",
+        "Varaha",
+        "Kali Santarana",
+        "Sarasvatirahasya"
+      ],
+      "rigveda": [
+        "Aitareya",
+        "Kaushitaki",
+        "Nadabindu",
+        "Atmabodha",
+        "Nirvana",
+        "Mudgala",
+        "Akshamalika",
+        "Tripura",
+        "Saubhagyalakshmi",
+        "Bahvricha"
+      ],
+      "samaveda": [
+        "Kena",
+        "Chandogya",
+        "Aruni",
+        "Maitrayani",
+        "Maitreya",
+        "Vajrasuchika",
+        "Yogachudamani",
+        "Vasudeva",
+        "Mahat",
+        "Sannyasa",
+        "Avyakta",
+        "Kundika",
+        "Savitri",
+        "Rudraksha",
+        "Darshana",
+        "Jabali"
+      ],
+      "shukla_yajurveda": [
+        "Isha",
+        "Brihadaranyaka",
+        "Jabala",
+        "Hamsa",
+        "Paramahamsa",
+        "Subala",
+        "Mantrika",
+        "Niralamba",
+        "Trishikhi Brahmana",
+        "Mandala Brahmana",
+        "Advayataraka",
+        "Paingala",
+        "Bhikshuka",
+        "Turiyatita",
+        "Adhyatma",
+        "Tarasara",
+        "Yajnavalkya",
+        "Shatyayani",
+        "Muktika"
+      ]
+    },
+    "total": 108
+  }
+}

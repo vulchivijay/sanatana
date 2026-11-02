@@ -1,0 +1,9 @@
+/* Redirects to handle old/mis-cased paths and moved slugs */
+/kidsZone/*  /kidszone/:splat  301
+/kidsZone    /kidszone/       301
+/kidsZone/comics  /kidszone/comics/ 301
+/kidsZone/easymantras  /kidszone/easymantras/ 301
+/kidsZone/illustratedStories  /kidszone/illustratedstories/ 301
+/kidsZone/mythologicalquizzes  /kidszone/mythologicalquizzes/ 301
+/scriptures/gita  /scriptures/bhagavathgita/ 301
+/donation  /donate/ 301

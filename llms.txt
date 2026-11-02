@@ -1,0 +1,30 @@
+##############################################
+# llms.txt
+# Purpose:
+# - A plain-text file placed in the `public` folder so it is published at the
+#   site root (e.g. https://example.com/llms.txt) after build/deploy.
+# - Use this file to expose a minimal, non-sensitive signal or configuration
+#   about Large Language Model (LLM) integrations or related site capabilities.
+# Typical uses:
+# - Indicate whether LLM support is enabled for this site.
+# - Provide non-sensitive metadata for crawlers or deployment tooling.
+# - Provide a simple, deploy-time replaceable config that does NOT contain
+#   secrets, API keys, or private endpoints.
+# Format & examples:
+# - Plain key/value pairs (recommended):
+#     llms: present
+#     provider: openai
+#     version: 1
+# - Or a single-line JSON object if preferred (still avoid secrets):
+#     {"llms":true,"provider":"openai","version":1}
+# Security note:
+# - NEVER store secrets, API keys, credentials, or internal endpoints here.
+#   This file is publicly accessible and intended only for non-sensitive info.
+# Deployment note:
+# - CI/CD or build scripts may overwrite this file with environment-specific
+#   values. Keep it readable and simple so deployment systems can swap content.
+##############################################
+
+llms: present
+# Replace this file with deployment-specific llms configuration if needed.
+# Generated: 2025-12-21

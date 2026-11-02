@@ -1,0 +1,26 @@
+﻿{
+  "isha_chapter5": {
+    "title": "Isha Chapter 5",
+    "description": "Chapter 5 from Isha.",
+    "meta": {
+      "title": "Isha Chapter 5",
+      "canonical": "https://sanatanadharmam.in/upanishads/isha/chapter-5",
+      "description": "Chapter 5 from Isha.",
+      "url": "https://sanatanadharmam.in/upanishads/isha/chapter-5"
+    },
+    "openGraph": {
+      "title": "Isha Chapter 5",
+      "description": "Chapter 5 from Isha.",
+      "url": "https://sanatanadharmam.in/upanishads/isha/chapter-5",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Isha.",
+    "scripture_text": "Chapter-level summary text for Isha, Chapter 5.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 5,
+      "path": "/upanishads/isha/chapter-5"
+    }
+  }
+}

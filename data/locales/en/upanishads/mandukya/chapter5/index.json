@@ -1,0 +1,26 @@
+﻿{
+  "mandukya_chapter5": {
+    "title": "Mandukya Chapter 5",
+    "description": "Chapter 5 from Mandukya.",
+    "meta": {
+      "title": "Mandukya Chapter 5",
+      "canonical": "https://sanatanadharmam.in/upanishads/mandukya/chapter-5",
+      "description": "Chapter 5 from Mandukya.",
+      "url": "https://sanatanadharmam.in/upanishads/mandukya/chapter-5"
+    },
+    "openGraph": {
+      "title": "Mandukya Chapter 5",
+      "description": "Chapter 5 from Mandukya.",
+      "url": "https://sanatanadharmam.in/upanishads/mandukya/chapter-5",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Mandukya.",
+    "scripture_text": "Chapter-level summary text for Mandukya, Chapter 5.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 5,
+      "path": "/upanishads/mandukya/chapter-5"
+    }
+  }
+}

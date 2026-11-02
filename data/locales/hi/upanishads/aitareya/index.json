@@ -1,0 +1,61 @@
+{
+  "aitareya": {
+    "title": "Aitareya Upanishad – Upanishad Teachings in Sanātana Dharma",
+    "description": "Overview of Aitareya Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+    "meta": {
+      "title": "Aitareya Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "description": "Overview of Aitareya Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "canonical": "https://sanatanadharmam.in/upanishads/aitareya",
+      "keywords": [
+        "Aitareya Upanishad",
+        "Upanishads",
+        "Vedanta",
+        "Atman",
+        "Brahman",
+        "Sanatana Dharma"
+      ],
+      "ogImage": "https://sanatanadharmam.in/og/upanishads_aitareya_upanishad.png",
+      "robots": "index, follow",
+      "url": "https://sanatanadharmam.in/upanishads/aitareya"
+    },
+    "introduction": "Aitareya Upanishad is one of the principal Upanishads—texts that explore the deepest questions of human life: Who am I? What is real? What is the Self (Atman) and the ultimate reality (Brahman)? Upanishadic teaching is often presented as dialogue and inquiry. Rather than offering a single “belief”, it trains attention and discernment so a seeker can move from outer identity to inner truth. The Aitareya Upanishad explores creation and the entry of consciousness into embodied life. It is often read as a study of what makes a living being truly “alive”: not merely breath or motion, but awareness.",
+    "openGraph": {
+      "title": "Aitareya Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "description": "Overview of Aitareya Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "images": [
+        {
+          "alt": "Aitareya Upanishad – Upanishad Teachings in Sanātana Dharma",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/og/upanishads_aitareya_upanishad.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "url": "https://sanatanadharmam.in/upanishads/aitareya"
+    },
+    "philosophical_explanation": "Aitareya shifts focus from outer events to inner presence. When consciousness is recognized as primary, spiritual life becomes less about control and more about clarity—seeing what you already are.",
+    "scripture_text": [
+      {
+        "content": "Consciousness as central, the meaning of personhood, and the relationship between the inner Self and the faculties of life.",
+        "section": "Central themes"
+      },
+      {
+        "content": "The teaching invites you to notice what remains present through every changing experience: the witnessing awareness.",
+        "section": "Practice reflection"
+      }
+    ],
+    "schema": {
+      "description": "Overview of Aitareya Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Sanatanadharmam",
+        "url": "https://sanatanadharmam.in"
+      },
+      "name": "Aitareya Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "url": "https://sanatanadharmam.in/upanishads/aitareya"
+    }
+  }
+}

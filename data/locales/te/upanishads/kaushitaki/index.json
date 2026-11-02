@@ -1,0 +1,61 @@
+{
+  "kaushitaki": {
+    "title": "Kaushitaki Upanishad – Upanishad Teachings in Sanātana Dharma",
+    "description": "Overview of Kaushitaki Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+    "meta": {
+      "title": "Kaushitaki Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "description": "Overview of Kaushitaki Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "canonical": "https://sanatanadharmam.in/upanishads/kaushitaki",
+      "keywords": [
+        "Kaushitaki Upanishad",
+        "Upanishads",
+        "Vedanta",
+        "Atman",
+        "Brahman",
+        "Sanatana Dharma"
+      ],
+      "ogImage": "https://sanatanadharmam.in/og/upanishads_kaushitaki_upanishad.png",
+      "robots": "index, follow",
+      "url": "https://sanatanadharmam.in/upanishads/kaushitaki"
+    },
+    "introduction": "Kaushitaki Upanishad is one of the principal Upanishads—texts that explore the deepest questions of human life: Who am I? What is real? What is the Self (Atman) and the ultimate reality (Brahman)? Upanishadic teaching is often presented as dialogue and inquiry. Rather than offering a single “belief”, it trains attention and discernment so a seeker can move from outer identity to inner truth. The Kaushitaki Upanishad explores themes of life-breath, consciousness, and the inner basis of experience. It is often studied for its focus on the “inner ruler” perspective—what enables the faculties to operate.",
+    "openGraph": {
+      "title": "Kaushitaki Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "description": "Overview of Kaushitaki Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "images": [
+        {
+          "alt": "Kaushitaki Upanishad – Upanishad Teachings in Sanātana Dharma",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/og/upanishads_kaushitaki_upanishad.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "url": "https://sanatanadharmam.in/upanishads/kaushitaki"
+    },
+    "philosophical_explanation": "Kaushitaki teaches inwardness. When attention stabilizes at the source of experience, many anxieties lose their grip because they are seen as movements in mind—not the Self.",
+    "scripture_text": [
+      {
+        "content": "Prana and awareness, the unity behind mental functions, and spiritual maturation through disciplined understanding.",
+        "section": "Central themes"
+      },
+      {
+        "content": "Instead of chasing experiences, return to the experiencer: the steady fact of awareness.",
+        "section": "Practice reflection"
+      }
+    ],
+    "schema": {
+      "description": "Overview of Kaushitaki Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Sanatanadharmam",
+        "url": "https://sanatanadharmam.in"
+      },
+      "name": "Kaushitaki Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "url": "https://sanatanadharmam.in/upanishads/kaushitaki"
+    }
+  }
+}

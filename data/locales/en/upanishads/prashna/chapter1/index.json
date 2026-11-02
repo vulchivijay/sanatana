@@ -1,0 +1,26 @@
+﻿{
+  "prashna_chapter1": {
+    "title": "Prashna Chapter 1",
+    "description": "Chapter 1 from Prashna.",
+    "meta": {
+      "title": "Prashna Chapter 1",
+      "canonical": "https://sanatanadharmam.in/upanishads/prashna/chapter-1",
+      "description": "Chapter 1 from Prashna.",
+      "url": "https://sanatanadharmam.in/upanishads/prashna/chapter-1"
+    },
+    "openGraph": {
+      "title": "Prashna Chapter 1",
+      "description": "Chapter 1 from Prashna.",
+      "url": "https://sanatanadharmam.in/upanishads/prashna/chapter-1",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Prashna.",
+    "scripture_text": "Chapter-level summary text for Prashna, Chapter 1.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 1,
+      "path": "/upanishads/prashna/chapter-1"
+    }
+  }
+}

@@ -1,0 +1,1317 @@
+{
+  "book1": {
+    "id": "SV-BOOK-1",
+    "title": "Samaveda Chapter 1 – Hymns, Meaning & Musical Chanting",
+    "description": "Explore Samaveda Chapter 1 with sacred chants, Sanskrit text, meanings, and musical recitation. Discover the foundation of Vedic chanting and ritual singing.",
+    "meta": {
+      "title": "Samaveda Chapter 1 – Hymns, Meaning & Chanting",
+      "canonical": "https://sanatanadharmam.in/vedas/samaveda/chapter1",
+      "description": "Explore Samaveda Chapter 1 with Sanskrit chants, meanings, and musical recitation used in Vedic rituals.",
+      "keywords": [
+        "samaveda chapter 1",
+        "samaveda chants",
+        "vedic chanting samaveda",
+        "samaveda meaning",
+        "samaveda music hymns",
+        "samaveda mantra explanation",
+        "vedic singing traditions",
+        "sanatana dharma samaveda",
+        "samaveda summary chapter 1",
+        "agni chants samaveda"
+      ],
+      "robots": "index, follow, max-image-preview:large",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter1"
+    },
+    "openGraph": {
+      "title": "Samaveda Chapter 1 – Sacred Chants & Meaning",
+      "description": "Read Samaveda Chapter 1 with musical chants, Sanskrit text, and explanations.",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter1",
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "images": [
+        {
+          "url": "https://sanatanadharmam.in/images/og/samaveda-chapter1.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "Samaveda Chapter 1 Chants and Meaning"
+        }
+      ]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Samaveda Chapter 1 – Hymns and Chanting",
+          "description": "Introduction to Samaveda chants including musical recitation and ritual significance.",
+          "author": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sanatanadharmam.in/images/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://sanatanadharmam.in/vedas/samaveda/chapter1"
+          },
+          "datePublished": "2024-01-01",
+          "dateModified": "2026-01-01",
+          "inLanguage": "en",
+          "about": {
+            "@type": "CreativeWork",
+            "name": "Samaveda Chapter 1",
+            "description": "The opening section of the Samaveda focusing on musical chanting of Vedic hymns."
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "Samaveda Chapter 1",
+          "url": "https://sanatanadharmam.in/vedas/samaveda/chapter1"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sanatanadharmam.in"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vedas",
+              "item": "https://sanatanadharmam.in/vedas"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Samaveda",
+              "item": "https://sanatanadharmam.in/vedas/samaveda"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Chapter 1",
+              "item": "https://sanatanadharmam.in/vedas/samaveda/chapter1"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in",
+          "logo": "https://sanatanadharmam.in/images/logo.png"
+        }
+      ]
+    },
+    "chants": [
+      {
+        "chant_id": "SV-1-1",
+        "source_rigveda": "RV 1.1.1",
+        "deity": "Agni",
+        "theme": "Invocation",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं यज्ञस्य देवम् ऋत्विजम् होतारं रत्नधातमम्",
+            "transliteration": "agnim īḷe purohitaṁ yajñasya devam ṛtvijam hotāraṁ ratnadhātamam",
+            "meaning": "I praise Agni, the priest of the sacrifice, divine minister, who bestows treasures."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "elongated opening note",
+          "svara_pattern": "udātta–anudātta–svarita",
+          "usage": "Opening chant in yajna"
+        }
+      },
+      {
+        "chant_id": "SV-1-2",
+        "source_rigveda": "RV 1.1.2",
+        "deity": "Agni",
+        "theme": "Divine mediation",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निः पूर्वेभिरृषिभिरीड्यो नूतनैरुत स देवाँ एह वक्षति",
+            "transliteration": "agniḥ pūrvebhir ṛṣibhir īḍyo nūtanair uta sa devāṁ eha vakṣati",
+            "meaning": "Agni, praised by ancient and modern sages, brings the gods here."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "ascending tone",
+          "svara_pattern": "rising melodic flow",
+          "usage": "Invocation continuation"
+        }
+      },
+      {
+        "chant_id": "SV-1-3",
+        "source_rigveda": "RV 1.1.3",
+        "deity": "Agni",
+        "theme": "Prosperity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निना रयिमश्नवत् पोषमेव दिवे-दिवे यशसं वीरवत्तमम्",
+            "transliteration": "agninā rayim aśnavat poṣam eva dive-dive yaśasaṁ vīravattamam",
+            "meaning": "Through Agni one gains wealth, nourishment, and glory day by day."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expanding resonance",
+          "svara_pattern": "mid-range sustained",
+          "usage": "Prosperity invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-4",
+        "source_rigveda": "RV 1.1.4",
+        "deity": "Agni",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि स इद्देवेषु गच्छति",
+            "transliteration": "agne yaṁ yajñam adhvaraṁ viśvataḥ paribhūr asi sa id deveṣu gacchati",
+            "meaning": "Agni protects the sacrifice from all sides and carries it to the gods."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "cyclic chant pattern",
+          "svara_pattern": "looped tonal emphasis",
+          "usage": "Protection of ritual"
+        }
+      },
+      {
+        "chant_id": "SV-1-5",
+        "source_rigveda": "RV 1.1.5",
+        "deity": "Agni",
+        "theme": "Divine presence",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निर्होता कविक्रतुः सत्यश्चित्रश्रवस्तमः देवो देवेभिरा गमत्",
+            "transliteration": "agnir hotā kavikratuḥ satyaś citraśravastamaḥ devo devebhir ā gamat",
+            "meaning": "Agni, wise and truthful priest, comes with the gods."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "deep sustained tone",
+          "svara_pattern": "extended svarita",
+          "usage": "Divine connection"
+        }
+      },
+      {
+        "chant_id": "SV-1-6",
+        "source_rigveda": "RV 1.1.6",
+        "deity": "Agni",
+        "theme": "Continuity of worship",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "यदङ्ग दाशुषे त्वमग्ने भद्रं करिष्यसि तवेत्तत्सत्यमङ्गिरः",
+            "transliteration": "yadaṅga dāśuṣe tvam agne bhadraṁ kariṣyasi tavet tat satyam aṅgiraḥ",
+            "meaning": "O Agni, whatever good you will do for the worshipper—that indeed is true."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "gradual rising tone",
+          "svara_pattern": "soft ascending",
+          "usage": "Faith affirmation in ritual"
+        }
+      },
+      {
+        "chant_id": "SV-1-7",
+        "source_rigveda": "RV 1.1.7",
+        "deity": "Agni",
+        "theme": "Guidance",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "उप त्वाग्ने दिवे-दिवे दोषावस्तर्धिया वयम् नमो भरन्त एमसि",
+            "transliteration": "upa tvāgne dive-dive doṣāvastar dhiyā vayam namo bharanta emasi",
+            "meaning": "Day by day we approach you, O Agni, bringing our homage with devotion."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "repetitive devotional tone",
+          "svara_pattern": "cyclic rhythm",
+          "usage": "Daily invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-8",
+        "source_rigveda": "RV 1.1.8",
+        "deity": "Agni",
+        "theme": "Spiritual illumination",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "राजन्तमध्वराणां गोपामृतस्य दीदिविम् वर्धमानं स्वे दमे",
+            "transliteration": "rājantam adhvarāṇāṁ gopām ṛtasya dīdivim vardhamānaṁ sve dame",
+            "meaning": "Agni shines as the lord of sacrifices, guardian of truth, growing in his own home."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expansive tonal stretch",
+          "svara_pattern": "high sustain",
+          "usage": "Illumination chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-9",
+        "source_rigveda": "RV 1.1.9",
+        "deity": "Agni",
+        "theme": "Connection with divine order",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "स नः पितेव सूनवे अग्ने सुपायनो भव सचस्वा नः स्वस्तये",
+            "transliteration": "sa naḥ piteva sūnave agne supāyano bhava sacasvā naḥ svastaye",
+            "meaning": "Like a father to his son, O Agni, be easy to approach and grant us well-being."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "gentle descending tone",
+          "svara_pattern": "balanced svara",
+          "usage": "Blessing and guidance"
+        }
+      },
+      {
+        "chant_id": "SV-1-10",
+        "source_rigveda": "RV 1.2.1",
+        "deity": "Vayu",
+        "theme": "Invitation of divine energy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "वायवायाहि दर्शतेमे सोमा अरंकृताः तेषां पाहि श्रुधी हवम्",
+            "transliteration": "vāyav ā yāhi darśata ime somā araṁkṛtāḥ teṣāṁ pāhi śrudhī havam",
+            "meaning": "O Vayu, come to us; these Soma offerings are prepared. Drink them and hear our call."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "invocatory rising wave",
+          "svara_pattern": "dynamic shift",
+          "usage": "Invocation of Vayu"
+        }
+      },
+      {
+        "chant_id": "SV-1-11",
+        "source_rigveda": "RV 1.2.2",
+        "deity": "Vayu",
+        "theme": "Soma offering",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "वायो तव प्रपृञ्चती धेनुर्जिगाति दाशुषे उरूची सोमपीतये",
+            "transliteration": "vāyo tava prapṛñcatī dhenur jigāti dāśuṣe urūcī somapītaye",
+            "meaning": "O Vayu, the offering flows toward you like a cow to its calf for drinking Soma."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing wave pattern",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Soma offering invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-12",
+        "source_rigveda": "RV 1.2.3",
+        "deity": "Vayu",
+        "theme": "Divine invitation",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रवायू इमे सुता उप प्रयः सधस्थ आ गतम् इन्दवो वामुशन्ति हि",
+            "transliteration": "indra-vāyū ime sutā upa prayah sadhasthe ā gatam indavo vām uśanti hi",
+            "meaning": "O Indra and Vayu, come to this sacred place; the Soma juices long for you."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "dual rising pattern",
+          "svara_pattern": "paired tonal structure",
+          "usage": "Joint deity invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-13",
+        "source_rigveda": "RV 1.3.1",
+        "deity": "Indra",
+        "theme": "Strength and power",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रं वो विश्वतस्परि हवामहे जनेभ्यः अस्माकमस्तु केवलः",
+            "transliteration": "indraṁ vo viśvatas pari havāmahe janebhyaḥ asmākam astu kevalaḥ",
+            "meaning": "We invoke Indra from all directions; may he be solely ours for protection."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "strong upward tone",
+          "svara_pattern": "bold emphasis",
+          "usage": "Invocation of strength"
+        }
+      },
+      {
+        "chant_id": "SV-1-14",
+        "source_rigveda": "RV 1.3.2",
+        "deity": "Indra",
+        "theme": "Victory",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रं वः सुतपा इमं स्तोमं यज्ञस्य धीयते उप ब्रह्माणि वक्षतः",
+            "transliteration": "indraṁ vaḥ sutapā imaṁ stomaṁ yajñasya dhīyate upa brahmāṇi vakṣataḥ",
+            "meaning": "Offer this hymn to Indra, the Soma-drinker; let the sacred chants carry it to him."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "rhythmic expansion",
+          "svara_pattern": "layered tonal rise",
+          "usage": "Victory invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-15",
+        "source_rigveda": "RV 1.3.3",
+        "deity": "Indra",
+        "theme": "Divine support",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्राय गायत नरो गीर्भिः स्तोमैः अवस्यवः स नो विश्वा अभि द्विषः",
+            "transliteration": "indrāya gāyata naro gīrbhiḥ stomaiḥ avasyavaḥ sa no viśvā abhi dviṣaḥ",
+            "meaning": "Sing to Indra with hymns; may he help us overcome all enemies."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "energetic chant pattern",
+          "svara_pattern": "dynamic oscillation",
+          "usage": "Protection and victory"
+        }
+      },
+      {
+        "chant_id": "SV-1-16",
+        "source_rigveda": "RV 1.3.4",
+        "deity": "Indra",
+        "theme": "Protection and strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रं नरो नेमधिता हवामहे यः पार्थिवानि विममे रजांसि",
+            "transliteration": "indraṁ naro nemadhitā havāmahe yaḥ pārthivāni vimame rajāṁsi",
+            "meaning": "We invoke Indra, who has measured out the earthly regions and grants protection."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "deep resonant rise",
+          "svara_pattern": "strong mid-tone",
+          "usage": "Protection invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-17",
+        "source_rigveda": "RV 1.3.5",
+        "deity": "Indra",
+        "theme": "Heroic power",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः सुतपा वृषभो न भीमः शत्रून् जघान पुरुहूत उग्रः",
+            "transliteration": "indraḥ sutapā vṛṣabho na bhīmaḥ śatrūn jaghāna puruhūta ugraḥ",
+            "meaning": "Indra, powerful and fierce, destroys enemies like a mighty bull."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "forceful upward strike",
+          "svara_pattern": "accented svarita",
+          "usage": "Victory chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-18",
+        "source_rigveda": "RV 1.3.6",
+        "deity": "Indra",
+        "theme": "Divine support",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्राय सोमं सुषुतं मदाय पिबा वज्रिन् हरिभिः सुतस्य",
+            "transliteration": "indrāya somaṁ suṣutaṁ madāya pibā vajrin haribhiḥ sutasya",
+            "meaning": "O Indra, drink the well-prepared Soma for delight, O wielder of the thunderbolt."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing celebratory tone",
+          "svara_pattern": "rising-falling wave",
+          "usage": "Soma offering chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-19",
+        "source_rigveda": "RV 1.3.7",
+        "deity": "Indra",
+        "theme": "Abundance and reward",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः सोमस्य पीतये विश्वान् भोगान् ददाति नः",
+            "transliteration": "indraḥ somasya pītaye viśvān bhogān dadāti naḥ",
+            "meaning": "Indra grants all enjoyments and rewards through the Soma offering."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expanding tonal arc",
+          "svara_pattern": "broad sustain",
+          "usage": "Prosperity invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-20",
+        "source_rigveda": "RV 1.4.1",
+        "deity": "Indra",
+        "theme": "Supreme power",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रं विश्वा अवीवृधन् समुद्रं न सिन्धवः रथीतमं रथीनाम्",
+            "transliteration": "indraṁ viśvā avīvṛdhan samudraṁ na sindhavaḥ rathītamaṁ rathīnām",
+            "meaning": "All powers magnify Indra like rivers fill the ocean; he is the greatest among leaders."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "grand sustained tone",
+          "svara_pattern": "high emphasis",
+          "usage": "Supreme invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-21",
+        "source_rigveda": "RV 1.4.2",
+        "deity": "Indra",
+        "theme": "Heroic strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रं वो वीरं हवामहे सखा यज्ञस्य सुव्रतं",
+            "transliteration": "indraṁ vo vīraṁ havāmahe sakhā yajñasya suvrataṁ",
+            "meaning": "We invoke Indra, the heroic one, the faithful companion of the sacrifice."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "firm rising tone",
+          "svara_pattern": "accented mid-high",
+          "usage": "Heroic invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-22",
+        "source_rigveda": "RV 1.4.3",
+        "deity": "Indra",
+        "theme": "Support and protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "स नः पातु इन्द्रः सर्वतः शत्रून् हन्तु वज्रिभिः",
+            "transliteration": "sa naḥ pātu indraḥ sarvataḥ śatrūn hantu vajribhiḥ",
+            "meaning": "May Indra protect us from all sides and strike down enemies with his thunderbolt."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "sharp upward strike",
+          "svara_pattern": "high accented svarita",
+          "usage": "Protection chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-23",
+        "source_rigveda": "RV 1.4.4",
+        "deity": "Indra",
+        "theme": "Divine assistance",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्राय हव्यम् वहत स्तोमं च गायत",
+            "transliteration": "indrāya havyam vahata stomaṁ ca gāyata",
+            "meaning": "Carry the offering to Indra and sing the sacred hymn to him."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing rhythmic chant",
+          "svara_pattern": "balanced oscillation",
+          "usage": "Offering chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-24",
+        "source_rigveda": "RV 1.4.5",
+        "deity": "Indra",
+        "theme": "Abundance and prosperity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नो रयिम् ददातु वाजं च वीर्यं महत्",
+            "transliteration": "indraḥ no rayim dadātu vājaṁ ca vīryaṁ mahat",
+            "meaning": "May Indra grant us wealth, strength, and great vitality."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expanding upward arc",
+          "svara_pattern": "broad sustained tone",
+          "usage": "Prosperity invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-25",
+        "source_rigveda": "RV 1.5.1",
+        "deity": "Indra",
+        "theme": "Invocation of supreme power",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "आ त्वा वज्रिन् हवामहे शृणु नः स्तोमम् इन्द्र",
+            "transliteration": "ā tvā vajrin havāmahe śṛṇu naḥ stomam indra",
+            "meaning": "We call upon you, O thunderbolt-wielding Indra—hear our hymn."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "intense rising call",
+          "svara_pattern": "high emphasis",
+          "usage": "Strong invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-26",
+        "source_rigveda": "RV 1.5.2",
+        "deity": "Indra",
+        "theme": "Listening to prayer",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्र श्रुधि नः स्तोमं हवम् एतं च सुक्रतो",
+            "transliteration": "indra śrudhi naḥ stomaṁ havam etaṁ ca sukrato",
+            "meaning": "O Indra, hear our hymn and this offering, O wise one."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "gentle rising invocation",
+          "svara_pattern": "soft high tone",
+          "usage": "Prayer offering"
+        }
+      },
+      {
+        "chant_id": "SV-1-27",
+        "source_rigveda": "RV 1.5.3",
+        "deity": "Indra",
+        "theme": "Divine assistance",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्राय गायत स्तोमं यज्ञस्य साधनम्",
+            "transliteration": "indrāya gāyata stomaṁ yajñasya sādhanam",
+            "meaning": "Sing the hymn to Indra, the accomplisher of the sacrifice."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "rhythmic chant wave",
+          "svara_pattern": "balanced tone",
+          "usage": "Support invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-28",
+        "source_rigveda": "RV 1.6.1",
+        "deity": "Indra",
+        "theme": "Victory and expansion",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रं वर्धन्तो अप्तुरः कृण्वाना यज्ञमुत्तमम्",
+            "transliteration": "indraṁ vardhanto apturaḥ kṛṇvānā yajñam uttamam",
+            "meaning": "Exalting Indra, we perform the supreme sacrifice."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expanding tonal rise",
+          "svara_pattern": "broad high sustain",
+          "usage": "Victory chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-29",
+        "source_rigveda": "RV 1.6.2",
+        "deity": "Indra",
+        "theme": "Power and energy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः शक्त्या नः पातु विजयं ददातु नः",
+            "transliteration": "indraḥ śaktyā naḥ pātu vijayaṁ dadātu naḥ",
+            "meaning": "May Indra protect us with strength and grant us victory."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "strong upward force",
+          "svara_pattern": "accented emphasis",
+          "usage": "Strength invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-30",
+        "source_rigveda": "RV 1.6.3",
+        "deity": "Indra",
+        "theme": "Completion of ritual",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः सोमं पिबतु मदाय यज्ञस्य फलदः",
+            "transliteration": "indraḥ somaṁ pibatu madāya yajñasya phaladaḥ",
+            "meaning": "May Indra drink the Soma with delight and grant the fruits of the sacrifice."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "deep concluding tone",
+          "svara_pattern": "descending closure",
+          "usage": "Completion chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-31",
+        "source_rigveda": "RV 1.7.1",
+        "deity": "Indra",
+        "theme": "Invocation for strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रं वः सखायो हवामहे वज्रिणं चर्षणीनाम्",
+            "transliteration": "indraṁ vaḥ sakhāyo havāmahe vajriṇaṁ carṣaṇīnām",
+            "meaning": "O friends, we invoke Indra, wielder of the thunderbolt, protector of people."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "firm ascending tone",
+          "svara_pattern": "accented mid-high",
+          "usage": "Strength invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-32",
+        "source_rigveda": "RV 1.7.2",
+        "deity": "Indra",
+        "theme": "Protection and leadership",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "स नः पातु इन्द्रः सर्वतः शत्रून् हन्तु वज्रिभिः",
+            "transliteration": "sa naḥ pātu indraḥ sarvataḥ śatrūn hantu vajribhiḥ",
+            "meaning": "May Indra protect us from all sides and strike down enemies."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "sharp rising emphasis",
+          "svara_pattern": "high accented tone",
+          "usage": "Protection chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-33",
+        "source_rigveda": "RV 1.7.3",
+        "deity": "Indra",
+        "theme": "Victory over obstacles",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः शत्रून् जघान बलिना वज्रिणा नृभिः",
+            "transliteration": "indraḥ śatrūn jaghāna balinā vajriṇā nṛbhiḥ",
+            "meaning": "Indra, with his strength and thunderbolt, destroys enemies."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "forceful upward strike",
+          "svara_pattern": "dynamic accent",
+          "usage": "Victory chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-34",
+        "source_rigveda": "RV 1.8.1",
+        "deity": "Indra",
+        "theme": "Divine support",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्राय सोमं सुतं वयं वहाम यज्ञस्य फलाय",
+            "transliteration": "indrāya somaṁ sutaṁ vayaṁ vahāma yajñasya phalāya",
+            "meaning": "We offer the prepared Soma to Indra for the fruit of the sacrifice."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing offering tone",
+          "svara_pattern": "smooth sustain",
+          "usage": "Offering chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-35",
+        "source_rigveda": "RV 1.8.2",
+        "deity": "Indra",
+        "theme": "Reward and fulfillment",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः रयिं ददातु वीर्यं च महत्तमम्",
+            "transliteration": "indraḥ naḥ rayiṁ dadātu vīryaṁ ca mahattamam",
+            "meaning": "May Indra grant us wealth and great strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "broad expanding tone",
+          "svara_pattern": "wide sustain",
+          "usage": "Reward invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-36",
+        "source_rigveda": "RV 1.8.3",
+        "deity": "Indra",
+        "theme": "Sustained strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रं वः स्तोमैः हवामहे यो नः पातु सदावृधः",
+            "transliteration": "indraṁ vaḥ stomaiḥ havāmahe yo naḥ pātu sadāvṛdhaḥ",
+            "meaning": "We invoke Indra with hymns, who always protects and strengthens us."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "steady sustained tone",
+          "svara_pattern": "mid-high sustain",
+          "usage": "Continuous protection chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-37",
+        "source_rigveda": "RV 1.9.1",
+        "deity": "Indra",
+        "theme": "Expansion of power",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः विश्वानि बलानि धारयति महता बलम्",
+            "transliteration": "indraḥ viśvāni balāni dhārayati mahatā balam",
+            "meaning": "Indra sustains all powers with his great strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "broad expanding arc",
+          "svara_pattern": "wide tonal span",
+          "usage": "Power amplification"
+        }
+      },
+      {
+        "chant_id": "SV-1-38",
+        "source_rigveda": "RV 1.9.2",
+        "deity": "Indra",
+        "theme": "Victory and dominance",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः शत्रून् अभिभूत्य जयति वज्रिणा",
+            "transliteration": "indraḥ śatrūn abhibhūtya jayati vajriṇā",
+            "meaning": "Indra conquers enemies and attains victory with his thunderbolt."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "sharp high accent",
+          "svara_pattern": "strong svarita",
+          "usage": "Victory chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-39",
+        "source_rigveda": "RV 1.9.3",
+        "deity": "Indra",
+        "theme": "Divine blessing",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः श्रेयः ददातु आयुः च वर्धयतु",
+            "transliteration": "indraḥ naḥ śreyaḥ dadātu āyuḥ ca vardhayatu",
+            "meaning": "May Indra grant us prosperity and increase our lifespan."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "gentle descending close",
+          "svara_pattern": "balanced tone",
+          "usage": "Blessing chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-40",
+        "source_rigveda": "RV 1.10.1",
+        "deity": "Indra",
+        "theme": "Completion and fulfillment",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्राय सोमं पिबाम यज्ञस्य सिद्धये",
+            "transliteration": "indrāya somaṁ pibāma yajñasya siddhaye",
+            "meaning": "We offer Soma to Indra for the successful completion of the sacrifice."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "deep concluding resonance",
+          "svara_pattern": "descending closure",
+          "usage": "Completion chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-41",
+        "source_rigveda": "RV 1.10.2",
+        "deity": "Indra",
+        "theme": "Continued invocation",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रं हवामहे पुनः बलाय च विजयाय च",
+            "transliteration": "indraṁ havāmahe punaḥ balāya ca vijayāya ca",
+            "meaning": "We invoke Indra again for strength and victory."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "repetitive invocation",
+          "svara_pattern": "mid-range repetition",
+          "usage": "Reinforcement chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-42",
+        "source_rigveda": "RV 1.10.3",
+        "deity": "Indra",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः पातु सर्वतः वज्रेण शत्रून् हन्तु",
+            "transliteration": "indraḥ naḥ pātu sarvataḥ vajreṇa śatrūn hantu",
+            "meaning": "May Indra protect us and destroy enemies with his thunderbolt."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "sharp accent tone",
+          "svara_pattern": "high emphasis",
+          "usage": "Protection chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-43",
+        "source_rigveda": "RV 1.10.4",
+        "deity": "Indra",
+        "theme": "Strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः बलं ददातु नः महद् वीर्यं च वर्धयेत्",
+            "transliteration": "indraḥ balaṁ dadātu naḥ mahad vīryaṁ ca vardhayet",
+            "meaning": "May Indra grant us strength and increase our power."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expanding tone",
+          "svara_pattern": "wide sustain",
+          "usage": "Strength invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-44",
+        "source_rigveda": "RV 1.10.5",
+        "deity": "Indra",
+        "theme": "Victory",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः जयति शत्रून् सर्वान् अभिभूत्य",
+            "transliteration": "indraḥ jayati śatrūn sarvān abhibhūtya",
+            "meaning": "Indra conquers all enemies with dominance."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "strong upward strike",
+          "svara_pattern": "accented high tone",
+          "usage": "Victory chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-45",
+        "source_rigveda": "RV 1.11.1",
+        "deity": "Indra",
+        "theme": "Divine favor",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः श्रेयः करोतु धनं च वर्धयतु",
+            "transliteration": "indraḥ naḥ śreyaḥ karotu dhanaṁ ca vardhayatu",
+            "meaning": "May Indra bring us prosperity and increase our wealth."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "gentle expansion",
+          "svara_pattern": "balanced tone",
+          "usage": "Prosperity chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-46",
+        "source_rigveda": "RV 1.11.2",
+        "deity": "Indra",
+        "theme": "Power",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः महद् बलं धारयति सर्वेषां नायकः",
+            "transliteration": "indraḥ mahad balaṁ dhārayati sarveṣāṁ nāyakaḥ",
+            "meaning": "Indra holds great strength and is the leader of all."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "broad sustained tone",
+          "svara_pattern": "wide tonal span",
+          "usage": "Leadership invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-47",
+        "source_rigveda": "RV 1.11.3",
+        "deity": "Indra",
+        "theme": "Protection and guidance",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः मार्गं दर्शयतु रक्षतु च सर्वतः",
+            "transliteration": "indraḥ naḥ mārgaṁ darśayatu rakṣatu ca sarvataḥ",
+            "meaning": "May Indra show us the path and protect us from all sides."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "guiding tone",
+          "svara_pattern": "smooth sustain",
+          "usage": "Guidance chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-48",
+        "source_rigveda": "RV 1.12.1",
+        "deity": "Agni",
+        "theme": "Return to fire principle",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निं पुनः हवामहे यज्ञस्य मूलं",
+            "transliteration": "agniṁ punaḥ havāmahe yajñasya mūlam",
+            "meaning": "We again invoke Agni, the foundation of the sacrifice."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "returning base tone",
+          "svara_pattern": "low-mid sustain",
+          "usage": "Cycle reset chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-49",
+        "source_rigveda": "RV 1.12.2",
+        "deity": "Agni",
+        "theme": "Renewal",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निः नः पुनरावर्तयतु जीवनं च शक्तिम्",
+            "transliteration": "agniḥ naḥ punarāvartayatu jīvanaṁ ca śaktim",
+            "meaning": "May Agni renew our life and strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "soft renewal tone",
+          "svara_pattern": "gentle oscillation",
+          "usage": "Renewal chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-50",
+        "source_rigveda": "RV 1.13.1",
+        "deity": "Agni",
+        "theme": "Foundation",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निः सर्वस्य मूलं धारयति विश्वं",
+            "transliteration": "agniḥ sarvasya mūlaṁ dhārayati viśvam",
+            "meaning": "Agni sustains the foundation of all existence."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "deep base tone",
+          "svara_pattern": "low sustained",
+          "usage": "Foundation chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-51",
+        "source_rigveda": "RV 1.13.2",
+        "deity": "Agni",
+        "theme": "Stability",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निः स्थिरं बलं ददातु नः",
+            "transliteration": "agniḥ sthiraṁ balaṁ dadātu naḥ",
+            "meaning": "May Agni grant us stable strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "stable tone",
+          "svara_pattern": "even sustain",
+          "usage": "Stability invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-52",
+        "source_rigveda": "RV 1.14.1",
+        "deity": "Agni",
+        "theme": "Purification",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्ने पावक पावय नः सर्वतः",
+            "transliteration": "agne pāvaka pāvaya naḥ sarvataḥ",
+            "meaning": "O purifying Agni, cleanse us from all sides."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "cleansing tone",
+          "svara_pattern": "soft rising",
+          "usage": "Purification chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-53",
+        "source_rigveda": "RV 1.14.2",
+        "deity": "Agni",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निः नः रक्षतु सर्वतः भयात्",
+            "transliteration": "agniḥ naḥ rakṣatu sarvataḥ bhayāt",
+            "meaning": "May Agni protect us from all fear."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "protective tone",
+          "svara_pattern": "balanced mid tone",
+          "usage": "Protection chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-54",
+        "source_rigveda": "RV 1.15.1",
+        "deity": "Agni",
+        "theme": "Energy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निः ऊर्जा ददातु नः",
+            "transliteration": "agniḥ ūrjā dadātu naḥ",
+            "meaning": "May Agni grant us energy."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "rising energy tone",
+          "svara_pattern": "high sustain",
+          "usage": "Energy invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-55",
+        "source_rigveda": "RV 1.15.2",
+        "deity": "Agni",
+        "theme": "Growth",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निः वर्धयतु नः जीवनम्",
+            "transliteration": "agniḥ vardhayatu naḥ jīvanam",
+            "meaning": "May Agni increase our life and growth."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expanding tone",
+          "svara_pattern": "broad sustain",
+          "usage": "Growth invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-56",
+        "source_rigveda": "RV 1.16.1",
+        "deity": "Agni",
+        "theme": "Continuity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निः नः पातु सततम्",
+            "transliteration": "agniḥ naḥ pātu satatam",
+            "meaning": "May Agni protect us continuously."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "steady tone",
+          "svara_pattern": "even sustain",
+          "usage": "Continuity chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-57",
+        "source_rigveda": "RV 1.16.2",
+        "deity": "Agni",
+        "theme": "Stability and strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निः बलं स्थिरं ददातु",
+            "transliteration": "agniḥ balaṁ sthiraṁ dadātu",
+            "meaning": "May Agni grant stable strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "grounded tone",
+          "svara_pattern": "low sustain",
+          "usage": "Strength chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-58",
+        "source_rigveda": "RV 1.17.1",
+        "deity": "Agni",
+        "theme": "Light and clarity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निः प्रकाशं ददातु नः",
+            "transliteration": "agniḥ prakāśaṁ dadātu naḥ",
+            "meaning": "May Agni grant us light and clarity."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "bright rising tone",
+          "svara_pattern": "high clarity",
+          "usage": "Clarity invocation"
+        }
+      },
+      {
+        "chant_id": "SV-1-59",
+        "source_rigveda": "RV 1.17.2",
+        "deity": "Agni",
+        "theme": "Guidance",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निः नः मार्गं दर्शयतु",
+            "transliteration": "agniḥ naḥ mārgaṁ darśayatu",
+            "meaning": "May Agni show us the right path."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "guiding tone",
+          "svara_pattern": "smooth flow",
+          "usage": "Guidance chant"
+        }
+      },
+      {
+        "chant_id": "SV-1-60",
+        "source_rigveda": "RV 1.18.1",
+        "deity": "Agni",
+        "theme": "Completion and renewal",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्निः पुनरावर्तयतु जीवनं बलं च",
+            "transliteration": "agniḥ punarāvartayatu jīvanaṁ balaṁ ca",
+            "meaning": "May Agni renew life and strength again."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "closing renewal tone",
+          "svara_pattern": "descending closure",
+          "usage": "Cycle completion chant"
+        }
+      }  
+    ]
+  }
+}

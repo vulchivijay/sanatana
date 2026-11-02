@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/0us5mt~gd.-s-.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap","style"]
+:HL["/images/home/mobile-hero.png","image",{"fetchPriority":"high","imageSrcSet":"/images/home/hero.png 1024w, /images/home/mobile-hero.png 768w","imageSizes":"(min-width: 1024px) 50vw, 100vw"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"vedas","param":null,"prefetchHints":0,"slots":{"children":{"name":"veda","param":{"type":"d","key":"rigveda","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"madala2","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"xfePoExOHsLirLS82-AAn"}

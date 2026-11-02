@@ -1,0 +1,215 @@
+{
+  "vedic_philosophy": {
+    "title": "Vedic Science and Knowledge Traditions",
+    "description": "Explore Metallurgy in the Vedic knowledge traditions: historical context, core ideas, and how these disciplines connect to dharma and learning.",
+    "meta": {
+      "title": "Vedic Science and Knowledge Traditions",
+      "description": "Explore Vedic knowledge traditions: historical context, core ideas, and how these disciplines connect to dharma and learning.",
+      "canonical": "https://sanatanadharmam.in/vedic-philosophy",
+      "keywords": [
+        "Metallurgy",
+        "Vedic science",
+        "Sanatana Dharma",
+        "knowledge traditions"
+      ],
+      "ogImage": "https://sanatanadharmam.in/og/vedic_philosophy.png",
+      "robots": "index, follow",
+      "url": "https://sanatanadharmam.in/vedic-philosophy"
+    },
+    "openGraph": {
+      "title": "Vedic Science and Knowledge Traditions",
+      "description": "Explore Vedic knowledge traditions: historical context, core ideas, and how these disciplines connect to dharma and learning.",
+      "images": [
+        {
+          "alt": "Vedic Science and Knowledge Traditions",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/og/vedic_philosophy.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "url": "https://sanatanadharmam.in/vedic-philosophy"
+    },
+    "schema": {
+      "description": "Explore Metallurgy in the Vedic knowledge traditions: historical context, core ideas, and how these disciplines connect to dharma and learning.",
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Sanatanadharmam",
+        "url": "https://sanatanadharmam.in"
+      },
+      "name": "Metallurgy – Vedic Science and Knowledge Traditions",
+      "url": "https://sanatanadharmam.in/vedic-philosophy/"
+    },
+    "philosophical_explanation": "A philosophical lens on metallurgy is transformation: raw material becomes refined through heat, patience, and skill. This mirrors many spiritual metaphors—discipline as the fire that purifies intention and turns potential into clarity.",
+    "scripture_text": [
+      {
+        "content": "Includes Dharma, Karma, Moksha, Samsara, Purushartha, Advaita, Bhakti, and Yoga with generated deep subtopic pages.",
+        "section": "Scope"
+      },
+      {
+        "content": "Each top-level topic contains dedicated subtopic pages to enable clean, deep route mapping and future content replacement.",
+        "section": "Navigation Model"
+      }
+    ],
+    "meaning": "Vedic philosophy is the system of knowledge that explains life, the universe, and the true nature of the self based on the Vedas.",
+    "introduction": "Vedic philosophy is a way of understanding reality, not just a belief system. It explores who we are, why we exist, and how we can live a meaningful life. It connects outer life (actions, duties) with inner life (mind, consciousness, self-realization).",
+    "core_purpose": [
+      "To understand the true nature of reality",
+      "To discover the inner self (Atman)",
+      "To explain the ultimate truth (Brahman)",
+      "To guide life through dharma (right living)",
+      "To achieve freedom from suffering (Moksha)"
+    ],
+    "fundamental_principles": [
+      {
+        "principle": "Brahman (Ultimate Reality)",
+        "explanation": "The infinite, unchanging reality behind everything in the universe.",
+        "deep_understanding": [
+          "Everything comes from Brahman and exists within it",
+          "It is beyond form, time, and space",
+          "It is pure existence, knowledge, and bliss"
+        ]
+      },
+      {
+        "principle": "Atman (Self)",
+        "explanation": "The true self within each person, beyond body and mind.",
+        "deep_understanding": [
+          "It is eternal and never changes",
+          "It is not affected by physical or mental conditions",
+          "Realizing Atman leads to freedom"
+        ]
+      },
+      {
+        "principle": "Atman = Brahman",
+        "explanation": "The inner self and the universal reality are one.",
+        "deep_understanding": [
+          "There is no real separation between you and the universe",
+          "This realization removes fear and ignorance",
+          "It is the highest knowledge"
+        ]
+      },
+      {
+        "principle": "Dharma (Right Living)",
+        "explanation": "Living in harmony with truth, responsibility, and natural order.",
+        "deep_understanding": [
+          "Depends on your role and situation",
+          "Maintains balance in life and society",
+          "Guides ethical decision-making"
+        ]
+      },
+      {
+        "principle": "Karma (Action and Result)",
+        "explanation": "Every action creates a result that affects your life.",
+        "deep_understanding": [
+          "Actions shape your present and future",
+          "Intentions also matter",
+          "You are responsible for your life outcomes"
+        ]
+      },
+      {
+        "principle": "Samsara (Cycle of Life)",
+        "explanation": "The cycle of birth, death, and rebirth.",
+        "deep_understanding": [
+          "Driven by karma and desires",
+          "Repeats until true knowledge is gained",
+          "Not permanent, can be transcended"
+        ]
+      },
+      {
+        "principle": "Moksha (Liberation)",
+        "explanation": "Freedom from the cycle of life and suffering.",
+        "deep_understanding": [
+          "Achieved through self-realization",
+          "Ends ignorance and attachment",
+          "Leads to permanent peace"
+        ]
+      }
+    ],
+    "paths_of_spiritual_growth": [
+      {
+        "path": "Jnana Yoga (Path of Knowledge)",
+        "explanation": "Understanding truth through learning and self-inquiry.",
+        "deep_understanding": [
+          "Focus on questioning and reasoning",
+          "Seeks direct realization of truth",
+          "Requires deep thinking and awareness"
+        ]
+      },
+      {
+        "path": "Karma Yoga (Path of Action)",
+        "explanation": "Performing actions without attachment to results.",
+        "deep_understanding": [
+          "Focus on duty, not outcome",
+          "Reduces ego and selfishness",
+          "Turns daily work into spiritual practice"
+        ]
+      },
+      {
+        "path": "Bhakti Yoga (Path of Devotion)",
+        "explanation": "Developing love and devotion toward the divine.",
+        "deep_understanding": [
+          "Emotional connection with God",
+          "Builds faith and surrender",
+          "Simple and accessible for everyone"
+        ]
+      },
+      {
+        "path": "Raja Yoga (Path of Meditation)",
+        "explanation": "Controlling the mind through meditation and discipline.",
+        "deep_understanding": [
+          "Focus on inner awareness",
+          "Calms the mind and emotions",
+          "Leads to direct experience of self"
+        ]
+      }
+    ],
+    "key_concepts": [
+      {
+        "concept": "Rta (Cosmic Order)",
+        "explanation": "The natural law that keeps the universe balanced.",
+        "deep_understanding": [
+          "Everything follows a natural order",
+          "Living in alignment brings harmony",
+          "Ignoring it leads to imbalance"
+        ]
+      },
+      {
+        "concept": "Avidya (Ignorance)",
+        "explanation": "Lack of knowledge about the true self.",
+        "deep_understanding": [
+          "Root cause of suffering",
+          "Creates false identity",
+          "Removed through knowledge"
+        ]
+      },
+      {
+        "concept": "Yoga (Union)",
+        "explanation": "Union of individual self with universal reality.",
+        "deep_understanding": [
+          "Not just physical exercise",
+          "A complete system of inner growth",
+          "Leads to self-realization"
+        ]
+      }
+    ],
+    "learning_approach": [
+      "Start with understanding basic concepts like Atman and Dharma",
+      "Observe your thoughts and actions daily",
+      "Practice mindfulness and self-awareness",
+      "Apply teachings in real-life situations",
+      "Gradually move toward deeper understanding"
+    ],
+    "modern_relevance": [
+      "Helps reduce stress and anxiety through self-awareness",
+      "Improves decision-making and clarity",
+      "Encourages balanced life between material and spiritual goals",
+      "Builds inner strength and emotional stability",
+      "Provides purpose and direction in life"
+    ],
+    "total_subtopic_pages": 700,
+    "total_topics": 8
+  }
+}

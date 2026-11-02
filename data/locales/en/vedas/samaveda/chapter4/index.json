@@ -1,0 +1,1353 @@
+{
+  "book4": {
+    "id": "SV-BOOK-4",
+    "title": "Samaveda Chapter 4 – Soma Chants, Meaning & Translation",
+    "description": "Explore Samaveda Chapter 4 with sacred Soma chants, including Sanskrit text, meanings, and musical recitation. Discover the importance of Soma in Vedic rituals and spiritual symbolism.",
+    "meta": {
+      "title": "Samaveda Chapter 4 – Soma Chants, Meaning & Translation",
+      "canonical": "https://sanatanadharmam.in/vedas/samaveda/chapter4",
+      "description": "Explore Samaveda Chapter 4 with Soma chants, Sanskrit text, meanings, and musical recitation used in Vedic rituals.",
+      "keywords": [
+        "samaveda chapter 4",
+        "soma chants samaveda",
+        "soma pavamana samaveda",
+        "vedic soma hymns",
+        "samaveda soma meaning",
+        "soma ritual chants",
+        "rigveda soma connection",
+        "samaveda mantra explanation",
+        "sanatana dharma samaveda",
+        "samaveda chapter 4 summary"
+      ],
+      "robots": "index, follow, max-image-preview:large",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter4"
+    },
+    "openGraph": {
+      "title": "Samaveda Chapter 4 – Soma Chants & Meaning",
+      "description": "Read Samaveda Chapter 4 with sacred Soma chants, Sanskrit text, and explanations.",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter4",
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "images": [
+        {
+          "url": "https://sanatanadharmam.in/images/og/samaveda-chapter4.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "Samaveda Chapter 4 Soma Chants and Meaning"
+        }
+      ]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Samaveda Chapter 4 – Soma Chants and Meaning",
+          "description": "Detailed presentation of Samaveda Chapter 4 including Soma chants, Sanskrit text, translations, and musical recitation.",
+          "author": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sanatanadharmam.in/images/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://sanatanadharmam.in/vedas/samaveda/chapter4"
+          },
+          "datePublished": "2024-01-01",
+          "dateModified": "2026-01-01",
+          "inLanguage": "en",
+          "about": {
+            "@type": "CreativeWork",
+            "name": "Samaveda Chapter 4",
+            "description": "The fourth chapter of the Samaveda focusing on Soma chants, central to Vedic rituals and symbolic of divine essence."
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "Samaveda Chapter 4",
+          "url": "https://sanatanadharmam.in/vedas/samaveda/chapter4"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sanatanadharmam.in"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vedas",
+              "item": "https://sanatanadharmam.in/vedas"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Samaveda",
+              "item": "https://sanatanadharmam.in/vedas/samaveda"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Chapter 4",
+              "item": "https://sanatanadharmam.in/vedas/samaveda/chapter4"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in",
+          "logo": "https://sanatanadharmam.in/images/logo.png"
+        }
+      ]
+    },
+    "chants": [
+      
+      {
+        "chant_id": "SV-4-1",
+        "source_rigveda": "RV 1.72.1",
+        "deity": "Soma",
+        "theme": "Invocation",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमं हवामहे मधुमन्तं देवम्",
+            "transliteration": "somaṁ havāmahe madhumantaṁ devam",
+            "meaning": "We invoke Soma, the sweet and divine essence."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "soft flowing tone",
+          "svara_pattern": "gentle rising",
+          "usage": "Invocation chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-2",
+        "source_rigveda": "RV 1.72.2",
+        "deity": "Soma",
+        "theme": "Purification",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः पवित्रेण शुद्धो भवति",
+            "transliteration": "somaḥ pavitreṇa śuddho bhavati",
+            "meaning": "Soma becomes purified through sacred filtering."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "cleansing tone",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Purification chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-3",
+        "source_rigveda": "RV 1.73.1",
+        "deity": "Soma",
+        "theme": "Energy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः ऊर्जा ददातु नः",
+            "transliteration": "somaḥ ūrjā dadātu naḥ",
+            "meaning": "May Soma grant us energy."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "rising energetic tone",
+          "svara_pattern": "mid-high sustain",
+          "usage": "Energy chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-4",
+        "source_rigveda": "RV 1.73.2",
+        "deity": "Soma",
+        "theme": "Joy and bliss",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः आनन्दं जनयति",
+            "transliteration": "somaḥ ānandaṁ janayati",
+            "meaning": "Soma generates joy and bliss."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "uplifting tone",
+          "svara_pattern": "light rising",
+          "usage": "Joy chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-5",
+        "source_rigveda": "RV 1.74.1",
+        "deity": "Soma",
+        "theme": "Immortality",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः अमृतं ददातु",
+            "transliteration": "somaḥ amṛtaṁ dadātu",
+            "meaning": "May Soma grant immortality."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "deep sacred tone",
+          "svara_pattern": "low sustained",
+          "usage": "Immortality chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-6",
+        "source_rigveda": "RV 1.74.2",
+        "deity": "Soma",
+        "theme": "Strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः बलं वर्धयतु",
+            "transliteration": "somaḥ balaṁ vardhayatu",
+            "meaning": "May Soma increase strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expanding tone",
+          "svara_pattern": "broad sustain",
+          "usage": "Strength chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-7",
+        "source_rigveda": "RV 1.75.1",
+        "deity": "Soma",
+        "theme": "Flow",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः धारा इव वहति",
+            "transliteration": "somaḥ dhārā iva vahati",
+            "meaning": "Soma flows like a stream."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing wave tone",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Flow chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-8",
+        "source_rigveda": "RV 1.75.2",
+        "deity": "Soma",
+        "theme": "Purification",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः पावकः शुद्धिं करोतु",
+            "transliteration": "somaḥ pāvakaḥ śuddhiṁ karotu",
+            "meaning": "Soma purifies and cleanses."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "soft cleansing tone",
+          "svara_pattern": "gentle rise",
+          "usage": "Purification chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-9",
+        "source_rigveda": "RV 1.76.1",
+        "deity": "Soma",
+        "theme": "Divine connection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः देवान् यज्ञे आह्वयति",
+            "transliteration": "somaḥ devān yajñe āhvayati",
+            "meaning": "Soma invokes the gods in the sacrifice."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "ascending invocation",
+          "svara_pattern": "rising flow",
+          "usage": "Divine connection chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-10",
+        "source_rigveda": "RV 1.76.2",
+        "deity": "Soma",
+        "theme": "Vitality",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः प्राणं ददातु",
+            "transliteration": "somaḥ prāṇaṁ dadātu",
+            "meaning": "May Soma grant life force."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "vital tone",
+          "svara_pattern": "mid-high sustain",
+          "usage": "Vitality chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-11",
+        "source_rigveda": "RV 1.77.1",
+        "deity": "Soma",
+        "theme": "Joy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः हर्षं जनयति",
+            "transliteration": "somaḥ harṣaṁ janayati",
+            "meaning": "Soma produces delight."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "uplifting tone",
+          "svara_pattern": "light rising",
+          "usage": "Joy chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-12",
+        "source_rigveda": "RV 1.77.2",
+        "deity": "Soma",
+        "theme": "Clarity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः प्रकाशं ददातु",
+            "transliteration": "somaḥ prakāśaṁ dadātu",
+            "meaning": "May Soma grant clarity."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "bright tone",
+          "svara_pattern": "high clarity",
+          "usage": "Clarity chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-13",
+        "source_rigveda": "RV 1.78.1",
+        "deity": "Soma",
+        "theme": "Strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः बलं ददातु",
+            "transliteration": "somaḥ balaṁ dadātu",
+            "meaning": "May Soma grant strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "firm tone",
+          "svara_pattern": "steady sustain",
+          "usage": "Strength chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-14",
+        "source_rigveda": "RV 1.78.2",
+        "deity": "Soma",
+        "theme": "Flow and continuity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः निरन्तरं वहतु",
+            "transliteration": "somaḥ nirantaraṁ vahatu",
+            "meaning": "May Soma flow continuously."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing tone",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Continuity chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-15",
+        "source_rigveda": "RV 1.79.1",
+        "deity": "Soma",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः नः रक्षतु",
+            "transliteration": "somaḥ naḥ rakṣatu",
+            "meaning": "May Soma protect us."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "protective tone",
+          "svara_pattern": "balanced",
+          "usage": "Protection chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-16",
+        "source_rigveda": "RV 1.79.2",
+        "deity": "Soma",
+        "theme": "Energy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः ऊर्जा वहतु",
+            "transliteration": "somaḥ ūrjā vahatu",
+            "meaning": "May Soma carry energy."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing tone",
+          "svara_pattern": "smooth wave",
+          "usage": "Energy chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-17",
+        "source_rigveda": "RV 1.80.1",
+        "deity": "Soma",
+        "theme": "Bliss",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः आनन्दं ददातु",
+            "transliteration": "somaḥ ānandaṁ dadātu",
+            "meaning": "May Soma grant bliss."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "uplifting tone",
+          "svara_pattern": "light rising",
+          "usage": "Bliss chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-18",
+        "source_rigveda": "RV 1.80.2",
+        "deity": "Soma",
+        "theme": "Immortality",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः अमृतं वहतु",
+            "transliteration": "somaḥ amṛtaṁ vahatu",
+            "meaning": "May Soma carry immortality."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "deep sacred tone",
+          "svara_pattern": "low sustained",
+          "usage": "Immortality chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-19",
+        "source_rigveda": "RV 1.81.1",
+        "deity": "Soma",
+        "theme": "Completion",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः यज्ञं पूर्णं करोतु",
+            "transliteration": "somaḥ yajñaṁ pūrṇaṁ karotu",
+            "meaning": "May Soma complete the sacrifice."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "closing tone",
+          "svara_pattern": "descending",
+          "usage": "Completion chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-20",
+        "source_rigveda": "RV 1.81.2",
+        "deity": "Soma",
+        "theme": "Renewal",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः पुनः प्रवर्तयतु",
+            "transliteration": "somaḥ punaḥ pravartayatu",
+            "meaning": "May Soma restart the cycle again."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "soft renewal tone",
+          "svara_pattern": "gentle sustain",
+          "usage": "Cycle renewal chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-21",
+        "source_rigveda": "RV 1.82.1",
+        "deity": "Soma",
+        "theme": "Reinforcement",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमं पुनः हवामहे मधुमन्तं देवं",
+            "transliteration": "somaṁ punaḥ havāmahe madhumantaṁ devam",
+            "meaning": "We again invoke Soma, the sweet divine essence."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "soft repetitive tone",
+          "svara_pattern": "gentle sustain",
+          "usage": "Reinforcement chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-22",
+        "source_rigveda": "RV 1.82.2",
+        "deity": "Soma",
+        "theme": "Purification",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः पवित्रेण शुद्धिं करोतु",
+            "transliteration": "somaḥ pavitreṇa śuddhiṁ karotu",
+            "meaning": "May Soma purify through sacred filtering."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "cleansing tone",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Purification chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-23",
+        "source_rigveda": "RV 1.83.1",
+        "deity": "Soma",
+        "theme": "Energy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः ऊर्जा ददातु नः",
+            "transliteration": "somaḥ ūrjā dadātu naḥ",
+            "meaning": "May Soma grant us energy."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "rising tone",
+          "svara_pattern": "mid-high sustain",
+          "usage": "Energy chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-24",
+        "source_rigveda": "RV 1.83.2",
+        "deity": "Soma",
+        "theme": "Bliss",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः आनन्दं जनयति",
+            "transliteration": "somaḥ ānandaṁ janayati",
+            "meaning": "Soma generates bliss."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "uplifting tone",
+          "svara_pattern": "light rise",
+          "usage": "Bliss chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-25",
+        "source_rigveda": "RV 1.84.1",
+        "deity": "Soma",
+        "theme": "Immortality",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः अमृतं ददातु",
+            "transliteration": "somaḥ amṛtaṁ dadātu",
+            "meaning": "May Soma grant immortality."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "deep sacred tone",
+          "svara_pattern": "low sustain",
+          "usage": "Immortality chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-26",
+        "source_rigveda": "RV 1.84.2",
+        "deity": "Soma",
+        "theme": "Strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः बलं वर्धयतु",
+            "transliteration": "somaḥ balaṁ vardhayatu",
+            "meaning": "May Soma increase strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expanding tone",
+          "svara_pattern": "broad sustain",
+          "usage": "Strength chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-27",
+        "source_rigveda": "RV 1.85.1",
+        "deity": "Soma",
+        "theme": "Flow",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः धारा इव वहति",
+            "transliteration": "somaḥ dhārā iva vahati",
+            "meaning": "Soma flows like a stream."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing wave",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Flow chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-28",
+        "source_rigveda": "RV 1.85.2",
+        "deity": "Soma",
+        "theme": "Purification",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः पावकः शुद्धिं करोतु",
+            "transliteration": "somaḥ pāvakaḥ śuddhiṁ karotu",
+            "meaning": "Soma purifies and cleanses."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "soft cleansing tone",
+          "svara_pattern": "gentle rise",
+          "usage": "Purification chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-29",
+        "source_rigveda": "RV 1.86.1",
+        "deity": "Soma",
+        "theme": "Divine connection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः देवान् आह्वयति",
+            "transliteration": "somaḥ devān āhvayati",
+            "meaning": "Soma calls the gods."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "ascending invocation",
+          "svara_pattern": "rising flow",
+          "usage": "Invocation chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-30",
+        "source_rigveda": "RV 1.86.2",
+        "deity": "Soma",
+        "theme": "Vitality",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः प्राणं ददातु",
+            "transliteration": "somaḥ prāṇaṁ dadātu",
+            "meaning": "May Soma grant life force."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "vital tone",
+          "svara_pattern": "mid-high sustain",
+          "usage": "Vitality chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-31",
+        "source_rigveda": "RV 1.87.1",
+        "deity": "Soma",
+        "theme": "Joy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः हर्षं जनयति",
+            "transliteration": "somaḥ harṣaṁ janayati",
+            "meaning": "Soma produces joy."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "uplifting tone",
+          "svara_pattern": "light rise",
+          "usage": "Joy chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-32",
+        "source_rigveda": "RV 1.87.2",
+        "deity": "Soma",
+        "theme": "Clarity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः प्रकाशं ददातु",
+            "transliteration": "somaḥ prakāśaṁ dadātu",
+            "meaning": "May Soma grant clarity."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "bright tone",
+          "svara_pattern": "high clarity",
+          "usage": "Clarity chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-33",
+        "source_rigveda": "RV 1.88.1",
+        "deity": "Soma",
+        "theme": "Strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः बलं ददातु",
+            "transliteration": "somaḥ balaṁ dadātu",
+            "meaning": "May Soma grant strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "firm tone",
+          "svara_pattern": "steady sustain",
+          "usage": "Strength chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-34",
+        "source_rigveda": "RV 1.88.2",
+        "deity": "Soma",
+        "theme": "Continuity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः निरन्तरं वहतु",
+            "transliteration": "somaḥ nirantaraṁ vahatu",
+            "meaning": "May Soma flow continuously."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing tone",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Continuity chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-35",
+        "source_rigveda": "RV 1.89.1",
+        "deity": "Soma",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः नः रक्षतु",
+            "transliteration": "somaḥ naḥ rakṣatu",
+            "meaning": "May Soma protect us."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "protective tone",
+          "svara_pattern": "balanced",
+          "usage": "Protection chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-36",
+        "source_rigveda": "RV 1.89.2",
+        "deity": "Soma",
+        "theme": "Energy flow",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः ऊर्जा वहतु",
+            "transliteration": "somaḥ ūrjā vahatu",
+            "meaning": "May Soma carry energy."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing wave",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Energy chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-4-37",
+        "source_rigveda": "RV 1.90.1",
+        "deity": "Soma",
+        "theme": "Bliss",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः आनन्दं ददातु",
+            "transliteration": "somaḥ ānandaṁ dadātu",
+            "meaning": "May Soma grant bliss."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "uplifting tone",
+          "svara_pattern": "light rise",
+          "usage": "Bliss chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-38",
+        "source_rigveda": "RV 1.90.2",
+        "deity": "Soma",
+        "theme": "Immortality",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः अमृतं वहतु",
+            "transliteration": "somaḥ amṛtaṁ vahatu",
+            "meaning": "May Soma carry immortality."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "deep tone",
+          "svara_pattern": "low sustain",
+          "usage": "Immortality chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-39",
+        "source_rigveda": "RV 1.91.1",
+        "deity": "Soma",
+        "theme": "Completion",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः यज्ञं पूर्णं करोतु",
+            "transliteration": "somaḥ yajñaṁ pūrṇaṁ karotu",
+            "meaning": "May Soma complete the sacrifice."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "closing tone",
+          "svara_pattern": "descending",
+          "usage": "Completion chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-40",
+        "source_rigveda": "RV 1.91.2",
+        "deity": "Soma",
+        "theme": "Cycle renewal",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः पुनः प्रवर्तयतु",
+            "transliteration": "somaḥ punaḥ pravartayatu",
+            "meaning": "May Soma restart the cycle again."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "soft renewal tone",
+          "svara_pattern": "gentle sustain",
+          "usage": "Cycle renewal chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-41",
+        "source_rigveda": "RV 1.92.1",
+        "deity": "Soma",
+        "theme": "Reinforcement",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमं पुनः हवामहे मधुमन्तं देवं",
+            "transliteration": "somaṁ punaḥ havāmahe madhumantaṁ devam",
+            "meaning": "We again invoke Soma, the sweet divine essence."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "soft repetitive tone",
+          "svara_pattern": "gentle sustain",
+          "usage": "Reinforcement chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-42",
+        "source_rigveda": "RV 1.92.2",
+        "deity": "Soma",
+        "theme": "Purification",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः पवित्रेण शुद्धिं करोतु",
+            "transliteration": "somaḥ pavitreṇa śuddhiṁ karotu",
+            "meaning": "May Soma purify through sacred filtering."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "cleansing tone",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Purification chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-43",
+        "source_rigveda": "RV 1.93.1",
+        "deity": "Soma",
+        "theme": "Energy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः ऊर्जा ददातु नः",
+            "transliteration": "somaḥ ūrjā dadātu naḥ",
+            "meaning": "May Soma grant energy."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "rising tone",
+          "svara_pattern": "mid-high sustain",
+          "usage": "Energy chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-44",
+        "source_rigveda": "RV 1.93.2",
+        "deity": "Soma",
+        "theme": "Bliss",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः आनन्दं जनयति",
+            "transliteration": "somaḥ ānandaṁ janayati",
+            "meaning": "Soma generates bliss."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "uplifting tone",
+          "svara_pattern": "light rise",
+          "usage": "Bliss chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-45",
+        "source_rigveda": "RV 1.94.1",
+        "deity": "Soma",
+        "theme": "Immortality",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः अमृतं ददातु",
+            "transliteration": "somaḥ amṛtaṁ dadātu",
+            "meaning": "May Soma grant immortality."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "deep sacred tone",
+          "svara_pattern": "low sustain",
+          "usage": "Immortality chant"
+        }
+      }, 
+      {
+        "chant_id": "SV-4-46",
+        "source_rigveda": "RV 1.94.2",
+        "deity": "Soma",
+        "theme": "Strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः बलं वर्धयतु",
+            "transliteration": "somaḥ balaṁ vardhayatu",
+            "meaning": "May Soma increase strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expanding tone",
+          "svara_pattern": "broad sustain",
+          "usage": "Strength chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-47",
+        "source_rigveda": "RV 1.95.1",
+        "deity": "Soma",
+        "theme": "Flow",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः धारा इव वहति",
+            "transliteration": "somaḥ dhārā iva vahati",
+            "meaning": "Soma flows like a stream."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing wave",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Flow chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-48",
+        "source_rigveda": "RV 1.95.2",
+        "deity": "Soma",
+        "theme": "Purification",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः पावकः शुद्धिं करोतु",
+            "transliteration": "somaḥ pāvakaḥ śuddhiṁ karotu",
+            "meaning": "Soma purifies and cleanses."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "soft cleansing tone",
+          "svara_pattern": "gentle rise",
+          "usage": "Purification chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-49",
+        "source_rigveda": "RV 1.96.1",
+        "deity": "Soma",
+        "theme": "Divine connection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः देवान् आह्वयति",
+            "transliteration": "somaḥ devān āhvayati",
+            "meaning": "Soma calls the gods."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "ascending invocation",
+          "svara_pattern": "rising flow",
+          "usage": "Invocation chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-50",
+        "source_rigveda": "RV 1.96.2",
+        "deity": "Soma",
+        "theme": "Vitality",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः प्राणं ददातु",
+            "transliteration": "somaḥ prāṇaṁ dadātu",
+            "meaning": "May Soma grant life force."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "vital tone",
+          "svara_pattern": "mid-high sustain",
+          "usage": "Vitality chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-51",
+        "source_rigveda": "RV 1.97.1",
+        "deity": "Soma",
+        "theme": "Joy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः हर्षं जनयति",
+            "transliteration": "somaḥ harṣaṁ janayati",
+            "meaning": "Soma produces joy."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "uplifting tone",
+          "svara_pattern": "light rise",
+          "usage": "Joy chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-52",
+        "source_rigveda": "RV 1.97.2",
+        "deity": "Soma",
+        "theme": "Clarity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः प्रकाशं ददातु",
+            "transliteration": "somaḥ prakāśaṁ dadātu",
+            "meaning": "May Soma grant clarity."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "bright tone",
+          "svara_pattern": "high clarity",
+          "usage": "Clarity chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-53",
+        "source_rigveda": "RV 1.98.1",
+        "deity": "Soma",
+        "theme": "Strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः बलं ददातु",
+            "transliteration": "somaḥ balaṁ dadātu",
+            "meaning": "May Soma grant strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "firm tone",
+          "svara_pattern": "steady sustain",
+          "usage": "Strength chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-54",
+        "source_rigveda": "RV 1.98.2",
+        "deity": "Soma",
+        "theme": "Continuity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः निरन्तरं वहतु",
+            "transliteration": "somaḥ nirantaraṁ vahatu",
+            "meaning": "May Soma flow continuously."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing tone",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Continuity chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-55",
+        "source_rigveda": "RV 1.99.1",
+        "deity": "Soma",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः नः रक्षतु",
+            "transliteration": "somaḥ naḥ rakṣatu",
+            "meaning": "May Soma protect us."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "protective tone",
+          "svara_pattern": "balanced",
+          "usage": "Protection chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-56",
+        "source_rigveda": "RV 1.99.2",
+        "deity": "Soma",
+        "theme": "Energy flow",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः ऊर्जा वहतु",
+            "transliteration": "somaḥ ūrjā vahatu",
+            "meaning": "May Soma carry energy."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing wave",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Energy chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-57",
+        "source_rigveda": "RV 1.100.1",
+        "deity": "Soma",
+        "theme": "Bliss",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः आनन्दं ददातु",
+            "transliteration": "somaḥ ānandaṁ dadātu",
+            "meaning": "May Soma grant bliss."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "uplifting tone",
+          "svara_pattern": "light rise",
+          "usage": "Bliss chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-58",
+        "source_rigveda": "RV 1.100.2",
+        "deity": "Soma",
+        "theme": "Immortality",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः अमृतं वहतु",
+            "transliteration": "somaḥ amṛtaṁ vahatu",
+            "meaning": "May Soma carry immortality."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "deep tone",
+          "svara_pattern": "low sustain",
+          "usage": "Immortality chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-59",
+        "source_rigveda": "RV 1.101.1",
+        "deity": "Soma",
+        "theme": "Completion",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः यज्ञं पूर्णं करोतु",
+            "transliteration": "somaḥ yajñaṁ pūrṇaṁ karotu",
+            "meaning": "May Soma complete the sacrifice."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "closing tone",
+          "svara_pattern": "descending",
+          "usage": "Completion chant"
+        }
+      },
+      {
+        "chant_id": "SV-4-60",
+        "source_rigveda": "RV 1.101.2",
+        "deity": "Soma",
+        "theme": "Cycle renewal",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमः पुनः प्रवर्तयतु",
+            "transliteration": "somaḥ punaḥ pravartayatu",
+            "meaning": "May Soma restart the cycle again."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "soft renewal tone",
+          "svara_pattern": "gentle sustain",
+          "usage": "Cycle renewal chant"
+        }
+      }
+    ]
+  }
+}

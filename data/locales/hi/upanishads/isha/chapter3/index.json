@@ -1,0 +1,26 @@
+﻿{
+  "isha_chapter3": {
+    "title": "Isha Chapter 3",
+    "description": "Chapter 3 from Isha.",
+    "meta": {
+      "title": "Isha Chapter 3",
+      "canonical": "https://sanatanadharmam.in/upanishads/isha/chapter-3",
+      "description": "Chapter 3 from Isha.",
+      "url": "https://sanatanadharmam.in/upanishads/isha/chapter-3"
+    },
+    "openGraph": {
+      "title": "Isha Chapter 3",
+      "description": "Chapter 3 from Isha.",
+      "url": "https://sanatanadharmam.in/upanishads/isha/chapter-3",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Isha.",
+    "scripture_text": "Chapter-level summary text for Isha, Chapter 3.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 3,
+      "path": "/upanishads/isha/chapter-3"
+    }
+  }
+}

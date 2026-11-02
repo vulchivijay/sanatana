@@ -1,0 +1,532 @@
+{
+  "home": {
+    "title": "Sanatana Dharma Explained: Complete Guide to Vedas, Upanishads & Hindu Philosophy",
+    "description": "What is Sanatana Dharma? What is Santan Dharma? A complete beginner-friendly guide to Vedas, Upanishads, Bhagavad Gita, karma, dharma, and Hindu philosophy. Learn timeless spiritual wisdom.",
+    "meta": {
+      "title": "Sanatana Dharma Explained – Complete Guide to Vedas, Gita & Hindu Philosophy",
+      "description": "Discover Sanatana Dharma in simple terms. Learn Vedas, Upanishads, Bhagavad Gita, karma, dharma, moksha, and Hindu philosophy with practical explanations.",
+      "canonical": "https://sanatanadharmam.in",
+      "keywords": [
+        "what is sanatana dharma",
+        "About Sanatana Dharma",
+        "sanatana dharma meaning",
+        "hinduism explained simply",
+        "vedas summary",
+        "upanishads meaning",
+        "bhagavad gita teachings",
+        "karma and dharma explained",
+        "moksha meaning",
+        "hindu philosophy basics",
+        "ancient indian philosophy",
+        "spiritual wisdom india",
+        "sanatana dharma for beginners",
+        "difference between hinduism and sanatana dharma",
+        "life purpose in hinduism",
+        "vedic knowledge explained",
+        "what is sanatan dharma?",
+        "sanatana dharma",
+        "hinduism",
+        "vedas",
+        "upanishads",
+        "bhagavad gita",
+        "karma",
+        "dharma",
+        "moksha",
+        "hindu philosophy",
+        "ancient indian philosophy",
+        "spiritual wisdom india",
+        "sanatana dharma for beginners",
+        "difference between hinduism and sanatana dharma",
+        "life purpose in hinduism",
+        "vedic knowledge explained",
+        "Bharat",
+        "Bharat mata ki jai"
+      ]
+    },
+    "openGraph": {
+      "title": "Sanatana Dharma Explained: Beginner to Advanced Guide",
+      "description": "Explore Vedas, Upanishads, Bhagavad Gita, karma, and dharma with clear explanations. A complete guide to Sanatana Dharma.",
+      "images": [
+        {
+          "alt": "Sanatana Dharma Guide",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/images/og/home.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "website",
+      "url": "https://sanatanadharmam.in"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "name": "Sanatanadharmam",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "query-input": "required name=search_term_string",
+            "target": "https://sanatanadharmam.in/search?q={search_term_string}"
+          },
+          "url": "https://sanatanadharmam.in"
+        },
+        {
+          "@type": "Organization",
+          "logo": "https://sanatanadharmam.in/images/logo.png",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in"
+        },
+        {
+          "description": "A detailed guide explaining Sanatana Dharma, its philosophy, scriptures, and relevance today.",
+          "@type": "Article",
+          "author": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "headline": "What is Sanatana Dharma? Complete Guide",
+          "publisher": {
+            "@type": "Organization",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sanatanadharmam.in/images/logo.png"
+            },
+            "name": "Sanatanadharmam"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sanatana Dharma is the eternal way of life rooted in Vedic wisdom, focusing on dharma, karma, and moksha."
+              },
+              "name": "What is Sanatana Dharma?"
+            },
+            {
+              "@type": "Question",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sanatana Dharma is the original philosophical foundation, while Hinduism is a broader term used in modern context."
+              },
+              "name": "Is Sanatana Dharma the same as Hinduism?"
+            },
+            {
+              "@type": "Question",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Core teachings include dharma (duty), karma (action), moksha (liberation), and realization of the self."
+              },
+              "name": "What are the main teachings of Sanatana Dharma?"
+            }
+          ]
+        }
+      ]
+    },
+    "welcome": {
+      "clarity_devotion": "clarity, devotion, and divine grace",
+      "close": "Close",
+      "deeply_honored": "We are deeply honored and blessed by your presence here.",
+      "do_not": "Do not show this welcome message again",
+      "eternal_truths": "eternal truths of Sanātana Dharma",
+      "may_journey": "May your journey through these ancient teachings bring you",
+      "namaste_welcome": "Namaste & Welcome",
+      "thank_taking": "Thank you for taking this sacred step towards understanding and embracing the",
+      "timeless_wisdom": "— the timeless wisdom that illuminates the path to inner peace, righteousness, and spiritual awakening.",
+      "truth_alone": "Truth Alone Triumphs · Dharma Protects Those Who Protect It"
+    },
+    "hero": {
+      "description": "Sanatana Dharma is the ancient spiritual philosophy of India that explains life, purpose, karma, and liberation. Discover its teachings through the Vedas, Upanishads, and Bhagavad Gita in a simple and practical way.",
+      "heading": "Sanatana Dharma Explained",
+      "primarycta": {
+        "label": "Start Learning Sanatana Dharma",
+        "link": "sanatanadharma"
+      },
+      "secondarycta": {
+        "label": "Explore Scriptures",
+        "link": "itihasa"
+      },
+      "subheading": "The Eternal Way of Life",
+      "supporting_points": [
+        "Combines spiritual wisdom with practical daily living",
+        "Helps understand both inner life (mind, soul) and outer life (actions, society)",
+        "Applies to all people regardless of background or belief",
+        "Encourages self-discovery rather than blind following"
+      ],
+      "user_benefits": [
+        "Gain clarity about life purpose and direction",
+        "Learn how actions influence future outcomes",
+        "Develop calmness and emotional balance",
+        "Build a meaningful and value-based life"
+      ],
+      "key_concepts_preview": [
+        "Dharma: Right way of living",
+        "Karma: Law of action and result",
+        "Moksha: Freedom from suffering",
+        "Atman: True self beyond body and mind"
+      ],
+      "engagement_hooks": [
+        "Start with simple ideas and grow deeper step by step",
+        "Learn concepts you can apply immediately in daily life",
+        "Understand ancient wisdom in modern context",
+        "Explore both philosophy and practical guidance"
+      ],
+      "cta_context": {
+        "primarycta_reason": "Best for beginners to start structured learning",
+        "secondarycta_reason": "Explore original teachings and deeper knowledge"
+      }
+    },
+    "clarity_devotion": "clarity, devotion, and divine grace",
+    "close": "Close",
+    "cta": {
+      "title": "Help us make this website multilingual!",
+      "badge": "Supported: EN, TA, HI",
+      "contribute": "Contribute Now",
+      "guidelines": "Translation Guidelines",
+      "subtitle": "Your contribution makes our website accessible to everyone. Join our global community of translators."
+    },
+    "deeply_honored": "We are deeply honored and blessed by your presence here.",
+    "do_not": "Do not show this welcome message again",
+    "earth_age_comparison_note": "1 Kalpa (4.32 billion years) is surprisingly close to the modern scientific estimate of Earth's age (~4.54 billion years).",
+    "eternal_truths": "eternal truths of Sanātana Dharma",
+    "faqs": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        {
+          "answer": "Sanatana Dharma is the original eternal philosophy, while Hinduism is a modern term used to describe related traditions.",
+          "question": "What is the difference between Sanatana Dharma and Hinduism?"
+        },
+        {
+          "answer": "It is more than a religion. It is a way of life and a philosophical system guiding human existence.",
+          "question": "Is Sanatana Dharma a religion?"
+        },
+        {
+          "answer": "The ultimate goal is moksha, or liberation from the cycle of birth and rebirth.",
+          "question": "What is the goal of life in Sanatana Dharma?"
+        }
+      ]
+    },
+    "may_journey": "May your journey through these ancient teachings bring you",
+    "namaste_welcome": "Namaste & Welcome",
+    "ourfourcoreyugas": [
+      {
+        "name": "Satya Yuga",
+        "subtitle": "Dharma age",
+        "years": "1,728,000 years",
+        "gradientfrom": "from-amber-700",
+        "gradientto": "to-orange-600",
+        "description": [
+          "This is the first and most pure age where truth (satya) and righteousness (dharma) are at 100%",
+          "People are naturally good, honest, and follow moral values without being taught",
+          "There is no crime, no greed, and no suffering in society",
+          "Humans live very long lives (thousands of years) and have strong physical and mental health",
+          "People are deeply spiritual and have direct connection with the divine (God)",
+          "Meditation and inner realization are the main practices, not rituals",
+          "Nature is balanced and peaceful; no natural disasters or imbalance",
+          "Society does not need strict rules or laws because everyone follows dharma naturally"
+        ]
+      },
+      {
+        "name": "Treta Yuga",
+        "subtitle": "Divine age",
+        "years": "1,296,000 years",
+        "gradientfrom": "from-orange-500",
+        "gradientto": "to-amber-400",
+        "description": [
+          "Dharma reduces slightly to about 75%, meaning some decline in truth and purity",
+          "People begin to develop ego, desires, and social hierarchy",
+          "This is the age of the great epic ",
+          "Divine incarnations like Lord Rama appear to restore dharma",
+          "People still follow spiritual practices, but more structured rituals and sacrifices (yajnas) begin",
+          "Lifespans are still long but shorter than Satya Yuga",
+          "Society starts forming kingdoms, rules, and systems of governance",
+          "Good and evil both exist, but good is still dominant"
+        ]
+      },
+      {
+        "name": "Dvapara Yuga",
+        "subtitle": "Dharma age",
+        "years": "864,000 years",
+        "gradientfrom": "from-rose-500",
+        "gradientto": "to-orange-500",
+        "description": [
+          "Dharma is reduced to 50%, meaning balance between good and bad",
+          "This is the age of the epic  and the teachings of Bhagavad Gita",
+          "Conflicts, wars, and complexity in life increase significantly",
+          "People become more materialistic and less spiritually aware",
+          "Temples, idol worship, and external rituals become more common",
+          "Human lifespan and strength decrease further",
+          "Knowledge is still present, but people struggle to follow it completely",
+          "Divine incarnations like Lord Krishna appear to guide humanity"
+        ]
+      },
+      {
+        "name": "Kali Yuga",
+        "subtitle": "Folk age",
+        "years": "432,000 years",
+        "gradientfrom": "from-red-700",
+        "gradientto": "to-rose-700",
+        "description": [
+          "This is the current age, where dharma is only 25% remaining",
+          "Materialism, ignorance, greed, and conflict dominate society",
+          "Truth is often ignored, and falsehood becomes common",
+          "People have shorter lifespans, weaker health, and more stress",
+          "Spiritual understanding is low, and distractions are very high",
+          "Following dharma becomes difficult, but still possible with effort",
+          "Simple practices like devotion (bhakti), chanting, and remembering God are most effective",
+          "Even though it is a dark age, liberation (moksha) is still possible for sincere seekers"
+        ]
+      }
+    ],
+    "ourfourcoreyugassubtitle": "The eternal and universal way of life based on truth, righteousness, and spiritual principles that uphold cosmic order. These numbers are not random. They are derived from a base unit of 432,000, multiplied proportionally (4: 3: 2: 1). One Full Day of Brahma: Lifetime of Brahma - 100 Brahma years - Each year = 360 days - Each day = 4 yugas (ages) - Total = 311,040,000,000 human years.",
+    "ourfourcoreyugastitle": "Explore Sanātana Dharma",
+    "scaling_comment": "This mathematical scaling is highly structured and proportional across all cosmic levels.",
+    "sections": [
+      {
+        "title": "What is Sanatana Dharma?",
+        "id": "what-is-sanatana-dharma",
+        "nodecaration": true,
+        "src": "/images/home/om.png",
+        "content": "Sanatana Dharma means the 'eternal way of living.' It is not just a religion, but a way of understanding life, nature, and the universe. It teaches how to live in harmony with truth and cosmic order.",
+        "insights": [
+          "Focuses on understanding reality rather than following fixed rules",
+          "Encourages questioning and personal experience of truth",
+          "Sees life as a journey of learning and inner growth",
+          "Teaches that happiness comes from alignment with truth, not external things"
+        ],
+        "real_life_examples": [
+          "Helping others without expecting reward",
+          "Staying calm in difficult situations",
+          "Making decisions based on values, not pressure"
+        ]
+      },
+      {
+        "title": "Sanatana Dharma Explained in Simple Terms",
+        "id": "sanatana-dharma-simple-explanation",
+        "content": "Sanatana Dharma explains life using simple but powerful ideas that guide how we think, act, and grow.",
+        "insights": [
+          "You are responsible for your life through your choices",
+          "Balance is important — not too materialistic, not too detached",
+          "Growth happens through experience, not just knowledge",
+          "Inner peace is more important than temporary pleasure"
+        ],
+        "real_life_examples": [
+          "Working honestly even when no one is watching",
+          "Accepting results without frustration",
+          "Learning from mistakes instead of blaming others"
+        ]
+      },
+      {
+        "title": "🌿 Core Principles of Sanatana Dharma",
+        "id": "core-principles",
+        "content": "These are the fundamental ideas that guide a meaningful and balanced life.",
+        "advanced_understanding": [
+          "Dharma is not fixed — it changes based on situation and role",
+          "Karma is not punishment — it is a natural law of balance",
+          "Moksha is freedom from mental attachment, not just rebirth",
+          "Atman realization means understanding your true identity beyond body and mind"
+        ],
+        "common_misunderstandings": [
+          "Dharma is not religion — it is right action",
+          "Karma is not fate — actions can change outcomes",
+          "Moksha is not escaping life — it is understanding life fully"
+        ],
+        "items": [
+          {
+            "title": "Dharma (Duty)",
+            "description": "Living responsibly by doing what is right in every situation.",
+            "details": [
+              "Guides your decisions in personal and social life",
+              "Helps maintain harmony in society",
+              "Changes based on your role (student, parent, leader)"
+            ],
+            "link": "vedic-philosophy/dharma",
+            "src": "/images/home/dharma.png"
+          },
+          {
+            "title": "Karma (Action)",
+            "description": "Every action has a consequence, whether good or bad.",
+            "details": [
+              "Good actions bring positive results",
+              "Negative actions lead to challenges or suffering",
+              "Encourages mindful and responsible living"
+            ],
+            "link": "vedic-philosophy/karma",
+            "src": "/images/home/karma.png"
+          },
+          {
+            "title": "Moksha (Liberation)",
+            "description": "Freedom from the cycle of birth and death.",
+            "details": [
+              "The highest goal of life",
+              "Achieved through knowledge, devotion, and discipline",
+              "Brings permanent peace and unity with the divine"
+            ],
+            "link": "vedic-philosophy/moksha",
+            "src": "/images/home/moksha.png"
+          },
+          {
+            "title": "Ahimsa (Non-violence)",
+            "description": "Avoid harming any living being in thought, word, or action.",
+            "details": [
+              "Promotes compassion and kindness",
+              "Applies to humans, animals, and nature",
+              "Encourages peaceful living"
+            ],
+            "link": "vedic-philosophy/ahimsa",
+            "src": "/images/home/ahimsa.png"
+          },
+          {
+            "title": "Satya (Truth)",
+            "description": "Living with honesty and integrity.",
+            "details": [
+              "Speak and act truthfully",
+              "Builds trust and inner strength",
+              "Aligns your life with reality"
+            ],
+            "link": "vedic-philosophy/satya",
+            "src": "/images/home/satya.png"
+          }
+        ]
+      },
+      {
+        "title": "Main Scriptures of Sanatana Dharma",
+        "id": "main-scriptures",
+        "content": "These sacred texts preserve spiritual knowledge and guide people toward truth and right living.",
+        "insights": [
+          "Different texts serve different purposes — rituals, philosophy, stories",
+          "They are meant to be understood, not blindly followed",
+          "Stories are symbolic and contain deeper meanings",
+          "Teachings can be applied differently based on time and context"
+        ],
+        "how_to_use": [
+          "Start with simple texts before deep philosophy",
+          "Focus on understanding meaning, not memorizing",
+          "Apply one teaching at a time in daily life"
+        ],
+        "items": [
+          {
+            "title": "Vedas",
+            "description": "The oldest sacred texts containing knowledge about nature, rituals, and truth.",
+            "details": [
+              "Considered the foundation of Sanatana Dharma",
+              "Include hymns, prayers, and philosophical ideas",
+              "Explain cosmic laws and spiritual practices"
+            ],
+            "link": "vedas",
+            "src": "/images/home/the-vedas.png"
+          },
+          {
+            "title": "Upanishads",
+            "description": "Teachings about the soul (Atman) and ultimate reality (Brahman).",
+            "details": [
+              "Focus on deep philosophical questions",
+              "Explain the nature of consciousness",
+              "Guide toward self-realization"
+            ],
+            "link": "upanishads",
+            "src": "/images/home/the-upanishads.png"
+          },
+          {
+            "title": "Puranas",
+            "description": "Stories and teachings about gods, creation, and moral values.",
+            "details": [
+              "Explain complex ideas through stories",
+              "Teach devotion and dharma",
+              "Describe cosmic cycles and history"
+            ],
+            "link": "puranas",
+            "src": "/images/home/the-puranas.png"
+          },
+          {
+            "title": "Bhagavad Gita",
+            "description": "A guide to life and duty through a conversation between Krishna and Arjuna.",
+            "details": [
+              "Teaches how to handle life’s challenges",
+              "Explains karma, devotion, and knowledge",
+              "Gives practical spiritual guidance"
+            ],
+            "link": "itihasa",
+            "src": "/images/home/the-ithihas.png"
+          },
+          {
+            "title": "Ramayana & Mahabharata",
+            "description": "Epic stories that teach values, duty, and righteousness.",
+            "details": [
+              "Show real-life examples of dharma",
+              "Explain consequences of right and wrong actions",
+              "Teach devotion, courage, and wisdom"
+            ],
+            "link": "/itihasa",
+            "src": "/images/home/the-vedas.png"
+          }
+        ]
+      },
+      {
+        "title": "Why Sanatana Dharma Matters Today",
+        "id": "why-it-matters",
+        "content": "Even in modern life, these teachings provide guidance for living peacefully and meaningfully.",
+        "modern_relevance": [
+          "Helps manage stress and anxiety through acceptance",
+          "Provides ethical guidance in complex situations",
+          "Encourages sustainable and mindful living",
+          "Builds emotional strength and clarity"
+        ],
+        "practical_impact": [
+          "Better relationships through understanding and patience",
+          "Improved focus and decision-making",
+          "Reduced fear of uncertainty"
+        ]
+      },
+      {
+        "title": "Benefits of Following Sanatana Dharma",
+        "id": "benefits",
+        "points": [
+          "Mental clarity and inner peace",
+          "Better decision making through dharma",
+          "Understanding life purpose",
+          "Reduced stress through spiritual awareness",
+          "Balanced material and spiritual life"
+        ],
+        "deeper_benefits": [
+          "Develops strong inner stability",
+          "Improves self-awareness and control",
+          "Reduces dependence on external validation",
+          "Creates long-term happiness instead of temporary pleasure"
+        ],
+        "long_term_effect": [
+          "Clear life direction",
+          "Emotional resilience",
+          "Sense of purpose and fulfillment"
+        ],
+        "pointsrc": [
+          "/images/home/why-sanatana-1.png",
+          "/images/home/why-sanatana-2.png",
+          "/images/home/why-sanatana-3.png",
+          "/images/home/why-sanatana-4.png"
+        ]
+      },
+      {
+        "title": "Start Your Spiritual Journey",
+        "id": "cta",
+        "content": "Begin your journey step by step by learning, practicing, and experiencing.",
+        "step_by_step_path": [
+          "Learn basic concepts like dharma and karma",
+          "Observe your thoughts and actions daily",
+          "Practice small improvements consistently",
+          "Stay patient — growth takes time"
+        ],
+        "beginner_tips": [
+          "Do not try to learn everything at once",
+          "Focus on practice more than theory",
+          "Stay consistent even with small steps"
+        ]
+      }
+    ],
+    "thank_taking": "Thank you for taking this sacred step towards understanding and embracing the",
+    "timeless_wisdom": "— the timeless wisdom that illuminates the path to inner peace, righteousness, and spiritual awakening.",
+    "truth_alone": "Truth Alone Triumphs · Dharma Protects Those Who Protect It"
+  }
+}

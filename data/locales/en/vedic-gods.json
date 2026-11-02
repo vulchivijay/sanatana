@@ -1,0 +1,119 @@
+{
+  "vedic_gods": {
+    "title": "Vedic Gods – Deities of the Vedic Tradition",
+    "description": "Discover the Vedic gods including Indra, Agni, Varuna, Surya and Soma. Learn how these deities represent cosmic forces in the Vedic scriptures.",
+    "meta": {
+      "title": "Vedic Gods – Deities of the Vedic Tradition",
+      "description": "Discover the Vedic gods including Indra, Agni, Varuna, Surya and Soma. Learn how these deities represent cosmic forces in the Vedic scriptures.",
+      "canonical": "https://sanatanadharmam.in/vedic-gods",
+      "keywords": [
+        "Vedic gods",
+        "Vedic deities",
+        "Indra Vedic god",
+        "Agni fire god",
+        "Varuna Vedic deity",
+        "Surya sun god",
+        "Vedic pantheon",
+        "Sanatana Dharma gods",
+        "Rigveda gods",
+        "Hindu Vedic deities"
+      ],
+      "robots": "index, follow",
+      "url": "https://sanatanadharmam.in/vedic-gods"
+    },
+    "gods": [
+      "Indra",
+      "Agni",
+      "Varuna",
+      "Surya",
+      "Soma",
+      "Vayu",
+      "Ushas",
+      "Rudra",
+      "Prajapati",
+      "Aditi"
+    ],
+    "openGraph": {
+      "title": "Vedic Gods – Cosmic Deities of the Vedas",
+      "description": "Explore the ancient Vedic deities such as Indra, Agni, Varuna, Surya and Soma described in the Rigveda and other Vedic scriptures.",
+      "images": [
+        {
+          "alt": "Vedic Gods and Deities",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/og/vedic-gods.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "url": "https://sanatanadharmam.in/vedic-gods"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "description": "Collection of Vedic deities representing cosmic forces described in the Vedas.",
+          "@type": "CollectionPage",
+          "name": "Vedic Gods",
+          "url": "https://sanatanadharmam.in/vedic-gods"
+        },
+        {
+          "@type": "ItemList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "name": "Indra",
+              "position": 1
+            },
+            {
+              "@type": "ListItem",
+              "name": "Agni",
+              "position": 2
+            },
+            {
+              "@type": "ListItem",
+              "name": "Varuna",
+              "position": 3
+            },
+            {
+              "@type": "ListItem",
+              "name": "Surya",
+              "position": 4
+            },
+            {
+              "@type": "ListItem",
+              "name": "Soma",
+              "position": 5
+            },
+            {
+              "@type": "ListItem",
+              "name": "Vayu",
+              "position": 6
+            },
+            {
+              "@type": "ListItem",
+              "name": "Ushas",
+              "position": 7
+            },
+            {
+              "@type": "ListItem",
+              "name": "Rudra",
+              "position": 8
+            },
+            {
+              "@type": "ListItem",
+              "name": "Prajapati",
+              "position": 9
+            },
+            {
+              "@type": "ListItem",
+              "name": "Aditi",
+              "position": 10
+            }
+          ],
+          "name": "Vedic Deities"
+        }
+      ]
+    }
+  }
+}

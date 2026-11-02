@@ -1,0 +1,26 @@
+﻿{
+  "kaushitaki_chapter5": {
+    "title": "Kaushitaki Chapter 5",
+    "description": "Chapter 5 from Kaushitaki.",
+    "meta": {
+      "title": "Kaushitaki Chapter 5",
+      "canonical": "https://sanatanadharmam.in/upanishads/kaushitaki/chapter-5",
+      "description": "Chapter 5 from Kaushitaki.",
+      "url": "https://sanatanadharmam.in/upanishads/kaushitaki/chapter-5"
+    },
+    "openGraph": {
+      "title": "Kaushitaki Chapter 5",
+      "description": "Chapter 5 from Kaushitaki.",
+      "url": "https://sanatanadharmam.in/upanishads/kaushitaki/chapter-5",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Kaushitaki.",
+    "scripture_text": "Chapter-level summary text for Kaushitaki, Chapter 5.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 5,
+      "path": "/upanishads/kaushitaki/chapter-5"
+    }
+  }
+}

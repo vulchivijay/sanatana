@@ -1,0 +1,1077 @@
+{
+  "book6": {
+    "id": "SV-BOOK-6",
+    "title": "Samaveda Chapter 6 – Musical Structure, Chanting Patterns & Meaning",
+    "description": "Explore Samaveda Chapter 6 focusing on the musical structure of Vedic chants, including svaras, chanting patterns, and their spiritual significance.",
+    "meta": {
+      "title": "Samaveda Chapter 6 – Musical Structure & Chanting Patterns",
+      "canonical": "https://sanatanadharmam.in/vedas/samaveda/chapter6",
+      "description": "Explore Samaveda Chapter 6 explaining musical structure, svaras, and chanting patterns used in Vedic recitation.",
+      "keywords": [
+        "samaveda chapter 6",
+        "samaveda music structure",
+        "vedic svaras chanting",
+        "samaveda musical notes",
+        "vedic chanting patterns",
+        "samaveda singing tradition",
+        "indian classical roots samaveda",
+        "samaveda mantra explanation",
+        "sanatana dharma samaveda",
+        "samaveda chapter 6 summary"
+      ],
+      "robots": "index, follow, max-image-preview:large",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter6"
+    },
+    "openGraph": {
+      "title": "Samaveda Chapter 6 – Musical Structure & Chanting Patterns",
+      "description": "Learn about the musical structure of Samaveda chants including svaras and chanting patterns.",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter6",
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "images": [
+        {
+          "url": "https://sanatanadharmam.in/images/og/samaveda-chapter6.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "Samaveda Chapter 6 Musical Structure and Chanting"
+        }
+      ]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Samaveda Chapter 6 – Musical Structure and Chanting Patterns",
+          "description": "Detailed presentation of Samaveda Chapter 6 including musical structure, svaras, chanting techniques, and spiritual significance.",
+          "author": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sanatanadharmam.in/images/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://sanatanadharmam.in/vedas/samaveda/chapter6"
+          },
+          "datePublished": "2024-01-01",
+          "dateModified": "2026-01-01",
+          "inLanguage": "en",
+          "about": {
+            "@type": "CreativeWork",
+            "name": "Samaveda Chapter 6",
+            "description": "The sixth chapter of the Samaveda focusing on musical structure, svaras, and chanting patterns forming the foundation of Vedic music."
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "Samaveda Chapter 6",
+          "url": "https://sanatanadharmam.in/vedas/samaveda/chapter6"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sanatanadharmam.in"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vedas",
+              "item": "https://sanatanadharmam.in/vedas"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Samaveda",
+              "item": "https://sanatanadharmam.in/vedas/samaveda"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Chapter 6",
+              "item": "https://sanatanadharmam.in/vedas/samaveda/chapter6"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in",
+          "logo": "https://sanatanadharmam.in/images/logo.png"
+        }
+      ]
+    },
+    "chants": [
+      {
+        "id": 1,
+        "chant_id": "SV-6-1",
+        "rigveda_ref": "RV 1.132.1",
+        "theme": "Invocation",
+        "text": {
+          "sanskrit": "सूर्यम् हवामहे ज्योतिषां पतिम्",
+          "transliteration": "sūryam havāmahe jyotiṣāṁ patim",
+          "meaning": "We invoke Surya, the lord of light."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "bright rising",
+          "usage": "Invocation"
+        }
+      },
+      {
+        "id": 2,
+        "chant_id": "SV-6-2",
+        "rigveda_ref": "RV 1.132.2",
+        "theme": "Illumination",
+        "text": {
+          "sanskrit": "सूर्यः प्रकाशं ददाति",
+          "transliteration": "sūryaḥ prakāśaṁ dadāti",
+          "meaning": "Surya gives light."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "radiant",
+          "usage": "Illumination"
+        }
+      },
+      {
+        "id": 3,
+        "chant_id": "SV-6-3",
+        "rigveda_ref": "RV 1.133.1",
+        "theme": "Energy",
+        "text": {
+          "sanskrit": "सूर्यः ऊर्जा ददातु",
+          "transliteration": "sūryaḥ ūrjā dadātu",
+          "meaning": "May Surya grant energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "rising strong",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 4,
+        "chant_id": "SV-6-4",
+        "rigveda_ref": "RV 1.133.2",
+        "theme": "Vision",
+        "text": {
+          "sanskrit": "सूर्यः दृष्टिं ददातु",
+          "transliteration": "sūryaḥ dṛṣṭiṁ dadātu",
+          "meaning": "May Surya grant vision."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "sharp bright",
+          "usage": "Vision"
+        }
+      },
+      {
+        "id": 5,
+        "chant_id": "SV-6-5",
+        "rigveda_ref": "RV 1.134.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "सूर्यः जीवनं ददातु",
+          "transliteration": "sūryaḥ jīvanaṁ dadātu",
+          "meaning": "May Surya grant life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "warm tone",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 6,
+        "chant_id": "SV-6-6",
+        "rigveda_ref": "RV 1.134.2",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "सूर्यः बलं वर्धयतु",
+          "transliteration": "sūryaḥ balaṁ vardhayatu",
+          "meaning": "May Surya increase strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 7,
+        "chant_id": "SV-6-7",
+        "rigveda_ref": "RV 1.135.1",
+        "theme": "Movement",
+        "text": {
+          "sanskrit": "सूर्यः जगत् चलयति",
+          "transliteration": "sūryaḥ jagat calayati",
+          "meaning": "Surya moves the world."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "dynamic",
+          "usage": "Movement"
+        }
+      },
+      {
+        "id": 8,
+        "chant_id": "SV-6-8",
+        "rigveda_ref": "RV 1.135.2",
+        "theme": "Purification",
+        "text": {
+          "sanskrit": "सूर्यः शुद्धिं करोतु",
+          "transliteration": "sūryaḥ śuddhiṁ karotu",
+          "meaning": "May Surya purify."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clean bright",
+          "usage": "Purification"
+        }
+      },
+      {
+        "id": 9,
+        "chant_id": "SV-6-9",
+        "rigveda_ref": "RV 1.136.1",
+        "theme": "Awareness",
+        "text": {
+          "sanskrit": "सूर्यः चेतना ददातु",
+          "transliteration": "sūryaḥ cetanā dadātu",
+          "meaning": "May Surya grant awareness."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clear rising",
+          "usage": "Awareness"
+        }
+      },
+      {
+        "id": 10,
+        "chant_id": "SV-6-10",
+        "rigveda_ref": "RV 1.136.2",
+        "theme": "Clarity",
+        "text": {
+          "sanskrit": "सूर्यः प्रकाशं वहतु",
+          "transliteration": "sūryaḥ prakāśaṁ vahatu",
+          "meaning": "May Surya carry light."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "bright flow",
+          "usage": "Clarity"
+        }
+      },
+      {
+        "id": 11,
+        "chant_id": "SV-6-11",
+        "rigveda_ref": "RV 1.137.1",
+        "theme": "Expansion",
+        "text": {
+          "sanskrit": "सूर्यः विस्तारं ददातु",
+          "transliteration": "sūryaḥ vistāraṁ dadātu",
+          "meaning": "May Surya expand life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Expansion"
+        }
+      },
+      {
+        "id": 12,
+        "chant_id": "SV-6-12",
+        "rigveda_ref": "RV 1.137.2",
+        "theme": "Truth",
+        "text": {
+          "sanskrit": "सूर्यः सत्यं दर्शयतु",
+          "transliteration": "sūryaḥ satyaṁ darśayatu",
+          "meaning": "May Surya reveal truth."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "sharp clarity",
+          "usage": "Truth"
+        }
+      },
+      {
+        "id": 13,
+        "chant_id": "SV-6-13",
+        "rigveda_ref": "RV 1.138.1",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "सूर्यः बलं ददातु",
+          "transliteration": "sūryaḥ balaṁ dadātu",
+          "meaning": "May Surya grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 14,
+        "chant_id": "SV-6-14",
+        "rigveda_ref": "RV 1.138.2",
+        "theme": "Continuity",
+        "text": {
+          "sanskrit": "सूर्यः निरन्तरं वहतु",
+          "transliteration": "sūryaḥ nirantaraṁ vahatu",
+          "meaning": "May Surya shine continuously."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady flow",
+          "usage": "Continuity"
+        }
+      },
+      {
+        "id": 15,
+        "chant_id": "SV-6-15",
+        "rigveda_ref": "RV 1.139.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "सूर्यः नः रक्षतु",
+          "transliteration": "sūryaḥ naḥ rakṣatu",
+          "meaning": "May Surya protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 16,
+        "chant_id": "SV-6-16",
+        "rigveda_ref": "RV 1.139.2",
+        "theme": "Energy flow",
+        "text": {
+          "sanskrit": "सूर्यः ऊर्जा वहतु",
+          "transliteration": "sūryaḥ ūrjā vahatu",
+          "meaning": "May Surya carry energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "radiant flow",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 17,
+        "chant_id": "SV-6-17",
+        "rigveda_ref": "RV 1.140.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "सूर्यः प्राणं ददातु",
+          "transliteration": "sūryaḥ prāṇaṁ dadātu",
+          "meaning": "May Surya grant life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "warm",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 18,
+        "chant_id": "SV-6-18",
+        "rigveda_ref": "RV 1.140.2",
+        "theme": "Liberation",
+        "text": {
+          "sanskrit": "सूर्यः मुक्तिं ददातु",
+          "transliteration": "sūryaḥ muktiṁ dadātu",
+          "meaning": "May Surya grant liberation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "light ascending",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 19,
+        "chant_id": "SV-6-19",
+        "rigveda_ref": "RV 1.141.1",
+        "theme": "Completion",
+        "text": {
+          "sanskrit": "सूर्यः यज्ञं पूर्णं करोतु",
+          "transliteration": "sūryaḥ yajñaṁ pūrṇaṁ karotu",
+          "meaning": "May Surya complete the ritual."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "closing",
+          "usage": "Completion"
+        }
+      },
+      {
+        "id": 20,
+        "chant_id": "SV-6-20",
+        "rigveda_ref": "RV 1.141.2",
+        "theme": "Renewal",
+        "text": {
+          "sanskrit": "सूर्यः पुनः प्रवर्तयतु",
+          "transliteration": "sūryaḥ punaḥ pravartayatu",
+          "meaning": "May Surya restart the cycle."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "soft renewal",
+          "usage": "Renewal"
+        }
+      },
+      {
+        "id": 21,
+        "chant_id": "SV-6-21",
+        "rigveda_ref": "RV 1.142.1",
+        "theme": "Reinforcement",
+        "text": {
+          "sanskrit": "सूर्यम् पुनः हवामहे ज्योतिषां पतिम्",
+          "transliteration": "sūryam punaḥ havāmahe jyotiṣāṁ patim",
+          "meaning": "We again invoke Surya, lord of light."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "bright repetitive",
+          "usage": "Reinforcement"
+        }
+      },
+      {
+        "id": 22,
+        "chant_id": "SV-6-22",
+        "rigveda_ref": "RV 1.142.2",
+        "theme": "Illumination",
+        "text": {
+          "sanskrit": "सूर्यः प्रकाशं ददाति",
+          "transliteration": "sūryaḥ prakāśaṁ dadāti",
+          "meaning": "Surya gives light."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "radiant",
+          "usage": "Illumination"
+        }
+      },
+      {
+        "id": 23,
+        "chant_id": "SV-6-23",
+        "rigveda_ref": "RV 1.143.1",
+        "theme": "Energy",
+        "text": {
+          "sanskrit": "सूर्यः ऊर्जा ददातु",
+          "transliteration": "sūryaḥ ūrjā dadātu",
+          "meaning": "May Surya grant energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "rising strong",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 24,
+        "chant_id": "SV-6-24",
+        "rigveda_ref": "RV 1.143.2",
+        "theme": "Vision",
+        "text": {
+          "sanskrit": "सूर्यः दृष्टिं ददातु",
+          "transliteration": "sūryaḥ dṛṣṭiṁ dadātu",
+          "meaning": "May Surya grant vision."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "sharp bright",
+          "usage": "Vision"
+        }
+      },
+      {
+        "id": 25,
+        "chant_id": "SV-6-25",
+        "rigveda_ref": "RV 1.144.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "सूर्यः जीवनं ददातु",
+          "transliteration": "sūryaḥ jīvanaṁ dadātu",
+          "meaning": "May Surya grant life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "warm tone",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 26,
+        "chant_id": "SV-6-26",
+        "rigveda_ref": "RV 1.144.2",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "सूर्यः बलं वर्धयतु",
+          "transliteration": "sūryaḥ balaṁ vardhayatu",
+          "meaning": "May Surya increase strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 27,
+        "chant_id": "SV-6-27",
+        "rigveda_ref": "RV 1.145.1",
+        "theme": "Movement",
+        "text": {
+          "sanskrit": "सूर्यः जगत् चलयति",
+          "transliteration": "sūryaḥ jagat calayati",
+          "meaning": "Surya moves the world."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "dynamic",
+          "usage": "Movement"
+        }
+      },
+      {
+        "id": 28,
+        "chant_id": "SV-6-28",
+        "rigveda_ref": "RV 1.145.2",
+        "theme": "Purification",
+        "text": {
+          "sanskrit": "सूर्यः शुद्धिं करोतु",
+          "transliteration": "sūryaḥ śuddhiṁ karotu",
+          "meaning": "May Surya purify."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clean bright",
+          "usage": "Purification"
+        }
+      },
+      {
+        "id": 29,
+        "chant_id": "SV-6-29",
+        "rigveda_ref": "RV 1.146.1",
+        "theme": "Awareness",
+        "text": {
+          "sanskrit": "सूर्यः चेतना ददातु",
+          "transliteration": "sūryaḥ cetanā dadātu",
+          "meaning": "May Surya grant awareness."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clear rising",
+          "usage": "Awareness"
+        }
+      },
+      {
+        "id": 30,
+        "chant_id": "SV-6-30",
+        "rigveda_ref": "RV 1.146.2",
+        "theme": "Clarity",
+        "text": {
+          "sanskrit": "सूर्यः प्रकाशं वहतु",
+          "transliteration": "sūryaḥ prakāśaṁ vahatu",
+          "meaning": "May Surya carry light."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "bright flow",
+          "usage": "Clarity"
+        }
+      },
+      {
+        "id": 31,
+        "chant_id": "SV-6-31",
+        "rigveda_ref": "RV 1.147.1",
+        "theme": "Expansion",
+        "text": {
+          "sanskrit": "सूर्यः विस्तारं ददातु",
+          "transliteration": "sūryaḥ vistāraṁ dadātu",
+          "meaning": "May Surya expand life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Expansion"
+        }
+      },
+      {
+        "id": 32,
+        "chant_id": "SV-6-32",
+        "rigveda_ref": "RV 1.147.2",
+        "theme": "Truth",
+        "text": {
+          "sanskrit": "सूर्यः सत्यं दर्शयतु",
+          "transliteration": "sūryaḥ satyaṁ darśayatu",
+          "meaning": "May Surya reveal truth."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "sharp clarity",
+          "usage": "Truth"
+        }
+      },
+      {
+        "id": 33,
+        "chant_id": "SV-6-33",
+        "rigveda_ref": "RV 1.148.1",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "सूर्यः बलं ददातु",
+          "transliteration": "sūryaḥ balaṁ dadātu",
+          "meaning": "May Surya grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 34,
+        "chant_id": "SV-6-34",
+        "rigveda_ref": "RV 1.148.2",
+        "theme": "Continuity",
+        "text": {
+          "sanskrit": "सूर्यः निरन्तरं वहतु",
+          "transliteration": "sūryaḥ nirantaraṁ vahatu",
+          "meaning": "May Surya shine continuously."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady flow",
+          "usage": "Continuity"
+        }
+      },
+      {
+        "id": 35,
+        "chant_id": "SV-6-35",
+        "rigveda_ref": "RV 1.149.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "सूर्यः नः रक्षतु",
+          "transliteration": "sūryaḥ naḥ rakṣatu",
+          "meaning": "May Surya protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 36,
+        "chant_id": "SV-6-36",
+        "rigveda_ref": "RV 1.149.2",
+        "theme": "Energy flow",
+        "text": {
+          "sanskrit": "सूर्यः ऊर्जा वहतु",
+          "transliteration": "sūryaḥ ūrjā vahatu",
+          "meaning": "May Surya carry energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "radiant flow",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 37,
+        "chant_id": "SV-6-37",
+        "rigveda_ref": "RV 1.150.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "सूर्यः प्राणं ददातु",
+          "transliteration": "sūryaḥ prāṇaṁ dadātu",
+          "meaning": "May Surya grant life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "warm",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 38,
+        "chant_id": "SV-6-38",
+        "rigveda_ref": "RV 1.150.2",
+        "theme": "Liberation",
+        "text": {
+          "sanskrit": "सूर्यः मुक्तिं ददातु",
+          "transliteration": "sūryaḥ muktiṁ dadātu",
+          "meaning": "May Surya grant liberation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "light ascending",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 39,
+        "chant_id": "SV-6-39",
+        "rigveda_ref": "RV 1.151.1",
+        "theme": "Completion",
+        "text": {
+          "sanskrit": "सूर्यः यज्ञं पूर्णं करोतु",
+          "transliteration": "sūryaḥ yajñaṁ pūrṇaṁ karotu",
+          "meaning": "May Surya complete the ritual."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "closing",
+          "usage": "Completion"
+        }
+      },
+      {
+        "id": 40,
+        "chant_id": "SV-6-40",
+        "rigveda_ref": "RV 1.151.2",
+        "theme": "Cycle renewal",
+        "text": {
+          "sanskrit": "सूर्यः पुनः प्रवर्तयतु",
+          "transliteration": "sūryaḥ punaḥ pravartayatu",
+          "meaning": "May Surya restart the cycle."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "soft renewal",
+          "usage": "Renewal"
+        }
+      },
+      {
+        "id": 41,
+        "chant_id": "SV-6-41",
+        "rigveda_ref": "RV 1.152.1",
+        "theme": "Reinforcement",
+        "text": {
+          "sanskrit": "सूर्यम् पुनः हवामहे ज्योतिषां पतिम्",
+          "transliteration": "sūryam punaḥ havāmahe jyotiṣāṁ patim",
+          "meaning": "We again invoke Surya, lord of light."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "bright repetitive",
+          "usage": "Reinforcement"
+        }
+      },
+      {
+        "id": 42,
+        "chant_id": "SV-6-42",
+        "rigveda_ref": "RV 1.152.2",
+        "theme": "Illumination",
+        "text": {
+          "sanskrit": "सूर्यः प्रकाशं ददाति",
+          "transliteration": "sūryaḥ prakāśaṁ dadāti",
+          "meaning": "Surya gives light."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "radiant",
+          "usage": "Illumination"
+        }
+      },
+      {
+        "id": 43,
+        "chant_id": "SV-6-43",
+        "rigveda_ref": "RV 1.153.1",
+        "theme": "Energy",
+        "text": {
+          "sanskrit": "सूर्यः ऊर्जा ददातु",
+          "transliteration": "sūryaḥ ūrjā dadātu",
+          "meaning": "May Surya grant energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "rising strong",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 44,
+        "chant_id": "SV-6-44",
+        "rigveda_ref": "RV 1.153.2",
+        "theme": "Vision",
+        "text": {
+          "sanskrit": "सूर्यः दृष्टिं ददातु",
+          "transliteration": "sūryaḥ dṛṣṭiṁ dadātu",
+          "meaning": "May Surya grant vision."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "sharp bright",
+          "usage": "Vision"
+        }
+      },
+      {
+        "id": 45,
+        "chant_id": "SV-6-45",
+        "rigveda_ref": "RV 1.154.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "सूर्यः जीवनं ददातु",
+          "transliteration": "sūryaḥ jīvanaṁ dadātu",
+          "meaning": "May Surya grant life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "warm tone",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 46,
+        "chant_id": "SV-6-46",
+        "rigveda_ref": "RV 1.154.2",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "सूर्यः बलं वर्धयतु",
+          "transliteration": "sūryaḥ balaṁ vardhayatu",
+          "meaning": "May Surya increase strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 47,
+        "chant_id": "SV-6-47",
+        "rigveda_ref": "RV 1.155.1",
+        "theme": "Movement",
+        "text": {
+          "sanskrit": "सूर्यः जगत् चलयति",
+          "transliteration": "sūryaḥ jagat calayati",
+          "meaning": "Surya moves the world."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "dynamic",
+          "usage": "Movement"
+        }
+      },
+      {
+        "id": 48,
+        "chant_id": "SV-6-48",
+        "rigveda_ref": "RV 1.155.2",
+        "theme": "Purification",
+        "text": {
+          "sanskrit": "सूर्यः शुद्धिं करोतु",
+          "transliteration": "sūryaḥ śuddhiṁ karotu",
+          "meaning": "May Surya purify."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clean bright",
+          "usage": "Purification"
+        }
+      },
+      {
+        "id": 49,
+        "chant_id": "SV-6-49",
+        "rigveda_ref": "RV 1.156.1",
+        "theme": "Awareness",
+        "text": {
+          "sanskrit": "सूर्यः चेतना ददातु",
+          "transliteration": "sūryaḥ cetanā dadātu",
+          "meaning": "May Surya grant awareness."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clear rising",
+          "usage": "Awareness"
+        }
+      },
+      {
+        "id": 50,
+        "chant_id": "SV-6-50",
+        "rigveda_ref": "RV 1.156.2",
+        "theme": "Clarity",
+        "text": {
+          "sanskrit": "सूर्यः प्रकाशं वहतु",
+          "transliteration": "sūryaḥ prakāśaṁ vahatu",
+          "meaning": "May Surya carry light."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "bright flow",
+          "usage": "Clarity"
+        }
+      },
+      {
+        "id": 51,
+        "chant_id": "SV-6-51",
+        "rigveda_ref": "RV 1.157.1",
+        "theme": "Expansion",
+        "text": {
+          "sanskrit": "सूर्यः विस्तारं ददातु",
+          "transliteration": "sūryaḥ vistāraṁ dadātu",
+          "meaning": "May Surya expand life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Expansion"
+        }
+      },
+      {
+        "id": 52,
+        "chant_id": "SV-6-52",
+        "rigveda_ref": "RV 1.157.2",
+        "theme": "Truth",
+        "text": {
+          "sanskrit": "सूर्यः सत्यं दर्शयतु",
+          "transliteration": "sūryaḥ satyaṁ darśayatu",
+          "meaning": "May Surya reveal truth."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "sharp clarity",
+          "usage": "Truth"
+        }
+      },
+      {
+        "id": 53,
+        "chant_id": "SV-6-53",
+        "rigveda_ref": "RV 1.158.1",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "सूर्यः बलं ददातु",
+          "transliteration": "sūryaḥ balaṁ dadātu",
+          "meaning": "May Surya grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 54,
+        "chant_id": "SV-6-54",
+        "rigveda_ref": "RV 1.158.2",
+        "theme": "Continuity",
+        "text": {
+          "sanskrit": "सूर्यः निरन्तरं वहतु",
+          "transliteration": "sūryaḥ nirantaraṁ vahatu",
+          "meaning": "May Surya shine continuously."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady flow",
+          "usage": "Continuity"
+        }
+      },
+      {
+        "id": 55,
+        "chant_id": "SV-6-55",
+        "rigveda_ref": "RV 1.159.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "सूर्यः नः रक्षतु",
+          "transliteration": "sūryaḥ naḥ rakṣatu",
+          "meaning": "May Surya protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 56,
+        "chant_id": "SV-6-56",
+        "rigveda_ref": "RV 1.159.2",
+        "theme": "Energy flow",
+        "text": {
+          "sanskrit": "सूर्यः ऊर्जा वहतु",
+          "transliteration": "sūryaḥ ūrjā vahatu",
+          "meaning": "May Surya carry energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "radiant flow",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 57,
+        "chant_id": "SV-6-57",
+        "rigveda_ref": "RV 1.160.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "सूर्यः प्राणं ददातु",
+          "transliteration": "sūryaḥ prāṇaṁ dadātu",
+          "meaning": "May Surya grant life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "warm",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 58,
+        "chant_id": "SV-6-58",
+        "rigveda_ref": "RV 1.160.2",
+        "theme": "Liberation",
+        "text": {
+          "sanskrit": "सूर्यः मुक्तिं ददातु",
+          "transliteration": "sūryaḥ muktiṁ dadātu",
+          "meaning": "May Surya grant liberation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "light ascending",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 59,
+        "chant_id": "SV-6-59",
+        "rigveda_ref": "RV 1.161.1",
+        "theme": "Completion",
+        "text": {
+          "sanskrit": "सूर्यः यज्ञं पूर्णं करोतु",
+          "transliteration": "sūryaḥ yajñaṁ pūrṇaṁ karotu",
+          "meaning": "May Surya complete the ritual."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "closing",
+          "usage": "Completion"
+        }
+      },
+      {
+        "id": 60,
+        "chant_id": "SV-6-60",
+        "rigveda_ref": "RV 1.161.2",
+        "theme": "Cycle renewal",
+        "text": {
+          "sanskrit": "सूर्यः पुनः प्रवर्तयतु",
+          "transliteration": "sūryaḥ punaḥ pravartayatu",
+          "meaning": "May Surya restart the cycle."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "soft renewal",
+          "usage": "Renewal"
+        }
+      }
+    ]
+  }
+}

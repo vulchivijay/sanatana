@@ -1,0 +1,2127 @@
+{
+  "mahabharata": {
+    "title": "Mahabharata - Complete Epic Overview, Parvas, Characters & Philosophy",
+    "description": "Explore the Mahabharata, the great Indian epic attributed to Vyasa. Discover its 18 parvas, key characters like Krishna and Arjuna, Bhagavad Gita teachings, and deep philosophical insights.",
+    "meta": {
+      "title": "Mahabharata - Complete Epic Overview, Parvas, Characters & Philosophy",
+      "description": "Explore the Mahabharata, the great Indian epic attributed to Vyasa. Discover its 18 parvas, key characters like Krishna and Arjuna, Bhagavad Gita teachings, and deep philosophical insights.",
+      "author": "vyasa",
+      "canonical": "https://sanatanadharmam.in/itihasa/mahabharata",
+      "content_type": "text/html; charset=UTF-8",
+      "keywords": [
+        "mahabharata",
+        "vyasa",
+        "bhagavad gita",
+        "kurukshetra war",
+        "pandavas",
+        "kौरavas",
+        "indian epics",
+        "vedic literature",
+        "dharma",
+        "hindu philosophy"
+      ],
+      "language": "en",
+      "robots": "index, follow",
+      "viewport": "width=device-width, initial-scale=1"
+    },
+    "open_graph": {
+      "og:description": "Dive into the Mahabharata: 18 parvas, legendary characters, Kurukshetra war, and timeless wisdom of the Bhagavad Gita.",
+      "og:image": "https://sanatanadharmam.in/images/mahabharata-cover.jpg",
+      "og:locale": "en_US",
+      "og:site_name": "Vedic Knowledge Hub",
+      "og:title": "Mahabharata - The Greatest Indian Epic Explained",
+      "og:type": "book",
+      "og:url": "https://sanatanadharmam.in/itihasa/mahabharata"
+    },
+    "parvas": [
+      {
+        "title": "Adi Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Adi Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Adi Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/adi-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/adi-parva",
+        "slug": "adi-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Sabha Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Sabha Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Sabha Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/sabha-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/sabha-parva",
+        "slug": "sabha-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Vana Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Vana Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Vana Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/vana-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/vana-parva",
+        "slug": "vana-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Virata Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Virata Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Virata Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/virata-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/virata-parva",
+        "slug": "virata-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Udyoga Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Udyoga Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/udyoga-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/udyoga-parva",
+        "slug": "udyoga-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Bhishma Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Bhishma Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/bhishma-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/bhishma-parva",
+        "slug": "bhishma-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Drona Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Drona Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Drona Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/drona-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/drona-parva",
+        "slug": "drona-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Karna Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Karna Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Karna Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/karna-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/karna-parva",
+        "slug": "karna-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Shalya Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Shalya Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Shalya Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/shalya-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/shalya-parva",
+        "slug": "shalya-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Sauptika Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Sauptika Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/sauptika-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/sauptika-parva",
+        "slug": "sauptika-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Stri Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Stri Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Stri Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/stri-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/stri-parva",
+        "slug": "stri-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Shanti Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Shanti Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Shanti Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/shanti-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/shanti-parva",
+        "slug": "shanti-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Anushasana Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Anushasana Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/anushasana-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/anushasana-parva",
+        "slug": "anushasana-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Ashvamedhika Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Ashvamedhika Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/ashvamedhika-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/ashvamedhika-parva",
+        "slug": "ashvamedhika-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Ashramavasika Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Ashramavasika Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/ashramavasika-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/ashramavasika-parva",
+        "slug": "ashramavasika-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Mousala Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Mousala Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Mousala Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/mousala-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/mousala-parva",
+        "slug": "mousala-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Mahaprasthanika Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Mahaprasthanika Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/mahaprasthanika-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/mahaprasthanika-parva",
+        "slug": "mahaprasthanika-parva",
+        "total_chapters": 20
+      },
+      {
+        "title": "Svargarohana Parva",
+        "chapters": [
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 1",
+            "chapter": 1,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-1"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 2",
+            "chapter": 2,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-2"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 3",
+            "chapter": 3,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-3"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 4",
+            "chapter": 4,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-4"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 5",
+            "chapter": 5,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-5"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 6",
+            "chapter": 6,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-6"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 7",
+            "chapter": 7,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-7"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 8",
+            "chapter": 8,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-8"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 9",
+            "chapter": 9,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-9"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 10",
+            "chapter": 10,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-10"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 11",
+            "chapter": 11,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-11"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 12",
+            "chapter": 12,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-12"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 13",
+            "chapter": 13,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-13"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 14",
+            "chapter": 14,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-14"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 15",
+            "chapter": 15,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-15"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 16",
+            "chapter": 16,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-16"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 17",
+            "chapter": 17,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-17"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 18",
+            "chapter": 18,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-18"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 19",
+            "chapter": 19,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-19"
+          },
+          {
+            "title": "Mahabharata Svargarohana Parva Chapter 20",
+            "chapter": 20,
+            "path": "/itihasa/mahabharata/svargarohana-parva/chapter-20"
+          }
+        ],
+        "path": "/itihasa/mahabharata/svargarohana-parva",
+        "slug": "svargarohana-parva",
+        "total_chapters": 20
+      }
+    ],
+    "schema_org": {
+      "description": "The Mahabharata is one of the longest epic poems in the world, narrating the conflict between the Pandavas and Kauravas and containing the Bhagavad Gita.",
+      "@context": "https://schema.org",
+      "@type": "Book",
+      "about": [
+        "Dharma",
+        "Kurukshetra War",
+        "Pandavas and Kauravas",
+        "Bhagavad Gita",
+        "Hindu philosophy"
+      ],
+      "alternateName": [
+        "Mahabharat",
+        "Jaya",
+        "Bharata"
+      ],
+      "author": {
+        "@type": "Person",
+        "name": "Vyasa"
+      },
+      "bookFormat": "Epos",
+      "character": [
+        {
+          "@type": "Person",
+          "name": "Krishna"
+        },
+        {
+          "@type": "Person",
+          "name": "Arjuna"
+        },
+        {
+          "@type": "Person",
+          "name": "Bhishma"
+        },
+        {
+          "@type": "Person",
+          "name": "Karna"
+        },
+        {
+          "@type": "Person",
+          "name": "Duryodhana"
+        },
+        {
+          "@type": "Person",
+          "name": "Yudhishthira"
+        }
+      ],
+      "datePublished": "ancient",
+      "genre": [
+        "Epic",
+        "Mythology",
+        "Philosophy"
+      ],
+      "hasPart": [
+        {
+          "@type": "Book",
+          "name": "Adi Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Sabha Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Vana Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Virata Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Udyoga Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Bhishma Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Drona Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Karna Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Shalya Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Sauptika Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Stri Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Shanti Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Anushasana Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Ashvamedhika Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Ashramavasika Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Mausala Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Mahaprasthanika Parva"
+        },
+        {
+          "@type": "Book",
+          "name": "Svargarohana Parva"
+        }
+      ],
+      "inLanguage": "sa",
+      "isAccessibleForFree": true,
+      "name": "Mahabharata",
+      "numberOfPages": "100000+ verses (approx)",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ancient Oral Tradition"
+      }
+    },
+    "total_chapters": 360,
+    "total_parvas": 18,
+    "twitter_card": {
+      "twitter:card": "summary_large_image",
+      "twitter:description": "Understand the Mahabharata: story, philosophy, Krishna's teachings, and the Kurukshetra war.",
+      "twitter:image": "https://sanatanadharmam.in/images/mahabharata-cover.jpg",
+      "twitter:title": "Mahabharata - Epic of Dharma and Destiny"
+    }
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "donate": {
+    "title": "Donate to Preserve Sanatana Dharma – Support Vedas, Upanishads & Spiritual Knowledge",
+    "description": "Support the preservation of Sanatana Dharma by donating to Sanatanadharmam. Help digitize Vedas, Upanishads, Bhagavad Gita, and make spiritual wisdom freely accessible worldwide.",
+    "meta": {
+      "title": "Donate to Preserve Sanatana Dharma – Support Vedas, Upanishads & Spiritual Knowledge",
+      "description": "Support the preservation of Sanatana Dharma by donating to Sanatanadharmam. Help digitize Vedas, Upanishads, Bhagavad Gita, and make spiritual wisdom freely accessible worldwide.",
+      "canonical": "https://sanatanadharmam.in/donate",
+      "keywords": [
+        "donate sanatana dharma",
+        "support vedas preservation",
+        "donate for upanishads translation",
+        "sanatana dharma charity",
+        "preserve hindu scriptures",
+        "support spiritual knowledge platform",
+        "donate for bhagavad gita project",
+        "free vedic knowledge initiative",
+        "support dharma education globally",
+        "sanatanadharmam donation"
+      ],
+      "robots": "index, follow, max-image-preview:large",
+      "url": "https://sanatanadharmam.in/donate"
+    },
+    "donateoptions": {
+      "bank": {
+        "accountname": "V Vijaya Kumar",
+        "accountnumber": "32160808608",
+        "heading": "UPI / Bank Transfer",
+        "ifsc": "SBIN0010677",
+        "upi": "809918075@ybl"
+      },
+      "onetime": {
+        "heading": "One-Time Donation",
+        "note": "Make a secure one-time donation via UPI or international payment methods."
+      }
+    },
+    "expenses": {
+      "heading": "Transparency: Current Expenses",
+      "table": [
+        {
+          "cost": "₹3,500",
+          "cycle": "3 Years",
+          "name": "Domain & Hosting",
+          "provider": "Hostinger"
+        },
+        {
+          "cost": "Free",
+          "cycle": "Unlimited",
+          "name": "GitHub Pages",
+          "provider": "GitHub"
+        },
+        {
+          "cost": "Free Plans",
+          "cycle": "Ongoing",
+          "name": "AI Tools (Research)",
+          "provider": "Google / Microsoft / Meta"
+        }
+      ]
+    },
+    "faq": {
+      "heading": "Frequently Asked Questions",
+      "items": [
+        {
+          "a": "Yes. Donations are processed via trusted payment providers and direct bank transfers.",
+          "q": "Is my donation secure?"
+        },
+        {
+          "a": "Your contribution supports hosting, maintenance, and creation of educational spiritual content.",
+          "q": "How will my donation be used?"
+        },
+        {
+          "a": "No. Sanātana Dharma is a non-commercial, knowledge-focused initiative.",
+          "q": "Is this a commercial organization?"
+        }
+      ]
+    },
+    "openGraph": {
+      "title": "Donate & Protect Eternal Knowledge – Sanatanadharmam",
+      "description": "Your contribution helps preserve Vedic scriptures, translate ancient texts, and provide free global access to Sanatana Dharma wisdom.",
+      "images": [
+        {
+          "alt": "Donate to Preserve Sanatana Dharma Knowledge",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/og/donate.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "website",
+      "url": "https://sanatanadharmam.in/donate"
+    },
+    "purpose": {
+      "heading": "Why Your Support Matters",
+      "points": [
+        "Preserves free access to Sanātana Dharma knowledge",
+        "Supports website hosting, domain, and maintenance",
+        "Enables creation of high-quality spiritual content",
+        "Keeps the platform independent and non-commercial"
+      ]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "description": "Donation page dedicated to supporting the preservation and free distribution of Sanatana Dharma knowledge.",
+          "@type": "WebPage",
+          "isPartOf": {
+            "@type": "WebSite",
+            "name": "Sanatanadharmam",
+            "url": "https://sanatanadharmam.in"
+          },
+          "name": "Donate to Sanatanadharmam",
+          "url": "https://sanatanadharmam.in/donate"
+        },
+        {
+          "description": "Donate to help digitize, translate, and globally distribute Vedic scriptures and spiritual teachings.",
+          "@type": "DonateAction",
+          "name": "Support Sanatana Dharma Knowledge Preservation",
+          "recipient": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://sanatanadharmam.in/donate"
+          }
+        },
+        {
+          "@type": "Organization",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "areaServed": "Worldwide",
+            "availableLanguage": [
+              "English",
+              "Hindi",
+              "Telugu",
+              "Spanish",
+              "French"
+            ],
+            "contactType": "customer support",
+            "email": "info@sanatanadharmam.in",
+            "telephone": "+91-8099181075"
+          },
+          "logo": "https://sanatanadharmam.in/images/logo.png",
+          "name": "Sanatanadharmam",
+          "sameAs": [
+            "https://facebook.com/sanatanadharmam",
+            "https://twitter.com/sanatanadharmam",
+            "https://youtube.com/sanatanadharmam"
+          ],
+          "url": "https://sanatanadharmam.in"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "item": "https://sanatanadharmam.in",
+              "name": "Home",
+              "position": 1
+            },
+            {
+              "@type": "ListItem",
+              "item": "https://sanatanadharmam.in/donate",
+              "name": "Donate",
+              "position": 2
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

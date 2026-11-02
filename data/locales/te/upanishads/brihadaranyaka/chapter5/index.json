@@ -1,0 +1,26 @@
+﻿{
+  "brihadaranyaka_chapter5": {
+    "title": "Brihadaranyaka Chapter 5",
+    "description": "Chapter 5 from Brihadaranyaka.",
+    "meta": {
+      "title": "Brihadaranyaka Chapter 5",
+      "canonical": "https://sanatanadharmam.in/upanishads/brihadaranyaka/chapter-5",
+      "description": "Chapter 5 from Brihadaranyaka.",
+      "url": "https://sanatanadharmam.in/upanishads/brihadaranyaka/chapter-5"
+    },
+    "openGraph": {
+      "title": "Brihadaranyaka Chapter 5",
+      "description": "Chapter 5 from Brihadaranyaka.",
+      "url": "https://sanatanadharmam.in/upanishads/brihadaranyaka/chapter-5",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Brihadaranyaka.",
+    "scripture_text": "Chapter-level summary text for Brihadaranyaka, Chapter 5.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 5,
+      "path": "/upanishads/brihadaranyaka/chapter-5"
+    }
+  }
+}

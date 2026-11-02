@@ -1,0 +1,1296 @@
+{
+  "yajurveda": {
+    "title": "What is Yajurveda? Meaning, Shukla & Krishna Yajurveda Explained",
+    "description": "Learn about the Yajurveda, the second Veda of Sanatana Dharma. Explore its meaning, ritual formulas, Shukla and Krishna Yajurveda, and its role in Vedic ceremonies.",
+    "meta": {
+      "title": "What is Yajurveda? Meaning, Shukla & Krishna Yajurveda Explained",
+      "description": "Learn about the Yajurveda, the second Veda of Sanatana Dharma. Explore its meaning, ritual formulas, Shukla and Krishna Yajurveda, and its role in Vedic ceremonies.",
+      "canonical": "https://sanatanadharmam.in/vedas/yajurveda",
+      "keywords": [
+        "what is yajurveda",
+        "yajurveda meaning",
+        "yajurveda summary",
+        "shukla yajurveda vs krishna yajurveda",
+        "vedic rituals yajurveda",
+        "yajurveda mantras explanation",
+        "second veda explanation",
+        "vajasaneyi samhita meaning",
+        "taittiriya samhita meaning",
+        "sanatana dharma vedas"
+      ],
+      "robots": "index, follow, max-image-preview:large",
+      "url": "https://sanatanadharmam.in/vedas/yajurveda"
+    },
+    "openGraph": {
+      "title": "What is Yajurveda? Vedic Rituals and Sacred Formulas Explained",
+      "description": "Discover the Yajurveda, the Veda of rituals and sacrificial formulas, including Shukla and Krishna Yajurveda traditions.",
+      "images": [
+        {
+          "alt": "Yajurveda - Vedic Rituals and Sacred Ceremonies",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/images/og/yajurveda.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "url": "https://sanatanadharmam.in/vedas/yajurveda"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "description": "Comprehensive explanation of the Yajurveda, including its rituals, mantras, and branches like Shukla and Krishna Yajurveda.",
+          "@type": "Article",
+          "about": {
+            "description": "The second Veda focusing on ritual formulas (yajus) used in Vedic sacrificial ceremonies.",
+            "@type": "CreativeWork",
+            "name": "Yajurveda"
+          },
+          "author": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "dateModified": "2026-01-01",
+          "datePublished": "2024-01-01",
+          "headline": "What is Yajurveda? Meaning and Structure",
+          "inLanguage": "en",
+          "mainEntityOfPage": {
+            "@id": "https://sanatanadharmam.in/vedas/yajurveda",
+            "@type": "WebPage"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sanatanadharmam.in/images/logo.png"
+            },
+            "name": "Sanatanadharmam"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "Yajurveda",
+          "url": "https://sanatanadharmam.in/vedas/yajurveda"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "item": "https://sanatanadharmam.in",
+              "name": "Home",
+              "position": 1
+            },
+            {
+              "@type": "ListItem",
+              "item": "https://sanatanadharmam.in/vedas",
+              "name": "Vedas",
+              "position": 2
+            },
+            {
+              "@type": "ListItem",
+              "item": "https://sanatanadharmam.in/vedas/yajurveda",
+              "name": "Yajurveda",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "logo": "https://sanatanadharmam.in/images/logo.png",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in"
+        }
+      ]
+    },
+    "chapters": [
+      {
+        "title": "Vājasaneyi Saṁhitā",
+        "chapter": 1,
+        "introduction": "The first ten books of the Vajasaneyi Samhita contain mantras for the major Vedic fire rituals including the Darshapurnamasa, Agnishtoma and Chaturmasya sacrifices.",
+        "mantras": [
+          {
+            "title": "Yajurveda Chapter 1 Mantra 1",
+            "introduction": "This mantra belongs to Yajurveda Chapter 1.",
+            "mantra_number": 1,
+            "path": "/vedas/yajurveda/chapter-1/mantra-1",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 1, Mantra 1, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 1 Mantra 2",
+            "introduction": "This mantra belongs to Yajurveda Chapter 1.",
+            "mantra_number": 2,
+            "path": "/vedas/yajurveda/chapter-1/mantra-2",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 1, Mantra 2, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 1 Mantra 3",
+            "introduction": "This mantra belongs to Yajurveda Chapter 1.",
+            "mantra_number": 3,
+            "path": "/vedas/yajurveda/chapter-1/mantra-3",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 1, Mantra 3, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 1 Mantra 4",
+            "introduction": "This mantra belongs to Yajurveda Chapter 1.",
+            "mantra_number": 4,
+            "path": "/vedas/yajurveda/chapter-1/mantra-4",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 1, Mantra 4, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 1 Mantra 5",
+            "introduction": "This mantra belongs to Yajurveda Chapter 1.",
+            "mantra_number": 5,
+            "path": "/vedas/yajurveda/chapter-1/mantra-5",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 1, Mantra 5, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 1 Mantra 6",
+            "introduction": "This mantra belongs to Yajurveda Chapter 1.",
+            "mantra_number": 6,
+            "path": "/vedas/yajurveda/chapter-1/mantra-6",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 1, Mantra 6, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 1 Mantra 7",
+            "introduction": "This mantra belongs to Yajurveda Chapter 1.",
+            "mantra_number": 7,
+            "path": "/vedas/yajurveda/chapter-1/mantra-7",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 1, Mantra 7, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 1 Mantra 8",
+            "introduction": "This mantra belongs to Yajurveda Chapter 1.",
+            "mantra_number": 8,
+            "path": "/vedas/yajurveda/chapter-1/mantra-8",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 1, Mantra 8, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 1 Mantra 9",
+            "introduction": "This mantra belongs to Yajurveda Chapter 1.",
+            "mantra_number": 9,
+            "path": "/vedas/yajurveda/chapter-1/mantra-9",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 1, Mantra 9, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 1 Mantra 10",
+            "introduction": "This mantra belongs to Yajurveda Chapter 1.",
+            "mantra_number": 10,
+            "path": "/vedas/yajurveda/chapter-1/mantra-10",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 1, Mantra 10, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 1 Mantra 11",
+            "introduction": "This mantra belongs to Yajurveda Chapter 1.",
+            "mantra_number": 11,
+            "path": "/vedas/yajurveda/chapter-1/mantra-11",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 1, Mantra 11, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 1 Mantra 12",
+            "introduction": "This mantra belongs to Yajurveda Chapter 1.",
+            "mantra_number": 12,
+            "path": "/vedas/yajurveda/chapter-1/mantra-12",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 1, Mantra 12, invoking sacred offering, disciplined action, and inner purification."
+          }
+        ],
+        "path": "/vedas/yajurveda/chapter-1",
+        "philosophical_explanation": "The opening books emphasize the sacredness of fire as the divine mediator and the importance of disciplined ritual action in maintaining cosmic harmony.",
+        "scripture_text": "These chapters provide the foundational mantras recited during the construction of the fire altar, the preparation of offerings and the invocation of deities. The formulas guide each precise action of the Adhvaryu priest during the sacrificial process."
+      },
+      {
+        "title": "Vajasaneyi Samhita â€“ Books 11 to 18",
+        "chapter": 2,
+        "introduction": "Books 11 through 18 contain mantras for the elaborate Soma sacrifices and the construction of the great fire altar known as the Agnichayana.",
+        "mantras": [
+          {
+            "title": "Yajurveda Chapter 2 Mantra 1",
+            "introduction": "This mantra belongs to Yajurveda Chapter 2.",
+            "mantra_number": 1,
+            "path": "/vedas/yajurveda/chapter-2/mantra-1",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 2, Mantra 1, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 2 Mantra 2",
+            "introduction": "This mantra belongs to Yajurveda Chapter 2.",
+            "mantra_number": 2,
+            "path": "/vedas/yajurveda/chapter-2/mantra-2",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 2, Mantra 2, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 2 Mantra 3",
+            "introduction": "This mantra belongs to Yajurveda Chapter 2.",
+            "mantra_number": 3,
+            "path": "/vedas/yajurveda/chapter-2/mantra-3",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 2, Mantra 3, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 2 Mantra 4",
+            "introduction": "This mantra belongs to Yajurveda Chapter 2.",
+            "mantra_number": 4,
+            "path": "/vedas/yajurveda/chapter-2/mantra-4",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 2, Mantra 4, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 2 Mantra 5",
+            "introduction": "This mantra belongs to Yajurveda Chapter 2.",
+            "mantra_number": 5,
+            "path": "/vedas/yajurveda/chapter-2/mantra-5",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 2, Mantra 5, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 2 Mantra 6",
+            "introduction": "This mantra belongs to Yajurveda Chapter 2.",
+            "mantra_number": 6,
+            "path": "/vedas/yajurveda/chapter-2/mantra-6",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 2, Mantra 6, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 2 Mantra 7",
+            "introduction": "This mantra belongs to Yajurveda Chapter 2.",
+            "mantra_number": 7,
+            "path": "/vedas/yajurveda/chapter-2/mantra-7",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 2, Mantra 7, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 2 Mantra 8",
+            "introduction": "This mantra belongs to Yajurveda Chapter 2.",
+            "mantra_number": 8,
+            "path": "/vedas/yajurveda/chapter-2/mantra-8",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 2, Mantra 8, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 2 Mantra 9",
+            "introduction": "This mantra belongs to Yajurveda Chapter 2.",
+            "mantra_number": 9,
+            "path": "/vedas/yajurveda/chapter-2/mantra-9",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 2, Mantra 9, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 2 Mantra 10",
+            "introduction": "This mantra belongs to Yajurveda Chapter 2.",
+            "mantra_number": 10,
+            "path": "/vedas/yajurveda/chapter-2/mantra-10",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 2, Mantra 10, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 2 Mantra 11",
+            "introduction": "This mantra belongs to Yajurveda Chapter 2.",
+            "mantra_number": 11,
+            "path": "/vedas/yajurveda/chapter-2/mantra-11",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 2, Mantra 11, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 2 Mantra 12",
+            "introduction": "This mantra belongs to Yajurveda Chapter 2.",
+            "mantra_number": 12,
+            "path": "/vedas/yajurveda/chapter-2/mantra-12",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 2, Mantra 12, invoking sacred offering, disciplined action, and inner purification."
+          }
+        ],
+        "path": "/vedas/yajurveda/chapter-2",
+        "philosophical_explanation": "The Agnichayana symbolizes the reconstruction of the cosmic being through ritual action. Each brick placed represents an element of creation, and the completed altar embodies the totality of the universe.",
+        "scripture_text": "The Agnichayana ritual involved building a large bird-shaped altar from precisely arranged bricks, each representing aspects of the cosmos. The mantras guide every stage of this complex construction."
+      },
+      {
+        "title": "Vajasaneyi Samhita â€“ Books 19 to 25",
+        "chapter": 3,
+        "introduction": "The middle portion includes mantras for supplementary rituals, royal ceremonies and special observances including the Sautramani and Ashvamedha.",
+        "mantras": [
+          {
+            "title": "Yajurveda Chapter 3 Mantra 1",
+            "introduction": "This mantra belongs to Yajurveda Chapter 3.",
+            "mantra_number": 1,
+            "path": "/vedas/yajurveda/chapter-3/mantra-1",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 3, Mantra 1, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 3 Mantra 2",
+            "introduction": "This mantra belongs to Yajurveda Chapter 3.",
+            "mantra_number": 2,
+            "path": "/vedas/yajurveda/chapter-3/mantra-2",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 3, Mantra 2, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 3 Mantra 3",
+            "introduction": "This mantra belongs to Yajurveda Chapter 3.",
+            "mantra_number": 3,
+            "path": "/vedas/yajurveda/chapter-3/mantra-3",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 3, Mantra 3, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 3 Mantra 4",
+            "introduction": "This mantra belongs to Yajurveda Chapter 3.",
+            "mantra_number": 4,
+            "path": "/vedas/yajurveda/chapter-3/mantra-4",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 3, Mantra 4, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 3 Mantra 5",
+            "introduction": "This mantra belongs to Yajurveda Chapter 3.",
+            "mantra_number": 5,
+            "path": "/vedas/yajurveda/chapter-3/mantra-5",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 3, Mantra 5, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 3 Mantra 6",
+            "introduction": "This mantra belongs to Yajurveda Chapter 3.",
+            "mantra_number": 6,
+            "path": "/vedas/yajurveda/chapter-3/mantra-6",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 3, Mantra 6, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 3 Mantra 7",
+            "introduction": "This mantra belongs to Yajurveda Chapter 3.",
+            "mantra_number": 7,
+            "path": "/vedas/yajurveda/chapter-3/mantra-7",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 3, Mantra 7, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 3 Mantra 8",
+            "introduction": "This mantra belongs to Yajurveda Chapter 3.",
+            "mantra_number": 8,
+            "path": "/vedas/yajurveda/chapter-3/mantra-8",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 3, Mantra 8, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 3 Mantra 9",
+            "introduction": "This mantra belongs to Yajurveda Chapter 3.",
+            "mantra_number": 9,
+            "path": "/vedas/yajurveda/chapter-3/mantra-9",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 3, Mantra 9, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 3 Mantra 10",
+            "introduction": "This mantra belongs to Yajurveda Chapter 3.",
+            "mantra_number": 10,
+            "path": "/vedas/yajurveda/chapter-3/mantra-10",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 3, Mantra 10, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 3 Mantra 11",
+            "introduction": "This mantra belongs to Yajurveda Chapter 3.",
+            "mantra_number": 11,
+            "path": "/vedas/yajurveda/chapter-3/mantra-11",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 3, Mantra 11, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 3 Mantra 12",
+            "introduction": "This mantra belongs to Yajurveda Chapter 3.",
+            "mantra_number": 12,
+            "path": "/vedas/yajurveda/chapter-3/mantra-12",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 3, Mantra 12, invoking sacred offering, disciplined action, and inner purification."
+          }
+        ],
+        "path": "/vedas/yajurveda/chapter-3",
+        "philosophical_explanation": "These rituals illustrate the Vedic understanding that political authority must be grounded in spiritual principles and that true kingship involves responsibility toward the cosmic order.",
+        "scripture_text": "The Ashvamedha or horse sacrifice was among the grandest Vedic ceremonies, symbolizing royal power and cosmic sovereignty. The mantras describe the sacred journey of the horse and the elaborate rituals surrounding its offering."
+      },
+      {
+        "title": "Vajasaneyi Samhita â€“ Books 26 to 35",
+        "chapter": 4,
+        "introduction": "The later books contain supplementary mantras, special formulas for domestic rituals and philosophical verses that bridge ritual practice with deeper contemplation.",
+        "mantras": [
+          {
+            "title": "Yajurveda Chapter 4 Mantra 1",
+            "introduction": "This mantra belongs to Yajurveda Chapter 4.",
+            "mantra_number": 1,
+            "path": "/vedas/yajurveda/chapter-4/mantra-1",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 4, Mantra 1, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 4 Mantra 2",
+            "introduction": "This mantra belongs to Yajurveda Chapter 4.",
+            "mantra_number": 2,
+            "path": "/vedas/yajurveda/chapter-4/mantra-2",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 4, Mantra 2, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 4 Mantra 3",
+            "introduction": "This mantra belongs to Yajurveda Chapter 4.",
+            "mantra_number": 3,
+            "path": "/vedas/yajurveda/chapter-4/mantra-3",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 4, Mantra 3, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 4 Mantra 4",
+            "introduction": "This mantra belongs to Yajurveda Chapter 4.",
+            "mantra_number": 4,
+            "path": "/vedas/yajurveda/chapter-4/mantra-4",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 4, Mantra 4, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 4 Mantra 5",
+            "introduction": "This mantra belongs to Yajurveda Chapter 4.",
+            "mantra_number": 5,
+            "path": "/vedas/yajurveda/chapter-4/mantra-5",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 4, Mantra 5, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 4 Mantra 6",
+            "introduction": "This mantra belongs to Yajurveda Chapter 4.",
+            "mantra_number": 6,
+            "path": "/vedas/yajurveda/chapter-4/mantra-6",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 4, Mantra 6, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 4 Mantra 7",
+            "introduction": "This mantra belongs to Yajurveda Chapter 4.",
+            "mantra_number": 7,
+            "path": "/vedas/yajurveda/chapter-4/mantra-7",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 4, Mantra 7, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 4 Mantra 8",
+            "introduction": "This mantra belongs to Yajurveda Chapter 4.",
+            "mantra_number": 8,
+            "path": "/vedas/yajurveda/chapter-4/mantra-8",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 4, Mantra 8, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 4 Mantra 9",
+            "introduction": "This mantra belongs to Yajurveda Chapter 4.",
+            "mantra_number": 9,
+            "path": "/vedas/yajurveda/chapter-4/mantra-9",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 4, Mantra 9, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 4 Mantra 10",
+            "introduction": "This mantra belongs to Yajurveda Chapter 4.",
+            "mantra_number": 10,
+            "path": "/vedas/yajurveda/chapter-4/mantra-10",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 4, Mantra 10, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 4 Mantra 11",
+            "introduction": "This mantra belongs to Yajurveda Chapter 4.",
+            "mantra_number": 11,
+            "path": "/vedas/yajurveda/chapter-4/mantra-11",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 4, Mantra 11, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 4 Mantra 12",
+            "introduction": "This mantra belongs to Yajurveda Chapter 4.",
+            "mantra_number": 12,
+            "path": "/vedas/yajurveda/chapter-4/mantra-12",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 4, Mantra 12, invoking sacred offering, disciplined action, and inner purification."
+          }
+        ],
+        "path": "/vedas/yajurveda/chapter-4",
+        "philosophical_explanation": "The later books demonstrate the gradual transition from external ritualism toward internal spiritual inquiry, preparing the way for the profound teachings found in the Upanishads.",
+        "scripture_text": "These chapters include formulas for daily observances, seasonal celebrations and rites of passage. They also contain verses that reflect on the nature of knowledge, truth and the relationship between the individual and the cosmos."
+      },
+      {
+        "title": "Vajasaneyi Samhita â€“ Books 36 to 40",
+        "chapter": 5,
+        "introduction": "The concluding books of the Vajasaneyi Samhita contain some of the most philosophically significant mantras and culminate in the Isha Upanishad.",
+        "mantras": [
+          {
+            "title": "Yajurveda Chapter 5 Mantra 1",
+            "introduction": "This mantra belongs to Yajurveda Chapter 5.",
+            "mantra_number": 1,
+            "path": "/vedas/yajurveda/chapter-5/mantra-1",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 5, Mantra 1, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 5 Mantra 2",
+            "introduction": "This mantra belongs to Yajurveda Chapter 5.",
+            "mantra_number": 2,
+            "path": "/vedas/yajurveda/chapter-5/mantra-2",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 5, Mantra 2, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 5 Mantra 3",
+            "introduction": "This mantra belongs to Yajurveda Chapter 5.",
+            "mantra_number": 3,
+            "path": "/vedas/yajurveda/chapter-5/mantra-3",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 5, Mantra 3, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 5 Mantra 4",
+            "introduction": "This mantra belongs to Yajurveda Chapter 5.",
+            "mantra_number": 4,
+            "path": "/vedas/yajurveda/chapter-5/mantra-4",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 5, Mantra 4, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 5 Mantra 5",
+            "introduction": "This mantra belongs to Yajurveda Chapter 5.",
+            "mantra_number": 5,
+            "path": "/vedas/yajurveda/chapter-5/mantra-5",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 5, Mantra 5, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 5 Mantra 6",
+            "introduction": "This mantra belongs to Yajurveda Chapter 5.",
+            "mantra_number": 6,
+            "path": "/vedas/yajurveda/chapter-5/mantra-6",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 5, Mantra 6, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 5 Mantra 7",
+            "introduction": "This mantra belongs to Yajurveda Chapter 5.",
+            "mantra_number": 7,
+            "path": "/vedas/yajurveda/chapter-5/mantra-7",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 5, Mantra 7, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 5 Mantra 8",
+            "introduction": "This mantra belongs to Yajurveda Chapter 5.",
+            "mantra_number": 8,
+            "path": "/vedas/yajurveda/chapter-5/mantra-8",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 5, Mantra 8, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 5 Mantra 9",
+            "introduction": "This mantra belongs to Yajurveda Chapter 5.",
+            "mantra_number": 9,
+            "path": "/vedas/yajurveda/chapter-5/mantra-9",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 5, Mantra 9, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 5 Mantra 10",
+            "introduction": "This mantra belongs to Yajurveda Chapter 5.",
+            "mantra_number": 10,
+            "path": "/vedas/yajurveda/chapter-5/mantra-10",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 5, Mantra 10, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 5 Mantra 11",
+            "introduction": "This mantra belongs to Yajurveda Chapter 5.",
+            "mantra_number": 11,
+            "path": "/vedas/yajurveda/chapter-5/mantra-11",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 5, Mantra 11, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 5 Mantra 12",
+            "introduction": "This mantra belongs to Yajurveda Chapter 5.",
+            "mantra_number": 12,
+            "path": "/vedas/yajurveda/chapter-5/mantra-12",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 5, Mantra 12, invoking sacred offering, disciplined action, and inner purification."
+          }
+        ],
+        "path": "/vedas/yajurveda/chapter-5",
+        "philosophical_explanation": "The Isha Upanishad represents the highest philosophical achievement of the Yajurveda, teaching that liberation comes through understanding the unity of all existence and the presence of the divine in every aspect of life.",
+        "scripture_text": "Book 40, the Isha Upanishad, opens with the famous verse declaring that the divine pervades everything in the universe. It teaches the harmony between action and knowledge, between engagement with the world and spiritual detachment."
+      },
+      {
+        "title": "Taittiriya Samhita Overview",
+        "chapter": 6,
+        "introduction": "The Taittiriya Samhita is the principal text of the Krishna Yajurveda and is attributed to the sage Tittiri. It contains seven books that combine mantras with their explanatory Brahmana passages.",
+        "mantras": [
+          {
+            "title": "Yajurveda Chapter 6 Mantra 1",
+            "introduction": "This mantra belongs to Yajurveda Chapter 6.",
+            "mantra_number": 1,
+            "path": "/vedas/yajurveda/chapter-6/mantra-1",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 6, Mantra 1, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 6 Mantra 2",
+            "introduction": "This mantra belongs to Yajurveda Chapter 6.",
+            "mantra_number": 2,
+            "path": "/vedas/yajurveda/chapter-6/mantra-2",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 6, Mantra 2, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 6 Mantra 3",
+            "introduction": "This mantra belongs to Yajurveda Chapter 6.",
+            "mantra_number": 3,
+            "path": "/vedas/yajurveda/chapter-6/mantra-3",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 6, Mantra 3, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 6 Mantra 4",
+            "introduction": "This mantra belongs to Yajurveda Chapter 6.",
+            "mantra_number": 4,
+            "path": "/vedas/yajurveda/chapter-6/mantra-4",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 6, Mantra 4, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 6 Mantra 5",
+            "introduction": "This mantra belongs to Yajurveda Chapter 6.",
+            "mantra_number": 5,
+            "path": "/vedas/yajurveda/chapter-6/mantra-5",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 6, Mantra 5, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 6 Mantra 6",
+            "introduction": "This mantra belongs to Yajurveda Chapter 6.",
+            "mantra_number": 6,
+            "path": "/vedas/yajurveda/chapter-6/mantra-6",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 6, Mantra 6, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 6 Mantra 7",
+            "introduction": "This mantra belongs to Yajurveda Chapter 6.",
+            "mantra_number": 7,
+            "path": "/vedas/yajurveda/chapter-6/mantra-7",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 6, Mantra 7, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 6 Mantra 8",
+            "introduction": "This mantra belongs to Yajurveda Chapter 6.",
+            "mantra_number": 8,
+            "path": "/vedas/yajurveda/chapter-6/mantra-8",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 6, Mantra 8, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 6 Mantra 9",
+            "introduction": "This mantra belongs to Yajurveda Chapter 6.",
+            "mantra_number": 9,
+            "path": "/vedas/yajurveda/chapter-6/mantra-9",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 6, Mantra 9, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 6 Mantra 10",
+            "introduction": "This mantra belongs to Yajurveda Chapter 6.",
+            "mantra_number": 10,
+            "path": "/vedas/yajurveda/chapter-6/mantra-10",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 6, Mantra 10, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 6 Mantra 11",
+            "introduction": "This mantra belongs to Yajurveda Chapter 6.",
+            "mantra_number": 11,
+            "path": "/vedas/yajurveda/chapter-6/mantra-11",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 6, Mantra 11, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 6 Mantra 12",
+            "introduction": "This mantra belongs to Yajurveda Chapter 6.",
+            "mantra_number": 12,
+            "path": "/vedas/yajurveda/chapter-6/mantra-12",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 6, Mantra 12, invoking sacred offering, disciplined action, and inner purification."
+          }
+        ],
+        "path": "/vedas/yajurveda/chapter-6",
+        "philosophical_explanation": "The interweaving of mantra and commentary in the Taittiriya Samhita reflects the Krishna Yajurvedic understanding that ritual knowledge and its interpretation are inseparable aspects of a unified spiritual practice.",
+        "scripture_text": "The text provides detailed instructions for fire rituals alongside theological explanations of their significance. Key sections cover the Agnihotra, the Soma sacrifice and the consecration ceremonies."
+      },
+      {
+        "title": "The Taittiriya Brahmana",
+        "chapter": 7,
+        "introduction": "The Taittiriya Brahmana provides extensive prose commentary on the rituals of the Krishna Yajurveda. It elaborates on the significance and proper execution of Vedic ceremonies.",
+        "mantras": [
+          {
+            "title": "Yajurveda Chapter 7 Mantra 1",
+            "introduction": "This mantra belongs to Yajurveda Chapter 7.",
+            "mantra_number": 1,
+            "path": "/vedas/yajurveda/chapter-7/mantra-1",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 7, Mantra 1, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 7 Mantra 2",
+            "introduction": "This mantra belongs to Yajurveda Chapter 7.",
+            "mantra_number": 2,
+            "path": "/vedas/yajurveda/chapter-7/mantra-2",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 7, Mantra 2, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 7 Mantra 3",
+            "introduction": "This mantra belongs to Yajurveda Chapter 7.",
+            "mantra_number": 3,
+            "path": "/vedas/yajurveda/chapter-7/mantra-3",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 7, Mantra 3, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 7 Mantra 4",
+            "introduction": "This mantra belongs to Yajurveda Chapter 7.",
+            "mantra_number": 4,
+            "path": "/vedas/yajurveda/chapter-7/mantra-4",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 7, Mantra 4, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 7 Mantra 5",
+            "introduction": "This mantra belongs to Yajurveda Chapter 7.",
+            "mantra_number": 5,
+            "path": "/vedas/yajurveda/chapter-7/mantra-5",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 7, Mantra 5, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 7 Mantra 6",
+            "introduction": "This mantra belongs to Yajurveda Chapter 7.",
+            "mantra_number": 6,
+            "path": "/vedas/yajurveda/chapter-7/mantra-6",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 7, Mantra 6, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 7 Mantra 7",
+            "introduction": "This mantra belongs to Yajurveda Chapter 7.",
+            "mantra_number": 7,
+            "path": "/vedas/yajurveda/chapter-7/mantra-7",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 7, Mantra 7, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 7 Mantra 8",
+            "introduction": "This mantra belongs to Yajurveda Chapter 7.",
+            "mantra_number": 8,
+            "path": "/vedas/yajurveda/chapter-7/mantra-8",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 7, Mantra 8, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 7 Mantra 9",
+            "introduction": "This mantra belongs to Yajurveda Chapter 7.",
+            "mantra_number": 9,
+            "path": "/vedas/yajurveda/chapter-7/mantra-9",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 7, Mantra 9, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 7 Mantra 10",
+            "introduction": "This mantra belongs to Yajurveda Chapter 7.",
+            "mantra_number": 10,
+            "path": "/vedas/yajurveda/chapter-7/mantra-10",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 7, Mantra 10, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 7 Mantra 11",
+            "introduction": "This mantra belongs to Yajurveda Chapter 7.",
+            "mantra_number": 11,
+            "path": "/vedas/yajurveda/chapter-7/mantra-11",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 7, Mantra 11, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 7 Mantra 12",
+            "introduction": "This mantra belongs to Yajurveda Chapter 7.",
+            "mantra_number": 12,
+            "path": "/vedas/yajurveda/chapter-7/mantra-12",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 7, Mantra 12, invoking sacred offering, disciplined action, and inner purification."
+          }
+        ],
+        "path": "/vedas/yajurveda/chapter-7",
+        "philosophical_explanation": "The Brahmana literature of the Krishna Yajurveda develops the understanding that every ritual act has both a visible and an invisible dimension, connecting the material world with the realm of spiritual truth.",
+        "scripture_text": "The text contains detailed discussions of sacrificial procedures, mythological narratives and reflections on the nature of the divine. It includes accounts of cosmic creation and the role of sacrifice in sustaining the universe."
+      },
+      {
+        "title": "The Taittiriya Aranyaka",
+        "chapter": 8,
+        "introduction": "The Taittiriya Aranyaka serves as a transitional text between the ritual-focused Brahmanas and the philosophical Upanishads. It was traditionally studied in forest hermitages.",
+        "mantras": [
+          {
+            "title": "Yajurveda Chapter 8 Mantra 1",
+            "introduction": "This mantra belongs to Yajurveda Chapter 8.",
+            "mantra_number": 1,
+            "path": "/vedas/yajurveda/chapter-8/mantra-1",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 8, Mantra 1, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 8 Mantra 2",
+            "introduction": "This mantra belongs to Yajurveda Chapter 8.",
+            "mantra_number": 2,
+            "path": "/vedas/yajurveda/chapter-8/mantra-2",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 8, Mantra 2, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 8 Mantra 3",
+            "introduction": "This mantra belongs to Yajurveda Chapter 8.",
+            "mantra_number": 3,
+            "path": "/vedas/yajurveda/chapter-8/mantra-3",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 8, Mantra 3, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 8 Mantra 4",
+            "introduction": "This mantra belongs to Yajurveda Chapter 8.",
+            "mantra_number": 4,
+            "path": "/vedas/yajurveda/chapter-8/mantra-4",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 8, Mantra 4, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 8 Mantra 5",
+            "introduction": "This mantra belongs to Yajurveda Chapter 8.",
+            "mantra_number": 5,
+            "path": "/vedas/yajurveda/chapter-8/mantra-5",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 8, Mantra 5, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 8 Mantra 6",
+            "introduction": "This mantra belongs to Yajurveda Chapter 8.",
+            "mantra_number": 6,
+            "path": "/vedas/yajurveda/chapter-8/mantra-6",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 8, Mantra 6, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 8 Mantra 7",
+            "introduction": "This mantra belongs to Yajurveda Chapter 8.",
+            "mantra_number": 7,
+            "path": "/vedas/yajurveda/chapter-8/mantra-7",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 8, Mantra 7, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 8 Mantra 8",
+            "introduction": "This mantra belongs to Yajurveda Chapter 8.",
+            "mantra_number": 8,
+            "path": "/vedas/yajurveda/chapter-8/mantra-8",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 8, Mantra 8, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 8 Mantra 9",
+            "introduction": "This mantra belongs to Yajurveda Chapter 8.",
+            "mantra_number": 9,
+            "path": "/vedas/yajurveda/chapter-8/mantra-9",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 8, Mantra 9, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 8 Mantra 10",
+            "introduction": "This mantra belongs to Yajurveda Chapter 8.",
+            "mantra_number": 10,
+            "path": "/vedas/yajurveda/chapter-8/mantra-10",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 8, Mantra 10, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 8 Mantra 11",
+            "introduction": "This mantra belongs to Yajurveda Chapter 8.",
+            "mantra_number": 11,
+            "path": "/vedas/yajurveda/chapter-8/mantra-11",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 8, Mantra 11, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 8 Mantra 12",
+            "introduction": "This mantra belongs to Yajurveda Chapter 8.",
+            "mantra_number": 12,
+            "path": "/vedas/yajurveda/chapter-8/mantra-12",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 8, Mantra 12, invoking sacred offering, disciplined action, and inner purification."
+          }
+        ],
+        "path": "/vedas/yajurveda/chapter-8",
+        "philosophical_explanation": "The forest texts represent the Vedic tradition's recognition that spiritual growth requires periods of withdrawal from worldly activity for deeper reflection and contemplation.",
+        "scripture_text": "The Aranyaka contains contemplative interpretations of Vedic rituals, meditative practices and early philosophical speculations about the nature of reality and the self."
+      },
+      {
+        "title": "The Taittiriya Upanishad",
+        "chapter": 9,
+        "introduction": "The Taittiriya Upanishad is one of the principal Upanishads associated with the Krishna Yajurveda. It consists of three sections known as Vallis.",
+        "mantras": [
+          {
+            "title": "Yajurveda Chapter 9 Mantra 1",
+            "introduction": "This mantra belongs to Yajurveda Chapter 9.",
+            "mantra_number": 1,
+            "path": "/vedas/yajurveda/chapter-9/mantra-1",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 9, Mantra 1, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 9 Mantra 2",
+            "introduction": "This mantra belongs to Yajurveda Chapter 9.",
+            "mantra_number": 2,
+            "path": "/vedas/yajurveda/chapter-9/mantra-2",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 9, Mantra 2, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 9 Mantra 3",
+            "introduction": "This mantra belongs to Yajurveda Chapter 9.",
+            "mantra_number": 3,
+            "path": "/vedas/yajurveda/chapter-9/mantra-3",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 9, Mantra 3, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 9 Mantra 4",
+            "introduction": "This mantra belongs to Yajurveda Chapter 9.",
+            "mantra_number": 4,
+            "path": "/vedas/yajurveda/chapter-9/mantra-4",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 9, Mantra 4, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 9 Mantra 5",
+            "introduction": "This mantra belongs to Yajurveda Chapter 9.",
+            "mantra_number": 5,
+            "path": "/vedas/yajurveda/chapter-9/mantra-5",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 9, Mantra 5, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 9 Mantra 6",
+            "introduction": "This mantra belongs to Yajurveda Chapter 9.",
+            "mantra_number": 6,
+            "path": "/vedas/yajurveda/chapter-9/mantra-6",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 9, Mantra 6, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 9 Mantra 7",
+            "introduction": "This mantra belongs to Yajurveda Chapter 9.",
+            "mantra_number": 7,
+            "path": "/vedas/yajurveda/chapter-9/mantra-7",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 9, Mantra 7, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 9 Mantra 8",
+            "introduction": "This mantra belongs to Yajurveda Chapter 9.",
+            "mantra_number": 8,
+            "path": "/vedas/yajurveda/chapter-9/mantra-8",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 9, Mantra 8, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 9 Mantra 9",
+            "introduction": "This mantra belongs to Yajurveda Chapter 9.",
+            "mantra_number": 9,
+            "path": "/vedas/yajurveda/chapter-9/mantra-9",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 9, Mantra 9, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 9 Mantra 10",
+            "introduction": "This mantra belongs to Yajurveda Chapter 9.",
+            "mantra_number": 10,
+            "path": "/vedas/yajurveda/chapter-9/mantra-10",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 9, Mantra 10, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 9 Mantra 11",
+            "introduction": "This mantra belongs to Yajurveda Chapter 9.",
+            "mantra_number": 11,
+            "path": "/vedas/yajurveda/chapter-9/mantra-11",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 9, Mantra 11, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 9 Mantra 12",
+            "introduction": "This mantra belongs to Yajurveda Chapter 9.",
+            "mantra_number": 12,
+            "path": "/vedas/yajurveda/chapter-9/mantra-12",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 9, Mantra 12, invoking sacred offering, disciplined action, and inner purification."
+          }
+        ],
+        "path": "/vedas/yajurveda/chapter-9",
+        "philosophical_explanation": "The Taittiriya Upanishad teaches that ultimate reality or Brahman exists at the innermost core of every being. Through disciplined inquiry and meditation, one can transcend the outer layers of existence and realize the bliss that is the nature of the self.",
+        "scripture_text": "The Shiksha Valli discusses the importance of proper learning and the qualities of a good student. The Brahmananda Valli explores the layers of human existence from the physical body to the blissful self. The Bhrigu Valli narrates the story of sage Bhrigu's discovery of Brahman through progressive meditation."
+      },
+      {
+        "title": "The Brihadaranyaka Upanishad",
+        "chapter": 10,
+        "introduction": "The Brihadaranyaka Upanishad is one of the oldest and longest Upanishads and forms the concluding portion of the Shatapatha Brahmana of the Shukla Yajurveda.",
+        "mantras": [
+          {
+            "title": "Yajurveda Chapter 10 Mantra 1",
+            "introduction": "This mantra belongs to Yajurveda Chapter 10.",
+            "mantra_number": 1,
+            "path": "/vedas/yajurveda/chapter-10/mantra-1",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 10, Mantra 1, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 10 Mantra 2",
+            "introduction": "This mantra belongs to Yajurveda Chapter 10.",
+            "mantra_number": 2,
+            "path": "/vedas/yajurveda/chapter-10/mantra-2",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 10, Mantra 2, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 10 Mantra 3",
+            "introduction": "This mantra belongs to Yajurveda Chapter 10.",
+            "mantra_number": 3,
+            "path": "/vedas/yajurveda/chapter-10/mantra-3",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 10, Mantra 3, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 10 Mantra 4",
+            "introduction": "This mantra belongs to Yajurveda Chapter 10.",
+            "mantra_number": 4,
+            "path": "/vedas/yajurveda/chapter-10/mantra-4",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 10, Mantra 4, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 10 Mantra 5",
+            "introduction": "This mantra belongs to Yajurveda Chapter 10.",
+            "mantra_number": 5,
+            "path": "/vedas/yajurveda/chapter-10/mantra-5",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 10, Mantra 5, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 10 Mantra 6",
+            "introduction": "This mantra belongs to Yajurveda Chapter 10.",
+            "mantra_number": 6,
+            "path": "/vedas/yajurveda/chapter-10/mantra-6",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 10, Mantra 6, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 10 Mantra 7",
+            "introduction": "This mantra belongs to Yajurveda Chapter 10.",
+            "mantra_number": 7,
+            "path": "/vedas/yajurveda/chapter-10/mantra-7",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 10, Mantra 7, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 10 Mantra 8",
+            "introduction": "This mantra belongs to Yajurveda Chapter 10.",
+            "mantra_number": 8,
+            "path": "/vedas/yajurveda/chapter-10/mantra-8",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 10, Mantra 8, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 10 Mantra 9",
+            "introduction": "This mantra belongs to Yajurveda Chapter 10.",
+            "mantra_number": 9,
+            "path": "/vedas/yajurveda/chapter-10/mantra-9",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 10, Mantra 9, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 10 Mantra 10",
+            "introduction": "This mantra belongs to Yajurveda Chapter 10.",
+            "mantra_number": 10,
+            "path": "/vedas/yajurveda/chapter-10/mantra-10",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 10, Mantra 10, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 10 Mantra 11",
+            "introduction": "This mantra belongs to Yajurveda Chapter 10.",
+            "mantra_number": 11,
+            "path": "/vedas/yajurveda/chapter-10/mantra-11",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 10, Mantra 11, invoking sacred offering, disciplined action, and inner purification."
+          },
+          {
+            "title": "Yajurveda Chapter 10 Mantra 12",
+            "introduction": "This mantra belongs to Yajurveda Chapter 10.",
+            "mantra_number": 12,
+            "path": "/vedas/yajurveda/chapter-10/mantra-12",
+            "philosophical_explanation": "Yajurvedic mantras connect ritual action with inner discipline, offering and sacred intention.",
+            "scripture_text": "A representative Yajurvedic mantra passage for Chapter 10, Mantra 12, invoking sacred offering, disciplined action, and inner purification."
+          }
+        ],
+        "path": "/vedas/yajurveda/chapter-10",
+        "philosophical_explanation": "The Brihadaranyaka Upanishad represents the pinnacle of Yajurvedic philosophical thought, teaching that the individual self and the universal self are identical and that liberation comes through direct knowledge of this fundamental truth.",
+        "scripture_text": "The text contains famous dialogues including the conversation between Yajnavalkya and Maitreyi on the nature of the self, and Yajnavalkya's teachings to King Janaka about Brahman. The great saying 'Aham Brahmasmi' or 'I am Brahman' originates from this Upanishad."
+      }
+    ],
+    "introduction": "The Yajurveda is the second of the four Vedas and serves as the liturgical handbook for the Adhvaryu priest who performs the physical actions of Vedic sacrificial rituals known as Yajnas. The name 'Yajurveda' is derived from two Sanskrit roots: 'Yajus', meaning sacrificial formula or worship, and 'Veda', meaning knowledge. Together, the Yajurveda can be understood as the 'knowledge of sacrifice' or 'wisdom of ritual practice'. Unlike the Rigveda which primarily consists of hymns of praise, the Yajurveda provides the practical instructions and prose mantras that guide the step-by-step execution of sacred rituals. These formulas accompany specific ritual actions such as the preparation of the sacrificial fire, the offering of ghee and grains, and the invocation of divine powers to maintain cosmic order. The Yajurveda exists in two major recensions. The Krishna Yajurveda or Black Yajurveda contains a mixture of verse mantras and prose explanations woven together. The Shukla Yajurveda or White Yajurveda presents the mantras separately from the explanatory commentary, offering a cleaner and more organized arrangement. The most important text of the Shukla Yajurveda is the Vajasaneyi Samhita, while the Krishna Yajurveda is represented by the Taittiriya Samhita, the Maitrayani Samhita and the Kathaka Samhita. Each of these texts preserves ancient ritual knowledge that was transmitted with remarkable precision through oral tradition. The philosophical significance of the Yajurveda extends beyond mere ritual mechanics. The act of sacrifice is understood as a symbolic representation of the cosmic creative process. Just as the universe emerged through a primordial act of sacrifice described in the Purusha Sukta, human beings maintain their connection to the divine order through the disciplined practice of Yajna. The Yajurveda thus bridges the gap between spiritual aspiration and practical action, teaching that the path to spiritual growth requires both inner contemplation and outward engagement with the sacred.",
+    "major_yajurvedic_deities": [
+      {
+        "importance": "Central to all Yajurvedic rituals as the carrier of offerings",
+        "name": "Agni",
+        "role": "Sacred fire and divine mediator between humans and gods"
+      },
+      {
+        "importance": "Represents the cosmic principle through whose self-sacrifice the world was created",
+        "name": "Prajapati",
+        "role": "Lord of creation and originator of sacrifice"
+      },
+      {
+        "importance": "Invoked for strength, protection and the success of rituals",
+        "name": "Indra",
+        "role": "King of gods and lord of storms"
+      },
+      {
+        "importance": "An early form of Shiva, invoked for protection and the removal of obstacles",
+        "name": "Rudra",
+        "role": "Fierce deity associated with storms and healing"
+      }
+    ],
+    "philosophical_explanation": "The Yajurveda embodies a profound philosophical understanding of the relationship between action and knowledge, between the visible world of ritual and the invisible realm of cosmic truth. At its core, the Yajurveda teaches that every purposeful action when performed with awareness and dedication becomes a form of sacred offering. The concept of Yajna or sacrifice is not limited to ritualistic fire ceremonies but represents a universal principle of selfless giving, transformation and renewal. The philosophy of the Yajurveda recognizes that the universe itself emerged through an act of primordial sacrifice. The famous Purusha Sukta describes how the cosmic being offered itself to create the world. Human beings, as participants in this cosmic process, maintain their connection to the divine order by performing their own acts of sacrifice and service. The Yajurveda also introduces the important concept of Karma Kanda, the path of ritualistic action as a means of spiritual purification and growth. Through the disciplined performance of prescribed duties, individuals can gradually refine their understanding and prepare themselves for higher spiritual knowledge. This is not mere ritualism for its own sake. The Yajurvedic tradition recognizes that external rituals are ultimately meant to internalize spiritual truths. The journey from external sacrifice to internal contemplation is seen as a natural progression, which is why the Yajurveda's associated texts culminate in the profound philosophical teachings of the Upanishads. The Isha Upanishad, which forms the final chapter of the Vajasaneyi Samhita, beautifully integrates the paths of action and knowledge by teaching that the divine pervades everything and that true wisdom lies in seeing unity in diversity.",
+    "related_concepts": [
+      "Vedas",
+      "Rigveda",
+      "Yajna",
+      "Agni",
+      "Karma Kanda",
+      "Shatapatha Brahmana",
+      "Taittiriya Upanishad",
+      "Brihadaranyaka Upanishad",
+      "Isha Upanishad",
+      "Vedic rituals",
+      "Adhvaryu",
+      "Sanatana Dharma"
+    ],
+    "scripture_text": [
+      {
+        "content": "The Yajurveda is unique among the four Vedas in having two distinct recensions that differ significantly in their organization and presentation. The Krishna Yajurveda or Black Yajurveda is so named because it interweaves the sacrificial mantras with their explanatory prose commentaries known as Brahmanas. This creates a combined text where ritual instruction and theological explanation appear together. The major texts of the Krishna Yajurveda include the Taittiriya Samhita, the Maitrayani Samhita and the Kathaka Samhita. The Shukla Yajurveda or White Yajurveda separates the mantras from the explanatory material. The pure text of mantras is preserved in the Vajasaneyi Samhita while the commentary is contained in the Shatapatha Brahmana, one of the most detailed and philosophically rich Brahmana texts. This clear separation earned it the name 'White' or 'Pure' Yajurveda. Both recensions serve the same fundamental purpose of guiding the Adhvaryu priest through Vedic ceremonies, but their different approaches to organizing sacred knowledge reflect distinct schools of thought within the Vedic tradition.",
+        "section": "The Two Recensions"
+      },
+      {
+        "content": "The Yajurveda occupies a central role in the performance of Vedic Yajnas. During these elaborate rituals, four types of priests work together. The Hotri recites hymns from the Rigveda, the Udgatri chants melodies from the Samaveda, the Adhvaryu performs the physical ritual actions guided by the Yajurveda, and the Brahma supervises the entire ceremony using knowledge from the Atharvaveda. The Adhvaryu priest is responsible for building the sacrificial altar, preparing the sacred fire, measuring offerings, and performing the precise physical gestures that accompany each stage of the ritual. The Yajurveda provides the specific mantras that the Adhvaryu recites at each step. Major Vedic ceremonies described in the Yajurveda include the Agnihotra or daily fire offering, the Darsha-Purnamasa or new and full moon sacrifices, the Chaturmasya or seasonal rituals, and the elaborate Soma sacrifices. The most grand of all Vedic rituals is the Ashvamedha or horse sacrifice which symbolizes royal sovereignty and cosmic power. These rituals were not merely ceremonial but were understood as essential activities that maintained the balance between the human realm and the cosmic order.",
+        "section": "Role in Vedic Ceremonies"
+      },
+      {
+        "content": "Associated with the Shukla Yajurveda, the Shatapatha Brahmana is one of the most important prose texts of the Vedic literature. Its name means 'the Brahmana of one hundred paths' and it provides extensive commentary on the meaning and purpose of Vedic rituals. The Shatapatha Brahmana contains detailed explanations of sacrificial procedures along with myths, legends and philosophical reflections that illuminate the deeper significance of ritual practice. It includes important narratives such as the story of the great flood where Manu is saved by a divine fish, and the creation account involving Prajapati. Philosophically, the Shatapatha Brahmana develops the concept that sacrifice is not merely a physical act but a re-enactment of the original creative process of the universe. Through disciplined ritual practice, the worshipper participates in the ongoing creation and maintenance of cosmic order. The text concludes with the Brihadaranyaka Upanishad, one of the earliest and most important Upanishads, which transcends ritual knowledge and explores the nature of the self and ultimate reality.",
+        "section": "The Shatapatha Brahmana"
+      }
+    ],
+    "total_chapters": 10,
+    "total_mantras": 120,
+    "yajurveda_chapters": [
+      {
+        "title": "Vajasaneyi Samhita – Books 1 to 10",
+        "chapter": 1,
+        "introduction": "The first ten books of the Vajasaneyi Samhita contain mantras for the major Vedic fire rituals including the Darshapurnamasa, Agnishtoma and Chaturmasya sacrifices.",
+        "philosophical_explanation": "The opening books emphasize the sacredness of fire as the divine mediator and the importance of disciplined ritual action in maintaining cosmic harmony.",
+        "scripture_text": "These chapters provide the foundational mantras recited during the construction of the fire altar, the preparation of offerings and the invocation of deities. The formulas guide each precise action of the Adhvaryu priest during the sacrificial process."
+      },
+      {
+        "title": "Vajasaneyi Samhita – Books 11 to 18",
+        "chapter": 2,
+        "introduction": "Books 11 through 18 contain mantras for the elaborate Soma sacrifices and the construction of the great fire altar known as the Agnichayana.",
+        "philosophical_explanation": "The Agnichayana symbolizes the reconstruction of the cosmic being through ritual action. Each brick placed represents an element of creation, and the completed altar embodies the totality of the universe.",
+        "scripture_text": "The Agnichayana ritual involved building a large bird-shaped altar from precisely arranged bricks, each representing aspects of the cosmos. The mantras guide every stage of this complex construction."
+      },
+      {
+        "title": "Vajasaneyi Samhita – Books 19 to 25",
+        "chapter": 3,
+        "introduction": "The middle portion includes mantras for supplementary rituals, royal ceremonies and special observances including the Sautramani and Ashvamedha.",
+        "philosophical_explanation": "These rituals illustrate the Vedic understanding that political authority must be grounded in spiritual principles and that true kingship involves responsibility toward the cosmic order.",
+        "scripture_text": "The Ashvamedha or horse sacrifice was among the grandest Vedic ceremonies, symbolizing royal power and cosmic sovereignty. The mantras describe the sacred journey of the horse and the elaborate rituals surrounding its offering."
+      },
+      {
+        "title": "Vajasaneyi Samhita – Books 26 to 35",
+        "chapter": 4,
+        "introduction": "The later books contain supplementary mantras, special formulas for domestic rituals and philosophical verses that bridge ritual practice with deeper contemplation.",
+        "philosophical_explanation": "The later books demonstrate the gradual transition from external ritualism toward internal spiritual inquiry, preparing the way for the profound teachings found in the Upanishads.",
+        "scripture_text": "These chapters include formulas for daily observances, seasonal celebrations and rites of passage. They also contain verses that reflect on the nature of knowledge, truth and the relationship between the individual and the cosmos."
+      },
+      {
+        "title": "Vajasaneyi Samhita – Books 36 to 40",
+        "chapter": 5,
+        "introduction": "The concluding books of the Vajasaneyi Samhita contain some of the most philosophically significant mantras and culminate in the Isha Upanishad.",
+        "philosophical_explanation": "The Isha Upanishad represents the highest philosophical achievement of the Yajurveda, teaching that liberation comes through understanding the unity of all existence and the presence of the divine in every aspect of life.",
+        "scripture_text": "Book 40, the Isha Upanishad, opens with the famous verse declaring that the divine pervades everything in the universe. It teaches the harmony between action and knowledge, between engagement with the world and spiritual detachment."
+      },
+      {
+        "title": "Taittiriya Samhita Overview",
+        "chapter": 6,
+        "introduction": "The Taittiriya Samhita is the principal text of the Krishna Yajurveda and is attributed to the sage Tittiri. It contains seven books that combine mantras with their explanatory Brahmana passages.",
+        "philosophical_explanation": "The interweaving of mantra and commentary in the Taittiriya Samhita reflects the Krishna Yajurvedic understanding that ritual knowledge and its interpretation are inseparable aspects of a unified spiritual practice.",
+        "scripture_text": "The text provides detailed instructions for fire rituals alongside theological explanations of their significance. Key sections cover the Agnihotra, the Soma sacrifice and the consecration ceremonies."
+      },
+      {
+        "title": "The Taittiriya Brahmana",
+        "chapter": 7,
+        "introduction": "The Taittiriya Brahmana provides extensive prose commentary on the rituals of the Krishna Yajurveda. It elaborates on the significance and proper execution of Vedic ceremonies.",
+        "philosophical_explanation": "The Brahmana literature of the Krishna Yajurveda develops the understanding that every ritual act has both a visible and an invisible dimension, connecting the material world with the realm of spiritual truth.",
+        "scripture_text": "The text contains detailed discussions of sacrificial procedures, mythological narratives and reflections on the nature of the divine. It includes accounts of cosmic creation and the role of sacrifice in sustaining the universe."
+      },
+      {
+        "title": "The Taittiriya Aranyaka",
+        "chapter": 8,
+        "introduction": "The Taittiriya Aranyaka serves as a transitional text between the ritual-focused Brahmanas and the philosophical Upanishads. It was traditionally studied in forest hermitages.",
+        "philosophical_explanation": "The forest texts represent the Vedic tradition's recognition that spiritual growth requires periods of withdrawal from worldly activity for deeper reflection and contemplation.",
+        "scripture_text": "The Aranyaka contains contemplative interpretations of Vedic rituals, meditative practices and early philosophical speculations about the nature of reality and the self."
+      },
+      {
+        "title": "The Taittiriya Upanishad",
+        "chapter": 9,
+        "introduction": "The Taittiriya Upanishad is one of the principal Upanishads associated with the Krishna Yajurveda. It consists of three sections known as Vallis.",
+        "philosophical_explanation": "The Taittiriya Upanishad teaches that ultimate reality or Brahman exists at the innermost core of every being. Through disciplined inquiry and meditation, one can transcend the outer layers of existence and realize the bliss that is the nature of the self.",
+        "scripture_text": "The Shiksha Valli discusses the importance of proper learning and the qualities of a good student. The Brahmananda Valli explores the layers of human existence from the physical body to the blissful self. The Bhrigu Valli narrates the story of sage Bhrigu's discovery of Brahman through progressive meditation."
+      },
+      {
+        "title": "The Brihadaranyaka Upanishad",
+        "chapter": 10,
+        "introduction": "The Brihadaranyaka Upanishad is one of the oldest and longest Upanishads and forms the concluding portion of the Shatapatha Brahmana of the Shukla Yajurveda.",
+        "philosophical_explanation": "The Brihadaranyaka Upanishad represents the pinnacle of Yajurvedic philosophical thought, teaching that the individual self and the universal self are identical and that liberation comes through direct knowledge of this fundamental truth.",
+        "scripture_text": "The text contains famous dialogues including the conversation between Yajnavalkya and Maitreyi on the nature of the self, and Yajnavalkya's teachings to King Janaka about Brahman. The great saying 'Aham Brahmasmi' or 'I am Brahman' originates from this Upanishad."
+      }
+    ]
+  }
+}

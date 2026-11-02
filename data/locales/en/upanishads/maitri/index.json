@@ -1,0 +1,61 @@
+{
+  "maitri": {
+    "title": "Maitri Upanishad – Upanishad Teachings in Sanātana Dharma",
+    "description": "Overview of Maitri Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+    "meta": {
+      "title": "Maitri Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "description": "Overview of Maitri Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "canonical": "https://sanatanadharmam.in/upanishads/maitri",
+      "keywords": [
+        "Maitri Upanishad",
+        "Upanishads",
+        "Vedanta",
+        "Atman",
+        "Brahman",
+        "Sanatana Dharma"
+      ],
+      "ogImage": "https://sanatanadharmam.in/og/upanishads_maitri_upanishad.png",
+      "robots": "index, follow",
+      "url": "https://sanatanadharmam.in/upanishads/maitri"
+    },
+    "introduction": "Maitri Upanishad is one of the principal Upanishads—texts that explore the deepest questions of human life: Who am I? What is real? What is the Self (Atman) and the ultimate reality (Brahman)? Upanishadic teaching is often presented as dialogue and inquiry. Rather than offering a single “belief”, it trains attention and discernment so a seeker can move from outer identity to inner truth. The Maitri (Maitrayaniya) Upanishad discusses mind, time, and disciplined practice. It often reads like a bridge between early Upanishadic inquiry and later yoga-oriented approaches to mental training.",
+    "openGraph": {
+      "title": "Maitri Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "description": "Overview of Maitri Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "images": [
+        {
+          "alt": "Maitri Upanishad – Upanishad Teachings in Sanātana Dharma",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/og/upanishads_maitri_upanishad.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "url": "https://sanatanadharmam.in/upanishads/maitri"
+    },
+    "philosophical_explanation": "Maitri emphasizes the mind as the main spiritual instrument. By training it—through ethical living, meditation, and discernment—the seeker becomes capable of stable insight rather than temporary inspiration.",
+    "scripture_text": [
+      {
+        "content": "Mind as the key to bondage and freedom, contemplation on time and change, and the practical need for meditation and restraint.",
+        "section": "Central themes"
+      },
+      {
+        "content": "The message is simple and demanding: if the mind is refined, the world becomes lighter; if it is uncontrolled, even success becomes suffering.",
+        "section": "Practice reflection"
+      }
+    ],
+    "schema": {
+      "description": "Overview of Maitri Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Sanatanadharmam",
+        "url": "https://sanatanadharmam.in"
+      },
+      "name": "Maitri Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "url": "https://sanatanadharmam.in/upanishads/maitri"
+    }
+  }
+}

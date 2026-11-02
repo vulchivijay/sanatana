@@ -1,0 +1,196 @@
+{
+  "itihasa": {
+    "title": "Itihasa – Ramayana, Mahabharata and Bhagavad Gita | Sanatana Dharma",
+    "description": "Discover the Itihasas of Sanatana Dharma including the Ramayana, Mahabharata and Bhagavad Gita. These ancient epics teach dharma, devotion and spiritual wisdom.",
+    "meta": {
+      "title": "Itihasa – Ramayana, Mahabharata and Bhagavad Gita | Sanatana Dharma",
+      "description": "Discover the Itihasas of Sanatana Dharma including the Ramayana, Mahabharata and Bhagavad Gita. These ancient epics teach dharma, devotion and spiritual wisdom.",
+      "canonical": "https://sanatanadharmam.in/itihasa",
+      "keywords": [
+        "Itihasa",
+        "Ramayana",
+        "Mahabharata",
+        "Bhagavad Gita",
+        "Hindu epics",
+        "Sanatana Dharma epics",
+        "Indian epics",
+        "Itihasa meaning"
+      ],
+      "url": "https://sanatanadharmam.in/itihasa"
+    },
+    "openGraph": {
+      "title": "Itihasa – Sacred Epics of Sanatana Dharma",
+      "description": "Explore the great epics of Sanatana Dharma including the Ramayana, Mahabharata and Bhagavad Gita.",
+      "images": [
+        {
+          "alt": "Itihasa – Ramayana Mahabharata Bhagavad Gita",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/og/itihasa.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "url": "https://sanatanadharmam.in/itihasa"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "description": "The Itihasas are historical epics of Sanatana Dharma including Ramayana, Mahabharata and Bhagavad Gita.",
+          "@type": "CollectionPage",
+          "name": "Itihasa",
+          "url": "https://sanatanadharmam.in/itihasa"
+        },
+        {
+          "@type": "CreativeWork",
+          "author": "Valmiki",
+          "name": "Ramayana"
+        },
+        {
+          "@type": "CreativeWork",
+          "author": "Ved Vyasa",
+          "name": "Mahabharata"
+        },
+        {
+          "@type": "CreativeWork",
+          "isPartOf": "Mahabharata",
+          "name": "Bhagavad Gita"
+        }
+      ]
+    },
+    "meaning": "The word 'Itihasa' means 'this is how it happened'. It refers to ancient epic histories that teach life lessons through real-life-like stories.",
+    "introduction": "Itihasa includes the great epics Ramayana and Mahabharata. These are not just stories but guides to living a meaningful life. They show how people face challenges, make decisions, and deal with right and wrong. Through characters and events, they teach dharma (right action), relationships, leadership, and spiritual growth.",
+    "core_purpose": [
+      "To teach dharma through real-life situations",
+      "To show consequences of right and wrong actions",
+      "To guide people in relationships, duty, and decision-making",
+      "To explain spiritual truths through practical examples",
+      "To inspire courage, devotion, and wisdom"
+    ],
+    "key_features": [
+      {
+        "feature": "Real-life situations",
+        "explanation": "Stories are based on human struggles like family conflict, duty, and choices.",
+        "deep_understanding": [
+          "Shows how dharma is not always simple or easy",
+          "Different people may have different duties",
+          "Right action depends on situation and responsibility"
+        ]
+      },
+      {
+        "feature": "Complex characters",
+        "explanation": "Characters are not perfect; they have strengths and weaknesses.",
+        "deep_understanding": [
+          "Even good people make mistakes",
+          "Growth comes through challenges",
+          "Human nature is deeply explored"
+        ]
+      },
+      {
+        "feature": "Dharma in action",
+        "explanation": "Teaches how to apply values in real life.",
+        "deep_understanding": [
+          "Dharma is practical, not theoretical",
+          "Requires wisdom and judgment",
+          "Sometimes involves difficult choices"
+        ]
+      },
+      {
+        "feature": "Spiritual guidance",
+        "explanation": "Contains deep teachings about life and self-realization.",
+        "deep_understanding": [
+          "Includes teachings like the Bhagavad Gita",
+          "Explains purpose of life and inner growth",
+          "Guides toward liberation (moksha)"
+        ]
+      }
+    ],
+    "major_itihasas": [
+      {
+        "name": "Ramayana",
+        "focus": "Ideal life and righteous living",
+        "summary": "The story of Lord Rama, who follows dharma even in difficult situations. It shows ideal behavior in roles like son, king, husband, and friend.",
+        "key_lessons": [
+          "Always follow truth and duty",
+          "Stay strong during challenges",
+          "Respect relationships and responsibilities",
+          "Good ultimately wins over evil"
+        ],
+        "main_characters": [
+          "Rama (ideal human and king)",
+          "Sita (strength and purity)",
+          "Lakshmana (loyalty and service)",
+          "Hanuman (devotion and strength)",
+          "Ravana (ego and desire)"
+        ]
+      },
+      {
+        "name": "Mahabharata",
+        "focus": "Complex life situations and moral decisions",
+        "summary": "A large epic about a family conflict that leads to a great war. It shows how dharma can be complex and difficult to follow.",
+        "key_lessons": [
+          "Life is not always black and white",
+          "Right decisions require wisdom",
+          "Actions have long-term consequences",
+          "Inner strength is important during conflict"
+        ],
+        "main_characters": [
+          "Krishna (divine guide and wisdom)",
+          "Arjuna (confused seeker)",
+          "Yudhishthira (truth and justice)",
+          "Bhishma (duty and sacrifice)",
+          "Duryodhana (greed and ego)"
+        ],
+        "special_teaching": {
+          "name": "Bhagavad Gita",
+          "importance": "A direct spiritual guide within the epic",
+          "simple_understanding": "Teaches how to act without attachment and understand life deeply"
+        }
+      }
+    ],
+    "important_concepts": [
+      {
+        "concept": "Dharma (Right Action)",
+        "explanation": "Doing the right thing based on situation and responsibility",
+        "deep_understanding": [
+          "Not always easy or obvious",
+          "Requires wisdom and awareness",
+          "Changes based on role and context"
+        ]
+      },
+      {
+        "concept": "Karma (Action and Result)",
+        "explanation": "Every action leads to consequences",
+        "deep_understanding": [
+          "Actions shape future outcomes",
+          "Intentions also matter",
+          "No action is without result"
+        ]
+      },
+      {
+        "concept": "Free Will and Choice",
+        "explanation": "Humans have the ability to choose their actions",
+        "deep_understanding": [
+          "Choices define character",
+          "Even small decisions matter",
+          "Responsibility comes with freedom"
+        ]
+      }
+    ],
+    "learning_approach": [
+      "Start with the main story to understand context",
+      "Focus on characters and their decisions",
+      "Reflect on what you would do in similar situations",
+      "Understand the deeper message behind events",
+      "Apply lessons in daily life"
+    ],
+    "modern_relevance": [
+      "Helps in making better life decisions",
+      "Improves understanding of relationships",
+      "Builds emotional strength and resilience",
+      "Provides clarity in difficult situations",
+      "Teaches leadership and responsibility"
+    ]
+  }
+}

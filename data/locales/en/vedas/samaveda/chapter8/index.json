@@ -1,0 +1,1077 @@
+{
+  "book8": {
+    "id": "SV-BOOK-8",
+    "title": "Samaveda Chapter 8 – Chant Variations, Forms & Meaning",
+    "description": "Explore Samaveda Chapter 8 focusing on chant variations, melodic forms, and recitation styles used in Vedic chanting traditions.",
+    "meta": {
+      "title": "Samaveda Chapter 8 – Chant Variations & Forms",
+      "canonical": "https://sanatanadharmam.in/vedas/samaveda/chapter8",
+      "description": "Explore Samaveda Chapter 8 explaining chant variations, melodic structures, and recitation forms in Vedic chanting.",
+      "keywords": [
+        "samaveda chapter 8",
+        "samaveda chant variations",
+        "vedic chant forms",
+        "samaveda melody patterns",
+        "saman chanting styles",
+        "vedic recitation forms",
+        "samaveda singing variations",
+        "samaveda mantra explanation",
+        "sanatana dharma samaveda",
+        "samaveda chapter 8 summary"
+      ],
+      "robots": "index, follow, max-image-preview:large",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter8"
+    },
+    "openGraph": {
+      "title": "Samaveda Chapter 8 – Chant Variations & Forms",
+      "description": "Learn about chant variations and melodic forms in Samaveda chanting traditions.",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter8",
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "images": [
+        {
+          "url": "https://sanatanadharmam.in/images/og/samaveda-chapter8.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "Samaveda Chapter 8 Chant Variations and Forms"
+        }
+      ]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Samaveda Chapter 8 – Chant Variations and Forms",
+          "description": "Detailed presentation of Samaveda Chapter 8 including chant variations, melodic structures, and recitation techniques.",
+          "author": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sanatanadharmam.in/images/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://sanatanadharmam.in/vedas/samaveda/chapter8"
+          },
+          "datePublished": "2024-01-01",
+          "dateModified": "2026-01-01",
+          "inLanguage": "en",
+          "about": {
+            "@type": "CreativeWork",
+            "name": "Samaveda Chapter 8",
+            "description": "The eighth chapter of the Samaveda focusing on variations in chanting, melodic patterns, and recitation forms of Sama chants."
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "Samaveda Chapter 8",
+          "url": "https://sanatanadharmam.in/vedas/samaveda/chapter8"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sanatanadharmam.in"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vedas",
+              "item": "https://sanatanadharmam.in/vedas"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Samaveda",
+              "item": "https://sanatanadharmam.in/vedas/samaveda"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Chapter 8",
+              "item": "https://sanatanadharmam.in/vedas/samaveda/chapter8"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in",
+          "logo": "https://sanatanadharmam.in/images/logo.png"
+        }
+      ]
+    },
+    "chants": [
+      {
+        "id": 1,
+        "chant_id": "SV-8-1",
+        "rigveda_ref": "RV 1.192.1",
+        "theme": "Invocation",
+        "text": {
+          "sanskrit": "विष्णुं हवामहे विश्वस्य धारकम्",
+          "transliteration": "viṣṇuṁ havāmahe viśvasya dhārakam",
+          "meaning": "We invoke Vishnu, the sustainer of the universe."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "stable deep",
+          "usage": "Invocation"
+        }
+      },
+      {
+        "id": 2,
+        "chant_id": "SV-8-2",
+        "rigveda_ref": "RV 1.192.2",
+        "theme": "Sustenance",
+        "text": {
+          "sanskrit": "विष्णुः जगत् धारयति",
+          "transliteration": "viṣṇuḥ jagat dhārayati",
+          "meaning": "Vishnu sustains the world."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Sustenance"
+        }
+      },
+      {
+        "id": 3,
+        "chant_id": "SV-8-3",
+        "rigveda_ref": "RV 1.193.1",
+        "theme": "Stability",
+        "text": {
+          "sanskrit": "विष्णुः स्थिरतां ददातु",
+          "transliteration": "viṣṇuḥ sthiratāṁ dadātu",
+          "meaning": "May Vishnu grant stability."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "grounded",
+          "usage": "Stability"
+        }
+      },
+      {
+        "id": 4,
+        "chant_id": "SV-8-4",
+        "rigveda_ref": "RV 1.193.2",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "विष्णुः नः रक्षतु",
+          "transliteration": "viṣṇuḥ naḥ rakṣatu",
+          "meaning": "May Vishnu protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 5,
+        "chant_id": "SV-8-5",
+        "rigveda_ref": "RV 1.194.1",
+        "theme": "Expansion",
+        "text": {
+          "sanskrit": "विष्णुः विस्तारं करोतु",
+          "transliteration": "viṣṇuḥ vistāraṁ karotu",
+          "meaning": "May Vishnu expand existence."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Expansion"
+        }
+      },
+      {
+        "id": 6,
+        "chant_id": "SV-8-6",
+        "rigveda_ref": "RV 1.194.2",
+        "theme": "Order",
+        "text": {
+          "sanskrit": "विष्णुः ऋतं स्थापयतु",
+          "transliteration": "viṣṇuḥ ṛtaṁ sthāpayatu",
+          "meaning": "May Vishnu establish cosmic order (Rta)."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "balanced",
+          "usage": "Cosmic order"
+        }
+      },
+      {
+        "id": 7,
+        "chant_id": "SV-8-7",
+        "rigveda_ref": "RV 1.195.1",
+        "theme": "Support",
+        "text": {
+          "sanskrit": "विष्णुः आधारं ददातु",
+          "transliteration": "viṣṇuḥ ādhāraṁ dadātu",
+          "meaning": "May Vishnu provide foundation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "stable",
+          "usage": "Support"
+        }
+      },
+      {
+        "id": 8,
+        "chant_id": "SV-8-8",
+        "rigveda_ref": "RV 1.195.2",
+        "theme": "Continuity",
+        "text": {
+          "sanskrit": "विष्णुः निरन्तरं वहतु",
+          "transliteration": "viṣṇuḥ nirantaraṁ vahatu",
+          "meaning": "May Vishnu sustain continuity."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "flowing steady",
+          "usage": "Continuity"
+        }
+      },
+      {
+        "id": 9,
+        "chant_id": "SV-8-9",
+        "rigveda_ref": "RV 1.196.1",
+        "theme": "Awareness",
+        "text": {
+          "sanskrit": "विष्णुः चेतना ददातु",
+          "transliteration": "viṣṇuḥ cetanā dadātu",
+          "meaning": "May Vishnu grant awareness."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clear",
+          "usage": "Awareness"
+        }
+      },
+      {
+        "id": 10,
+        "chant_id": "SV-8-10",
+        "rigveda_ref": "RV 1.196.2",
+        "theme": "Clarity",
+        "text": {
+          "sanskrit": "विष्णुः प्रकाशं ददातु",
+          "transliteration": "viṣṇuḥ prakāśaṁ dadātu",
+          "meaning": "May Vishnu grant clarity."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "balanced bright",
+          "usage": "Clarity"
+        }
+      },
+      {
+        "id": 11,
+        "chant_id": "SV-8-11",
+        "rigveda_ref": "RV 1.197.1",
+        "theme": "Harmony",
+        "text": {
+          "sanskrit": "विष्णुः समत्वं ददातु",
+          "transliteration": "viṣṇuḥ samatvaṁ dadātu",
+          "meaning": "May Vishnu grant harmony."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "balanced tone",
+          "usage": "Harmony"
+        }
+      },
+      {
+        "id": 12,
+        "chant_id": "SV-8-12",
+        "rigveda_ref": "RV 1.197.2",
+        "theme": "Truth",
+        "text": {
+          "sanskrit": "विष्णुः सत्यं स्थापयतु",
+          "transliteration": "viṣṇuḥ satyaṁ sthāpayatu",
+          "meaning": "May Vishnu establish truth."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clear stable",
+          "usage": "Truth"
+        }
+      },
+      {
+        "id": 13,
+        "chant_id": "SV-8-13",
+        "rigveda_ref": "RV 1.198.1",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "विष्णुः बलं ददातु",
+          "transliteration": "viṣṇuḥ balaṁ dadātu",
+          "meaning": "May Vishnu grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 14,
+        "chant_id": "SV-8-14",
+        "rigveda_ref": "RV 1.198.2",
+        "theme": "Balance",
+        "text": {
+          "sanskrit": "विष्णुः समं धारयतु",
+          "transliteration": "viṣṇuḥ samaṁ dhārayatu",
+          "meaning": "May Vishnu maintain balance."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "balanced",
+          "usage": "Balance"
+        }
+      },
+      {
+        "id": 15,
+        "chant_id": "SV-8-15",
+        "rigveda_ref": "RV 1.199.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "विष्णुः नः रक्षतु",
+          "transliteration": "viṣṇuḥ naḥ rakṣatu",
+          "meaning": "May Vishnu protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 16,
+        "chant_id": "SV-8-16",
+        "rigveda_ref": "RV 1.199.2",
+        "theme": "Energy flow",
+        "text": {
+          "sanskrit": "विष्णुः ऊर्जा वहतु",
+          "transliteration": "viṣṇuḥ ūrjā vahatu",
+          "meaning": "May Vishnu carry energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady flow",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 17,
+        "chant_id": "SV-8-17",
+        "rigveda_ref": "RV 1.200.1",
+        "theme": "Sustenance",
+        "text": {
+          "sanskrit": "विष्णुः प्राणं ददातु",
+          "transliteration": "viṣṇuḥ prāṇaṁ dadātu",
+          "meaning": "May Vishnu sustain life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "stable warm",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 18,
+        "chant_id": "SV-8-18",
+        "rigveda_ref": "RV 1.200.2",
+        "theme": "Liberation",
+        "text": {
+          "sanskrit": "विष्णुः मुक्तिं ददातु",
+          "transliteration": "viṣṇuḥ muktiṁ dadātu",
+          "meaning": "May Vishnu grant liberation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "ascending calm",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 19,
+        "chant_id": "SV-8-19",
+        "rigveda_ref": "RV 1.201.1",
+        "theme": "Completion",
+        "text": {
+          "sanskrit": "विष्णुः यज्ञं पूर्णं करोतु",
+          "transliteration": "viṣṇuḥ yajñaṁ pūrṇaṁ karotu",
+          "meaning": "May Vishnu complete the ritual."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "closing stable",
+          "usage": "Completion"
+        }
+      },
+      {
+        "id": 20,
+        "chant_id": "SV-8-20",
+        "rigveda_ref": "RV 1.201.2",
+        "theme": "Renewal",
+        "text": {
+          "sanskrit": "विष्णुः पुनः प्रवर्तयतु",
+          "transliteration": "viṣṇuḥ punaḥ pravartayatu",
+          "meaning": "May Vishnu restart the cosmic cycle."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady renewal",
+          "usage": "Renewal"
+        }
+      },
+      {
+        "id": 21,
+        "chant_id": "SV-8-21",
+        "rigveda_ref": "RV 1.202.1",
+        "theme": "Reinforcement",
+        "text": {
+          "sanskrit": "विष्णुं पुनः हवामहे विश्वस्य धारकम्",
+          "transliteration": "viṣṇuṁ punaḥ havāmahe viśvasya dhārakam",
+          "meaning": "We again invoke Vishnu, sustainer of the universe."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "stable repetitive",
+          "usage": "Reinforcement"
+        }
+      },
+      {
+        "id": 22,
+        "chant_id": "SV-8-22",
+        "rigveda_ref": "RV 1.202.2",
+        "theme": "Sustenance",
+        "text": {
+          "sanskrit": "विष्णुः जगत् धारयति",
+          "transliteration": "viṣṇuḥ jagat dhārayati",
+          "meaning": "Vishnu sustains the world."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Sustenance"
+        }
+      },
+      {
+        "id": 23,
+        "chant_id": "SV-8-23",
+        "rigveda_ref": "RV 1.203.1",
+        "theme": "Stability",
+        "text": {
+          "sanskrit": "विष्णुः स्थिरतां ददातु",
+          "transliteration": "viṣṇuḥ sthiratāṁ dadātu",
+          "meaning": "May Vishnu grant stability."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "grounded",
+          "usage": "Stability"
+        }
+      },
+      {
+        "id": 24,
+        "chant_id": "SV-8-24",
+        "rigveda_ref": "RV 1.203.2",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "विष्णुः नः रक्षतु",
+          "transliteration": "viṣṇuḥ naḥ rakṣatu",
+          "meaning": "May Vishnu protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 25,
+        "chant_id": "SV-8-25",
+        "rigveda_ref": "RV 1.204.1",
+        "theme": "Expansion",
+        "text": {
+          "sanskrit": "विष्णुः विस्तारं करोतु",
+          "transliteration": "viṣṇuḥ vistāraṁ karotu",
+          "meaning": "May Vishnu expand existence."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Expansion"
+        }
+      },
+      {
+        "id": 26,
+        "chant_id": "SV-8-26",
+        "rigveda_ref": "RV 1.204.2",
+        "theme": "Order",
+        "text": {
+          "sanskrit": "विष्णुः ऋतं स्थापयतु",
+          "transliteration": "viṣṇuḥ ṛtaṁ sthāpayatu",
+          "meaning": "May Vishnu establish cosmic order."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "balanced",
+          "usage": "Cosmic order"
+        }
+      },
+      {
+        "id": 27,
+        "chant_id": "SV-8-27",
+        "rigveda_ref": "RV 1.205.1",
+        "theme": "Support",
+        "text": {
+          "sanskrit": "विष्णुः आधारं ददातु",
+          "transliteration": "viṣṇuḥ ādhāraṁ dadātu",
+          "meaning": "May Vishnu provide foundation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "stable",
+          "usage": "Support"
+        }
+      },
+      {
+        "id": 28,
+        "chant_id": "SV-8-28",
+        "rigveda_ref": "RV 1.205.2",
+        "theme": "Continuity",
+        "text": {
+          "sanskrit": "विष्णुः निरन्तरं वहतु",
+          "transliteration": "viṣṇuḥ nirantaraṁ vahatu",
+          "meaning": "May Vishnu sustain continuity."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "flowing steady",
+          "usage": "Continuity"
+        }
+      },
+      {
+        "id": 29,
+        "chant_id": "SV-8-29",
+        "rigveda_ref": "RV 1.206.1",
+        "theme": "Awareness",
+        "text": {
+          "sanskrit": "विष्णुः चेतना ददातु",
+          "transliteration": "viṣṇuḥ cetanā dadātu",
+          "meaning": "May Vishnu grant awareness."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clear",
+          "usage": "Awareness"
+        }
+      },
+      {
+        "id": 30,
+        "chant_id": "SV-8-30",
+        "rigveda_ref": "RV 1.206.2",
+        "theme": "Clarity",
+        "text": {
+          "sanskrit": "विष्णुः प्रकाशं ददातु",
+          "transliteration": "viṣṇuḥ prakāśaṁ dadātu",
+          "meaning": "May Vishnu grant clarity."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "balanced bright",
+          "usage": "Clarity"
+        }
+      },
+      {
+        "id": 31,
+        "chant_id": "SV-8-31",
+        "rigveda_ref": "RV 1.207.1",
+        "theme": "Harmony",
+        "text": {
+          "sanskrit": "विष्णुः समत्वं ददातु",
+          "transliteration": "viṣṇuḥ samatvaṁ dadātu",
+          "meaning": "May Vishnu grant harmony."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "balanced tone",
+          "usage": "Harmony"
+        }
+      },
+      {
+        "id": 32,
+        "chant_id": "SV-8-32",
+        "rigveda_ref": "RV 1.207.2",
+        "theme": "Truth",
+        "text": {
+          "sanskrit": "विष्णुः सत्यं स्थापयतु",
+          "transliteration": "viṣṇuḥ satyaṁ sthāpayatu",
+          "meaning": "May Vishnu establish truth."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clear stable",
+          "usage": "Truth"
+        }
+      },
+      {
+        "id": 33,
+        "chant_id": "SV-8-33",
+        "rigveda_ref": "RV 1.208.1",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "विष्णुः बलं ददातु",
+          "transliteration": "viṣṇuḥ balaṁ dadātu",
+          "meaning": "May Vishnu grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 34,
+        "chant_id": "SV-8-34",
+        "rigveda_ref": "RV 1.208.2",
+        "theme": "Balance",
+        "text": {
+          "sanskrit": "विष्णुः समं धारयतु",
+          "transliteration": "viṣṇuḥ samaṁ dhārayatu",
+          "meaning": "May Vishnu maintain balance."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "balanced",
+          "usage": "Balance"
+        }
+      },
+      {
+        "id": 35,
+        "chant_id": "SV-8-35",
+        "rigveda_ref": "RV 1.209.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "विष्णुः नः रक्षतु",
+          "transliteration": "viṣṇuḥ naḥ rakṣatu",
+          "meaning": "May Vishnu protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 36,
+        "chant_id": "SV-8-36",
+        "rigveda_ref": "RV 1.209.2",
+        "theme": "Energy flow",
+        "text": {
+          "sanskrit": "विष्णुः ऊर्जा वहतु",
+          "transliteration": "viṣṇuḥ ūrjā vahatu",
+          "meaning": "May Vishnu carry energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady flow",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 37,
+        "chant_id": "SV-8-37",
+        "rigveda_ref": "RV 1.210.1",
+        "theme": "Sustenance",
+        "text": {
+          "sanskrit": "विष्णुः प्राणं ददातु",
+          "transliteration": "viṣṇuḥ prāṇaṁ dadātu",
+          "meaning": "May Vishnu sustain life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "stable warm",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 38,
+        "chant_id": "SV-8-38",
+        "rigveda_ref": "RV 1.210.2",
+        "theme": "Liberation",
+        "text": {
+          "sanskrit": "विष्णुः मुक्तिं ददातु",
+          "transliteration": "viṣṇuḥ muktiṁ dadātu",
+          "meaning": "May Vishnu grant liberation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "ascending calm",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 39,
+        "chant_id": "SV-8-39",
+        "rigveda_ref": "RV 1.211.1",
+        "theme": "Completion",
+        "text": {
+          "sanskrit": "विष्णुः यज्ञं पूर्णं करोतु",
+          "transliteration": "viṣṇuḥ yajñaṁ pūrṇaṁ karotu",
+          "meaning": "May Vishnu complete the ritual."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "closing stable",
+          "usage": "Completion"
+        }
+      },
+      {
+        "id": 40,
+        "chant_id": "SV-8-40",
+        "rigveda_ref": "RV 1.211.2",
+        "theme": "Cycle renewal",
+        "text": {
+          "sanskrit": "विष्णुः पुनः प्रवर्तयतु",
+          "transliteration": "viṣṇuḥ punaḥ pravartayatu",
+          "meaning": "May Vishnu restart the cosmic cycle."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady renewal",
+          "usage": "Renewal"
+        }
+      },
+      {
+        "id": 41,
+        "chant_id": "SV-8-41",
+        "rigveda_ref": "RV 1.212.1",
+        "theme": "Reinforcement",
+        "text": {
+          "sanskrit": "विष्णुं पुनः हवामहे विश्वस्य धारकम्",
+          "transliteration": "viṣṇuṁ punaḥ havāmahe viśvasya dhārakam",
+          "meaning": "We again invoke Vishnu, sustainer of the universe."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "stable repetitive",
+          "usage": "Reinforcement"
+        }
+      },
+      {
+        "id": 42,
+        "chant_id": "SV-8-42",
+        "rigveda_ref": "RV 1.212.2",
+        "theme": "Sustenance",
+        "text": {
+          "sanskrit": "विष्णुः जगत् धारयति",
+          "transliteration": "viṣṇuḥ jagat dhārayati",
+          "meaning": "Vishnu sustains the world."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Sustenance"
+        }
+      },
+      {
+        "id": 43,
+        "chant_id": "SV-8-43",
+        "rigveda_ref": "RV 1.213.1",
+        "theme": "Stability",
+        "text": {
+          "sanskrit": "विष्णुः स्थिरतां ददातु",
+          "transliteration": "viṣṇuḥ sthiratāṁ dadātu",
+          "meaning": "May Vishnu grant stability."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "grounded",
+          "usage": "Stability"
+        }
+      },
+      {
+        "id": 44,
+        "chant_id": "SV-8-44",
+        "rigveda_ref": "RV 1.213.2",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "विष्णुः नः रक्षतु",
+          "transliteration": "viṣṇuḥ naḥ rakṣatu",
+          "meaning": "May Vishnu protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 45,
+        "chant_id": "SV-8-45",
+        "rigveda_ref": "RV 1.214.1",
+        "theme": "Expansion",
+        "text": {
+          "sanskrit": "विष्णुः विस्तारं करोतु",
+          "transliteration": "viṣṇuḥ vistāraṁ karotu",
+          "meaning": "May Vishnu expand existence."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Expansion"
+        }
+      },
+      {
+        "id": 46,
+        "chant_id": "SV-8-46",
+        "rigveda_ref": "RV 1.214.2",
+        "theme": "Order",
+        "text": {
+          "sanskrit": "विष्णुः ऋतं स्थापयतु",
+          "transliteration": "viṣṇuḥ ṛtaṁ sthāpayatu",
+          "meaning": "May Vishnu establish cosmic order."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "balanced",
+          "usage": "Cosmic order"
+        }
+      },
+      {
+        "id": 47,
+        "chant_id": "SV-8-47",
+        "rigveda_ref": "RV 1.215.1",
+        "theme": "Support",
+        "text": {
+          "sanskrit": "विष्णुः आधारं ददातु",
+          "transliteration": "viṣṇuḥ ādhāraṁ dadātu",
+          "meaning": "May Vishnu provide foundation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "stable",
+          "usage": "Support"
+        }
+      },
+      {
+        "id": 48,
+        "chant_id": "SV-8-48",
+        "rigveda_ref": "RV 1.215.2",
+        "theme": "Continuity",
+        "text": {
+          "sanskrit": "विष्णुः निरन्तरं वहतु",
+          "transliteration": "viṣṇuḥ nirantaraṁ vahatu",
+          "meaning": "May Vishnu sustain continuity."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "flowing steady",
+          "usage": "Continuity"
+        }
+      },
+      {
+        "id": 49,
+        "chant_id": "SV-8-49",
+        "rigveda_ref": "RV 1.216.1",
+        "theme": "Awareness",
+        "text": {
+          "sanskrit": "विष्णुः चेतना ददातु",
+          "transliteration": "viṣṇuḥ cetanā dadātu",
+          "meaning": "May Vishnu grant awareness."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clear",
+          "usage": "Awareness"
+        }
+      },
+      {
+        "id": 50,
+        "chant_id": "SV-8-50",
+        "rigveda_ref": "RV 1.216.2",
+        "theme": "Clarity",
+        "text": {
+          "sanskrit": "विष्णुः प्रकाशं ददातु",
+          "transliteration": "viṣṇuḥ prakāśaṁ dadātu",
+          "meaning": "May Vishnu grant clarity."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "balanced bright",
+          "usage": "Clarity"
+        }
+      },
+      {
+        "id": 51,
+        "chant_id": "SV-8-51",
+        "rigveda_ref": "RV 1.217.1",
+        "theme": "Harmony",
+        "text": {
+          "sanskrit": "विष्णुः समत्वं ददातु",
+          "transliteration": "viṣṇuḥ samatvaṁ dadātu",
+          "meaning": "May Vishnu grant harmony."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "balanced tone",
+          "usage": "Harmony"
+        }
+      },
+      {
+        "id": 52,
+        "chant_id": "SV-8-52",
+        "rigveda_ref": "RV 1.217.2",
+        "theme": "Truth",
+        "text": {
+          "sanskrit": "विष्णुः सत्यं स्थापयतु",
+          "transliteration": "viṣṇuḥ satyaṁ sthāpayatu",
+          "meaning": "May Vishnu establish truth."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clear stable",
+          "usage": "Truth"
+        }
+      },
+      {
+        "id": 53,
+        "chant_id": "SV-8-53",
+        "rigveda_ref": "RV 1.218.1",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "विष्णुः बलं ददातु",
+          "transliteration": "viṣṇuḥ balaṁ dadātu",
+          "meaning": "May Vishnu grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 54,
+        "chant_id": "SV-8-54",
+        "rigveda_ref": "RV 1.218.2",
+        "theme": "Balance",
+        "text": {
+          "sanskrit": "विष्णुः समं धारयतु",
+          "transliteration": "viṣṇuḥ samaṁ dhārayatu",
+          "meaning": "May Vishnu maintain balance."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "balanced",
+          "usage": "Balance"
+        }
+      },
+      {
+        "id": 55,
+        "chant_id": "SV-8-55",
+        "rigveda_ref": "RV 1.219.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "विष्णुः नः रक्षतु",
+          "transliteration": "viṣṇuḥ naḥ rakṣatu",
+          "meaning": "May Vishnu protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 56,
+        "chant_id": "SV-8-56",
+        "rigveda_ref": "RV 1.219.2",
+        "theme": "Energy flow",
+        "text": {
+          "sanskrit": "विष्णुः ऊर्जा वहतु",
+          "transliteration": "viṣṇuḥ ūrjā vahatu",
+          "meaning": "May Vishnu carry energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady flow",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 57,
+        "chant_id": "SV-8-57",
+        "rigveda_ref": "RV 1.220.1",
+        "theme": "Sustenance",
+        "text": {
+          "sanskrit": "विष्णुः प्राणं ददातु",
+          "transliteration": "viṣṇuḥ prāṇaṁ dadātu",
+          "meaning": "May Vishnu sustain life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "stable warm",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 58,
+        "chant_id": "SV-8-58",
+        "rigveda_ref": "RV 1.220.2",
+        "theme": "Liberation",
+        "text": {
+          "sanskrit": "विष्णुः मुक्तिं ददातु",
+          "transliteration": "viṣṇuḥ muktiṁ dadātu",
+          "meaning": "May Vishnu grant liberation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "ascending calm",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 59,
+        "chant_id": "SV-8-59",
+        "rigveda_ref": "RV 1.221.1",
+        "theme": "Completion",
+        "text": {
+          "sanskrit": "विष्णुः यज्ञं पूर्णं करोतु",
+          "transliteration": "viṣṇuḥ yajñaṁ pūrṇaṁ karotu",
+          "meaning": "May Vishnu complete the ritual."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "closing stable",
+          "usage": "Completion"
+        }
+      },
+      {
+        "id": 60,
+        "chant_id": "SV-8-60",
+        "rigveda_ref": "RV 1.221.2",
+        "theme": "Cycle renewal",
+        "text": {
+          "sanskrit": "विष्णुः पुनः प्रवर्तयतु",
+          "transliteration": "viṣṇuḥ punaḥ pravartayatu",
+          "meaning": "May Vishnu restart the cosmic cycle."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady renewal",
+          "usage": "Renewal"
+        }
+      }
+    ]
+  }
+}

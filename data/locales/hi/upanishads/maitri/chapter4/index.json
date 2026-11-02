@@ -1,0 +1,26 @@
+﻿{
+  "maitri_chapter4": {
+    "title": "Maitri Chapter 4",
+    "description": "Chapter 4 from Maitri.",
+    "meta": {
+      "title": "Maitri Chapter 4",
+      "canonical": "https://sanatanadharmam.in/upanishads/maitri/chapter-4",
+      "description": "Chapter 4 from Maitri.",
+      "url": "https://sanatanadharmam.in/upanishads/maitri/chapter-4"
+    },
+    "openGraph": {
+      "title": "Maitri Chapter 4",
+      "description": "Chapter 4 from Maitri.",
+      "url": "https://sanatanadharmam.in/upanishads/maitri/chapter-4",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Maitri.",
+    "scripture_text": "Chapter-level summary text for Maitri, Chapter 4.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 4,
+      "path": "/upanishads/maitri/chapter-4"
+    }
+  }
+}

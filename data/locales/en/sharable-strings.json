@@ -1,0 +1,492 @@
+{
+  "sharable-strings": {
+    "sitetitle": "Sanātana Dharma",
+    "banner_notifications": {
+      "title": "If you find our work helpful, consider supporting us to keep this web page",
+      "links": {
+        "alive": "/donate"
+      },
+      "subtitle": "and Help us grow by making a small donation."
+    },
+    "banner_notifications2": {
+      "title": "Protecting the roots of Sanātana Dharma for a brighter future.",
+      "subtitle": "Empowering future generations through timeless Vedic knowledge."
+    },
+    "header": {
+      "itihasa": {
+        "title": "Itihasa",
+        "nav": [
+          {
+            "description": "Epic describing the life of Lord Rama.",
+            "author": "Valmiki",
+            "kandas": {
+              "aranya-kanda": "Aranya Kanda",
+              "ayodhya-kanda": "Ayodhya Kanda",
+              "bala-kanda": "Bala Kanda",
+              "kishkinda-kanda": "Kishkindha Kanda",
+              "sundara-kanda": "Sundara Kanda",
+              "uttara-kanda": "Uttara Kanda",
+              "yuddha-kanda": "Yuddha Kanda"
+            },
+            "name": "Ramayana"
+          },
+          {
+            "description": "Epic describing the Kurukshetra war and dharma.",
+            "author": "Vyasa",
+            "name": "Mahabharata",
+            "parvas": 18
+          },
+          {
+            "description": "Sacred dialogue between Lord Krishna and Arjuna.",
+            "chapters": 18,
+            "chapters_list": {
+              "akshara-brahma-yoga": "Akshara Brahma Yoga",
+              "arjuna-vishada-yoga": "Arjuna Vishada Yoga",
+              "bhakti-yoga": "Bhakti Yoga",
+              "daivasura-sampad-vibhaga-yoga": "Daivasura Sampad Vibhaga Yoga",
+              "dhyana-yoga": "Dhyana Yoga",
+              "gunatraya-vibhaga-yoga": "Gunatraya Vibhaga Yoga",
+              "jnana-karma-sanyasa-yoga": "Jnana Karma Sanyasa Yoga",
+              "jnana-vijnana-yoga": "Jnana Vijnana Yoga",
+              "karma-sanyasa-yoga": "Karma Sanyasa Yoga",
+              "karma-yoga": "Karma Yoga",
+              "kshetra-kshetrajna-vibhaga-yoga": "Kshetra Kshetrajna Vibhaga Yoga",
+              "moksha-sanyasa-yoga": "Moksha Sanyasa Yoga",
+              "purushottama-yoga": "Purushottama Yoga",
+              "raja-vidya-raja-guhya-yoga": "Raja Vidya Raja Guhya Yoga",
+              "sankhya-yoga": "Sankhya Yoga",
+              "shraddhatray-vibhaga-yoga": "Shraddhatraya Vibhaga Yoga",
+              "vibhuti-yoga": "Vibhuti Yoga",
+              "vishvarupa-darshana-yoga": "Vishvarupa Darshana Yoga"
+            },
+            "verses": 700
+          }
+        ]
+      },
+      "philosophy": {
+        "title": "Philosophy",
+        "basePath": "/vedic-philosophy",
+        "nav": {
+          "advaita": "Advaita",
+          "astronomy": "Astronomy",
+          "bhakti": "Bhakti",
+          "dharma": "Dharma",
+          "karma": "Karma",
+          "mathematics": "Mathematics",
+          "medicine": "Medicine",
+          "moksha": "Moksha",
+          "purushartha": "Purushartha",
+          "samsara": "Samsara",
+          "yoga": "Yoga"
+        },
+        "subtitle": "Vedic"
+      },
+      "puranas": {
+        "title": "Puranas",
+        "nav": {
+          "agni": "Agni Purana",
+          "bhagavata": "Bhagavata Purana",
+          "bhavishya": "Bhavishya Purana",
+          "brahma": "Brahma Purana",
+          "brahmanda": "Brahmanda Purana",
+          "brahmavaivarta": "Brahmavaivarta Purana",
+          "garuda": "Garuda Purana",
+          "kurma": "Kurma Purana",
+          "linga": "Linga Purana",
+          "markandeya": "Markandeya Purana",
+          "matsya": "Matsya Purana",
+          "narada": "Narada Purana",
+          "padma": "Padma Purana",
+          "shiva": "Shiva Purana",
+          "skanda": "Skanda Purana",
+          "vamana": "Vamana Purana",
+          "varaha": "Varaha Purana",
+          "vishnu": "Vishnu Purana"
+        }
+      },
+      "science": {
+        "title": "Science",
+        "basePath": "/vedic-science",
+        "nav": {
+          "architecture": "Architecture",
+          "astronomy": "Astronomy",
+          "mathematics": "Mathematics",
+          "medicine": "Medicine",
+          "metallurgy": "Metallurgy"
+        },
+        "subtitle": "Vedic"
+      },
+      "upanishads": {
+        "title": "Upanishads",
+        "nav": {
+          "aitareya": "Aitareya Upanishad",
+          "brihadaranyaka": "Brihadaranyaka Upanishad",
+          "chandogya": "Chandogya Upanishad",
+          "isha": "Isha Upanishad",
+          "katha": "Katha Upanishad",
+          "kaushitaki": "Kaushitaki Upanishad",
+          "kena": "Kena Upanishad",
+          "maitri": "Maitri Upanishad",
+          "mandukya": "Mandukya Upanishad",
+          "mundaka": "Mundaka Upanishad",
+          "prashna": "Prashna Upanishad",
+          "shvetashvatara": "Shvetashvatara Upanishad",
+          "taittiriya": "Taittiriya Upanishad"
+        }
+      },
+      "vedas": {
+        "title": "Vedas",
+        "nav": {
+          "rigveda": "Rigveda",
+          "yajurveda": "Yajurveda",
+          "samaveda": "Samaveda",
+          "atharvaveda": "Atharvaveda"
+        }
+      }
+    },
+    "footer": {
+      "title": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत। अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+      "contact": "Contact with us",
+      "contentchange": "Content may be incomplete or subject to change.",
+      "copyright": "Vulchi Vijaya Kumar Raju (Kshatriya's) © 2025.",
+      "disclaimer": "Disclaimer: This website is currently in development.",
+      "shareMessage": "Share this page with friends and family to help others discover Vedic wisdom.",
+      "donate": "Donate",
+      "itihasa": {
+        "title": "Itihasa",
+        "nav": [
+          {
+            "description": "Epic describing the life of Lord Rama.",
+            "author": "Valmiki",
+            "kandas": {
+              "aranya-kanda": "Aranya Kanda",
+              "ayodhya-kanda": "Ayodhya Kanda",
+              "bala-kanda": "Bala Kanda",
+              "kishkinda-kanda": "Kishkindha Kanda",
+              "sundara-kanda": "Sundara Kanda",
+              "uttara-kanda": "Uttara Kanda",
+              "yuddha-kanda": "Yuddha Kanda"
+            },
+            "name": "Ramayana"
+          },
+          {
+            "description": "Epic describing the Kurukshetra war and dharma.",
+            "author": "Vyasa",
+            "name": "Mahabharata",
+            "parvas": 18
+          },
+          {
+            "description": "Sacred dialogue between Lord Krishna and Arjuna.",
+            "chapters": 18,
+            "chapters_list": {
+              "akshara-brahma-yoga": "Akshara Brahma Yoga",
+              "arjuna-vishada-yoga": "Arjuna Vishada Yoga",
+              "bhakti-yoga": "Bhakti Yoga",
+              "daivasura-sampad-vibhaga-yoga": "Daivasura Sampad Vibhaga Yoga",
+              "dhyana-yoga": "Dhyana Yoga",
+              "gunatraya-vibhaga-yoga": "Gunatraya Vibhaga Yoga",
+              "jnana-karma-sanyasa-yoga": "Jnana Karma Sanyasa Yoga",
+              "jnana-vijnana-yoga": "Jnana Vijnana Yoga",
+              "karma-sanyasa-yoga": "Karma Sanyasa Yoga",
+              "karma-yoga": "Karma Yoga",
+              "kshetra-kshetrajna-vibhaga-yoga": "Kshetra Kshetrajna Vibhaga Yoga",
+              "moksha-sanyasa-yoga": "Moksha Sanyasa Yoga",
+              "purushottama-yoga": "Purushottama Yoga",
+              "raja-vidya-raja-guhya-yoga": "Raja Vidya Raja Guhya Yoga",
+              "sankhya-yoga": "Sankhya Yoga",
+              "shraddhatray-vibhaga-yoga": "Shraddhatraya Vibhaga Yoga",
+              "vibhuti-yoga": "Vibhuti Yoga",
+              "vishvarupa-darshana-yoga": "Vishvarupa Darshana Yoga"
+            },
+            "verses": 700
+          }
+        ]
+      },
+      "others": {
+        "title": "Sanātana Dharma",
+        "nav": {
+          "about": "About",
+          "religion-conversion": "Religion Conversion",
+          "sanksheparamayana": "Sanksheparamayana"
+        }
+      },
+      "philosophy": {
+        "title": "Philosophy",
+        "basePath": "/vedic-philosophy",
+        "nav": {
+          "advaita": "Advaita",
+          "astronomy": "Astronomy",
+          "bhakti": "Bhakti",
+          "dharma": "Dharma",
+          "karma": "Karma",
+          "mathematics": "Mathematics",
+          "medicine": "Medicine",
+          "moksha": "Moksha",
+          "purushartha": "Purushartha",
+          "samsara": "Samsara",
+          "yoga": "Yoga"
+        },
+        "subtitle": "Vedic"
+      },
+      "privacy": "Privacy Policy",
+      "puranas": {
+        "title": "Puranas",
+        "nav": {
+          "agni": "Agni Purana",
+          "bhagavata": "Bhagavata Purana",
+          "bhavishya": "Bhavishya Purana",
+          "brahma": "Brahma Purana",
+          "brahmanda": "Brahmanda Purana",
+          "brahmavaivarta": "Brahmavaivarta Purana",
+          "garuda": "Garuda Purana",
+          "kurma": "Kurma Purana",
+          "linga": "Linga Purana",
+          "markandeya": "Markandeya Purana",
+          "matsya": "Matsya Purana",
+          "narada": "Narada Purana",
+          "padma": "Padma Purana",
+          "shiva": "Shiva Purana",
+          "skanda": "Skanda Purana",
+          "vamana": "Vamana Purana",
+          "varaha": "Varaha Purana",
+          "vishnu": "Vishnu Purana"
+        }
+      },
+      "quote": "Whenever righteousness declines and unrighteousness rises, I manifest Myself. To protect the righteous, to annihilate the wicked, and to reestablish the principles of dharma, I appear millennium after millennium.",
+      "quotesource": "(Bhagavad Gītā 4.7)",
+      "science": {
+        "title": "Science",
+        "basePath": "/vedic-science",
+        "nav": {
+          "architecture": "Architecture",
+          "astronomy": "Astronomy",
+          "mathematics": "Mathematics",
+          "medicine": "Medicine",
+          "metallurgy": "Metallurgy"
+        },
+        "subtitle": "Vedic"
+      },
+      "terms": "Terms of Service",
+      "upanishads": {
+        "title": "Upanishads",
+        "nav": {
+          "aitareya": "Aitareya Upanishad",
+          "brihadaranyaka": "Brihadaranyaka Upanishad",
+          "chandogya": "Chandogya Upanishad",
+          "isha": "Isha Upanishad",
+          "katha": "Katha Upanishad",
+          "kaushitaki": "Kaushitaki Upanishad",
+          "kena": "Kena Upanishad",
+          "maitri": "Maitri Upanishad",
+          "mandukya": "Mandukya Upanishad",
+          "mundaka": "Mundaka Upanishad",
+          "prashna": "Prashna Upanishad",
+          "shvetashvatara": "Shvetashvatara Upanishad",
+          "taittiriya": "Taittiriya Upanishad"
+        }
+      },
+      "vedas": {
+        "title": "Vedas",
+        "nav": {
+          "rigveda": "Rigveda",
+          "yajurveda": "Yajurveda",
+          "samaveda": "Samaveda",
+          "atharvaveda": "Atharvaveda"
+        }
+      }
+    },
+    "scrolltotop": {
+      "title": "Back to top",
+      "arialabel": "Scroll to top"
+    },
+    "cookieconsent": {
+      "acceptall": "Accept all",
+      "cookiepolicy": "Cookie Policy",
+      "managerbutton": "Cookie Preference Manager",
+      "paragraph": "We use cookies to track visitors, measure ads, ad campaign effectiveness and analyze site traffic. We may also share information about your use of our site with 3rd parties. For more info, see our {cookiePolicyLink} and {privacyPolicyLink}. By clicking on \"{managerLabel}\" you can choose to enable only certain cookie categories. By clicking \"{acceptAllLabel}\" you agree to the storing of all cookies on your device. In case you don't choose one of these options and use our website we will treat it as if you have accepted all cookies.",
+      "privacypolicy": "Privacy Policy"
+    },
+    "cookiepolicy": {
+      "title": "Cookie Policy",
+      "datasharing": "Data sharing",
+      "datasharingdesc": "We may share aggregated information with third parties for analytics and advertising. No sensitive personal data is shared by default.",
+      "intro": "This Cookie Policy explains how we use cookies and similar technologies on our website.",
+      "lastupdated": "Last updated: {date}",
+      "managing": "Managing your preferences",
+      "managingdesc": "Open the Cookie Preference Manager from the banner to enable or disable categories. If you accept all cookies, we will store your choices and apply them across visits.",
+      "types": {
+        "functionality": "Functionality: Remember choices and preferences.",
+        "performance": "Performance: Help us analyze traffic and performance.",
+        "strictlynecessary": "Strictly necessary: Required for the site to function.",
+        "targeting": "Targeting: Used for advertising and personalization."
+      },
+      "typesheading": "Types of cookies we use",
+      "whatarecookies": "What are cookies?"
+    },
+    "policies": {
+      "cookiepolicy": {
+        "title": "Cookie Policy",
+        "datasharing": "Data sharing",
+        "datasharingdesc": "We may share aggregated information with third parties for analytics and advertising. No sensitive personal data is shared by default.",
+        "intro": "This Cookie Policy explains how we use cookies and similar technologies on our website.",
+        "lastupdated": "Last updated: {date}",
+        "managing": "Managing your preferences",
+        "managingdesc": "Open the Cookie Preference Manager from the banner to enable or disable categories. If you accept all cookies, we will store your choices and apply them across visits.",
+        "types": {
+          "functionality": "Functionality: Remember choices and preferences.",
+          "performance": "Performance: Help us analyze traffic and performance.",
+          "strictlynecessary": "Strictly necessary: Required for the site to function.",
+          "targeting": "Targeting: Used for advertising and personalization."
+        },
+        "typesheading": "Types of cookies we use",
+        "whatarecookies": "What are cookies?"
+      },
+      "privacypolicy": {
+        "title": "Privacy Policy",
+        "howweuse": "How we use information",
+        "howweusedesc": "Information is used to operate, maintain and provide the features of the website, and to analyze usage patterns.",
+        "informationdesc": "We collect information you provide, cookies, and anonymized analytics data to improve the service.",
+        "informationheading": "Information we collect",
+        "intro": "This Privacy Policy outlines how we collect, use and protect your personal information.",
+        "lastupdated": "Last updated: {date}",
+        "yourrights": "Your rights",
+        "yourrightsdesc": "You can request access, correction or deletion of your personal data by contacting us on the site."
+      }
+    },
+    "similar_categories": {
+      "itihasa": {
+        "title": "Itihasa",
+        "basePath": "/itihasa",
+        "nav": [
+          {
+            "description": "Epic describing the life of Lord Rama.",
+            "author": "Valmiki",
+            "kandas": {
+              "aranya-kanda": "Aranya Kanda",
+              "ayodhya-kanda": "Ayodhya Kanda",
+              "bala-kanda": "Bala Kanda",
+              "kishkinda-kanda": "Kishkindha Kanda",
+              "sundara-kanda": "Sundara Kanda",
+              "uttara-kanda": "Uttara Kanda",
+              "yuddha-kanda": "Yuddha Kanda"
+            },
+            "name": "Ramayana"
+          },
+          {
+            "description": "Epic describing the Kurukshetra war and dharma.",
+            "author": "Vyasa",
+            "name": "Mahabharata",
+            "parvas": 18
+          },
+          {
+            "description": "Sacred dialogue between Lord Krishna and Arjuna.",
+            "chapters": 18,
+            "chapters_list": {
+              "akshara-brahma-yoga": "Akshara Brahma Yoga",
+              "arjuna-vishada-yoga": "Arjuna Vishada Yoga",
+              "bhakti-yoga": "Bhakti Yoga",
+              "daivasura-sampad-vibhaga-yoga": "Daivasura Sampad Vibhaga Yoga",
+              "dhyana-yoga": "Dhyana Yoga",
+              "gunatraya-vibhaga-yoga": "Gunatraya Vibhaga Yoga",
+              "jnana-karma-sanyasa-yoga": "Jnana Karma Sanyasa Yoga",
+              "jnana-vijnana-yoga": "Jnana Vijnana Yoga",
+              "karma-sanyasa-yoga": "Karma Sanyasa Yoga",
+              "karma-yoga": "Karma Yoga",
+              "kshetra-kshetrajna-vibhaga-yoga": "Kshetra Kshetrajna Vibhaga Yoga",
+              "moksha-sanyasa-yoga": "Moksha Sanyasa Yoga",
+              "purushottama-yoga": "Purushottama Yoga",
+              "raja-vidya-raja-guhya-yoga": "Raja Vidya Raja Guhya Yoga",
+              "sankhya-yoga": "Sankhya Yoga",
+              "shraddhatray-vibhaga-yoga": "Shraddhatraya Vibhaga Yoga",
+              "vibhuti-yoga": "Vibhuti Yoga",
+              "vishvarupa-darshana-yoga": "Vishvarupa Darshana Yoga"
+            },
+            "verses": 700
+          }
+        ]
+      },
+      "philosophy": {
+        "title": "Philosophy",
+        "basePath": "/vedic-philosophy",
+        "nav": {
+          "advaita": "Advaita",
+          "astronomy": "Astronomy",
+          "bhakti": "Bhakti",
+          "dharma": "Dharma",
+          "karma": "Karma",
+          "mathematics": "Mathematics",
+          "medicine": "Medicine",
+          "moksha": "Moksha",
+          "purushartha": "Purushartha",
+          "samsara": "Samsara",
+          "yoga": "Yoga"
+        },
+        "subtitle": "Vedic"
+      },
+      "puranas": {
+        "title": "Puranas",
+        "basePath": "/puranas",
+        "nav": {
+          "agni": "Agni Purana",
+          "bhagavata": "Bhagavata Purana",
+          "bhavishya": "Bhavishya Purana",
+          "brahma": "Brahma Purana",
+          "brahmanda": "Brahmanda Purana",
+          "brahmavaivarta": "Brahmavaivarta Purana",
+          "garuda": "Garuda Purana",
+          "kurma": "Kurma Purana",
+          "linga": "Linga Purana",
+          "markandeya": "Markandeya Purana",
+          "matsya": "Matsya Purana",
+          "narada": "Narada Purana",
+          "padma": "Padma Purana",
+          "shiva": "Shiva Purana",
+          "skanda": "Skanda Purana",
+          "vamana": "Vamana Purana",
+          "varaha": "Varaha Purana",
+          "vishnu": "Vishnu Purana"
+        }
+      },
+      "science": {
+        "title": "Science",
+        "basePath": "/vedic-science",
+        "nav": {
+          "architecture": "Architecture",
+          "astronomy": "Astronomy",
+          "mathematics": "Mathematics",
+          "medicine": "Medicine",
+          "metallurgy": "Metallurgy"
+        },
+        "subtitle": "Vedic"
+      },
+      "upanishads": {
+        "title": "Upanishads",
+        "basePath": "/upanishads",
+        "nav": {
+          "aitareya": "Aitareya Upanishad",
+          "brihadaranyaka": "Brihadaranyaka Upanishad",
+          "chandogya": "Chandogya Upanishad",
+          "isha": "Isha Upanishad",
+          "katha": "Katha Upanishad",
+          "kaushitaki": "Kaushitaki Upanishad",
+          "kena": "Kena Upanishad",
+          "maitri": "Maitri Upanishad",
+          "mandukya": "Mandukya Upanishad",
+          "mundaka": "Mundaka Upanishad",
+          "prashna": "Prashna Upanishad",
+          "shvetashvatara": "Shvetashvatara Upanishad",
+          "taittiriya": "Taittiriya Upanishad"
+        }
+      },
+      "vedas": {
+        "title": "Vedas",
+        "nav": {
+          "atharvaveda": "Atharvaveda",
+          "rigveda": "Rigveda",
+          "samaveda": "Samaveda",
+          "yajurveda": "Yajurveda"
+        }
+      }
+    }
+  }
+}

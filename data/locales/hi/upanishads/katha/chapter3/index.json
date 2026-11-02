@@ -1,0 +1,26 @@
+﻿{
+  "katha_chapter3": {
+    "title": "Katha Chapter 3",
+    "description": "Chapter 3 from Katha.",
+    "meta": {
+      "title": "Katha Chapter 3",
+      "canonical": "https://sanatanadharmam.in/upanishads/katha/chapter-3",
+      "description": "Chapter 3 from Katha.",
+      "url": "https://sanatanadharmam.in/upanishads/katha/chapter-3"
+    },
+    "openGraph": {
+      "title": "Katha Chapter 3",
+      "description": "Chapter 3 from Katha.",
+      "url": "https://sanatanadharmam.in/upanishads/katha/chapter-3",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Katha.",
+    "scripture_text": "Chapter-level summary text for Katha, Chapter 3.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 3,
+      "path": "/upanishads/katha/chapter-3"
+    }
+  }
+}
