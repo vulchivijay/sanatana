@@ -34,7 +34,6 @@ const AUDIT: { dependencies: Record<string, LibEntry>; devDependencies: Record<s
     'eslint-plugin-import': { version: '^2.32.0', status: 'used', evidence: ['eslint.config.mjs'] },
     'eslint-plugin-react': { version: '^7.37.5', status: 'used', evidence: ['eslint.config.mjs'] },
     'eslint-plugin-react-hooks': { version: '^7.0.1', status: 'used', evidence: ['eslint.config.mjs'] },
-    glob: { version: '^13.0.6', status: 'used', evidence: ['scripts/add-hash-to-assets.js'] },
     'html-minifier-terser': { version: '^7.2.0', status: 'used', evidence: ['scripts/minify-html.js'] },
     husky: { version: '^8.0.3', status: 'used', evidence: ['package.json (prepare)', '.husky/'] },
     minimist: { version: '^1.2.8', status: 'used', evidence: ['scripts/audit-seo.js'] },
@@ -83,4 +82,3 @@ export default function Page() {
     </div>
   );
 }
-

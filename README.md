@@ -46,15 +46,11 @@ For inquiries, permissions, or to report misuse of this repository, please conta
 		npm run build
 		```
 
-- Static export vs server build (`NEXT_STATIC_EXPORT`):
-	- This repository can be built either as a server-capable Next app (API routes and middleware available) or as a static export (HTML-only) used for static hosts. The build mode is controlled by the environment variable `NEXT_STATIC_EXPORT`.
-	- When `NEXT_STATIC_EXPORT=true` the build sets `output: 'export'` which disables API routes and middleware. If you rely on API routes (for analytics/cookies) or middleware, do NOT set `NEXT_STATIC_EXPORT=true`.
-	- To build as a server-capable app (default), ensure the env var is not set or set it to `false` before running `npm run build`:
-		```powershell
-		Remove-Item Env:NEXT_STATIC_EXPORT
-		npm run build
-		```
-	- In CI, avoid setting `NEXT_STATIC_EXPORT=true` unless you intentionally want a static-only export. If using static export in CI for a static host, document this choice in your pipeline config so other maintainers are aware.
+- GitHub Pages deployment:
+	- `npm run build` creates the complete static site in `out/`, which is the only deployment target for this repository.
+	- `.github/workflows/deploy-to-github-pages.yml` deploys the `development` branch to GitHub Pages. The workflow uploads the entire `out/` directory, includes the custom-domain `CNAME`, and disables Jekyll so Next.js assets under `_next/` are published.
+	- In repository Settings → Pages, select **GitHub Actions** as the build and deployment source.
+	- The contact form needs a third-party HTTPS endpoint because GitHub Pages cannot run the Next.js API route. Add the public repository Actions variable `NEXT_PUBLIC_CONTACT_ENDPOINT` with an endpoint that accepts `POST` JSON `{ "values": { ... } }`, allows requests from `https://sanatanadharmam.in`, and returns a JSON response. If it is not configured, the form reports that it is unavailable instead of submitting to a missing Pages API route.
 
 If you'd like, I can also pin an updated `baseline-browser-mapping` version in `package.json` for you to `npm install` locally. Let me know if you want me to do that.
 
@@ -123,23 +119,7 @@ npm run generate:critical:home
 	- Inline dimensions for key images/containers to prevent CLS.
 	- Inline background + layout, but avoid inline animations.
 
-CI / Render notes:
-- Ensure `tailwindcss` is available in your CI image (install devDependencies) or run the generator in a step that has the CLI installed.
-- Cache `public/critical-home.css` or re-run the generator during builds — regenerating is cheap if `tailwindcss` is present.
-
-If you want, I can add a short CI snippet for Render/GitHub Actions to install `tailwindcss` and cache `public/critical-home.css` and `node_modules`.
-
-## Render scheduled deploy
-
-This repository includes a Render configuration (`render.yaml`) that defines a cron job `weekly-deploy` which triggers a deploy webhook every Sunday at 08:00 IST (02:30 UTC).
-
-Setup steps on Render:
-
-- Create a Deploy Hook for your `sanatanadharmam.in` service in the Render dashboard (Settings → Deploy Hooks) and copy the hook URL.
-- In your Render service environment variables, add `RENDER_DEPLOY_HOOK` with the Deploy Hook URL.
-- Ensure `render.yaml` is deployed to the service (it is included in this repo). Render will run the cron job and POST the hook URL at the scheduled time.
-
-If you prefer, I can instead configure the scheduled deploy using Render's UI; the `render.yaml` approach stores the schedule as code in the repo.
+GitHub Actions installs the project dependencies with `npm ci`, then generates `public/critical-home.css` as part of the production build.
 
 ## SEO & Performance Analysis
 

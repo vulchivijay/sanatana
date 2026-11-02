@@ -34,12 +34,19 @@ jobs:
       - name: Build static site
         env:
           NEXT_PUBLIC_SITE_URL: https://sanatanadharmam.in
+          NEXT_PUBLIC_CONTACT_ENDPOINT: ${{ vars.NEXT_PUBLIC_CONTACT_ENDPOINT }}
         run: npm run build
+
+      - name: Prepare GitHub Pages files
+        run: |
+          cp CNAME out/CNAME
+          touch out/.nojekyll
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./out
+          include-hidden-files: true
 
   deploy:
     environment:
