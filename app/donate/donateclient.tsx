@@ -12,12 +12,163 @@ type Props = {
   initialTitle?: string;
 };
 
+type PurposeContent = {
+  heading: string;
+  points: string[];
+};
+
+type ExpenseRow = {
+  name: string;
+  cost: string;
+  cycle: string;
+  provider: string;
+};
+
+type DonationRow = {
+  sourceFile?: string;
+  date: string;
+  amountDonate: string;
+  toWhom: string;
+  donatedBy: string;
+};
+
+const DEFAULT_DONOR_NAME = 'Mrs. Vulchi Vijaya Kumar';
+const DEFAULT_DATE = 'Unknown Date';
+const DEFAULT_AMOUNT = 'Unknown Amount';
+const DEFAULT_RECIPIENT = 'Unknown Recipient';
+
+function normalizeDonationValue(value: unknown): string {
+  if (typeof value !== 'string') {
+    return '';
+  }
+
+  return value.replace(/\s+/g, ' ').trim();
+}
+
+function normalizeDonationDate(value: unknown): string {
+  const normalized = normalizeDonationValue(value);
+  if (!normalized) {
+    return '';
+  }
+
+  const patterns = [
+    /\b\d{1,2}[\/.-]\d{1,2}[\/.-]\d{2,4}\b/i,
+    /\b\d{4}[\/.-]\d{1,2}[\/.-]\d{1,2}\b/i,
+    /\b\d{1,2}-[A-Za-z]{3,9}-\d{2,4}\b/i,
+    /\b[A-Za-z]{3,9}\s+\d{1,2},\s*\d{4}\b/i,
+  ];
+
+  for (const pattern of patterns) {
+    const match = normalized.match(pattern);
+    if (match && match[0]) {
+      return normalizeDonationValue(match[0]);
+    }
+  }
+
+  return '';
+}
+
+function normalizeDonationAmount(value: unknown): string {
+  const normalized = normalizeDonationValue(value);
+  if (!normalized) {
+    return '';
+  }
+
+  const match = normalized.match(/((?:INR|Rs\.?|USD|EUR|GBP|AUD|CAD|\$|₹|€|£)\s?[\d,]+(?:\.\d{2})?|[\d,]+(?:\.\d{2})?)/i);
+  return match && match[1] ? normalizeDonationValue(match[1]) : '';
+}
+
+function isLikelyDonationDonor(value: string): boolean {
+  if (!value) {
+    return false;
+  }
+
+  if (/^img[_\s-]?\d+/i.test(value)) {
+    return false;
+  }
+
+  if (/\d/.test(value) && !/^m(?:rs|r|s)\.?\s/i.test(value)) {
+    return false;
+  }
+
+  const words = value.match(/[A-Za-z]+/g) || [];
+  return words.length >= 2;
+}
+
+function normalizeDonationDonor(value: unknown): string {
+  const normalized = normalizeDonationValue(value);
+  return isLikelyDonationDonor(normalized) ? normalized : DEFAULT_DONOR_NAME;
+}
+
+function sanitizeDonationRows(rows: unknown): DonationRow[] {
+  if (!Array.isArray(rows)) {
+    return [];
+  }
+
+  const uniqueRows: DonationRow[] = [];
+  const seen = new Set<string>();
+
+  for (const row of rows) {
+    const candidate = row as Partial<DonationRow>;
+    const normalized: DonationRow = {
+      sourceFile: normalizeDonationValue(candidate.sourceFile),
+      date: normalizeDonationDate(candidate.date) || DEFAULT_DATE,
+      amountDonate: normalizeDonationAmount(candidate.amountDonate) || DEFAULT_AMOUNT,
+      toWhom: normalizeDonationValue(candidate.toWhom) || DEFAULT_RECIPIENT,
+      donatedBy: normalizeDonationDonor(candidate.donatedBy),
+    };
+
+    const key = normalized.sourceFile || `${normalized.date.toLowerCase()}|${normalized.amountDonate.toLowerCase()}|${normalized.toWhom.toLowerCase()}`;
+    if (seen.has(key)) {
+      continue;
+    }
+
+    seen.add(key);
+    uniqueRows.push(normalized);
+  }
+
+  return uniqueRows;
+}
+
+type FaqItem = {
+  q: string;
+  a: string;
+};
+
+type DonateState = {
+  title: string;
+  subtitle: string;
+  purpose: PurposeContent;
+  expenses: {
+    heading: string;
+    table: ExpenseRow[];
+  };
+  donateOptions: {
+    oneTime?: {
+      heading?: string;
+      note?: string;
+    };
+  };
+  faq: {
+    heading: string;
+    items: FaqItem[];
+  };
+};
+
 export default function DonateClient({ initialTitle = '' }: Props) {
   const { locale, isLoading } = useLocale();
   const ns = useLocaleSection('donate');
 
   // Initialize with empty state to avoid hydration mismatch
-  const [donate, setDonate] = useState({ title: initialTitle, subtitle: '', purpose: {} as any, expenses: {} as any, donateOptions: {} as any, faq: {} as any });
+  const [donate, setDonate] = useState<DonateState>({
+    title: initialTitle,
+    subtitle: '',
+    purpose: { heading: '', points: [] },
+    expenses: { heading: '', table: [] },
+    donateOptions: {},
+    faq: { heading: '', items: [] },
+  });
+  const [donationRows, setDonationRows] = useState<DonationRow[]>([]);
 
   useEffect(() => {
     let mounted = true;
@@ -40,17 +191,74 @@ export default function DonateClient({ initialTitle = '' }: Props) {
         : { heading: '', points: parseSections(rawPurpose) };
 
       const expenses = (rawExpenses && typeof rawExpenses === 'object')
-        ? { heading: rawExpenses.heading, table: Array.isArray(rawExpenses.table) ? rawExpenses.table : parseSections(rawExpenses.table) }
-        : { heading: '', table: parseSections(rawExpenses) };
+        ? {
+            heading: rawExpenses.heading || '',
+            table: Array.isArray(rawExpenses.table)
+              ? rawExpenses.table.filter((row: unknown): row is ExpenseRow => {
+                  if (!row || typeof row !== 'object') return false;
+                  const r = row as Record<string, unknown>;
+                  return (
+                    typeof r.name === 'string' &&
+                    typeof r.cost === 'string' &&
+                    typeof r.cycle === 'string' &&
+                    typeof r.provider === 'string'
+                  );
+                })
+              : [],
+          }
+        : { heading: '', table: [] };
 
       const faq = (rawFaq && typeof rawFaq === 'object')
-        ? { heading: rawFaq.heading, items: Array.isArray(rawFaq.items) ? rawFaq.items : parseSections(rawFaq.items) }
-        : { heading: '', items: parseSections(rawFaq) };
+        ? {
+          heading: rawFaq.heading || '',
+          items: Array.isArray(rawFaq.items)
+            ? rawFaq.items.filter((item: unknown): item is FaqItem => {
+              return Boolean(
+                item
+                && typeof item === 'object'
+                && 'q' in item
+                && 'a' in item
+                && typeof item.q === 'string'
+                && typeof item.a === 'string'
+              );
+            })
+            : [],
+        }
+        : { heading: '', items: [] };
 
       setDonate({ title, subtitle, purpose, expenses, donateOptions, faq });
     })();
     return () => { mounted = false; };
   }, [locale, ns]);
+
+  useEffect(() => {
+    let cancelled = false;
+
+    fetch('/data/donations.generated.json')
+      .then(async (response) => {
+        if (!response.ok) {
+          return [] as DonationRow[];
+        }
+
+        return response.json() as Promise<DonationRow[]>;
+      })
+      .then((payload) => {
+        if (cancelled) {
+          return;
+        }
+
+        setDonationRows(sanitizeDonationRows(payload));
+      })
+      .catch(() => {
+        if (!cancelled) {
+          setDonationRows([]);
+        }
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, []);
 
   if (isLoading && !donate.title) {
     return (
@@ -102,10 +310,10 @@ export default function DonateClient({ initialTitle = '' }: Props) {
           </div>
         </section>
 
-        {/* Expenses */}
+        {/* Donation receipts */}
         <section className="relative">
           <div className="text-center text-md sm:text-base leading-relaxed font-normal">
-            <h4 className="text-md sm:text-base sm:text-xl md:text-2xl font-semibold text-gray-900 inline-block">{donate.expenses?.heading}</h4>
+            <h4 className="text-md sm:text-base md:text-2xl font-semibold text-gray-900 inline-block">{donate.expenses?.heading}</h4>
             <div className="w-24 h-1 bg-gradient-to-r from-amber-400 to-orange-500 mx-auto rounded-full text-md sm:text-base leading-relaxed font-normal"></div>
           </div>
           <div className="overflow-x-auto rounded-2xl shadow-sm border border-amber-200 text-md sm:text-base leading-relaxed font-normal">
@@ -119,7 +327,7 @@ export default function DonateClient({ initialTitle = '' }: Props) {
                 </tr>
               </thead>
               <tbody className="bg-white">
-                {(donate.expenses?.table || []).map((row: any, i: number) => (
+                {(donate.expenses?.table || []).map((row: ExpenseRow, i: number) => (
                   <tr key={i} className="border-t border-amber-100 hover:bg-amber-50 transition-colors duration-200">
                     <td className="p-4 font-medium text-gray-900">{row.name}</td>
                     <td className="p-4 text-amber-800 font-semibold">{row.cost}</td>
@@ -127,6 +335,33 @@ export default function DonateClient({ initialTitle = '' }: Props) {
                     <td className="p-4">{row.provider}</td>
                   </tr>
                 ))}
+              </tbody>
+            </table>
+          </div>
+          <div className="overflow-x-auto rounded-2xl shadow-sm border border-amber-200 text-md sm:text-base leading-relaxed font-normal mt-12">
+            <table className="w-full">
+              <thead className="bg-gradient-to-r from-amber-500 via-orange-500 to-amber-500 text-white">
+                <tr>
+                  <th className="p-4 text-left font-semibold">Date</th>
+                  <th className="p-4 text-left font-semibold">Amount Donated</th>
+                  <th className="p-4 text-left font-semibold">To Whom</th>
+                  <th className="p-4 text-left font-semibold">Sponsor Name</th>
+                </tr>
+              </thead>
+              <tbody className="bg-white">
+                {donationRows.map((row) => (
+                  <tr key={`${row.date}-${row.amountDonate}-${row.donatedBy}`} className="border-t border-amber-100 hover:bg-amber-50 transition-colors duration-200 align-top">
+                    <td className="p-4 font-medium text-gray-900">{row.date || '-'}</td>
+                    <td className="p-4 text-amber-800 font-semibold">{row.amountDonate || '-'}</td>
+                    <td className="p-4">{row.toWhom || '-'}</td>
+                    <td className="p-4">{row.donatedBy || '-'}</td>
+                  </tr>
+                ))}
+                {donationRows.length === 0 ? (
+                  <tr className="border-t border-amber-100">
+                    <td className="p-4 text-gray-600" colSpan={4}>No donation receipt data is available yet.</td>
+                  </tr>
+                ) : null}
               </tbody>
             </table>
           </div>

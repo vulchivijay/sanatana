@@ -401,7 +401,7 @@ Standardize everywhere:
   `text-lg sm:text-xl md:text-2xl font-semibold text-gray-900`
 
 * Subtitle:
-  `text-md sm:text-base sm:text-lg text-gray-600`
+  `text-md sm:text-base text-gray-600`
 
 * Body:
   `text-gray-700 leading-relaxed`

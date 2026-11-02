@@ -88,7 +88,7 @@ export default async function RootLayout({
                 var l=document.createElement('link');
                 l.rel='preload';
                 l.as='style';
-                l.href='/globals.from-scss.51c44e30.51c44e30.51c44e30.css';
+                l.href='/globals.from-scss.51c44e30.51c44e30.51c44e30.51c44e30.css';
                 l.onload=function(){this.onload=null;this.rel='stylesheet'};
                 document.head.appendChild(l);
               })();
@@ -124,7 +124,7 @@ export default async function RootLayout({
             `
           }}
         />
-        <noscript><link rel="stylesheet" href="/globals.from-scss.51c44e30.51c44e30.51c44e30.css" /></noscript>
+        <noscript><link rel="stylesheet" href="/globals.from-scss.51c44e30.51c44e30.51c44e30.51c44e30.css" /></noscript>
         {/* JSON-LD structured data for Website/Organization */}
         <meta name="google-site-verification" content="kxWcUTvXW7Ag5H1jtSxNuYUoKcWm-sq0on2s-h5ILF8" />
         {/* Canonical global JSON-LD: single WebSite + Organization definitions */}
@@ -148,7 +148,8 @@ export default async function RootLayout({
         )} */}
       </head>
       <body className="antialiased" translate="no">
-        {/* Google Tag Manager (noscript) inserted when `NEXT_PUBLIC_GTM_ID` is set */}
+        {/* Google Tag Manager: script loader (googletagmanager.com/gtm.js) is injected client-side
+            by ConsentAnalyticsLoader after user consent; noscript fallback below */}
         {secrets.NEXT_PUBLIC_GTM_ID && (
           <noscript>
             <iframe

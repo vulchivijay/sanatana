@@ -29,6 +29,7 @@ const SITEMAP_PATH = path.join(REPO_ROOT, 'public', 'sitemap.xml');
 const CONSTANTS_PATH = path.join(REPO_ROOT, 'lib', 'constants.ts');
 const INDEXNOW_SCRIPT = path.join(REPO_ROOT, 'scripts', 'notify-indexnow.js');
 const LAYOUT_PATH = path.join(REPO_ROOT, 'app', 'layout.tsx');
+const CONSENT_ANALYTICS_PATH = path.join(REPO_ROOT, 'app', 'components', 'analytics', 'ConsentAnalyticsLoader.tsx');
 
 function normalizeUrl(u) {
   try {
@@ -123,11 +124,21 @@ async function verifyCoreArtifacts(errors) {
     if (!/NEXT_PUBLIC_GTM_ID/.test(layoutRaw)) {
       errors.push('layout.tsx does not reference NEXT_PUBLIC_GTM_ID');
     }
-    if (!/googletagmanager\.com\/gtm\.js/.test(layoutRaw)) {
-      errors.push('layout.tsx missing GTM script loader (googletagmanager.com/gtm.js)');
-    }
     if (!/googletagmanager\.com\/ns\.html/.test(layoutRaw)) {
       errors.push('layout.tsx missing GTM noscript iframe (googletagmanager.com/ns.html)');
+    }
+    // GTM script loader (gtm.js) may be loaded via ConsentAnalyticsLoader for consent compliance
+    const layoutHasGtmScript = /googletagmanager\.com\/gtm\.js/.test(layoutRaw);
+    if (!layoutHasGtmScript) {
+      // Check ConsentAnalyticsLoader as the consent-based GTM loader
+      let consentLoaderHasGtm = false;
+      if (fs.existsSync(CONSENT_ANALYTICS_PATH)) {
+        const consentRaw = await fsp.readFile(CONSENT_ANALYTICS_PATH, 'utf8');
+        consentLoaderHasGtm = /googletagmanager\.com\/gtm\.js/.test(consentRaw);
+      }
+      if (!consentLoaderHasGtm) {
+        errors.push('GTM script loader (googletagmanager.com/gtm.js) not found in layout.tsx or ConsentAnalyticsLoader.tsx');
+      }
     }
   }
 }

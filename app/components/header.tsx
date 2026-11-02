@@ -416,10 +416,10 @@ export default function Header() {
     <header ref={headerRef} className="sticky top-0 z-50 bg-white/80 backdrop-blur border-b border-gray-100">
       <div className="p-2 md:p-1 text-sm text-center font-semibold text-transparent bg-clip-text bg-linear-to-r from-green-600 via-orange-600 to-blue-700 drop-shadow-xl">I Love Shiva. I love Rama. I Love Krishna. Bharatha matha ki jai. I Love Bharat. </div>
       <div className="h-px w-full bg-gradient-to-r from-amber-700 via-amber-500 to-yellow-400" />
-      <div className="flex items-center justify-between px-4 sm:px-2 lg:px-6 py-1 shadow-sm">
+      <div className="flex items-center justify-between px-3 lg:px-6 py-1 shadow-2xl">
         {/* ─── Logo & Title ─── */}
         <div>
-          <Link href="/" className="flex items-center gap-2 group">
+          <Link href="/" className="flex items-center gap-1 group">
             <span className="relative flex items-center justify-center">
               <LazyImage
                 src="/images/logo.png"
@@ -429,7 +429,7 @@ export default function Header() {
                 className="md:flex"
               />
             </span>
-            <span className="text-2xl md:text-3xl font-semibold text-transparent bg-clip-text bg-linear-to-r from-amber-600 via-rose-600 to-indigo-700 drop-shadow-xl">
+            <span className="text-3xl leading-[0.95] tracking-[0.05em]! font-semibold md:text-4xl text-transparent bg-clip-text bg-linear-to-r from-amber-600 via-rose-600 to-indigo-700 drop-shadow-xl">
               {siteTitle}
             </span>
           </Link>
@@ -443,13 +443,13 @@ export default function Header() {
           <div className="border-l border-transparent flex items-center gap-3">
             <LanguageDropdown />
           </div>
-          <ThemeToggle />
+          {/* ─── <ThemeToggle /> ─── */}
         </nav>
 
         {/* ─── Mobile Toggle ─── */}
         <div className="flex items-center md:hidden gap-3">
           <LanguageDropdown />
-          <ThemeToggle />
+          {/* ─── <ThemeToggle /> ─── */}
           <button
             aria-label={open ? "Close menu" : "Open menu"}
             onClick={() => setOpen((s) => !s)}

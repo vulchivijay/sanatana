@@ -103,7 +103,7 @@ export default function PrivacyPolicy() {
 
         {/* How We Use */}
         <section className="bg-white rounded-2xl p-4 md:p-8 shadow-lg">
-          <h4 className="text-md sm:text-base sm:text-md sm:text-base font-semibold mb-4 flex items-center gap-3">
+          <h4 className="text-md sm:text-base font-semibold mb-4 flex items-center gap-3">
             <span className="text-md sm:text-base leading-relaxed font-normal">🎯</span>
             {privacy.howweuse?.title}
           </h4>
@@ -120,7 +120,7 @@ export default function PrivacyPolicy() {
 
         {/* Cookies & Local Storage */}
         <section className="bg-white rounded-2xl p-4 md:p-8 shadow-lg">
-          <h5 className="text-md sm:text-base sm:text-md sm:text-base font-semibold mb-4 flex items-center gap-3">
+          <h5 className="text-md sm:text-base font-semibold mb-4 flex items-center gap-3">
             <span className="text-md sm:text-base leading-relaxed font-normal">🍪</span>
             {privacy.cookieslocalstorage.title}
           </h5>
@@ -129,7 +129,7 @@ export default function PrivacyPolicy() {
 
         {/* Third Party */}
         <section className="bg-white rounded-2xl p-4 md:p-8 shadow-lg">
-          <h6 className="text-md sm:text-base sm:text-md sm:text-base font-semibold mb-4 flex items-center gap-3">
+          <h6 className="text-md sm:text-base font-semibold mb-4 flex items-center gap-3">
             <span className="text-md sm:text-base leading-relaxed font-normal">🔗</span>
             {privacy.thirdparty.title}
           </h6>
