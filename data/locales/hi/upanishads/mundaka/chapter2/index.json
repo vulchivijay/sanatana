@@ -1,0 +1,26 @@
+﻿{
+  "mundaka_chapter2": {
+    "title": "Mundaka Chapter 2",
+    "description": "Chapter 2 from Mundaka.",
+    "meta": {
+      "title": "Mundaka Chapter 2",
+      "canonical": "https://sanatanadharmam.in/upanishads/mundaka/chapter-2",
+      "description": "Chapter 2 from Mundaka.",
+      "url": "https://sanatanadharmam.in/upanishads/mundaka/chapter-2"
+    },
+    "openGraph": {
+      "title": "Mundaka Chapter 2",
+      "description": "Chapter 2 from Mundaka.",
+      "url": "https://sanatanadharmam.in/upanishads/mundaka/chapter-2",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Mundaka.",
+    "scripture_text": "Chapter-level summary text for Mundaka, Chapter 2.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 2,
+      "path": "/upanishads/mundaka/chapter-2"
+    }
+  }
+}

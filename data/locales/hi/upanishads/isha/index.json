@@ -1,0 +1,225 @@
+{
+  "isha": {
+    "title": "Isha Upanishad – Upanishad Teachings in Sanātana Dharma",
+    "description": "Overview of Isha Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+    "meta": {
+      "title": "Isha Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "description": "Overview of Isha Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "canonical": "https://sanatanadharmam.in/upanishads/isha",
+      "keywords": [
+        "Isha Upanishad",
+        "Upanishads",
+        "Vedanta",
+        "Atman",
+        "Brahman",
+        "Sanatana Dharma"
+      ],
+      "ogImage": "https://sanatanadharmam.in/og/upanishads_isha_upanishad.png",
+      "robots": "index, follow",
+      "url": "https://sanatanadharmam.in/upanishads/isha"
+    },
+    "chapters": [
+      {
+        "title": "Isha Chapter 1",
+        "chapter": 1,
+        "path": "/upanishads/isha/chapter-1",
+        "verses": [
+          {
+            "title": "Isha Chapter 1 Verse 1",
+            "path": "/upanishads/isha/chapter-1/verse-1",
+            "verse_number": 1
+          },
+          {
+            "title": "Isha Chapter 1 Verse 2",
+            "path": "/upanishads/isha/chapter-1/verse-2",
+            "verse_number": 2
+          },
+          {
+            "title": "Isha Chapter 1 Verse 3",
+            "path": "/upanishads/isha/chapter-1/verse-3",
+            "verse_number": 3
+          },
+          {
+            "title": "Isha Chapter 1 Verse 4",
+            "path": "/upanishads/isha/chapter-1/verse-4",
+            "verse_number": 4
+          },
+          {
+            "title": "Isha Chapter 1 Verse 5",
+            "path": "/upanishads/isha/chapter-1/verse-5",
+            "verse_number": 5
+          }
+        ]
+      },
+      {
+        "title": "Isha Chapter 2",
+        "chapter": 2,
+        "path": "/upanishads/isha/chapter-2",
+        "verses": [
+          {
+            "title": "Isha Chapter 2 Verse 1",
+            "path": "/upanishads/isha/chapter-2/verse-1",
+            "verse_number": 1
+          },
+          {
+            "title": "Isha Chapter 2 Verse 2",
+            "path": "/upanishads/isha/chapter-2/verse-2",
+            "verse_number": 2
+          },
+          {
+            "title": "Isha Chapter 2 Verse 3",
+            "path": "/upanishads/isha/chapter-2/verse-3",
+            "verse_number": 3
+          },
+          {
+            "title": "Isha Chapter 2 Verse 4",
+            "path": "/upanishads/isha/chapter-2/verse-4",
+            "verse_number": 4
+          },
+          {
+            "title": "Isha Chapter 2 Verse 5",
+            "path": "/upanishads/isha/chapter-2/verse-5",
+            "verse_number": 5
+          }
+        ]
+      },
+      {
+        "title": "Isha Chapter 3",
+        "chapter": 3,
+        "path": "/upanishads/isha/chapter-3",
+        "verses": [
+          {
+            "title": "Isha Chapter 3 Verse 1",
+            "path": "/upanishads/isha/chapter-3/verse-1",
+            "verse_number": 1
+          },
+          {
+            "title": "Isha Chapter 3 Verse 2",
+            "path": "/upanishads/isha/chapter-3/verse-2",
+            "verse_number": 2
+          },
+          {
+            "title": "Isha Chapter 3 Verse 3",
+            "path": "/upanishads/isha/chapter-3/verse-3",
+            "verse_number": 3
+          },
+          {
+            "title": "Isha Chapter 3 Verse 4",
+            "path": "/upanishads/isha/chapter-3/verse-4",
+            "verse_number": 4
+          },
+          {
+            "title": "Isha Chapter 3 Verse 5",
+            "path": "/upanishads/isha/chapter-3/verse-5",
+            "verse_number": 5
+          }
+        ]
+      },
+      {
+        "title": "Isha Chapter 4",
+        "chapter": 4,
+        "path": "/upanishads/isha/chapter-4",
+        "verses": [
+          {
+            "title": "Isha Chapter 4 Verse 1",
+            "path": "/upanishads/isha/chapter-4/verse-1",
+            "verse_number": 1
+          },
+          {
+            "title": "Isha Chapter 4 Verse 2",
+            "path": "/upanishads/isha/chapter-4/verse-2",
+            "verse_number": 2
+          },
+          {
+            "title": "Isha Chapter 4 Verse 3",
+            "path": "/upanishads/isha/chapter-4/verse-3",
+            "verse_number": 3
+          },
+          {
+            "title": "Isha Chapter 4 Verse 4",
+            "path": "/upanishads/isha/chapter-4/verse-4",
+            "verse_number": 4
+          },
+          {
+            "title": "Isha Chapter 4 Verse 5",
+            "path": "/upanishads/isha/chapter-4/verse-5",
+            "verse_number": 5
+          }
+        ]
+      },
+      {
+        "title": "Isha Chapter 5",
+        "chapter": 5,
+        "path": "/upanishads/isha/chapter-5",
+        "verses": [
+          {
+            "title": "Isha Chapter 5 Verse 1",
+            "path": "/upanishads/isha/chapter-5/verse-1",
+            "verse_number": 1
+          },
+          {
+            "title": "Isha Chapter 5 Verse 2",
+            "path": "/upanishads/isha/chapter-5/verse-2",
+            "verse_number": 2
+          },
+          {
+            "title": "Isha Chapter 5 Verse 3",
+            "path": "/upanishads/isha/chapter-5/verse-3",
+            "verse_number": 3
+          },
+          {
+            "title": "Isha Chapter 5 Verse 4",
+            "path": "/upanishads/isha/chapter-5/verse-4",
+            "verse_number": 4
+          },
+          {
+            "title": "Isha Chapter 5 Verse 5",
+            "path": "/upanishads/isha/chapter-5/verse-5",
+            "verse_number": 5
+          }
+        ]
+      }
+    ],
+    "introduction": "Isha Upanishad is one of the principal Upanishads—texts that explore the deepest questions of human life: Who am I? What is real? What is the Self (Atman) and the ultimate reality (Brahman)? Upanishadic teaching is often presented as dialogue and inquiry. Rather than offering a single “belief”, it trains attention and discernment so a seeker can move from outer identity to inner truth. A distinctive feature of the Isha Upanishad is the way it joins renunciation with right action: it teaches inner non-attachment while living responsibly in the world.",
+    "openGraph": {
+      "title": "Isha Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "description": "Overview of Isha Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "images": [
+        {
+          "alt": "Isha Upanishad – Upanishad Teachings in Sanātana Dharma",
+          "height": 630,
+          "url": "https://sanatanadharmam.in/og/upanishads_isha_upanishad.png",
+          "width": 1200
+        }
+      ],
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "url": "https://sanatanadharmam.in/upanishads/isha"
+    },
+    "philosophical_explanation": "Philosophically, Isha emphasizes a unified vision: the same reality is present in movement and stillness, in the near and the far. When this vision becomes stable, fear and greed soften, and action becomes cleaner—more like service than self-assertion.",
+    "scripture_text": [
+      {
+        "content": "Inner renunciation, seeing the Divine presence within and around, freedom from possessiveness, and the discipline of acting without ego-driven attachment.",
+        "section": "Central themes"
+      },
+      {
+        "content": "The text invites a balanced life: perform your duties, but let go of the “I own” and “I control” mindset. This is a practical doorway to peace.",
+        "section": "Practice reflection"
+      }
+    ],
+    "total_chapters": 5,
+    "total_verses": 25,
+    "schema": {
+      "description": "Overview of Isha Upanishad: core themes, key ideas, and why this Upanishad matters for understanding Atman, Brahman, and liberation.",
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Sanatanadharmam",
+        "url": "https://sanatanadharmam.in"
+      },
+      "name": "Isha Upanishad – Upanishad Teachings in Sanātana Dharma",
+      "url": "https://sanatanadharmam.in/upanishads/isha"
+    }
+  }
+}

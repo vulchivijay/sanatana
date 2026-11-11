@@ -1,0 +1,557 @@
+{
+  "chapter10": {
+    "id": "YV-CHAPTER-10",
+    "title": "Yajurveda Chapter 10 – Liberation, Transcendence & Ultimate Meaning",
+    "description": "Explore Yajurveda Chapter 10 focusing on liberation (moksha), transcendence, and the ultimate spiritual meaning of Vedic rituals and yajnas.",
+    "meta": {
+      "title": "Yajurveda Chapter 10 – Liberation & Transcendence",
+      "canonical": "https://sanatanadharmam.in/vedas/yajurveda/chapter-10",
+      "description": "Explore Yajurveda Chapter 10 explaining liberation, transcendence, and the ultimate meaning of Vedic rituals.",
+      "keywords": [
+        "yajurveda chapter 10",
+        "moksha yajurveda",
+        "vedic liberation meaning",
+        "yajurveda transcendence",
+        "ultimate meaning yajna",
+        "spiritual liberation vedas",
+        "vedanta yajurveda connection",
+        "yajurveda mantra explanation",
+        "sanatana dharma moksha",
+        "yajurveda chapter 10 summary"
+      ],
+      "robots": "index, follow, max-image-preview:large",
+      "url": "https://sanatanadharmam.in/vedas/yajurveda/chapter-10"
+    },
+    "openGraph": {
+      "title": "Yajurveda Chapter 10 – Liberation & Ultimate Meaning",
+      "description": "Discover the ultimate goal of Yajurveda rituals—liberation and transcendence through Vedic wisdom.",
+      "url": "https://sanatanadharmam.in/vedas/yajurveda/chapter-10",
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "images": [
+        {
+          "url": "https://sanatanadharmam.in/images/og/yajurveda-chapter10.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "Yajurveda Chapter 10 Liberation and Meaning"
+        }
+      ]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Yajurveda Chapter 10 – Liberation and Transcendence",
+          "description": "Detailed presentation of Yajurveda Chapter 10 including liberation (moksha), transcendence, and philosophical insights of Vedic rituals.",
+          "author": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sanatanadharmam.in/images/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://sanatanadharmam.in/vedas/yajurveda/chapter-10"
+          },
+          "datePublished": "2024-01-01",
+          "dateModified": "2026-01-01",
+          "inLanguage": "en",
+          "about": {
+            "@type": "CreativeWork",
+            "name": "Yajurveda Chapter 10",
+            "description": "The tenth chapter of the Yajurveda focusing on liberation (moksha), transcendence, and the ultimate realization through Vedic rituals and knowledge."
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "Yajurveda Chapter 10",
+          "url": "https://sanatanadharmam.in/vedas/yajurveda/chapter-10"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sanatanadharmam.in"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vedas",
+              "item": "https://sanatanadharmam.in/vedas"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Yajurveda",
+              "item": "https://sanatanadharmam.in/vedas/yajurveda"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Chapter 10",
+              "item": "https://sanatanadharmam.in/vedas/yajurveda/chapter-10"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in",
+          "logo": "https://sanatanadharmam.in/images/logo.png"
+        }
+      ]
+    },
+    "mantras": [
+      {
+        "id": "YV-10-1",
+        "mantra_number": 1,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-2",
+        "mantra_number": 2,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-3",
+        "mantra_number": 3,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-4",
+        "mantra_number": 4,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-5",
+        "mantra_number": 5,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-6",
+        "mantra_number": 6,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-7",
+        "mantra_number": 7,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-8",
+        "mantra_number": 8,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-9",
+        "mantra_number": 9,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-10",
+        "mantra_number": 10,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-11",
+        "mantra_number": 11,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-12",
+        "mantra_number": 12,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-13",
+        "mantra_number": 13,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-14",
+        "mantra_number": 14,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-15",
+        "mantra_number": 15,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-16",
+        "mantra_number": 16,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-17",
+        "mantra_number": 17,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-18",
+        "mantra_number": 18,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-19",
+        "mantra_number": 19,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-20",
+        "mantra_number": 20,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-21",
+        "mantra_number": 21,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-22",
+        "mantra_number": 22,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-23",
+        "mantra_number": 23,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-24",
+        "mantra_number": 24,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-25",
+        "mantra_number": 25,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-26",
+        "mantra_number": 26,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-27",
+        "mantra_number": 27,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-28",
+        "mantra_number": 28,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-29",
+        "mantra_number": 29,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-30",
+        "mantra_number": 30,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-31",
+        "mantra_number": 31,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-32",
+        "mantra_number": 32,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-33",
+        "mantra_number": 33,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-34",
+        "mantra_number": 34,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-35",
+        "mantra_number": 35,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-36",
+        "mantra_number": 36,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-37",
+        "mantra_number": 37,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-38",
+        "mantra_number": 38,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-39",
+        "mantra_number": 39,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      },
+      {
+        "id": "YV-10-40",
+        "mantra_number": 40,
+        "sanskrit": "ॐ अग्नये स्वाहा",
+        "transliteration": "om agnaye svāhā",
+        "meaning": {
+          "literal": "Oblation to Agni.",
+          "interpretive": "Offering to divine fire.",
+          "applied": "Ritual invocation."
+        }
+      }
+    ]
+  }
+}

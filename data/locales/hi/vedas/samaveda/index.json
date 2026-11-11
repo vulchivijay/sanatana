@@ -1,0 +1,153 @@
+{
+  "samaveda": {
+    "title": "Samaveda – The Veda of Melodies",
+    "description": "The Samaveda is the Veda of melodies and chants, containing hymns set to musical patterns for ritual singing. It emphasizes the spiritual power of sound and music in Vedic worship.",
+    "meta": {
+      "title": "Samaveda – The Veda of Melodies",
+      "description": "The Samaveda is the Veda of melodies and chants, containing hymns set to musical patterns for ritual singing. It emphasizes the spiritual power of sound and music in Vedic worship.",
+      "canonical": "https://sanatanadharmam.in/vedas/samaveda",
+      "url": "https://sanatanadharmam.in/vedas/samaveda"
+    },
+    "openGraph": {
+      "title": "Samaveda – The Veda of Melodies",
+      "description": "The Samaveda is the Veda of melodies and chants, containing hymns set to musical patterns for ritual singing. It emphasizes the spiritual power of sound and music in Vedic worship.",
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "url": "https://sanatanadharmam.in/vedas/samaveda"
+    },
+    "chapter": {
+      "key": "samaveda",
+      "label": "Samaveda",
+      "path": "/vedas/samaveda",
+      "slug": "samaveda"
+    },
+    "introduction": "The Samaveda is the Veda of melodies and chants, containing hymns set to musical patterns for ritual singing. It emphasizes the spiritual power of sound and music in Vedic worship.",
+    "hero": {
+      "title": "Samaveda",
+      "subtitle": "The Veda of Music, Chanting & Divine Sound",
+      "image": "/images/samaveda-hero.jpg"
+    },
+    "chapters": [
+      {
+        "id": 1,
+        "slug": "chapter1",
+        "title": "Introduction to Samaveda Chants",
+        "theme": "Foundations of chanting",
+        "description": "Introduction to sacred chants and their role in Vedic rituals.",
+        "href": "/vedas/samaveda/chapter1"
+      },
+      {
+        "id": 2,
+        "slug": "chapter2",
+        "title": "Agni Chants",
+        "theme": "Fire deity chants",
+        "description": "Chants dedicated to Agni used in yajnas.",
+        "href": "/vedas/samaveda/chapter2"
+      },
+      {
+        "id": 3,
+        "slug": "chapter3",
+        "title": "Indra Chants",
+        "theme": "Indra hymns",
+        "description": "Chants invoking Indra, king of the gods.",
+        "href": "/vedas/samaveda/chapter3"
+      },
+      {
+        "id": 4,
+        "slug": "chapter4",
+        "title": "Soma Chants",
+        "theme": "Soma rituals",
+        "description": "Chants focused on Soma and its ritual significance.",
+        "href": "/vedas/samaveda/chapter4"
+      },
+      {
+        "id": 5,
+        "slug": "chapter5",
+        "title": "Ritual Chanting",
+        "theme": "Yajna chanting",
+        "description": "Chants used in Vedic ceremonies and yajnas.",
+        "href": "/vedas/samaveda/chapter5"
+      },
+      {
+        "id": 6,
+        "slug": "chapter6",
+        "title": "Musical Structure",
+        "theme": "Svara system",
+        "description": "Explanation of musical notes and chanting patterns.",
+        "href": "/vedas/samaveda/chapter6"
+      },
+      {
+        "id": 7,
+        "slug": "chapter7",
+        "title": "Priest Roles",
+        "theme": "Udgatri system",
+        "description": "Roles of priests in Samaveda chanting.",
+        "href": "/vedas/samaveda/chapter7"
+      },
+      {
+        "id": 8,
+        "slug": "chapter8",
+        "title": "Chant Variations",
+        "theme": "Saman variations",
+        "description": "Different melodic and chanting styles.",
+        "href": "/vedas/samaveda/chapter8"
+      },
+      {
+        "id": 9,
+        "slug": "chapter9",
+        "title": "Symbolism",
+        "theme": "Philosophical meaning",
+        "description": "Symbolic and spiritual interpretation of chants.",
+        "href": "/vedas/samaveda/chapter9"
+      },
+      {
+        "id": 10,
+        "slug": "chapter10",
+        "title": "Spiritual Realization",
+        "theme": "Moksha",
+        "description": "Liberation through chanting and realization.",
+        "href": "/vedas/samaveda/chapter10"
+      }
+    ],
+    "navigation": {
+      "prev": null,
+      "next": "/vedas/rigveda",
+      "breadcrumbs": [
+        {
+          "name": "Home",
+          "href": "/"
+        },
+        {
+          "name": "Vedas",
+          "href": "/vedas"
+        },
+        {
+          "name": "Samaveda",
+          "href": "/vedas/samaveda"
+        }
+      ]
+    },
+    "crossLinks": {
+      "relatedVedas": [
+        {
+          "name": "Rigveda",
+          "href": "/vedas/rigveda"
+        },
+        {
+          "name": "Yajurveda",
+          "href": "/vedas/yajurveda"
+        },
+        {
+          "name": "Atharvaveda",
+          "href": "/vedas/atharvaveda"
+        }
+      ],
+      "relatedConcepts": [
+        "Sama Chanting",
+        "Yajna",
+        "Svara",
+        "Moksha"
+      ]
+    }
+  }
+}

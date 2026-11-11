@@ -1,0 +1,492 @@
+{
+  "sharable-strings": {
+    "sitetitle": "सनातन धर्म",
+    "banner_notifications": {
+      "title": "यदि आपको हमारा काम मददगार लगता है, तो इस वेब पेज को बनाए रखने में हमारा समर्थन करने पर विचार करें",
+      "links": {
+        "alive": "/donate"
+      },
+      "subtitle": "और एक छोटा सा दान करके हमें आगे बढ़ने में मदद करें।"
+    },
+    "banner_notifications2": {
+      "title": "उज्जवल भविष्य के लिए सनातन धर्म की जड़ों की रक्षा करना।",
+      "subtitle": "कालजयी वैदिक ज्ञान के माध्यम से भावी पीढ़ियों को सशक्त बनाना।"
+    },
+    "header": {
+      "itihasa": {
+        "title": "इतिहास",
+        "nav": [
+          {
+            "description": "भगवान राम के जीवन का वर्णन करने वाला महाकाव्य।",
+            "author": "वाल्मिकी",
+            "kandas": {
+              "aranya-kanda": "अरण्य काण्ड",
+              "ayodhya-kanda": "अयोध्या कांड",
+              "bala-kanda": "बाला कांडा",
+              "kishkinda-kanda": "किष्किन्धा काण्ड",
+              "sundara-kanda": "सुंदरकांडा",
+              "uttara-kanda": "उत्तर काण्ड",
+              "yuddha-kanda": "युद्ध काण्ड"
+            },
+            "name": "रामायण"
+          },
+          {
+            "description": "महाकाव्य में कुरुक्षेत्र युद्ध और धर्म का वर्णन |",
+            "author": "व्यास",
+            "name": "महाभारत",
+            "parvas": 18
+          },
+          {
+            "description": "भगवान श्रीकृष्ण और अर्जुन का पवित्र संवाद।",
+            "chapters": 18,
+            "chapters_list": {
+              "akshara-brahma-yoga": "अक्षर ब्रह्म योग",
+              "arjuna-vishada-yoga": "अर्जुन विषाद योग",
+              "bhakti-yoga": "भक्ति योग",
+              "daivasura-sampad-vibhaga-yoga": "दैवसुर संपद विभाग योग",
+              "dhyana-yoga": "ध्यान योग",
+              "gunatraya-vibhaga-yoga": "गुणत्रय विभाग योग",
+              "jnana-karma-sanyasa-yoga": "ज्ञान कर्म संन्यास योग",
+              "jnana-vijnana-yoga": "ज्ञान विज्ञान योग",
+              "karma-sanyasa-yoga": "कर्म संन्यास योग",
+              "karma-yoga": "कर्म योग",
+              "kshetra-kshetrajna-vibhaga-yoga": "क्षेत्र क्षेत्रज्ञ विभाग योग",
+              "moksha-sanyasa-yoga": "मोक्ष संन्यास योग",
+              "purushottama-yoga": "पुरूषोत्तम योग",
+              "raja-vidya-raja-guhya-yoga": "राज विद्या राज गुह्य योग",
+              "sankhya-yoga": "सांख्य योग",
+              "shraddhatray-vibhaga-yoga": "श्रद्धात्रय विभाग योग",
+              "vibhuti-yoga": "विभूति योग",
+              "vishvarupa-darshana-yoga": "विश्वरूप दर्शन योग"
+            },
+            "verses": 700
+          }
+        ]
+      },
+      "philosophy": {
+        "title": "दर्शन",
+        "basePath": "/vedic-philosophy",
+        "nav": {
+          "advaita": "अद्वैत",
+          "astronomy": "खगोल",
+          "bhakti": "भक्ति",
+          "dharma": "धर्म",
+          "karma": "कर्मा",
+          "mathematics": "अंक शास्त्र",
+          "medicine": "दवा",
+          "moksha": "मोक्ष",
+          "purushartha": "पुरुषार्थ",
+          "samsara": "संसार",
+          "yoga": "योग"
+        },
+        "subtitle": "वैदिक"
+      },
+      "puranas": {
+        "title": "पुराणों",
+        "nav": {
+          "agni": "अग्नि पुराण",
+          "bhagavata": "भागवत पुराण",
+          "bhavishya": "भविष्य पुराण",
+          "brahma": "ब्रह्म पुराण",
+          "brahmanda": "ब्रह्माण्ड पुराण",
+          "brahmavaivarta": "ब्रह्मवैवर्त पुराण",
+          "garuda": "गरुड़ पुराण",
+          "kurma": "कूर्म पुराण",
+          "linga": "लिंग पुराण",
+          "markandeya": "मार्कण्डेय पुराण",
+          "matsya": "मत्स्य पुराण",
+          "narada": "नारद पुराण",
+          "padma": "पद्म पुराण",
+          "shiva": "शिव पुराण",
+          "skanda": "स्कंद पुराण",
+          "vamana": "वामन पुराण",
+          "varaha": "वराह पुराण",
+          "vishnu": "विष्णु पुराण"
+        }
+      },
+      "science": {
+        "title": "विज्ञान",
+        "basePath": "/vedic-science",
+        "nav": {
+          "architecture": "वास्तुकला",
+          "astronomy": "खगोल",
+          "mathematics": "अंक शास्त्र",
+          "medicine": "दवा",
+          "metallurgy": "धातुकर्म"
+        },
+        "subtitle": "वैदिक"
+      },
+      "upanishads": {
+        "title": "उपनिषदों",
+        "nav": {
+          "aitareya": "ऐतरेय उपनिषद",
+          "brihadaranyaka": "बृहदारण्यक उपनिषद",
+          "chandogya": "छांदोग्य उपनिषद",
+          "isha": "ईशा उपनिषद",
+          "katha": "कथा उपनिषद",
+          "kaushitaki": "कौशीतकी उपनिषद",
+          "kena": "केना उपनिषद",
+          "maitri": "मैत्री उपनिषद",
+          "mandukya": "मांडूक्य उपनिषद",
+          "mundaka": "मुंडका उपनिषद",
+          "prashna": "प्रश्न उपनिषद",
+          "shvetashvatara": "श्वेताश्वतर उपनिषद",
+          "taittiriya": "तैत्तिरीय उपनिषद"
+        }
+      },
+      "vedas": {
+        "title": "वेद",
+        "nav": {
+          "rigveda": "ऋग्वेद",
+          "yajurveda": "यजुर्वेद",
+          "samaveda": "सामवेद",
+          "atharvaveda": "अथर्ववेद"
+        }
+      }
+    },
+    "footer": {
+      "title": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत। अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+      "contact": "हमसे संपर्क करें",
+      "contentchange": "सामग्री अधूरी हो सकती है या परिवर्तन के अधीन हो सकती है।",
+      "copyright": "वल्ची विजया कुमार राजू  (Kshatriya's) © 2025.",
+      "disclaimer": "अस्वीकरण: यह वेबसाइट वर्तमान में विकास में है।",
+      "shareMessage": "दूसरों को वैदिक ज्ञान खोजने में मदद करने के लिए इस पेज को दोस्तों और परिवार के साथ साझा करें।",
+      "donate": "दान करें",
+      "itihasa": {
+        "title": "इतिहास",
+        "nav": [
+          {
+            "description": "भगवान राम के जीवन का वर्णन करने वाला महाकाव्य।",
+            "author": "वाल्मिकी",
+            "kandas": {
+              "aranya-kanda": "अरण्य काण्ड",
+              "ayodhya-kanda": "अयोध्या कांड",
+              "bala-kanda": "बाला कांडा",
+              "kishkinda-kanda": "किष्किन्धा काण्ड",
+              "sundara-kanda": "सुंदरकांडा",
+              "uttara-kanda": "उत्तर काण्ड",
+              "yuddha-kanda": "युद्ध काण्ड"
+            },
+            "name": "रामायण"
+          },
+          {
+            "description": "महाकाव्य में कुरुक्षेत्र युद्ध और धर्म का वर्णन |",
+            "author": "व्यास",
+            "name": "महाभारत",
+            "parvas": 18
+          },
+          {
+            "description": "भगवान श्रीकृष्ण और अर्जुन का पवित्र संवाद।",
+            "chapters": 18,
+            "chapters_list": {
+              "akshara-brahma-yoga": "अक्षर ब्रह्म योग",
+              "arjuna-vishada-yoga": "अर्जुन विषाद योग",
+              "bhakti-yoga": "भक्ति योग",
+              "daivasura-sampad-vibhaga-yoga": "दैवसुर संपद विभाग योग",
+              "dhyana-yoga": "ध्यान योग",
+              "gunatraya-vibhaga-yoga": "गुणत्रय विभाग योग",
+              "jnana-karma-sanyasa-yoga": "ज्ञान कर्म संन्यास योग",
+              "jnana-vijnana-yoga": "ज्ञान विज्ञान योग",
+              "karma-sanyasa-yoga": "कर्म संन्यास योग",
+              "karma-yoga": "कर्म योग",
+              "kshetra-kshetrajna-vibhaga-yoga": "क्षेत्र क्षेत्रज्ञ विभाग योग",
+              "moksha-sanyasa-yoga": "मोक्ष संन्यास योग",
+              "purushottama-yoga": "पुरूषोत्तम योग",
+              "raja-vidya-raja-guhya-yoga": "राज विद्या राज गुह्य योग",
+              "sankhya-yoga": "सांख्य योग",
+              "shraddhatray-vibhaga-yoga": "श्रद्धात्रय विभाग योग",
+              "vibhuti-yoga": "विभूति योग",
+              "vishvarupa-darshana-yoga": "विश्वरूप दर्शन योग"
+            },
+            "verses": 700
+          }
+        ]
+      },
+      "others": {
+        "title": "सनातन धर्म",
+        "nav": {
+          "about": "के बारे में",
+          "religion-conversion": "धर्म परिवर्तन",
+          "sanksheparamayana": "संक्षेपरामायण"
+        }
+      },
+      "philosophy": {
+        "title": "दर्शन",
+        "basePath": "/vedic-philosophy",
+        "nav": {
+          "advaita": "अद्वैत",
+          "astronomy": "खगोल",
+          "bhakti": "भक्ति",
+          "dharma": "धर्म",
+          "karma": "कर्मा",
+          "mathematics": "अंक शास्त्र",
+          "medicine": "दवा",
+          "moksha": "मोक्ष",
+          "purushartha": "पुरुषार्थ",
+          "samsara": "संसार",
+          "yoga": "योग"
+        },
+        "subtitle": "वैदिक"
+      },
+      "privacy": "गोपनीयता नीति",
+      "puranas": {
+        "title": "पुराणों",
+        "nav": {
+          "agni": "अग्नि पुराण",
+          "bhagavata": "भागवत पुराण",
+          "bhavishya": "भविष्य पुराण",
+          "brahma": "ब्रह्म पुराण",
+          "brahmanda": "ब्रह्माण्ड पुराण",
+          "brahmavaivarta": "ब्रह्मवैवर्त पुराण",
+          "garuda": "गरुड़ पुराण",
+          "kurma": "कूर्म पुराण",
+          "linga": "लिंग पुराण",
+          "markandeya": "मार्कण्डेय पुराण",
+          "matsya": "मत्स्य पुराण",
+          "narada": "नारद पुराण",
+          "padma": "पद्म पुराण",
+          "shiva": "शिव पुराण",
+          "skanda": "स्कंद पुराण",
+          "vamana": "वामन पुराण",
+          "varaha": "वराह पुराण",
+          "vishnu": "विष्णु पुराण"
+        }
+      },
+      "quote": "जब-जब धर्म का ह्रास होता है और अधर्म बढ़ता है, तब-तब मैं स्वयं प्रकट होता हूं। धर्मियों की रक्षा करने, दुष्टों का विनाश करने और धर्म के सिद्धांतों को पुनः स्थापित करने के लिए, मैं सहस्राब्दियों तक प्रकट होता रहता हूँ।",
+      "quotesource": "(भगवद गीता 4.7)",
+      "science": {
+        "title": "विज्ञान",
+        "basePath": "/vedic-science",
+        "nav": {
+          "architecture": "वास्तुकला",
+          "astronomy": "खगोल",
+          "mathematics": "अंक शास्त्र",
+          "medicine": "दवा",
+          "metallurgy": "धातुकर्म"
+        },
+        "subtitle": "वैदिक"
+      },
+      "terms": "सेवा की शर्तें",
+      "upanishads": {
+        "title": "उपनिषदों",
+        "nav": {
+          "aitareya": "ऐतरेय उपनिषद",
+          "brihadaranyaka": "बृहदारण्यक उपनिषद",
+          "chandogya": "छांदोग्य उपनिषद",
+          "isha": "ईशा उपनिषद",
+          "katha": "कथा उपनिषद",
+          "kaushitaki": "कौशीतकी उपनिषद",
+          "kena": "केना उपनिषद",
+          "maitri": "मैत्री उपनिषद",
+          "mandukya": "मांडूक्य उपनिषद",
+          "mundaka": "मुंडका उपनिषद",
+          "prashna": "प्रश्न उपनिषद",
+          "shvetashvatara": "श्वेताश्वतर उपनिषद",
+          "taittiriya": "तैत्तिरीय उपनिषद"
+        }
+      },
+      "vedas": {
+        "title": "वेद",
+        "nav": {
+          "rigveda": "ऋग्वेद",
+          "yajurveda": "यजुर्वेद",
+          "samaveda": "सामवेद",
+          "atharvaveda": "अथर्ववेद"
+        }
+      }
+    },
+    "scrolltotop": {
+      "title": "शीर्ष पर वापस जाएँ",
+      "arialabel": "शीर्ष तक स्क्रॉल करें"
+    },
+    "cookieconsent": {
+      "acceptall": "सभी स्वीकृत",
+      "cookiepolicy": "कूकी नीति",
+      "managerbutton": "कुकी वरीयता प्रबंधक",
+      "paragraph": "हम आगंतुकों को ट्रैक करने, विज्ञापनों को मापने, विज्ञापन अभियान प्रभावशीलता और साइट ट्रैफ़िक का विश्लेषण करने के लिए कुकीज़ का उपयोग करते हैं। हम हमारी साइट के आपके उपयोग के बारे में जानकारी तीसरे पक्ष के साथ भी साझा कर सकते हैं। अधिक जानकारी के लिए, हमारी {cookiePolicyLink} और {privacyPolicyLink} देखें। \"{managerLabel}\" पर क्लिक करके आप केवल कुछ कुकी श्रेणियों को सक्षम करना चुन सकते हैं। \"{acceptAllLabel}\" पर क्लिक करके आप अपने डिवाइस पर सभी कुकीज़ के भंडारण के लिए सहमति देते हैं। यदि आप इनमें से किसी एक विकल्प को नहीं चुनते हैं और हमारी वेबसाइट का उपयोग करते हैं तो हम इसे ऐसे मानेंगे जैसे आपने सभी कुकीज़ स्वीकार कर ली हैं।",
+      "privacypolicy": "गोपनीयता नीति"
+    },
+    "cookiepolicy": {
+      "title": "कूकी नीति",
+      "datasharing": "डेटा साझा करना",
+      "datasharingdesc": "हम विश्लेषण और विज्ञापन के लिए एकत्रित जानकारी को तीसरे पक्ष के साथ साझा कर सकते हैं। कोई भी संवेदनशील व्यक्तिगत डेटा डिफ़ॉल्ट रूप से साझा नहीं किया जाता है।",
+      "intro": "यह कुकी नीति बताती है कि हम अपनी वेबसाइट पर कुकीज़ और समान तकनीकों का उपयोग कैसे करते हैं।",
+      "lastupdated": "अंतिम अद्यतन: {दिनांक}",
+      "managing": "अपनी प्राथमिकताएँ प्रबंधित करना",
+      "managingdesc": "श्रेणियों को सक्षम या अक्षम करने के लिए बैनर से कुकी वरीयता प्रबंधक खोलें। यदि आप सभी कुकीज़ स्वीकार करते हैं, तो हम आपकी पसंद को संग्रहीत करेंगे और उन्हें सभी यात्राओं पर लागू करेंगे।",
+      "types": {
+        "functionality": "कार्यक्षमता: विकल्पों और प्राथमिकताओं को याद रखें।",
+        "performance": "प्रदर्शन: ट्रैफ़िक और प्रदर्शन का विश्लेषण करने में हमारी सहायता करें।",
+        "strictlynecessary": "अत्यंत आवश्यक: साइट के कार्यशील होने के लिए आवश्यक।",
+        "targeting": "लक्ष्यीकरण: विज्ञापन और वैयक्तिकरण के लिए उपयोग किया जाता है।"
+      },
+      "typesheading": "हमारे द्वारा उपयोग की जाने वाली कुकीज़ के प्रकार",
+      "whatarecookies": "कुकीज़ क्या हैं?"
+    },
+    "policies": {
+      "cookiepolicy": {
+        "title": "कूकी नीति",
+        "datasharing": "डेटा साझा करना",
+        "datasharingdesc": "हम विश्लेषण और विज्ञापन के लिए एकत्रित जानकारी को तीसरे पक्ष के साथ साझा कर सकते हैं। कोई भी संवेदनशील व्यक्तिगत डेटा डिफ़ॉल्ट रूप से साझा नहीं किया जाता है।",
+        "intro": "यह कुकी नीति बताती है कि हम अपनी वेबसाइट पर कुकीज़ और समान तकनीकों का उपयोग कैसे करते हैं।",
+        "lastupdated": "अंतिम अद्यतन: {दिनांक}",
+        "managing": "अपनी प्राथमिकताएँ प्रबंधित करना",
+        "managingdesc": "श्रेणियों को सक्षम या अक्षम करने के लिए बैनर से कुकी वरीयता प्रबंधक खोलें। यदि आप सभी कुकीज़ स्वीकार करते हैं, तो हम आपकी पसंद को संग्रहीत करेंगे और उन्हें सभी यात्राओं पर लागू करेंगे।",
+        "types": {
+          "functionality": "कार्यक्षमता: विकल्पों और प्राथमिकताओं को याद रखें।",
+          "performance": "प्रदर्शन: ट्रैफ़िक और प्रदर्शन का विश्लेषण करने में हमारी सहायता करें।",
+          "strictlynecessary": "अत्यंत आवश्यक: साइट के कार्यशील होने के लिए आवश्यक।",
+          "targeting": "लक्ष्यीकरण: विज्ञापन और वैयक्तिकरण के लिए उपयोग किया जाता है।"
+        },
+        "typesheading": "हमारे द्वारा उपयोग की जाने वाली कुकीज़ के प्रकार",
+        "whatarecookies": "कुकीज़ क्या हैं?"
+      },
+      "privacypolicy": {
+        "title": "गोपनीयता नीति",
+        "howweuse": "हम जानकारी का उपयोग कैसे करते हैं",
+        "howweusedesc": "सूचना का उपयोग वेबसाइट के संचालन, रखरखाव और सुविधाएँ प्रदान करने और उपयोग पैटर्न का विश्लेषण करने के लिए किया जाता है।",
+        "informationdesc": "हम सेवा को बेहतर बनाने के लिए आपके द्वारा प्रदान की गई जानकारी, कुकीज़ और अज्ञात विश्लेषण डेटा एकत्र करते हैं।",
+        "informationheading": "जानकारी हम एकत्रित करते हैं",
+        "intro": "यह गोपनीयता नीति बताती है कि हम आपकी व्यक्तिगत जानकारी कैसे एकत्र करते हैं, उसका उपयोग करते हैं और उसकी सुरक्षा कैसे करते हैं।",
+        "lastupdated": "अंतिम अद्यतन: {दिनांक}",
+        "yourrights": "आपके हक",
+        "yourrightsdesc": "आप साइट पर हमसे संपर्क करके अपने व्यक्तिगत डेटा तक पहुंच, सुधार या हटाने का अनुरोध कर सकते हैं।"
+      }
+    },
+    "similar_categories": {
+      "itihasa": {
+        "title": "इतिहास",
+        "basePath": "/itihasa",
+        "nav": [
+          {
+            "description": "भगवान राम के जीवन का वर्णन करने वाला महाकाव्य।",
+            "author": "वाल्मिकी",
+            "kandas": {
+              "aranya-kanda": "अरण्य काण्ड",
+              "ayodhya-kanda": "अयोध्या कांड",
+              "bala-kanda": "बाला कांडा",
+              "kishkinda-kanda": "किष्किन्धा काण्ड",
+              "sundara-kanda": "सुंदरकांडा",
+              "uttara-kanda": "उत्तर काण्ड",
+              "yuddha-kanda": "युद्ध काण्ड"
+            },
+            "name": "रामायण"
+          },
+          {
+            "description": "महाकाव्य में कुरुक्षेत्र युद्ध और धर्म का वर्णन |",
+            "author": "व्यास",
+            "name": "महाभारत",
+            "parvas": 18
+          },
+          {
+            "description": "भगवान श्रीकृष्ण और अर्जुन का पवित्र संवाद।",
+            "chapters": 18,
+            "chapters_list": {
+              "akshara-brahma-yoga": "अक्षर ब्रह्म योग",
+              "arjuna-vishada-yoga": "अर्जुन विषाद योग",
+              "bhakti-yoga": "भक्ति योग",
+              "daivasura-sampad-vibhaga-yoga": "दैवसुर संपद विभाग योग",
+              "dhyana-yoga": "ध्यान योग",
+              "gunatraya-vibhaga-yoga": "गुणत्रय विभाग योग",
+              "jnana-karma-sanyasa-yoga": "ज्ञान कर्म संन्यास योग",
+              "jnana-vijnana-yoga": "ज्ञान विज्ञान योग",
+              "karma-sanyasa-yoga": "कर्म संन्यास योग",
+              "karma-yoga": "कर्म योग",
+              "kshetra-kshetrajna-vibhaga-yoga": "क्षेत्र क्षेत्रज्ञ विभाग योग",
+              "moksha-sanyasa-yoga": "मोक्ष संन्यास योग",
+              "purushottama-yoga": "पुरूषोत्तम योग",
+              "raja-vidya-raja-guhya-yoga": "राज विद्या राज गुह्य योग",
+              "sankhya-yoga": "सांख्य योग",
+              "shraddhatray-vibhaga-yoga": "श्रद्धात्रय विभाग योग",
+              "vibhuti-yoga": "विभूति योग",
+              "vishvarupa-darshana-yoga": "विश्वरूप दर्शन योग"
+            },
+            "verses": 700
+          }
+        ]
+      },
+      "philosophy": {
+        "title": "दर्शन",
+        "basePath": "/vedic-philosophy",
+        "nav": {
+          "advaita": "अद्वैत",
+          "astronomy": "खगोल",
+          "bhakti": "भक्ति",
+          "dharma": "धर्म",
+          "karma": "कर्मा",
+          "mathematics": "अंक शास्त्र",
+          "medicine": "दवा",
+          "moksha": "मोक्ष",
+          "purushartha": "पुरुषार्थ",
+          "samsara": "संसार",
+          "yoga": "योग"
+        },
+        "subtitle": "वैदिक"
+      },
+      "puranas": {
+        "title": "पुराणों",
+        "basePath": "/puranas",
+        "nav": {
+          "agni": "अग्नि पुराण",
+          "bhagavata": "भागवत पुराण",
+          "bhavishya": "भविष्य पुराण",
+          "brahma": "ब्रह्म पुराण",
+          "brahmanda": "ब्रह्माण्ड पुराण",
+          "brahmavaivarta": "ब्रह्मवैवर्त पुराण",
+          "garuda": "गरुड़ पुराण",
+          "kurma": "कूर्म पुराण",
+          "linga": "लिंग पुराण",
+          "markandeya": "मार्कण्डेय पुराण",
+          "matsya": "मत्स्य पुराण",
+          "narada": "नारद पुराण",
+          "padma": "पद्म पुराण",
+          "shiva": "शिव पुराण",
+          "skanda": "स्कंद पुराण",
+          "vamana": "वामन पुराण",
+          "varaha": "वराह पुराण",
+          "vishnu": "विष्णु पुराण"
+        }
+      },
+      "science": {
+        "title": "विज्ञान",
+        "basePath": "/vedic-science",
+        "nav": {
+          "architecture": "वास्तुकला",
+          "astronomy": "खगोल",
+          "mathematics": "अंक शास्त्र",
+          "medicine": "दवा",
+          "metallurgy": "धातुकर्म"
+        },
+        "subtitle": "वैदिक"
+      },
+      "upanishads": {
+        "title": "उपनिषदों",
+        "basePath": "/upanishads",
+        "nav": {
+          "aitareya": "ऐतरेय उपनिषद",
+          "brihadaranyaka": "बृहदारण्यक उपनिषद",
+          "chandogya": "छांदोग्य उपनिषद",
+          "isha": "ईशा उपनिषद",
+          "katha": "कथा उपनिषद",
+          "kaushitaki": "कौशीतकी उपनिषद",
+          "kena": "केना उपनिषद",
+          "maitri": "मैत्री उपनिषद",
+          "mandukya": "मांडूक्य उपनिषद",
+          "mundaka": "मुंडका उपनिषद",
+          "prashna": "प्रश्न उपनिषद",
+          "shvetashvatara": "श्वेताश्वतर उपनिषद",
+          "taittiriya": "तैत्तिरीय उपनिषद"
+        }
+      },
+      "vedas": {
+        "title": "वेद",
+        "nav": {
+          "atharvaveda": "अथर्ववेद",
+          "rigveda": "ऋग्वेद",
+          "samaveda": "सामवेद",
+          "yajurveda": "यजुर्वेद"
+        }
+      }
+    }
+  }
+}

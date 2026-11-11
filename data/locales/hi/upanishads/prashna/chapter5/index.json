@@ -1,0 +1,26 @@
+﻿{
+  "prashna_chapter5": {
+    "title": "Prashna Chapter 5",
+    "description": "Chapter 5 from Prashna.",
+    "meta": {
+      "title": "Prashna Chapter 5",
+      "canonical": "https://sanatanadharmam.in/upanishads/prashna/chapter-5",
+      "description": "Chapter 5 from Prashna.",
+      "url": "https://sanatanadharmam.in/upanishads/prashna/chapter-5"
+    },
+    "openGraph": {
+      "title": "Prashna Chapter 5",
+      "description": "Chapter 5 from Prashna.",
+      "url": "https://sanatanadharmam.in/upanishads/prashna/chapter-5",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Prashna.",
+    "scripture_text": "Chapter-level summary text for Prashna, Chapter 5.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 5,
+      "path": "/upanishads/prashna/chapter-5"
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "bhagavadgita": {
+    "title": "Bhagavad Gita - Complete Guide, Chapters, Teachings & Philosophy",
+    "description": "Explore the Bhagavad Gita, the sacred dialogue between Krishna and Arjuna. Discover its 18 chapters, core teachings on karma, dharma, yoga, and spiritual wisdom.",
+    "meta": {
+      "title": "Bhagavad Gita - Complete Guide, Chapters, Teachings & Philosophy",
+      "description": "Explore the Bhagavad Gita, the sacred dialogue between Krishna and Arjuna. Discover its 18 chapters, core teachings on karma, dharma, yoga, and spiritual wisdom.",
+      "author": "vyasa",
+      "canonical": "https://sanatanadharmam.in/itihasa/bhagavadgita",
+      "content_type": "text/html; charset=UTF-8",
+      "keywords": [
+        "bhagavad gita",
+        "krishna",
+        "arjuna",
+        "gita chapters",
+        "karma yoga",
+        "bhakti yoga",
+        "jnana yoga",
+        "hindu philosophy",
+        "dharma",
+        "spiritual teachings"
+      ],
+      "language": "en",
+      "robots": "index, follow",
+      "viewport": "width=device-width, initial-scale=1"
+    },
+    "open_graph": {
+      "og:description": "Discover the Bhagavad Gita: 18 chapters of spiritual wisdom covering karma, devotion, knowledge, and the path to liberation.",
+      "og:image": "https://sanatanadharmam.in/images/bhagavad-gita-cover.jpg",
+      "og:locale": "en_US",
+      "og:site_name": "Vedic Knowledge Hub",
+      "og:title": "Bhagavad Gita - The Eternal Wisdom of Krishna",
+      "og:type": "book",
+      "og:url": "https://sanatanadharmam.in/itihasa/bhagavadgita"
+    },
+    "schema_org": {
+      "description": "The Bhagavad Gita is a 700-verse Hindu scripture that is part of the Mahabharata, presenting a dialogue between Krishna and Arjuna on duty, righteousness, and spiritual liberation.",
+      "@context": "https://schema.org",
+      "@type": "Book",
+      "about": [
+        "Karma Yoga",
+        "Bhakti Yoga",
+        "Jnana Yoga",
+        "Dharma",
+        "Self-realization"
+      ],
+      "alternateName": [
+        "Gita",
+        "Srimad Bhagavad Gita"
+      ],
+      "author": {
+        "@type": "Person",
+        "name": "Vyasa"
+      },
+      "bookFormat": "SpiritualText",
+      "character": [
+        {
+          "@type": "Person",
+          "name": "Krishna"
+        },
+        {
+          "@type": "Person",
+          "name": "Arjuna"
+        }
+      ],
+      "datePublished": "ancient",
+      "genre": [
+        "Philosophy",
+        "Spirituality",
+        "Scripture"
+      ],
+      "hasPart": [
+        {
+          "@type": "Chapter",
+          "name": "Chapter 1: Arjuna Vishada Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 2: Sankhya Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 3: Karma Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 4: Jnana Karma Sanyasa Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 5: Karma Sanyasa Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 6: Dhyana Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 7: Jnana Vijnana Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 8: Akshara Brahma Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 9: Raja Vidya Raja Guhya Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 10: Vibhuti Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 11: Vishvarupa Darshana Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 12: Bhakti Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 13: Kshetra Kshetrajna Vibhaga Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 14: Gunatraya Vibhaga Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 15: Purushottama Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 16: Daivasura Sampad Vibhaga Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 17: Shraddhatraya Vibhaga Yoga"
+        },
+        {
+          "@type": "Chapter",
+          "name": "Chapter 18: Moksha Sanyasa Yoga"
+        }
+      ],
+      "inLanguage": "sa",
+      "isAccessibleForFree": true,
+      "name": "Bhagavad Gita",
+      "numberOfPages": "700 verses",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Ancient Oral Tradition"
+      }
+    },
+    "sections": [
+      {
+        "content_model": "kanda/sarga",
+        "path": "/itihasa/ramayana",
+        "slug": "ramayana",
+        "total_leaf_pages": 350
+      },
+      {
+        "content_model": "parva/chapter",
+        "path": "/itihasa/mahabharata",
+        "slug": "mahabharata",
+        "total_leaf_pages": 360
+      },
+      {
+        "content_model": "chapter/verse",
+        "path": "/itihasa/bhagavad-gita",
+        "slug": "bhagavad-gita",
+        "total_leaf_pages": 90
+      }
+    ],
+    "total_leaf_pages": 800,
+    "twitter_card": {
+      "twitter:card": "summary_large_image",
+      "twitter:description": "Learn the Bhagavad Gita: karma yoga, bhakti yoga, jnana yoga, and timeless spiritual philosophy.",
+      "twitter:image": "https://sanatanadharmam.in/images/bhagavad-gita-cover.jpg",
+      "twitter:title": "Bhagavad Gita - Teachings of Krishna"
+    }
+  }
+}

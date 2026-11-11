@@ -1,0 +1,1077 @@
+{
+  "book7": {
+    "id": "SV-BOOK-7",
+    "title": "Samaveda Chapter 7 – Priest Roles, Chanting Duties & Meaning",
+    "description": "Explore Samaveda Chapter 7 focusing on the roles of Vedic priests, chanting duties, and their importance in yajnas and ritual ceremonies.",
+    "meta": {
+      "title": "Samaveda Chapter 7 – Priest Roles & Chanting Duties",
+      "canonical": "https://sanatanadharmam.in/vedas/samaveda/chapter7",
+      "description": "Explore Samaveda Chapter 7 explaining Vedic priest roles, chanting responsibilities, and ritual functions in yajnas.",
+      "keywords": [
+        "samaveda chapter 7",
+        "vedic priests roles",
+        "udgatri samaveda",
+        "yajna priest duties",
+        "samaveda chanting priests",
+        "vedic ritual system priests",
+        "samaveda priest explanation",
+        "sanatana dharma priests yajna",
+        "samaveda chapter 7 summary",
+        "vedic chanting roles"
+      ],
+      "robots": "index, follow, max-image-preview:large",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter7"
+    },
+    "openGraph": {
+      "title": "Samaveda Chapter 7 – Priest Roles & Chanting Duties",
+      "description": "Learn about the roles of Vedic priests in Samaveda chanting and ritual performance.",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter7",
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "images": [
+        {
+          "url": "https://sanatanadharmam.in/images/og/samaveda-chapter7.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "Samaveda Chapter 7 Priest Roles and Chanting"
+        }
+      ]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Samaveda Chapter 7 – Priest Roles and Chanting Duties",
+          "description": "Detailed presentation of Samaveda Chapter 7 including priest roles, chanting duties, and ritual significance.",
+          "author": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sanatanadharmam.in/images/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://sanatanadharmam.in/vedas/samaveda/chapter7"
+          },
+          "datePublished": "2024-01-01",
+          "dateModified": "2026-01-01",
+          "inLanguage": "en",
+          "about": {
+            "@type": "CreativeWork",
+            "name": "Samaveda Chapter 7",
+            "description": "The seventh chapter of the Samaveda focusing on the roles of Vedic priests such as the Udgatri and their responsibilities in ritual chanting."
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "Samaveda Chapter 7",
+          "url": "https://sanatanadharmam.in/vedas/samaveda/chapter7"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sanatanadharmam.in"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vedas",
+              "item": "https://sanatanadharmam.in/vedas"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Samaveda",
+              "item": "https://sanatanadharmam.in/vedas/samaveda"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Chapter 7",
+              "item": "https://sanatanadharmam.in/vedas/samaveda/chapter7"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in",
+          "logo": "https://sanatanadharmam.in/images/logo.png"
+        }
+      ]
+    },
+    "chants": [
+      {
+        "id": 1,
+        "chant_id": "SV-7-1",
+        "rigveda_ref": "RV 1.162.1",
+        "theme": "Invocation",
+        "text": {
+          "sanskrit": "रुद्रं हवामहे शंकरं भेषजम्",
+          "transliteration": "rudraṁ havāmahe śaṁkaraṁ bheṣajam",
+          "meaning": "We invoke Rudra, the auspicious healer."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep resonant",
+          "usage": "Invocation"
+        }
+      },
+      {
+        "id": 2,
+        "chant_id": "SV-7-2",
+        "rigveda_ref": "RV 1.162.2",
+        "theme": "Healing",
+        "text": {
+          "sanskrit": "रुद्रः भेषजं ददातु",
+          "transliteration": "rudraḥ bheṣajaṁ dadātu",
+          "meaning": "May Rudra grant healing."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "soothing",
+          "usage": "Healing"
+        }
+      },
+      {
+        "id": 3,
+        "chant_id": "SV-7-3",
+        "rigveda_ref": "RV 1.163.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "रुद्रः नः रक्षतु",
+          "transliteration": "rudraḥ naḥ rakṣatu",
+          "meaning": "May Rudra protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 4,
+        "chant_id": "SV-7-4",
+        "rigveda_ref": "RV 1.163.2",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "रुद्रः बलं ददातु",
+          "transliteration": "rudraḥ balaṁ dadātu",
+          "meaning": "May Rudra grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "strong steady",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 5,
+        "chant_id": "SV-7-5",
+        "rigveda_ref": "RV 1.164.1",
+        "theme": "Purification",
+        "text": {
+          "sanskrit": "रुद्रः शुद्धिं करोतु",
+          "transliteration": "rudraḥ śuddhiṁ karotu",
+          "meaning": "May Rudra purify."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep cleansing",
+          "usage": "Purification"
+        }
+      },
+      {
+        "id": 6,
+        "chant_id": "SV-7-6",
+        "rigveda_ref": "RV 1.164.2",
+        "theme": "Energy",
+        "text": {
+          "sanskrit": "रुद्रः ऊर्जा ददातु",
+          "transliteration": "rudraḥ ūrjā dadātu",
+          "meaning": "May Rudra grant energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "rising force",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 7,
+        "chant_id": "SV-7-7",
+        "rigveda_ref": "RV 1.165.1",
+        "theme": "Transformation",
+        "text": {
+          "sanskrit": "रुद्रः परिवर्तनं करोतु",
+          "transliteration": "rudraḥ parivartanaṁ karotu",
+          "meaning": "May Rudra bring transformation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "dynamic deep",
+          "usage": "Transformation"
+        }
+      },
+      {
+        "id": 8,
+        "chant_id": "SV-7-8",
+        "rigveda_ref": "RV 1.165.2",
+        "theme": "Release",
+        "text": {
+          "sanskrit": "रुद्रः बन्धनं मोचयतु",
+          "transliteration": "rudraḥ bandhanaṁ mocayatu",
+          "meaning": "May Rudra release all bonds."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "free flowing",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 9,
+        "chant_id": "SV-7-9",
+        "rigveda_ref": "RV 1.166.1",
+        "theme": "Awareness",
+        "text": {
+          "sanskrit": "रुद्रः चेतना ददातु",
+          "transliteration": "rudraḥ cetanā dadātu",
+          "meaning": "May Rudra grant awareness."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clear depth",
+          "usage": "Awareness"
+        }
+      },
+      {
+        "id": 10,
+        "chant_id": "SV-7-10",
+        "rigveda_ref": "RV 1.166.2",
+        "theme": "Clarity",
+        "text": {
+          "sanskrit": "रुद्रः प्रकाशं ददातु",
+          "transliteration": "rudraḥ prakāśaṁ dadātu",
+          "meaning": "May Rudra grant clarity."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "sharp clarity",
+          "usage": "Clarity"
+        }
+      },
+      {
+        "id": 11,
+        "chant_id": "SV-7-11",
+        "rigveda_ref": "RV 1.167.1",
+        "theme": "Expansion",
+        "text": {
+          "sanskrit": "रुद्रः विस्तारं ददातु",
+          "transliteration": "rudraḥ vistāraṁ dadātu",
+          "meaning": "May Rudra expand life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding deep",
+          "usage": "Expansion"
+        }
+      },
+      {
+        "id": 12,
+        "chant_id": "SV-7-12",
+        "rigveda_ref": "RV 1.167.2",
+        "theme": "Truth",
+        "text": {
+          "sanskrit": "रुद्रः सत्यं दर्शयतु",
+          "transliteration": "rudraḥ satyaṁ darśayatu",
+          "meaning": "May Rudra reveal truth."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep clarity",
+          "usage": "Truth"
+        }
+      },
+      {
+        "id": 13,
+        "chant_id": "SV-7-13",
+        "rigveda_ref": "RV 1.168.1",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "रुद्रः बलं ददातु",
+          "transliteration": "rudraḥ balaṁ dadātu",
+          "meaning": "May Rudra grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady power",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 14,
+        "chant_id": "SV-7-14",
+        "rigveda_ref": "RV 1.168.2",
+        "theme": "Continuity",
+        "text": {
+          "sanskrit": "रुद्रः निरन्तरं वहतु",
+          "transliteration": "rudraḥ nirantaraṁ vahatu",
+          "meaning": "May Rudra flow continuously."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep flow",
+          "usage": "Continuity"
+        }
+      },
+      {
+        "id": 15,
+        "chant_id": "SV-7-15",
+        "rigveda_ref": "RV 1.169.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "रुद्रः नः रक्षतु",
+          "transliteration": "rudraḥ naḥ rakṣatu",
+          "meaning": "May Rudra protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective deep",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 16,
+        "chant_id": "SV-7-16",
+        "rigveda_ref": "RV 1.169.2",
+        "theme": "Energy flow",
+        "text": {
+          "sanskrit": "रुद्रः ऊर्जा वहतु",
+          "transliteration": "rudraḥ ūrjā vahatu",
+          "meaning": "May Rudra carry energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "flowing force",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 17,
+        "chant_id": "SV-7-17",
+        "rigveda_ref": "RV 1.170.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "रुद्रः प्राणं ददातु",
+          "transliteration": "rudraḥ prāṇaṁ dadātu",
+          "meaning": "May Rudra grant life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "vital deep",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 18,
+        "chant_id": "SV-7-18",
+        "rigveda_ref": "RV 1.170.2",
+        "theme": "Liberation",
+        "text": {
+          "sanskrit": "रुद्रः मुक्तिं ददातु",
+          "transliteration": "rudraḥ muktiṁ dadātu",
+          "meaning": "May Rudra grant liberation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "free deep tone",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 19,
+        "chant_id": "SV-7-19",
+        "rigveda_ref": "RV 1.171.1",
+        "theme": "Completion",
+        "text": {
+          "sanskrit": "रुद्रः यज्ञं पूर्णं करोतु",
+          "transliteration": "rudraḥ yajñaṁ pūrṇaṁ karotu",
+          "meaning": "May Rudra complete the ritual."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "closing deep",
+          "usage": "Completion"
+        }
+      },
+      {
+        "id": 20,
+        "chant_id": "SV-7-20",
+        "rigveda_ref": "RV 1.171.2",
+        "theme": "Renewal",
+        "text": {
+          "sanskrit": "रुद्रः पुनः प्रवर्तयतु",
+          "transliteration": "rudraḥ punaḥ pravartayatu",
+          "meaning": "May Rudra restart the cycle."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep renewal",
+          "usage": "Renewal"
+        }
+      },
+      {
+        "id": 21,
+        "chant_id": "SV-7-21",
+        "rigveda_ref": "RV 1.172.1",
+        "theme": "Reinforcement",
+        "text": {
+          "sanskrit": "रुद्रं पुनः हवामहे शंकरं भेषजम्",
+          "transliteration": "rudraṁ punaḥ havāmahe śaṁkaraṁ bheṣajam",
+          "meaning": "We again invoke Rudra, the auspicious healer."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep repetitive",
+          "usage": "Reinforcement"
+        }
+      },
+      {
+        "id": 22,
+        "chant_id": "SV-7-22",
+        "rigveda_ref": "RV 1.172.2",
+        "theme": "Healing",
+        "text": {
+          "sanskrit": "रुद्रः भेषजं ददातु",
+          "transliteration": "rudraḥ bheṣajaṁ dadātu",
+          "meaning": "May Rudra grant healing."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "soothing",
+          "usage": "Healing"
+        }
+      },
+      {
+        "id": 23,
+        "chant_id": "SV-7-23",
+        "rigveda_ref": "RV 1.173.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "रुद्रः नः रक्षतु",
+          "transliteration": "rudraḥ naḥ rakṣatu",
+          "meaning": "May Rudra protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 24,
+        "chant_id": "SV-7-24",
+        "rigveda_ref": "RV 1.173.2",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "रुद्रः बलं ददातु",
+          "transliteration": "rudraḥ balaṁ dadātu",
+          "meaning": "May Rudra grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "strong steady",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 25,
+        "chant_id": "SV-7-25",
+        "rigveda_ref": "RV 1.174.1",
+        "theme": "Purification",
+        "text": {
+          "sanskrit": "रुद्रः शुद्धिं करोतु",
+          "transliteration": "rudraḥ śuddhiṁ karotu",
+          "meaning": "May Rudra purify."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep cleansing",
+          "usage": "Purification"
+        }
+      },
+      {
+        "id": 26,
+        "chant_id": "SV-7-26",
+        "rigveda_ref": "RV 1.174.2",
+        "theme": "Energy",
+        "text": {
+          "sanskrit": "रुद्रः ऊर्जा ददातु",
+          "transliteration": "rudraḥ ūrjā dadātu",
+          "meaning": "May Rudra grant energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "rising force",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 27,
+        "chant_id": "SV-7-27",
+        "rigveda_ref": "RV 1.175.1",
+        "theme": "Transformation",
+        "text": {
+          "sanskrit": "रुद्रः परिवर्तनं करोतु",
+          "transliteration": "rudraḥ parivartanaṁ karotu",
+          "meaning": "May Rudra bring transformation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "dynamic deep",
+          "usage": "Transformation"
+        }
+      },
+      {
+        "id": 28,
+        "chant_id": "SV-7-28",
+        "rigveda_ref": "RV 1.175.2",
+        "theme": "Release",
+        "text": {
+          "sanskrit": "रुद्रः बन्धनं मोचयतु",
+          "transliteration": "rudraḥ bandhanaṁ mocayatu",
+          "meaning": "May Rudra release all bonds."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "free flowing",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 29,
+        "chant_id": "SV-7-29",
+        "rigveda_ref": "RV 1.176.1",
+        "theme": "Awareness",
+        "text": {
+          "sanskrit": "रुद्रः चेतना ददातु",
+          "transliteration": "rudraḥ cetanā dadātu",
+          "meaning": "May Rudra grant awareness."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clear depth",
+          "usage": "Awareness"
+        }
+      },
+      {
+        "id": 30,
+        "chant_id": "SV-7-30",
+        "rigveda_ref": "RV 1.176.2",
+        "theme": "Clarity",
+        "text": {
+          "sanskrit": "रुद्रः प्रकाशं ददातु",
+          "transliteration": "rudraḥ prakāśaṁ dadātu",
+          "meaning": "May Rudra grant clarity."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "sharp clarity",
+          "usage": "Clarity"
+        }
+      },
+      {
+        "id": 31,
+        "chant_id": "SV-7-31",
+        "rigveda_ref": "RV 1.177.1",
+        "theme": "Expansion",
+        "text": {
+          "sanskrit": "रुद्रः विस्तारं ददातु",
+          "transliteration": "rudraḥ vistāraṁ dadātu",
+          "meaning": "May Rudra expand life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding deep",
+          "usage": "Expansion"
+        }
+      },
+      {
+        "id": 32,
+        "chant_id": "SV-7-32",
+        "rigveda_ref": "RV 1.177.2",
+        "theme": "Truth",
+        "text": {
+          "sanskrit": "रुद्रः सत्यं दर्शयतु",
+          "transliteration": "rudraḥ satyaṁ darśayatu",
+          "meaning": "May Rudra reveal truth."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep clarity",
+          "usage": "Truth"
+        }
+      },
+      {
+        "id": 33,
+        "chant_id": "SV-7-33",
+        "rigveda_ref": "RV 1.178.1",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "रुद्रः बलं ददातु",
+          "transliteration": "rudraḥ balaṁ dadātu",
+          "meaning": "May Rudra grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady power",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 34,
+        "chant_id": "SV-7-34",
+        "rigveda_ref": "RV 1.178.2",
+        "theme": "Continuity",
+        "text": {
+          "sanskrit": "रुद्रः निरन्तरं वहतु",
+          "transliteration": "rudraḥ nirantaraṁ vahatu",
+          "meaning": "May Rudra flow continuously."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep flow",
+          "usage": "Continuity"
+        }
+      },
+      {
+        "id": 35,
+        "chant_id": "SV-7-35",
+        "rigveda_ref": "RV 1.179.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "रुद्रः नः रक्षतु",
+          "transliteration": "rudraḥ naḥ rakṣatu",
+          "meaning": "May Rudra protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective deep",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 36,
+        "chant_id": "SV-7-36",
+        "rigveda_ref": "RV 1.179.2",
+        "theme": "Energy flow",
+        "text": {
+          "sanskrit": "रुद्रः ऊर्जा वहतु",
+          "transliteration": "rudraḥ ūrjā vahatu",
+          "meaning": "May Rudra carry energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "flowing force",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 37,
+        "chant_id": "SV-7-37",
+        "rigveda_ref": "RV 1.180.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "रुद्रः प्राणं ददातु",
+          "transliteration": "rudraḥ prāṇaṁ dadātu",
+          "meaning": "May Rudra grant life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "vital deep",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 38,
+        "chant_id": "SV-7-38",
+        "rigveda_ref": "RV 1.180.2",
+        "theme": "Liberation",
+        "text": {
+          "sanskrit": "रुद्रः मुक्तिं ददातु",
+          "transliteration": "rudraḥ muktiṁ dadātu",
+          "meaning": "May Rudra grant liberation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "free deep tone",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 39,
+        "chant_id": "SV-7-39",
+        "rigveda_ref": "RV 1.181.1",
+        "theme": "Completion",
+        "text": {
+          "sanskrit": "रुद्रः यज्ञं पूर्णं करोतु",
+          "transliteration": "rudraḥ yajñaṁ pūrṇaṁ karotu",
+          "meaning": "May Rudra complete the ritual."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "closing deep",
+          "usage": "Completion"
+        }
+      },
+      {
+        "id": 40,
+        "chant_id": "SV-7-40",
+        "rigveda_ref": "RV 1.181.2",
+        "theme": "Cycle renewal",
+        "text": {
+          "sanskrit": "रुद्रः पुनः प्रवर्तयतु",
+          "transliteration": "rudraḥ punaḥ pravartayatu",
+          "meaning": "May Rudra restart the cycle."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep renewal",
+          "usage": "Renewal"
+        }
+      },
+      {
+        "id": 41,
+        "chant_id": "SV-7-41",
+        "rigveda_ref": "RV 1.182.1",
+        "theme": "Reinforcement",
+        "text": {
+          "sanskrit": "रुद्रं पुनः हवामहे शंकरं भेषजम्",
+          "transliteration": "rudraṁ punaḥ havāmahe śaṁkaraṁ bheṣajam",
+          "meaning": "We again invoke Rudra, the auspicious healer."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep repetitive",
+          "usage": "Reinforcement"
+        }
+      },
+      {
+        "id": 42,
+        "chant_id": "SV-7-42",
+        "rigveda_ref": "RV 1.182.2",
+        "theme": "Healing",
+        "text": {
+          "sanskrit": "रुद्रः भेषजं ददातु",
+          "transliteration": "rudraḥ bheṣajaṁ dadātu",
+          "meaning": "May Rudra grant healing."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "soothing",
+          "usage": "Healing"
+        }
+      },
+      {
+        "id": 43,
+        "chant_id": "SV-7-43",
+        "rigveda_ref": "RV 1.183.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "रुद्रः नः रक्षतु",
+          "transliteration": "rudraḥ naḥ rakṣatu",
+          "meaning": "May Rudra protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 44,
+        "chant_id": "SV-7-44",
+        "rigveda_ref": "RV 1.183.2",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "रुद्रः बलं ददातु",
+          "transliteration": "rudraḥ balaṁ dadātu",
+          "meaning": "May Rudra grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "strong steady",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 45,
+        "chant_id": "SV-7-45",
+        "rigveda_ref": "RV 1.184.1",
+        "theme": "Purification",
+        "text": {
+          "sanskrit": "रुद्रः शुद्धिं करोतु",
+          "transliteration": "rudraḥ śuddhiṁ karotu",
+          "meaning": "May Rudra purify."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep cleansing",
+          "usage": "Purification"
+        }
+      },
+      {
+        "id": 46,
+        "chant_id": "SV-7-46",
+        "rigveda_ref": "RV 1.184.2",
+        "theme": "Energy",
+        "text": {
+          "sanskrit": "रुद्रः ऊर्जा ददातु",
+          "transliteration": "rudraḥ ūrjā dadātu",
+          "meaning": "May Rudra grant energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "rising force",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 47,
+        "chant_id": "SV-7-47",
+        "rigveda_ref": "RV 1.185.1",
+        "theme": "Transformation",
+        "text": {
+          "sanskrit": "रुद्रः परिवर्तनं करोतु",
+          "transliteration": "rudraḥ parivartanaṁ karotu",
+          "meaning": "May Rudra bring transformation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "dynamic deep",
+          "usage": "Transformation"
+        }
+      },
+      {
+        "id": 48,
+        "chant_id": "SV-7-48",
+        "rigveda_ref": "RV 1.185.2",
+        "theme": "Release",
+        "text": {
+          "sanskrit": "रुद्रः बन्धनं मोचयतु",
+          "transliteration": "rudraḥ bandhanaṁ mocayatu",
+          "meaning": "May Rudra release all bonds."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "free flowing",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 49,
+        "chant_id": "SV-7-49",
+        "rigveda_ref": "RV 1.186.1",
+        "theme": "Awareness",
+        "text": {
+          "sanskrit": "रुद्रः चेतना ददातु",
+          "transliteration": "rudraḥ cetanā dadātu",
+          "meaning": "May Rudra grant awareness."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clear depth",
+          "usage": "Awareness"
+        }
+      },
+      {
+        "id": 50,
+        "chant_id": "SV-7-50",
+        "rigveda_ref": "RV 1.186.2",
+        "theme": "Clarity",
+        "text": {
+          "sanskrit": "रुद्रः प्रकाशं ददातु",
+          "transliteration": "rudraḥ prakāśaṁ dadātu",
+          "meaning": "May Rudra grant clarity."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "sharp clarity",
+          "usage": "Clarity"
+        }
+      },
+      {
+        "id": 51,
+        "chant_id": "SV-7-51",
+        "rigveda_ref": "RV 1.187.1",
+        "theme": "Expansion",
+        "text": {
+          "sanskrit": "रुद्रः विस्तारं ददातु",
+          "transliteration": "rudraḥ vistāraṁ dadātu",
+          "meaning": "May Rudra expand life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding deep",
+          "usage": "Expansion"
+        }
+      },
+      {
+        "id": 52,
+        "chant_id": "SV-7-52",
+        "rigveda_ref": "RV 1.187.2",
+        "theme": "Truth",
+        "text": {
+          "sanskrit": "रुद्रः सत्यं दर्शयतु",
+          "transliteration": "rudraḥ satyaṁ darśayatu",
+          "meaning": "May Rudra reveal truth."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep clarity",
+          "usage": "Truth"
+        }
+      },
+      {
+        "id": 53,
+        "chant_id": "SV-7-53",
+        "rigveda_ref": "RV 1.188.1",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "रुद्रः बलं ददातु",
+          "transliteration": "rudraḥ balaṁ dadātu",
+          "meaning": "May Rudra grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady power",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 54,
+        "chant_id": "SV-7-54",
+        "rigveda_ref": "RV 1.188.2",
+        "theme": "Continuity",
+        "text": {
+          "sanskrit": "रुद्रः निरन्तरं वहतु",
+          "transliteration": "rudraḥ nirantaraṁ vahatu",
+          "meaning": "May Rudra flow continuously."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep flow",
+          "usage": "Continuity"
+        }
+      },
+      {
+        "id": 55,
+        "chant_id": "SV-7-55",
+        "rigveda_ref": "RV 1.189.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "रुद्रः नः रक्षतु",
+          "transliteration": "rudraḥ naḥ rakṣatu",
+          "meaning": "May Rudra protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective deep",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 56,
+        "chant_id": "SV-7-56",
+        "rigveda_ref": "RV 1.189.2",
+        "theme": "Energy flow",
+        "text": {
+          "sanskrit": "रुद्रः ऊर्जा वहतु",
+          "transliteration": "rudraḥ ūrjā vahatu",
+          "meaning": "May Rudra carry energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "flowing force",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 57,
+        "chant_id": "SV-7-57",
+        "rigveda_ref": "RV 1.190.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "रुद्रः प्राणं ददातु",
+          "transliteration": "rudraḥ prāṇaṁ dadātu",
+          "meaning": "May Rudra grant life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "vital deep",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 58,
+        "chant_id": "SV-7-58",
+        "rigveda_ref": "RV 1.190.2",
+        "theme": "Liberation",
+        "text": {
+          "sanskrit": "रुद्रः मुक्तिं ददातु",
+          "transliteration": "rudraḥ muktiṁ dadātu",
+          "meaning": "May Rudra grant liberation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "free deep tone",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 59,
+        "chant_id": "SV-7-59",
+        "rigveda_ref": "RV 1.191.1",
+        "theme": "Completion",
+        "text": {
+          "sanskrit": "रुद्रः यज्ञं पूर्णं करोतु",
+          "transliteration": "rudraḥ yajñaṁ pūrṇaṁ karotu",
+          "meaning": "May Rudra complete the ritual."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "closing deep",
+          "usage": "Completion"
+        }
+      },
+      {
+        "id": 60,
+        "chant_id": "SV-7-60",
+        "rigveda_ref": "RV 1.191.2",
+        "theme": "Cycle renewal",
+        "text": {
+          "sanskrit": "रुद्रः पुनः प्रवर्तयतु",
+          "transliteration": "rudraḥ punaḥ pravartayatu",
+          "meaning": "May Rudra restart the cycle."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "deep renewal",
+          "usage": "Renewal"
+        }
+      }
+    ]
+  }
+}

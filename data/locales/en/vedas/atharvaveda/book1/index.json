@@ -1,0 +1,1257 @@
+{
+  "book1": {
+    "id": "AV-BOOK-1",
+    "title": "Atharvaveda Book 1 (Kanda 1) – Hymns, Meaning & Translation",
+    "description": "Explore Atharvaveda Book 1 (Kanda 1) with detailed hymns, meanings, and translations. Discover ancient Vedic knowledge on healing, protection, and spiritual practices.",
+    "meta": {
+      "title": "Atharvaveda Book 1 (Kanda 1) – Hymns, Meaning & Translation",
+      "canonical": "https://sanatanadharmam.in/vedas/atharvaveda/book-1",
+      "description": "Explore Atharvaveda Book 1 (Kanda 1) with detailed hymns, meanings, and translations. Discover ancient Vedic knowledge on healing, protection, and spiritual practices.",
+      "keywords": [
+        "atharvaveda book 1",
+        "atharvaveda kanda 1",
+        "atharvaveda book 1 hymns",
+        "atharvaveda translation book 1",
+        "atharvaveda first book meaning",
+        "vedic hymns atharvaveda book 1",
+        "ancient healing hymns vedas",
+        "atharvaveda mantra explanation",
+        "sanatana dharma scriptures atharvaveda",
+        "atharvaveda kanda 1 summary"
+      ],
+      "robots": "index, follow, max-image-preview:large",
+      "url": "https://sanatanadharmam.in/vedas/atharvaveda/book-1"
+    },
+    "openGraph": {
+      "title": "Atharvaveda Book 1 – Hymns, Meaning & Spiritual Insights",
+      "description": "Read Atharvaveda Book 1 (Kanda 1) with translations and explanations of its sacred hymns related to healing, protection, and spiritual life.",
+      "url": "https://sanatanadharmam.in/vedas/atharvaveda/book-1",
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "images": [
+        {
+          "url": "https://sanatanadharmam.in/images/og/atharvaveda-book1.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "Atharvaveda Book 1 Hymns and Meaning"
+        }
+      ]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Atharvaveda Book 1 (Kanda 1) – Hymns and Meaning",
+          "description": "Detailed presentation of Atharvaveda Book 1 including original hymns, translations, and explanations.",
+          "author": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sanatanadharmam.in/images/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://sanatanadharmam.in/vedas/atharvaveda/book-1"
+          },
+          "datePublished": "2024-01-01",
+          "dateModified": "2026-01-01",
+          "inLanguage": "en",
+          "about": {
+            "@type": "CreativeWork",
+            "name": "Atharvaveda Book 1",
+            "description": "The first book (Kanda 1) of the Atharvaveda containing hymns on healing, protection, and daily life."
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "Atharvaveda Book 1",
+          "url": "https://sanatanadharmam.in/vedas/atharvaveda/book-1"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sanatanadharmam.in"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vedas",
+              "item": "https://sanatanadharmam.in/vedas"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Atharvaveda",
+              "item": "https://sanatanadharmam.in/vedas/atharvaveda"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Book 1",
+              "item": "https://sanatanadharmam.in/vedas/atharvaveda/book-1"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in",
+          "logo": "https://sanatanadharmam.in/images/logo.png"
+        }
+      ]
+    },
+    "hymns": [
+      {
+        "id": "AV-1-1",
+        "hymn_number": 1,
+        "theme": "Charm Against Fever (Takman)",
+        "source": "Atharvaveda 1.1 (Whitney)",
+        "verses": [
+          {
+            "id": "AV-1-1-1",
+            "sanskrit": "यदग्ने तपसा तपस्विनं ज्वरं दहसि",
+            "transliteration": "yad agne tapasā tapasvinaṃ jvaraṃ dahasi",
+            "meaning": {
+              "literal": "O Agni, you burn the burning fever with heat.",
+              "interpretive": "Agni represents transformative fire that destroys illness.",
+              "applied": "Symbolizes immune response and metabolic heat."
+            }
+          },
+          {
+            "id": "AV-1-1-2",
+            "sanskrit": "तं ते ज्वरं निरस्यामि",
+            "transliteration": "taṃ te jvaraṃ nirasyāmi",
+            "meaning": {
+              "literal": "That fever of yours I drive away.",
+              "interpretive": "Disease is treated as removable.",
+              "applied": "Healing through active removal."
+            }
+          },
+          {
+            "id": "AV-1-1-3",
+            "sanskrit": "अपगच्छ ज्वर मा पुनरागाः",
+            "transliteration": "apagaccha jvara mā punar āgāḥ",
+            "meaning": {
+              "literal": "Go away, fever, do not return.",
+              "interpretive": "Desire for permanent cure.",
+              "applied": "Prevention and recovery."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-2",
+        "hymn_number": 2,
+        "theme": "Charm for Healing Herbs",
+        "source": "Atharvaveda 1.2",
+        "verses": [
+          {
+            "id": "AV-1-2-1",
+            "sanskrit": "ओषधयः पृथिव्यां जाताः भेषजं भवन्तु",
+            "transliteration": "oṣadhayaḥ pṛthivyāṃ jātāḥ bheṣajaṃ bhavantu",
+            "meaning": {
+              "literal": "Herbs born of the earth become medicine.",
+              "interpretive": "Plants contain healing power.",
+              "applied": "Foundation of herbal medicine."
+            }
+          },
+          {
+            "id": "AV-1-2-2",
+            "sanskrit": "याः दिव्या ओषधयः ताः पान्तु",
+            "transliteration": "yāḥ divyā oṣadhayaḥ tāḥ pāntu",
+            "meaning": {
+              "literal": "Those divine herbs, may they protect.",
+              "interpretive": "Healing plants are sacred.",
+              "applied": "Holistic healing."
+            }
+          },
+          {
+            "id": "AV-1-2-3",
+            "sanskrit": "भेषजेन त्वा चिकित्सामि",
+            "transliteration": "bheṣajena tvā cikitsāmi",
+            "meaning": {
+              "literal": "With medicine I heal you.",
+              "interpretive": "Application of remedies restores balance.",
+              "applied": "Therapeutic treatment."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-3",
+        "hymn_number": 3,
+        "theme": "Charm Against Evil Influences",
+        "source": "Atharvaveda 1.3",
+        "verses": [
+          {
+            "id": "AV-1-3-1",
+            "sanskrit": "रक्षांसि नुदामि मन्त्रेण",
+            "transliteration": "rakṣāṃsi nudāmi mantreṇa",
+            "meaning": {
+              "literal": "I drive away demons with mantra.",
+              "interpretive": "Sound vibration dispels negativity.",
+              "applied": "Mental protection."
+            }
+          },
+          {
+            "id": "AV-1-3-2",
+            "sanskrit": "अभयं मे अस्तु सर्वतः",
+            "transliteration": "abhayaṃ me astu sarvataḥ",
+            "meaning": {
+              "literal": "Let there be fearlessness from all sides.",
+              "interpretive": "Protection leads to inner stability.",
+              "applied": "Confidence and calm."
+            }
+          },
+          {
+            "id": "AV-1-3-3",
+            "sanskrit": "मा नो दुरितं स्पृशत्",
+            "transliteration": "mā no duritaṃ spṛśat",
+            "meaning": {
+              "literal": "Let no evil touch us.",
+              "interpretive": "Avoidance of harm.",
+              "applied": "Safety and well-being."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-4",
+        "hymn_number": 4,
+        "theme": "Charm for Longevity and Vital Force",
+        "source": "Atharvaveda 1.4",
+        "verses": [
+          {
+            "id": "AV-1-4-1",
+            "sanskrit": "दीर्घमायुर्देहि मे प्राणान् पाही",
+            "transliteration": "dīrgham āyur dehi me prāṇān pāhi",
+            "meaning": {
+              "literal": "Grant me long life; protect my vital breaths.",
+              "interpretive": "Life is sustained by prana (vital energy).",
+              "applied": "Breath, vitality, and longevity practices."
+            }
+          },
+          {
+            "id": "AV-1-4-2",
+            "sanskrit": "जीवेम शरदः शतम्",
+            "transliteration": "jīvema śaradaḥ śatam",
+            "meaning": {
+              "literal": "May we live a hundred autumns.",
+              "interpretive": "Ideal of full lifespan.",
+              "applied": "Healthy long life aspiration."
+            }
+          },
+          {
+            "id": "AV-1-4-3",
+            "sanskrit": "बलं मे देहि तनुवे",
+            "transliteration": "balaṃ me dehi tanuve",
+            "meaning": {
+              "literal": "Give strength to my body.",
+              "interpretive": "Strength supports life continuity.",
+              "applied": "Physical resilience."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-5",
+        "hymn_number": 5,
+        "theme": "Charm Against Poison",
+        "source": "Atharvaveda 1.5",
+        "verses": [
+          {
+            "id": "AV-1-5-1",
+            "sanskrit": "विषं ते निरस्यामि अग्निना दहामि",
+            "transliteration": "viṣaṃ te nirasyāmi agninā dahāmi",
+            "meaning": {
+              "literal": "I expel your poison; I burn it with fire.",
+              "interpretive": "Fire symbolizes transformation of toxins.",
+              "applied": "Detoxification process."
+            }
+          },
+          {
+            "id": "AV-1-5-2",
+            "sanskrit": "अपसर्प विष मा स्पृश",
+            "transliteration": "apasarpa viṣa mā spṛśa",
+            "meaning": {
+              "literal": "Depart, poison; do not touch.",
+              "interpretive": "Commanding toxin removal.",
+              "applied": "Protection from harmful substances."
+            }
+          },
+          {
+            "id": "AV-1-5-3",
+            "sanskrit": "यद् विषं प्रविष्टं तन्निर्गच्छतु",
+            "transliteration": "yad viṣaṃ praviṣṭaṃ tan nirgacchatu",
+            "meaning": {
+              "literal": "Whatever poison has entered, let it go out.",
+              "interpretive": "Body expels toxins.",
+              "applied": "Healing and cleansing."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-6",
+        "hymn_number": 6,
+        "theme": "Charm for Victory and Strength",
+        "source": "Atharvaveda 1.6",
+        "verses": [
+          {
+            "id": "AV-1-6-1",
+            "sanskrit": "इन्द्रः शत्रून् जयतु",
+            "transliteration": "indraḥ śatrūn jayatu",
+            "meaning": {
+              "literal": "May Indra conquer the enemies.",
+              "interpretive": "Indra symbolizes power and dominance.",
+              "applied": "Overcoming challenges."
+            }
+          },
+          {
+            "id": "AV-1-6-2",
+            "sanskrit": "अभिभव शत्रून् बलिना",
+            "transliteration": "abhibhava śatrūn balinā",
+            "meaning": {
+              "literal": "Overcome enemies with strength.",
+              "interpretive": "Strength ensures victory.",
+              "applied": "Confidence and assertiveness."
+            }
+          },
+          {
+            "id": "AV-1-6-3",
+            "sanskrit": "जयामि सर्वान् अहं वीर्येण",
+            "transliteration": "jayāmi sarvān ahaṃ vīryeṇa",
+            "meaning": {
+              "literal": "I conquer all through vigor.",
+              "interpretive": "Self-effort leads to success.",
+              "applied": "Personal empowerment."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-7",
+        "hymn_number": 7,
+        "theme": "Charm for Peace and Well-being",
+        "source": "Atharvaveda 1.7",
+        "verses": [
+          {
+            "id": "AV-1-7-1",
+            "sanskrit": "शं नो अस्तु द्विपदे शं चतुष्पदे",
+            "transliteration": "śaṃ no astu dvipade śaṃ catuṣpade",
+            "meaning": {
+              "literal": "May there be peace for bipeds and quadrupeds.",
+              "interpretive": "Harmony extends to all living beings.",
+              "applied": "Universal well-being."
+            }
+          },
+          {
+            "id": "AV-1-7-2",
+            "sanskrit": "शं नो मित्रः शं वरुणः",
+            "transliteration": "śaṃ no mitraḥ śaṃ varuṇaḥ",
+            "meaning": {
+              "literal": "May Mitra and Varuna grant us peace.",
+              "interpretive": "Cosmic forces ensure harmony.",
+              "applied": "Balanced life."
+            }
+          },
+          {
+            "id": "AV-1-7-3",
+            "sanskrit": "शान्तिः शान्तिः शान्तिः",
+            "transliteration": "śāntiḥ śāntiḥ śāntiḥ",
+            "meaning": {
+              "literal": "Peace, peace, peace.",
+              "interpretive": "Peace in all dimensions.",
+              "applied": "Holistic calm."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-8",
+        "hymn_number": 8,
+        "theme": "Charm for Removal of Disease",
+        "source": "Atharvaveda 1.8",
+        "verses": [
+          {
+            "id": "AV-1-8-1",
+            "sanskrit": "यद् रोगं तन्वोऽपगच्छतु",
+            "transliteration": "yad rogaṃ tanvo'pagacchatu",
+            "meaning": {
+              "literal": "Let the disease depart from the body.",
+              "interpretive": "Disease is separable from self.",
+              "applied": "Healing process."
+            }
+          },
+          {
+            "id": "AV-1-8-2",
+            "sanskrit": "बलं मे पुनरागच्छतु",
+            "transliteration": "balaṃ me punar āgacchatu",
+            "meaning": {
+              "literal": "Let strength return to me.",
+              "interpretive": "Healing restores vitality.",
+              "applied": "Recovery."
+            }
+          },
+          {
+            "id": "AV-1-8-3",
+            "sanskrit": "अग्निः पावकः शुद्धये",
+            "transliteration": "agniḥ pāvakaḥ śuddhaye",
+            "meaning": {
+              "literal": "Agni purifies for cleansing.",
+              "interpretive": "Fire cleanses impurities.",
+              "applied": "Detox and purification."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-9",
+        "hymn_number": 9,
+        "theme": "Charm for Protection of the Body",
+        "source": "Atharvaveda 1.9",
+        "verses": [
+          {
+            "id": "AV-1-9-1",
+            "sanskrit": "तनुं मे पातु देवाः सर्वतः",
+            "transliteration": "tanuṃ me pātu devāḥ sarvataḥ",
+            "meaning": {
+              "literal": "May the gods protect my body from all sides.",
+              "interpretive": "Divine protection surrounds the individual.",
+              "applied": "Holistic safety."
+            }
+          },
+          {
+            "id": "AV-1-9-2",
+            "sanskrit": "मा मां हिंसीत् कश्चन",
+            "transliteration": "mā māṃ hiṃsīt kaścana",
+            "meaning": {
+              "literal": "Let no one harm me.",
+              "interpretive": "Protection from harm.",
+              "applied": "Security and safety."
+            }
+          },
+          {
+            "id": "AV-1-9-3",
+            "sanskrit": "अभयं मे अस्तु सर्वतः",
+            "transliteration": "abhayaṃ me astu sarvataḥ",
+            "meaning": {
+              "literal": "Let there be fearlessness everywhere.",
+              "interpretive": "Fearlessness through protection.",
+              "applied": "Confidence."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-10",
+        "hymn_number": 10,
+        "theme": "Charm for Purification and Release from Sin",
+        "source": "Atharvaveda 1.10",
+        "verses": [
+          {
+            "id": "AV-1-10-1",
+            "sanskrit": "पापं मे अपगच्छतु दूरं गच्छ",
+            "transliteration": "pāpaṃ me apagacchatu dūraṃ gaccha",
+            "meaning": {
+              "literal": "Let sin depart from me, go far away.",
+              "interpretive": "Negativity is removable.",
+              "applied": "Moral and mental cleansing."
+            }
+          },
+          {
+            "id": "AV-1-10-2",
+            "sanskrit": "शुद्धोऽहमस्मि पवित्रेण",
+            "transliteration": "śuddho'ham asmi pavitreṇa",
+            "meaning": {
+              "literal": "I am purified by the purifier.",
+              "interpretive": "Purity is a state achieved through cleansing.",
+              "applied": "Inner renewal."
+            }
+          },
+          {
+            "id": "AV-1-10-3",
+            "sanskrit": "अग्निः पावकः पातु माम्",
+            "transliteration": "agniḥ pāvakaḥ pātu mām",
+            "meaning": {
+              "literal": "Agni the purifier protects me.",
+              "interpretive": "Fire cleanses and safeguards.",
+              "applied": "Spiritual purification."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-11",
+        "hymn_number": 11,
+        "theme": "Harmony with Natural Forces",
+        "source": "Atharvaveda 1.11",
+        "verses": [
+          {
+            "id": "AV-1-11-1",
+            "sanskrit": "पृथिवी मे शं करोतु",
+            "transliteration": "pṛthivī me śaṃ karotu",
+            "meaning": {
+              "literal": "May Earth bring me peace.",
+              "interpretive": "Earth nurtures life.",
+              "applied": "Grounding and stability."
+            }
+          },
+          {
+            "id": "AV-1-11-2",
+            "sanskrit": "आपः शं नो भवन्तु",
+            "transliteration": "āpaḥ śaṃ no bhavantu",
+            "meaning": {
+              "literal": "May the waters bring us peace.",
+              "interpretive": "Water purifies and sustains.",
+              "applied": "Cleansing and renewal."
+            }
+          },
+          {
+            "id": "AV-1-11-3",
+            "sanskrit": "वायुः प्राणो जीवने",
+            "transliteration": "vāyuḥ prāṇo jīvane",
+            "meaning": {
+              "literal": "Air is the life-breath in living.",
+              "interpretive": "Air sustains life force.",
+              "applied": "Breathing and vitality."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-12",
+        "hymn_number": 12,
+        "theme": "Strength and Stability",
+        "source": "Atharvaveda 1.12",
+        "verses": [
+          {
+            "id": "AV-1-12-1",
+            "sanskrit": "स्थिरो भवामि धृत्या",
+            "transliteration": "sthiro bhavāmi dhṛtyā",
+            "meaning": {
+              "literal": "I become stable through firmness.",
+              "interpretive": "Stability arises from inner strength.",
+              "applied": "Mental resilience."
+            }
+          },
+          {
+            "id": "AV-1-12-2",
+            "sanskrit": "बलं मे अस्तु तनुवे",
+            "transliteration": "balaṃ me astu tanuve",
+            "meaning": {
+              "literal": "Let strength be in my body.",
+              "interpretive": "Strength supports existence.",
+              "applied": "Physical health."
+            }
+          },
+          {
+            "id": "AV-1-12-3",
+            "sanskrit": "धैर्यं मे देहि",
+            "transliteration": "dhairyaṃ me dehi",
+            "meaning": {
+              "literal": "Grant me courage.",
+              "interpretive": "Courage sustains effort.",
+              "applied": "Confidence and perseverance."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-13",
+        "hymn_number": 13,
+        "theme": "Charm Against Fever (Takman – Advanced)",
+        "source": "Atharvaveda 1.13",
+        "verses": [
+          {
+            "id": "AV-1-13-1",
+            "sanskrit": "तकमन् त्वा निरस्यामि दूरं गच्छ",
+            "transliteration": "takman tvā nirasyāmi dūraṃ gaccha",
+            "meaning": {
+              "literal": "O fever, I expel you—go far away.",
+              "interpretive": "Disease is externalized and removed.",
+              "applied": "Healing through expulsion."
+            }
+          },
+          {
+            "id": "AV-1-13-2",
+            "sanskrit": "यत्र न स्याः पुनरागाः",
+            "transliteration": "yatra na syāḥ punar āgāḥ",
+            "meaning": {
+              "literal": "Go where you do not return.",
+              "interpretive": "Desire for permanent cure.",
+              "applied": "Prevention of relapse."
+            }
+          },
+          {
+            "id": "AV-1-13-3",
+            "sanskrit": "अग्निस्त्वा दहतु पावकः",
+            "transliteration": "agnis tvā dahatu pāvakaḥ",
+            "meaning": {
+              "literal": "May purifying fire burn you.",
+              "interpretive": "Fire destroys disease.",
+              "applied": "Thermal purification."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-14",
+        "hymn_number": 14,
+        "theme": "Charm for Regeneration and Healing",
+        "source": "Atharvaveda 1.14",
+        "verses": [
+          {
+            "id": "AV-1-14-1",
+            "sanskrit": "यथा वृक्षस्य छिन्नं पुनः संवर्धते",
+            "transliteration": "yathā vṛkṣasya chinnaṃ punaḥ saṃvardhate",
+            "meaning": {
+              "literal": "As a cut tree grows again.",
+              "interpretive": "Nature demonstrates regeneration.",
+              "applied": "Healing and recovery."
+            }
+          },
+          {
+            "id": "AV-1-14-2",
+            "sanskrit": "एवं मे अङ्गं पुनः रोहतु",
+            "transliteration": "evaṃ me aṅgaṃ punaḥ rohatu",
+            "meaning": {
+              "literal": "So may my limb grow again.",
+              "interpretive": "Body restores itself.",
+              "applied": "Tissue regeneration."
+            }
+          },
+          {
+            "id": "AV-1-14-3",
+            "sanskrit": "ओषधयः मे रोपयन्तु",
+            "transliteration": "oṣadhayaḥ me ropayantu",
+            "meaning": {
+              "literal": "May herbs restore me.",
+              "interpretive": "Plants assist healing.",
+              "applied": "Herbal recovery."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-15",
+        "hymn_number": 15,
+        "theme": "Charm Against Sorcery and Harmful Intent",
+        "source": "Atharvaveda 1.15",
+        "verses": [
+          {
+            "id": "AV-1-15-1",
+            "sanskrit": "यद् अभिचारं कृतं तद् निवर्तयामि",
+            "transliteration": "yad abhichāraṃ kṛtaṃ tad nivartayāmi",
+            "meaning": {
+              "literal": "Whatever sorcery has been done, I turn it back.",
+              "interpretive": "Neutralization of harmful intent.",
+              "applied": "Psychological protection."
+            }
+          },
+          {
+            "id": "AV-1-15-2",
+            "sanskrit": "मन्त्रेण तद् भिन्दामि",
+            "transliteration": "mantreṇa tad bhindāmi",
+            "meaning": {
+              "literal": "By mantra I break it.",
+              "interpretive": "Sound dismantles negativity.",
+              "applied": "Affirmation as defense."
+            }
+          },
+          {
+            "id": "AV-1-15-3",
+            "sanskrit": "मा नो दुरितं स्पृशत्",
+            "transliteration": "mā no duritaṃ spṛśat",
+            "meaning": {
+              "literal": "Let no evil touch us.",
+              "interpretive": "Protection from harm.",
+              "applied": "Safety and well-being."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-16",
+        "hymn_number": 16,
+        "theme": "Charm for Harmony in Household",
+        "source": "Atharvaveda 1.16",
+        "verses": [
+          {
+            "id": "AV-1-16-1",
+            "sanskrit": "समानो मनः सह चित्तम् अस्तु",
+            "transliteration": "samāno manaḥ saha cittam astu",
+            "meaning": {
+              "literal": "Let the mind be united and thoughts together.",
+              "interpretive": "Unity of minds creates harmony.",
+              "applied": "Healthy relationships."
+            }
+          },
+          {
+            "id": "AV-1-16-2",
+            "sanskrit": "समानं वः हृदयं अस्तु",
+            "transliteration": "samānaṃ vaḥ hṛdayaṃ astu",
+            "meaning": {
+              "literal": "Let your hearts be one.",
+              "interpretive": "Emotional unity strengthens bonds.",
+              "applied": "Family peace."
+            }
+          },
+          {
+            "id": "AV-1-16-3",
+            "sanskrit": "मा विभेदः भवतु",
+            "transliteration": "mā vibhedaḥ bhavatu",
+            "meaning": {
+              "literal": "Let there be no division.",
+              "interpretive": "Avoidance of conflict.",
+              "applied": "Conflict resolution."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-17",
+        "hymn_number": 17,
+        "theme": "Charm for Prosperity and Growth",
+        "source": "Atharvaveda 1.17",
+        "verses": [
+          {
+            "id": "AV-1-17-1",
+            "sanskrit": "वृद्धिं मे देहि",
+            "transliteration": "vṛddhiṃ me dehi",
+            "meaning": {
+              "literal": "Grant me growth.",
+              "interpretive": "Growth is essential to life.",
+              "applied": "Personal and material development."
+            }
+          },
+          {
+            "id": "AV-1-17-2",
+            "sanskrit": "धनं मे आगच्छतु",
+            "transliteration": "dhanaṃ me āgacchatu",
+            "meaning": {
+              "literal": "Let wealth come to me.",
+              "interpretive": "Resources support life.",
+              "applied": "Financial stability."
+            }
+          },
+          {
+            "id": "AV-1-17-3",
+            "sanskrit": "समृद्धिर्मे अस्तु",
+            "transliteration": "samṛddhir me astu",
+            "meaning": {
+              "literal": "May prosperity be mine.",
+              "interpretive": "Abundance as harmony with environment.",
+              "applied": "Sustainable success."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-18",
+        "hymn_number": 18,
+        "theme": "Charm for Removal of Fear",
+        "source": "Atharvaveda 1.18",
+        "verses": [
+          {
+            "id": "AV-1-18-1",
+            "sanskrit": "अभयं मे अस्तु सर्वतः",
+            "transliteration": "abhayaṃ me astu sarvataḥ",
+            "meaning": {
+              "literal": "Let there be fearlessness from all sides.",
+              "interpretive": "Protection eliminates fear.",
+              "applied": "Confidence."
+            }
+          },
+          {
+            "id": "AV-1-18-2",
+            "sanskrit": "मा भयम् आगात्",
+            "transliteration": "mā bhayam āgāt",
+            "meaning": {
+              "literal": "Let fear not come.",
+              "interpretive": "Fear can be controlled.",
+              "applied": "Mental stability."
+            }
+          },
+          {
+            "id": "AV-1-18-3",
+            "sanskrit": "धैर्यं मे अस्तु",
+            "transliteration": "dhairyaṃ me astu",
+            "meaning": {
+              "literal": "May courage be mine.",
+              "interpretive": "Courage counters fear.",
+              "applied": "Resilience."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-19",
+        "hymn_number": 19,
+        "theme": "Charm for Restoration of Vital Energy",
+        "source": "Atharvaveda 1.19",
+        "verses": [
+          {
+            "id": "AV-1-19-1",
+            "sanskrit": "बलं मे पुनरागच्छतु",
+            "transliteration": "balaṃ me punar āgacchatu",
+            "meaning": {
+              "literal": "Let strength return to me.",
+              "interpretive": "Vital energy can be restored.",
+              "applied": "Recovery and rehabilitation."
+            }
+          },
+          {
+            "id": "AV-1-19-2",
+            "sanskrit": "ओजः मे अस्तु",
+            "transliteration": "ojaḥ me astu",
+            "meaning": {
+              "literal": "May vitality be mine.",
+              "interpretive": "Ojas is life essence.",
+              "applied": "Immunity and vigor."
+            }
+          },
+          {
+            "id": "AV-1-19-3",
+            "sanskrit": "प्राणाः पुनर्मे आवर्तन्ताम्",
+            "transliteration": "prāṇāḥ punar me āvartantām",
+            "meaning": {
+              "literal": "May my life-breaths return again.",
+              "interpretive": "Restoration of life force.",
+              "applied": "Energy renewal."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-20",
+        "hymn_number": 20,
+        "theme": "Charm for Purification and Release from Sin",
+        "source": "Atharvaveda 1.20",
+        "verses": [
+          {
+            "id": "AV-1-20-1",
+            "sanskrit": "पापं मे नश्यतु",
+            "transliteration": "pāpaṃ me naśyatu",
+            "meaning": {
+              "literal": "May my sin be destroyed.",
+              "interpretive": "Moral impurity is removable.",
+              "applied": "Ethical cleansing."
+            }
+          },
+          {
+            "id": "AV-1-20-2",
+            "sanskrit": "शुद्धोऽहम् पुनर्भवामि",
+            "transliteration": "śuddho'ham punar bhavāmi",
+            "meaning": {
+              "literal": "I become pure again.",
+              "interpretive": "Renewal is possible.",
+              "applied": "Personal transformation."
+            }
+          },
+          {
+            "id": "AV-1-20-3",
+            "sanskrit": "अग्निः पावकः शुद्धये",
+            "transliteration": "agniḥ pāvakaḥ śuddhaye",
+            "meaning": {
+              "literal": "Agni purifies for cleansing.",
+              "interpretive": "Fire removes impurity.",
+              "applied": "Spiritual purification."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-21",
+        "hymn_number": 21,
+        "theme": "Charm for Success and Achievement",
+        "source": "Atharvaveda 1.21",
+        "verses": [
+          {
+            "id": "AV-1-21-1",
+            "sanskrit": "जयामि कर्मसु",
+            "transliteration": "jayāmi karmasu",
+            "meaning": {
+              "literal": "I succeed in actions.",
+              "interpretive": "Effort leads to success.",
+              "applied": "Confidence in work."
+            }
+          },
+          {
+            "id": "AV-1-21-2",
+            "sanskrit": "सिद्धिर्मे अस्तु",
+            "transliteration": "siddhir me astu",
+            "meaning": {
+              "literal": "May success be mine.",
+              "interpretive": "Achievement is attainable.",
+              "applied": "Goal realization."
+            }
+          },
+          {
+            "id": "AV-1-21-3",
+            "sanskrit": "कर्मणा वर्धते यशः",
+            "transliteration": "karmaṇā vardhate yaśaḥ",
+            "meaning": {
+              "literal": "Through action, fame increases.",
+              "interpretive": "Action builds reputation.",
+              "applied": "Productivity and recognition."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-22",
+        "hymn_number": 22,
+        "theme": "Charm for Cosmic Harmony",
+        "source": "Atharvaveda 1.22",
+        "verses": [
+          {
+            "id": "AV-1-22-1",
+            "sanskrit": "द्यौः शं नो अस्तु",
+            "transliteration": "dyauḥ śaṃ no astu",
+            "meaning": {
+              "literal": "May the sky bring us peace.",
+              "interpretive": "Cosmic forces support well-being.",
+              "applied": "Environmental harmony."
+            }
+          },
+          {
+            "id": "AV-1-22-2",
+            "sanskrit": "पृथिवी शं नो अस्तु",
+            "transliteration": "pṛthivī śaṃ no astu",
+            "meaning": {
+              "literal": "May the earth bring us peace.",
+              "interpretive": "Earth sustains life.",
+              "applied": "Grounded living."
+            }
+          },
+          {
+            "id": "AV-1-22-3",
+            "sanskrit": "अन्तरिक्षं शं नो अस्तु",
+            "transliteration": "antarikṣaṃ śaṃ no astu",
+            "meaning": {
+              "literal": "May the mid-space bring us peace.",
+              "interpretive": "Balance across cosmic layers.",
+              "applied": "Holistic harmony."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-23",
+        "hymn_number": 23,
+        "theme": "Charm for Health and Stability",
+        "source": "Atharvaveda 1.23",
+        "verses": [
+          {
+            "id": "AV-1-23-1",
+            "sanskrit": "आरोग्यं मे अस्तु",
+            "transliteration": "ārogyaṃ me astu",
+            "meaning": {
+              "literal": "May health be mine.",
+              "interpretive": "Health is foundational.",
+              "applied": "Well-being."
+            }
+          },
+          {
+            "id": "AV-1-23-2",
+            "sanskrit": "स्थिरोऽहम् भवामि",
+            "transliteration": "sthiro'ham bhavāmi",
+            "meaning": {
+              "literal": "I become stable.",
+              "interpretive": "Stability reflects balance.",
+              "applied": "Mental grounding."
+            }
+          },
+          {
+            "id": "AV-1-23-3",
+            "sanskrit": "बलं मे अस्तु",
+            "transliteration": "balaṃ me astu",
+            "meaning": {
+              "literal": "Let strength be mine.",
+              "interpretive": "Strength supports health.",
+              "applied": "Physical resilience."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-24",
+        "hymn_number": 24,
+        "theme": "Charm Against Enemies and Harm",
+        "source": "Atharvaveda 1.24",
+        "verses": [
+          {
+            "id": "AV-1-24-1",
+            "sanskrit": "शत्रून् नुदामि",
+            "transliteration": "śatrūn nudāmi",
+            "meaning": {
+              "literal": "I drive away enemies.",
+              "interpretive": "Active protection against harm.",
+              "applied": "Boundary defense."
+            }
+          },
+          {
+            "id": "AV-1-24-2",
+            "sanskrit": "मा मां हिंसीत् कश्चन",
+            "transliteration": "mā māṃ hiṃsīt kaścana",
+            "meaning": {
+              "literal": "Let no one harm me.",
+              "interpretive": "Protection from aggression.",
+              "applied": "Personal safety."
+            }
+          },
+          {
+            "id": "AV-1-24-3",
+            "sanskrit": "अभयं मे अस्तु",
+            "transliteration": "abhayaṃ me astu",
+            "meaning": {
+              "literal": "Let there be fearlessness.",
+              "interpretive": "Security leads to confidence.",
+              "applied": "Mental strength."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-25",
+        "hymn_number": 25,
+        "theme": "Charm for Removal of Misfortune",
+        "source": "Atharvaveda 1.25",
+        "verses": [
+          {
+            "id": "AV-1-25-1",
+            "sanskrit": "दुर्भाग्यं दूरं गच्छतु",
+            "transliteration": "durbhāgyaṃ dūraṃ gacchatu",
+            "meaning": {
+              "literal": "Let misfortune go far away.",
+              "interpretive": "Negative outcomes can be removed.",
+              "applied": "Positive mindset."
+            }
+          },
+          {
+            "id": "AV-1-25-2",
+            "sanskrit": "शुभं मे अस्तु",
+            "transliteration": "śubhaṃ me astu",
+            "meaning": {
+              "literal": "Let there be auspiciousness for me.",
+              "interpretive": "Alignment with favorable forces.",
+              "applied": "Optimism."
+            }
+          },
+          {
+            "id": "AV-1-25-3",
+            "sanskrit": "भाग्यं मे वर्धताम्",
+            "transliteration": "bhāgyaṃ me vardhatām",
+            "meaning": {
+              "literal": "May fortune increase for me.",
+              "interpretive": "Growth of favorable conditions.",
+              "applied": "Success mindset."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-26",
+        "hymn_number": 26,
+        "theme": "Charm for Intelligence (Medha)",
+        "source": "Atharvaveda 1.26",
+        "verses": [
+          {
+            "id": "AV-1-26-1",
+            "sanskrit": "मेधां मे देहि",
+            "transliteration": "medhāṃ me dehi",
+            "meaning": {
+              "literal": "Grant me intelligence.",
+              "interpretive": "Intellect is a divine gift.",
+              "applied": "Learning ability."
+            }
+          },
+          {
+            "id": "AV-1-26-2",
+            "sanskrit": "प्रज्ञां मे अस्तु",
+            "transliteration": "prajñāṃ me astu",
+            "meaning": {
+              "literal": "May wisdom be mine.",
+              "interpretive": "Wisdom guides action.",
+              "applied": "Decision-making."
+            }
+          },
+          {
+            "id": "AV-1-26-3",
+            "sanskrit": "धियो यो नः प्रचोदयात्",
+            "transliteration": "dhiyo yo naḥ pracodayāt",
+            "meaning": {
+              "literal": "May he inspire our intellects.",
+              "interpretive": "Divine guidance enhances intellect.",
+              "applied": "Clarity of thought."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-27",
+        "hymn_number": 27,
+        "theme": "Charm for Protection of Life",
+        "source": "Atharvaveda 1.27",
+        "verses": [
+          {
+            "id": "AV-1-27-1",
+            "sanskrit": "प्राणान् मे पातु",
+            "transliteration": "prāṇān me pātu",
+            "meaning": {
+              "literal": "Protect my life-breaths.",
+              "interpretive": "Life force is sacred.",
+              "applied": "Vital health."
+            }
+          },
+          {
+            "id": "AV-1-27-2",
+            "sanskrit": "जीवेम शरदः शतम्",
+            "transliteration": "jīvema śaradaḥ śatam",
+            "meaning": {
+              "literal": "May we live a hundred autumns.",
+              "interpretive": "Longevity aspiration.",
+              "applied": "Healthy lifespan."
+            }
+          },
+          {
+            "id": "AV-1-27-3",
+            "sanskrit": "मा मृत्युः स्पृशत्",
+            "transliteration": "mā mṛtyuḥ spṛśat",
+            "meaning": {
+              "literal": "Let death not touch.",
+              "interpretive": "Protection from premature death.",
+              "applied": "Safety and longevity."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-28",
+        "hymn_number": 28,
+        "theme": "Charm for Strength and Courage",
+        "source": "Atharvaveda 1.28",
+        "verses": [
+          {
+            "id": "AV-1-28-1",
+            "sanskrit": "वीर्यं मे अस्तु",
+            "transliteration": "vīryaṃ me astu",
+            "meaning": {
+              "literal": "May vigor be mine.",
+              "interpretive": "Energy enables action.",
+              "applied": "Motivation and strength."
+            }
+          },
+          {
+            "id": "AV-1-28-2",
+            "sanskrit": "धैर्यं मे देहि",
+            "transliteration": "dhairyaṃ me dehi",
+            "meaning": {
+              "literal": "Grant me courage.",
+              "interpretive": "Courage sustains effort.",
+              "applied": "Resilience."
+            }
+          },
+          {
+            "id": "AV-1-28-3",
+            "sanskrit": "बलं मे वर्धताम्",
+            "transliteration": "balaṃ me vardhatām",
+            "meaning": {
+              "literal": "May my strength increase.",
+              "interpretive": "Growth in power.",
+              "applied": "Physical and mental development."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-29",
+        "hymn_number": 29,
+        "theme": "Charm for Prosperity and Wealth",
+        "source": "Atharvaveda 1.29",
+        "verses": [
+          {
+            "id": "AV-1-29-1",
+            "sanskrit": "धनं मे आगच्छतु",
+            "transliteration": "dhanaṃ me āgacchatu",
+            "meaning": {
+              "literal": "Let wealth come to me.",
+              "interpretive": "Material support is essential.",
+              "applied": "Financial well-being."
+            }
+          },
+          {
+            "id": "AV-1-29-2",
+            "sanskrit": "समृद्धिर्मे अस्तु",
+            "transliteration": "samṛddhir me astu",
+            "meaning": {
+              "literal": "May prosperity be mine.",
+              "interpretive": "Abundance as balance.",
+              "applied": "Sustainable growth."
+            }
+          },
+          {
+            "id": "AV-1-29-3",
+            "sanskrit": "रयिं मे देहि",
+            "transliteration": "rayiṃ me dehi",
+            "meaning": {
+              "literal": "Grant me wealth and resources.",
+              "interpretive": "Resources sustain life.",
+              "applied": "Economic stability."
+            }
+          }
+        ]
+      },
+      {
+        "id": "AV-1-30",
+        "hymn_number": 30,
+        "theme": "Universal Peace Invocation",
+        "source": "Atharvaveda 1.30",
+        "verses": [
+          {
+            "id": "AV-1-30-1",
+            "sanskrit": "शं नो मित्रः शं वरुणः",
+            "transliteration": "śaṃ no mitraḥ śaṃ varuṇaḥ",
+            "meaning": {
+              "literal": "May Mitra and Varuna bring us peace.",
+              "interpretive": "Cosmic order ensures harmony.",
+              "applied": "Balanced relationships."
+            }
+          },
+          {
+            "id": "AV-1-30-2",
+            "sanskrit": "शं नो भवत्वर्यमा",
+            "transliteration": "śaṃ no bhavatv aryamā",
+            "meaning": {
+              "literal": "May Aryaman bring us peace.",
+              "interpretive": "Social harmony.",
+              "applied": "Community balance."
+            }
+          },
+          {
+            "id": "AV-1-30-3",
+            "sanskrit": "शान्तिः शान्तिः शान्तिः",
+            "transliteration": "śāntiḥ śāntiḥ śāntiḥ",
+            "meaning": {
+              "literal": "Peace, peace, peace.",
+              "interpretive": "Peace in all dimensions.",
+              "applied": "Holistic well-being."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

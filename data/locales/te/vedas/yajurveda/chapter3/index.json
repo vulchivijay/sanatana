@@ -1,0 +1,717 @@
+{
+  "chapter3": {
+    "id": "YV-CHAPTER-3",
+    "title": "Yajurveda Chapter 3 – Offerings, Sacrificial Components & Meaning",
+    "description": "Explore Yajurveda Chapter 3 with detailed offerings, sacrificial components, Sanskrit mantras, and meanings used in Vedic yajnas and rituals.",
+    "meta": {
+      "title": "Yajurveda Chapter 3 – Offerings & Sacrificial Components",
+      "canonical": "https://sanatanadharmam.in/vedas/yajurveda/chapter-3",
+      "description": "Explore Yajurveda Chapter 3 explaining offerings, sacrificial elements, and Sanskrit mantras used in Vedic rituals.",
+      "keywords": [
+        "yajurveda chapter 3",
+        "vedic offerings yajna",
+        "sacrificial components vedas",
+        "yajna offerings meaning",
+        "homa offerings vedic",
+        "yajurveda ritual elements",
+        "vedic sacrifice materials",
+        "yajurveda mantra explanation",
+        "sanatana dharma yajurveda",
+        "yajurveda chapter 3 summary"
+      ],
+      "robots": "index, follow, max-image-preview:large",
+      "url": "https://sanatanadharmam.in/vedas/yajurveda/chapter-3"
+    },
+    "openGraph": {
+      "title": "Yajurveda Chapter 3 – Offerings & Sacrificial Meaning",
+      "description": "Read Yajurveda Chapter 3 with detailed offerings, Sanskrit mantras, and explanations of Vedic sacrifices.",
+      "url": "https://sanatanadharmam.in/vedas/yajurveda/chapter-3",
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "images": [
+        {
+          "url": "https://sanatanadharmam.in/images/og/yajurveda-chapter3.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "Yajurveda Chapter 3 Offerings and Meaning"
+        }
+      ]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Yajurveda Chapter 3 – Offerings and Sacrificial Meaning",
+          "description": "Detailed presentation of Yajurveda Chapter 3 including offerings, sacrificial components, Sanskrit mantras, and explanations.",
+          "author": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sanatanadharmam.in/images/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://sanatanadharmam.in/vedas/yajurveda/chapter-3"
+          },
+          "datePublished": "2024-01-01",
+          "dateModified": "2026-01-01",
+          "inLanguage": "en",
+          "about": {
+            "@type": "CreativeWork",
+            "name": "Yajurveda Chapter 3",
+            "description": "The third chapter of the Yajurveda focusing on offerings, sacrificial materials, and their symbolic and ritual significance in yajnas."
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "Yajurveda Chapter 3",
+          "url": "https://sanatanadharmam.in/vedas/yajurveda/chapter-3"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sanatanadharmam.in"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vedas",
+              "item": "https://sanatanadharmam.in/vedas"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Yajurveda",
+              "item": "https://sanatanadharmam.in/vedas/yajurveda"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Chapter 3",
+              "item": "https://sanatanadharmam.in/vedas/yajurveda/chapter-3"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in",
+          "logo": "https://sanatanadharmam.in/images/logo.png"
+        }
+      ]
+    },
+    "mantras": [
+      {
+        "chant_id": "YV-3-1",
+        "source_yajurveda": "Vajasaneyi Samhita 3.1",
+        "deity": "Agni",
+        "theme": "Kindling the sacrifice",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्नये जुष्टं निरूपयामि",
+            "transliteration": "agnaye juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Agni."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "ritual declaration",
+          "usage": "Agnihotra preparation"
+        }
+      },
+      {
+        "chant_id": "YV-3-2",
+        "source_yajurveda": "Vajasaneyi Samhita 3.2",
+        "deity": "Agni–Soma",
+        "theme": "Twin offering",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अग्नीषोमाभ्यां जुष्टं निरूपयामि",
+            "transliteration": "agnīṣomābhyāṃ juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Agni and Soma."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "balanced",
+          "usage": "Dual-deity invocation"
+        }
+      },
+      {
+        "chant_id": "YV-3-3",
+        "source_yajurveda": "Vajasaneyi Samhita 3.3",
+        "deity": "Indra",
+        "theme": "Strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्राय जुष्टं निरूपयामि",
+            "transliteration": "indrāya juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, acceptable to Indra."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "firm",
+          "usage": "Invocation of power"
+        }
+      },
+      {
+        "chant_id": "YV-3-4",
+        "source_yajurveda": "Vajasaneyi Samhita 3.4",
+        "deity": "All Devas",
+        "theme": "Collective rite",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "विश्वेभ्यो देवताभ्यो जुष्टं निरूपयामि",
+            "transliteration": "viśvebhyo devatābhyo juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to all the deities."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "inclusive",
+          "usage": "Universal invocation"
+        }
+      },
+      {
+        "chant_id": "YV-3-5",
+        "source_yajurveda": "Vajasaneyi Samhita 3.5",
+        "deity": "Prajapati",
+        "theme": "Creation",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "प्रजापतये जुष्टं निरूपयामि",
+            "transliteration": "prajāpataye juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Prajapati."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "formal",
+          "usage": "Creator invocation"
+        }
+      },
+      {
+        "chant_id": "YV-3-6",
+        "source_yajurveda": "Vajasaneyi Samhita 3.6",
+        "deity": "Varuna",
+        "theme": "Cosmic order",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "वरुणाय जुष्टं निरूपयामि",
+            "transliteration": "varuṇāya juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Varuna."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "solemn",
+          "usage": "Upholding ṛta"
+        }
+      },
+      {
+        "chant_id": "YV-3-7",
+        "source_yajurveda": "Vajasaneyi Samhita 3.7",
+        "deity": "Mitra",
+        "theme": "Harmony",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "मित्राय जुष्टं निरूपयामि",
+            "transliteration": "mitrāya juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Mitra."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "gentle",
+          "usage": "Social harmony"
+        }
+      },
+      {
+        "chant_id": "YV-3-8",
+        "source_yajurveda": "Vajasaneyi Samhita 3.8",
+        "deity": "Savitar",
+        "theme": "Divine impulse",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सवित्रे जुष्टं निरूपयामि",
+            "transliteration": "savitre juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Savitar."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "directive",
+          "usage": "Ritual activation"
+        }
+      },
+      {
+        "chant_id": "YV-3-9",
+        "source_yajurveda": "Vajasaneyi Samhita 3.9",
+        "deity": "Surya",
+        "theme": "Illumination",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सूर्याय जुष्टं निरूपयामि",
+            "transliteration": "sūryāya juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Surya."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "clear",
+          "usage": "Light and vision"
+        }
+      },
+      {
+        "chant_id": "YV-3-10",
+        "source_yajurveda": "Vajasaneyi Samhita 3.10",
+        "deity": "Vayu",
+        "theme": "Vital movement",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "वायवे जुष्टं निरूपयामि",
+            "transliteration": "vāyave juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Vayu."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "flowing",
+          "usage": "Life-breath"
+        }
+      },
+      {
+        "chant_id": "YV-3-11",
+        "source_yajurveda": "Vajasaneyi Samhita 3.11",
+        "deity": "Pṛthivī",
+        "theme": "Foundation",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "पृथिव्यै जुष्टं निरूपयामि",
+            "transliteration": "pṛthivyai juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Earth."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "grounded",
+          "usage": "Stability"
+        }
+      },
+      {
+        "chant_id": "YV-3-12",
+        "source_yajurveda": "Vajasaneyi Samhita 3.12",
+        "deity": "Dyauḥ",
+        "theme": "Heaven",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "द्यावे जुष्टं निरूपयामि",
+            "transliteration": "dyāve juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Heaven."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "elevated",
+          "usage": "Cosmic balance"
+        }
+      },
+      {
+        "chant_id": "YV-3-13",
+        "source_yajurveda": "Vajasaneyi Samhita 3.13",
+        "deity": "Antarikṣa",
+        "theme": "Space",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अन्तरिक्षाय जुष्टं निरूपयामि",
+            "transliteration": "antarikṣāya juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to the atmosphere."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "expansive",
+          "usage": "Continuity"
+        }
+      },
+      {
+        "chant_id": "YV-3-14",
+        "source_yajurveda": "Vajasaneyi Samhita 3.14",
+        "deity": "Waters",
+        "theme": "Purification",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अद्भ्यो जुष्टं निरूपयामि",
+            "transliteration": "adbhyō juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to the Waters."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "calming",
+          "usage": "Purification"
+        }
+      },
+      {
+        "chant_id": "YV-3-15",
+        "source_yajurveda": "Vajasaneyi Samhita 3.15",
+        "deity": "All Devas",
+        "theme": "Universality",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "देवेभ्यो जुष्टं निरूपयामि",
+            "transliteration": "devebhyo juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to the gods."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "inclusive",
+          "usage": "Collective rite"
+        }
+      },
+      {
+        "chant_id": "YV-3-16",
+        "source_yajurveda": "Vajasaneyi Samhita 3.16",
+        "deity": "Soma",
+        "theme": "Vital essence",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सोमाय जुष्टं निरूपयामि",
+            "transliteration": "somāya juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Soma."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "gentle",
+          "usage": "Vital nourishment"
+        }
+      },
+      {
+        "chant_id": "YV-3-17",
+        "source_yajurveda": "Vajasaneyi Samhita 3.17",
+        "deity": "Pūṣan",
+        "theme": "Guidance",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "पूष्णे जुष्टं निरूपयामि",
+            "transliteration": "pūṣṇe juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Pūṣan."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "protective",
+          "usage": "Safe guidance"
+        }
+      },
+      {
+        "chant_id": "YV-3-18",
+        "source_yajurveda": "Vajasaneyi Samhita 3.18",
+        "deity": "Bṛhaspati",
+        "theme": "Sacred speech",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "बृहस्पतये जुष्टं निरूपयामि",
+            "transliteration": "bṛhaspataye juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Bṛhaspati."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "authoritative",
+          "usage": "Priestly invocation"
+        }
+      },
+      {
+        "chant_id": "YV-3-19",
+        "source_yajurveda": "Vajasaneyi Samhita 3.19",
+        "deity": "Rudra",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "रुद्राय जुष्टं निरूपयामि",
+            "transliteration": "rudrāya juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Rudra."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "solemn",
+          "usage": "Appeasement and protection"
+        }
+      },
+      {
+        "chant_id": "YV-3-20",
+        "source_yajurveda": "Vajasaneyi Samhita 3.20",
+        "deity": "Viṣṇu",
+        "theme": "Cosmic order",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "विष्णवे जुष्टं निरूपयामि",
+            "transliteration": "viṣṇave juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Viṣṇu."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "expansive",
+          "usage": "Sustaining order"
+        }
+      },
+      {
+        "chant_id": "YV-3-21",
+        "source_yajurveda": "Vajasaneyi Samhita 3.21",
+        "deity": "Aditi",
+        "theme": "Wholeness",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "अदित्यै जुष्टं निरूपयामि",
+            "transliteration": "adityai juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Aditi."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "nurturing",
+          "usage": "Boundlessness"
+        }
+      },
+      {
+        "chant_id": "YV-3-22",
+        "source_yajurveda": "Vajasaneyi Samhita 3.22",
+        "deity": "Sarasvatī",
+        "theme": "Inspiration",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "सरस्वत्यै जुष्टं निरूपयामि",
+            "transliteration": "sarasvatyai juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Sarasvatī."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "refined",
+          "usage": "Wisdom and learning"
+        }
+      },
+      {
+        "chant_id": "YV-3-23",
+        "source_yajurveda": "Vajasaneyi Samhita 3.23",
+        "deity": "Śrī",
+        "theme": "Prosperity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "श्रिये जुष्टं निरूपयामि",
+            "transliteration": "śriye juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Śrī."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "auspicious",
+          "usage": "Abundance"
+        }
+      },
+      {
+        "chant_id": "YV-3-24",
+        "source_yajurveda": "Vajasaneyi Samhita 3.24",
+        "deity": "Kṣetra-devatās",
+        "theme": "Sacred space",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "क्षेत्रदेवताभ्यो जुष्टं निरूपयामि",
+            "transliteration": "kṣetradevatābhyo juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to the deities of the field."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "reverent",
+          "usage": "Sanctifying space"
+        }
+      },
+      {
+        "chant_id": "YV-3-25",
+        "source_yajurveda": "Vajasaneyi Samhita 3.25",
+        "deity": "Ancestors",
+        "theme": "Lineage",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "पितृभ्यो जुष्टं निरूपयामि",
+            "transliteration": "pitṛbhyo juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to the ancestors."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "solemn",
+          "usage": "Ancestral rite"
+        }
+      },
+      {
+        "chant_id": "YV-3-26",
+        "source_yajurveda": "Vajasaneyi Samhita 3.26",
+        "deity": "All Beings",
+        "theme": "Universality",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "भूतेभ्यो जुष्टं निरूपयामि",
+            "transliteration": "bhūtebhyo juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to all beings."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "inclusive",
+          "usage": "Universal harmony"
+        }
+      },
+      {
+        "chant_id": "YV-3-27",
+        "source_yajurveda": "Vajasaneyi Samhita 3.27",
+        "deity": "Time",
+        "theme": "Continuity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "कालाय जुष्टं निरूपयामि",
+            "transliteration": "kālāya juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Time."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "measured",
+          "usage": "Temporal order"
+        }
+      },
+      {
+        "chant_id": "YV-3-28",
+        "source_yajurveda": "Vajasaneyi Samhita 3.28",
+        "deity": "Dharma",
+        "theme": "Righteousness",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "धर्माय जुष्टं निरूपयामि",
+            "transliteration": "dharmāya juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Dharma."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "resolute",
+          "usage": "Moral order"
+        }
+      },
+      {
+        "chant_id": "YV-3-29",
+        "source_yajurveda": "Vajasaneyi Samhita 3.29",
+        "deity": "Peace",
+        "theme": "Tranquility",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "शान्तये जुष्टं निरूपयामि",
+            "transliteration": "śāntaye juṣṭaṃ nirūpayāmi",
+            "meaning": "I assign the offering, pleasing to Peace."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "calm",
+          "usage": "Pacification"
+        }
+      },
+      {
+        "chant_id": "YV-3-30",
+        "source_yajurveda": "Vajasaneyi Samhita 3.30",
+        "deity": "Completion",
+        "theme": "Closure",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "स्वाहा",
+            "transliteration": "svāhā",
+            "meaning": "Oblation."
+          }
+        ],
+        "chant": {
+          "type": "Yajus",
+          "delivery": "spoken",
+          "intonation": "final close",
+          "usage": "Completion of Chapter 3"
+        }
+      }
+    ]
+  }
+}

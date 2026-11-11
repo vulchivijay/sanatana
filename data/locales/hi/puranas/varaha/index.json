@@ -1,0 +1,63 @@
+{
+  "varaha": {
+    "varaha": {
+      "title": "Varaha Purana – Purana Overview and Key Themes",
+      "description": "A structured overview of Varaha Purana: themes, purpose, and how it contributes to devotion, dharma, and cultural memory in Sanātana Dharma.",
+      "meta": {
+        "title": "Varaha Purana – Purana Overview and Key Themes",
+        "description": "A structured overview of Varaha Purana: themes, purpose, and how it contributes to devotion, dharma, and cultural memory in Sanātana Dharma.",
+        "canonical": "https://sanatanadharmam.in/puranas/varaha",
+        "keywords": [
+          "Varaha Purana",
+          "Purana",
+          "Puranas",
+          "Sanatana Dharma",
+          "bhakti",
+          "dharma"
+        ],
+        "ogImage": "https://sanatanadharmam.in/og/varaha.png",
+        "robots": "index, follow",
+        "url": "https://sanatanadharmam.in/puranas/varaha"
+      },
+      "introduction": "Varaha Purana is one of the Mahapuranas in the broader Puranic literature of Sanātana Dharma. Puranas transmit philosophy, devotion, and cultural memory through stories, dialogues, hymns, and guidance for ethical living. Traditionally, Varaha Purana is associated with Puranic tradition. Readers often approach it as a devotional-philosophical text rather than a single-genre book: it may include cosmology, sacred geography, ethics, vows, and narratives that illustrate dharma in action.",
+      "openGraph": {
+        "title": "Varaha Purana – Purana Overview and Key Themes",
+        "description": "A structured overview of Varaha Purana: themes, purpose, and how it contributes to devotion, dharma, and cultural memory in Sanātana Dharma.",
+        "images": [
+          {
+            "alt": "Varaha Purana – Purana Overview and Key Themes",
+            "height": 630,
+            "url": "https://sanatanadharmam.in/og/varaha.png",
+            "width": 1200
+          }
+        ],
+        "siteName": "Sanatanadharmam",
+        "type": "article",
+        "url": "https://sanatanadharmam.in/puranas/varaha"
+      },
+      "philosophical_explanation": "Philosophically, the Puranas teach through lived scenarios: how desire, fear, pride, and compassion shape destiny. They also emphasize cyclical time and impermanence, encouraging humility and steadiness. Devotion (bhakti) is often presented as a direct, accessible discipline that purifies the heart and supports wisdom.",
+      "scripture_text": [
+        {
+          "content": "A structured overview: (1) context and themes, (2) key narrative ideas, (3) devotional emphasis, and (4) philosophical reflections that connect story to inner practice.",
+          "section": "What you will find on this page"
+        },
+        {
+          "content": "Puranic narratives can be read on multiple levels—devotional, ethical, and symbolic. When details vary across retellings, the enduring value is often the dharmic lesson: the cultivation of character, devotion, and discernment.",
+          "section": "How to read Puranic material"
+        }
+      ],
+      "schema": {
+        "description": "A structured overview of Varaha Purana: themes, purpose, and how it contributes to devotion, dharma, and cultural memory in Sanātana Dharma.",
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in"
+        },
+        "name": "Varaha Purana – Purana Overview and Key Themes",
+        "url": "https://sanatanadharmam.in/puranas/varaha"
+      }
+    }
+  }
+}

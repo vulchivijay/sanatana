@@ -1,0 +1,26 @@
+﻿{
+  "mundaka_chapter4": {
+    "title": "Mundaka Chapter 4",
+    "description": "Chapter 4 from Mundaka.",
+    "meta": {
+      "title": "Mundaka Chapter 4",
+      "canonical": "https://sanatanadharmam.in/upanishads/mundaka/chapter-4",
+      "description": "Chapter 4 from Mundaka.",
+      "url": "https://sanatanadharmam.in/upanishads/mundaka/chapter-4"
+    },
+    "openGraph": {
+      "title": "Mundaka Chapter 4",
+      "description": "Chapter 4 from Mundaka.",
+      "url": "https://sanatanadharmam.in/upanishads/mundaka/chapter-4",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Mundaka.",
+    "scripture_text": "Chapter-level summary text for Mundaka, Chapter 4.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 4,
+      "path": "/upanishads/mundaka/chapter-4"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "chandogya_chapter4": {
+    "title": "Chandogya Chapter 4",
+    "description": "Chapter 4 from Chandogya.",
+    "meta": {
+      "title": "Chandogya Chapter 4",
+      "canonical": "https://sanatanadharmam.in/upanishads/chandogya/chapter-4",
+      "description": "Chapter 4 from Chandogya.",
+      "url": "https://sanatanadharmam.in/upanishads/chandogya/chapter-4"
+    },
+    "openGraph": {
+      "title": "Chandogya Chapter 4",
+      "description": "Chapter 4 from Chandogya.",
+      "url": "https://sanatanadharmam.in/upanishads/chandogya/chapter-4",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Chandogya.",
+    "scripture_text": "Chapter-level summary text for Chandogya, Chapter 4.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 4,
+      "path": "/upanishads/chandogya/chapter-4"
+    }
+  }
+}

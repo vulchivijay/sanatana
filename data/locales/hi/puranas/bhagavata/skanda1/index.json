@@ -1,0 +1,28 @@
+{
+  "skanda1": {
+    "bhagavata_skanda1": {
+      "title": "Bhagavata Skanda 1",
+      "description": "Structure and chapter overview of Bhagavata Skanda 1.",
+      "meta": {
+        "title": "Bhagavata Skanda 1",
+        "description": "Structure and chapter overview of Bhagavata Skanda 1.",
+        "canonical": "https://sanatanadharmam.in/puranas/bhagavata/skanda-1",
+        "url": "https://sanatanadharmam.in/puranas/bhagavata/skanda-1"
+      },
+      "introduction": "Skanda 1 of the Bhagavata Purana groups chapters into a devotional and philosophical progression.",
+      "openGraph": {
+        "title": "Bhagavata Skanda 1",
+        "description": "Structure and chapter overview of Bhagavata Skanda 1.",
+        "siteName": "Sanatanadharmam",
+        "type": "article",
+        "url": "https://sanatanadharmam.in/puranas/bhagavata/skanda-1"
+      },
+      "philosophical_explanation": "Bhagavata skandas are designed to progressively refine bhakti, ethics, and spiritual understanding.",
+      "scripture_text": "This skanda contains chapter-level teachings that prepare the reader for deeper verse-by-verse study.",
+      "skanda": {
+        "number": 1,
+        "path": "/puranas/bhagavata/skanda-1"
+      }
+    }
+  }
+}

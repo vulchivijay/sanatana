@@ -1,0 +1,1343 @@
+{
+  "book3": {
+    "id": "SV-BOOK-3",
+    "title": "Samaveda Chapter 3 – Indra Chants, Meaning & Translation",
+    "description": "Explore Samaveda Chapter 3 with sacred chants dedicated to Indra, including Sanskrit text, meanings, and musical recitation used in Vedic rituals.",
+    "meta": {
+      "title": "Samaveda Chapter 3 – Indra Chants, Meaning & Translation",
+      "canonical": "https://sanatanadharmam.in/vedas/samaveda/chapter3",
+      "description": "Explore Samaveda Chapter 3 with Indra chants, Sanskrit text, meanings, and musical recitation used in Vedic rituals.",
+      "keywords": [
+        "samaveda chapter 3",
+        "indra chants samaveda",
+        "indra hymns samaveda",
+        "vedic indra mantras",
+        "samaveda indra meaning",
+        "indra rigveda samaveda connection",
+        "vedic chanting indra",
+        "samaveda mantra explanation",
+        "sanatana dharma samaveda",
+        "samaveda chapter 3 summary"
+      ],
+      "robots": "index, follow, max-image-preview:large",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter3"
+    },
+    "openGraph": {
+      "title": "Samaveda Chapter 3 – Indra Chants & Meaning",
+      "description": "Read Samaveda Chapter 3 with sacred Indra chants, Sanskrit text, and explanations.",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter3",
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "images": [
+        {
+          "url": "https://sanatanadharmam.in/images/og/samaveda-chapter3.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "Samaveda Chapter 3 Indra Chants and Meaning"
+        }
+      ]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Samaveda Chapter 3 – Indra Chants and Meaning",
+          "description": "Detailed presentation of Samaveda Chapter 3 including Indra chants, Sanskrit text, translations, and musical recitation.",
+          "author": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sanatanadharmam.in/images/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://sanatanadharmam.in/vedas/samaveda/chapter3"
+          },
+          "datePublished": "2024-01-01",
+          "dateModified": "2026-01-01",
+          "inLanguage": "en",
+          "about": {
+            "@type": "CreativeWork",
+            "name": "Samaveda Chapter 3",
+            "description": "The third chapter of the Samaveda focusing on chants dedicated to Indra, the king of the gods and a central deity in Vedic hymns."
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "Samaveda Chapter 3",
+          "url": "https://sanatanadharmam.in/vedas/samaveda/chapter3"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sanatanadharmam.in"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vedas",
+              "item": "https://sanatanadharmam.in/vedas"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Samaveda",
+              "item": "https://sanatanadharmam.in/vedas/samaveda"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Chapter 3",
+              "item": "https://sanatanadharmam.in/vedas/samaveda/chapter3"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in",
+          "logo": "https://sanatanadharmam.in/images/logo.png"
+        }
+      ]
+    },
+    "chants": [
+      {
+        "chant_id": "SV-3-1",
+        "source_rigveda": "RV 1.42.1",
+        "deity": "Indra",
+        "theme": "Invocation",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रं हवामहे वज्रिणं बलिनम्",
+            "transliteration": "indraṁ havāmahe vajriṇaṁ balinam",
+            "meaning": "We invoke Indra, the powerful wielder of the thunderbolt."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "strong opening tone",
+          "svara_pattern": "accented high",
+          "usage": "Invocation chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-2",
+        "source_rigveda": "RV 1.42.2",
+        "deity": "Indra",
+        "theme": "Strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः बलं ददातु नः",
+            "transliteration": "indraḥ balaṁ dadātu naḥ",
+            "meaning": "May Indra grant us strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "rising forceful tone",
+          "svara_pattern": "mid-high sustain",
+          "usage": "Strength chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-3",
+        "source_rigveda": "RV 1.43.1",
+        "deity": "Indra",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः रक्षतु सर्वतः",
+            "transliteration": "indraḥ naḥ rakṣatu sarvataḥ",
+            "meaning": "May Indra protect us from all directions."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "protective tone",
+          "svara_pattern": "balanced sustain",
+          "usage": "Protection chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-4",
+        "source_rigveda": "RV 1.43.2",
+        "deity": "Indra",
+        "theme": "Victory",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः जयति शत्रून्",
+            "transliteration": "indraḥ jayati śatrūn",
+            "meaning": "Indra conquers enemies."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "sharp upward strike",
+          "svara_pattern": "high accent",
+          "usage": "Victory chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-5",
+        "source_rigveda": "RV 1.44.1",
+        "deity": "Indra",
+        "theme": "Divine assistance",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः सहायं करोतु नः",
+            "transliteration": "indraḥ sahāyaṁ karotu naḥ",
+            "meaning": "May Indra help us."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "supportive tone",
+          "svara_pattern": "mid sustain",
+          "usage": "Assistance chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-6",
+        "source_rigveda": "RV 1.44.2",
+        "deity": "Indra",
+        "theme": "Power",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः महद् बलं धारयति",
+            "transliteration": "indraḥ mahad balaṁ dhārayati",
+            "meaning": "Indra holds great strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "broad tone",
+          "svara_pattern": "wide sustain",
+          "usage": "Power invocation"
+        }
+      },
+      {
+        "chant_id": "SV-3-7",
+        "source_rigveda": "RV 1.45.1",
+        "deity": "Indra",
+        "theme": "Leadership",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नेता सर्वेषां",
+            "transliteration": "indraḥ netā sarveṣāṁ",
+            "meaning": "Indra is the leader of all."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "commanding tone",
+          "svara_pattern": "high sustain",
+          "usage": "Leadership chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-8",
+        "source_rigveda": "RV 1.45.2",
+        "deity": "Indra",
+        "theme": "Guidance",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः मार्गं दर्शयतु",
+            "transliteration": "indraḥ naḥ mārgaṁ darśayatu",
+            "meaning": "May Indra guide us."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "smooth guiding tone",
+          "svara_pattern": "flowing",
+          "usage": "Guidance chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-9",
+        "source_rigveda": "RV 1.46.1",
+        "deity": "Indra",
+        "theme": "Prosperity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः धनं ददातु नः",
+            "transliteration": "indraḥ dhanaṁ dadātu naḥ",
+            "meaning": "May Indra grant us wealth."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expanding tone",
+          "svara_pattern": "broad sustain",
+          "usage": "Prosperity chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-10",
+        "source_rigveda": "RV 1.46.2",
+        "deity": "Indra",
+        "theme": "Energy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः ऊर्जा ददातु",
+            "transliteration": "indraḥ ūrjā dadātu",
+            "meaning": "May Indra grant energy."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "rising energetic tone",
+          "svara_pattern": "high sustain",
+          "usage": "Energy chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-11",
+        "source_rigveda": "RV 1.47.1",
+        "deity": "Indra",
+        "theme": "Victory",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः शत्रून् अभिभूत्य जयति",
+            "transliteration": "indraḥ śatrūn abhibhūtya jayati",
+            "meaning": "Indra conquers enemies completely."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "forceful strike",
+          "svara_pattern": "accented",
+          "usage": "Victory chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-12",
+        "source_rigveda": "RV 1.47.2",
+        "deity": "Indra",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः पातु",
+            "transliteration": "indraḥ naḥ pātu",
+            "meaning": "May Indra protect us."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "protective tone",
+          "svara_pattern": "mid sustain",
+          "usage": "Protection chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-13",
+        "source_rigveda": "RV 1.48.1",
+        "deity": "Indra",
+        "theme": "Strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः बलं महत्तमं ददातु",
+            "transliteration": "indraḥ balaṁ mahattamaṁ dadātu",
+            "meaning": "May Indra grant great strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expanding arc",
+          "svara_pattern": "broad sustain",
+          "usage": "Strength chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-3-14",
+        "source_rigveda": "RV 1.48.2",
+        "deity": "Indra",
+        "theme": "Guidance",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः मार्गं दर्शयतु",
+            "transliteration": "indraḥ naḥ mārgaṁ darśayatu",
+            "meaning": "May Indra guide us."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "smooth tone",
+          "svara_pattern": "flowing",
+          "usage": "Guidance chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-3-15",
+        "source_rigveda": "RV 1.49.1",
+        "deity": "Indra",
+        "theme": "Prosperity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः रयिं ददातु",
+            "transliteration": "indraḥ rayiṁ dadātu",
+            "meaning": "May Indra grant wealth."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expanding tone",
+          "svara_pattern": "broad sustain",
+          "usage": "Prosperity chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-3-16",
+        "source_rigveda": "RV 1.49.2",
+        "deity": "Indra",
+        "theme": "Energy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः ऊर्जा वहतु",
+            "transliteration": "indraḥ ūrjā vahatu",
+            "meaning": "May Indra bring energy."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing tone",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Energy chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-3-17",
+        "source_rigveda": "RV 1.50.1",
+        "deity": "Indra",
+        "theme": "Victory",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः जयति सर्वान्",
+            "transliteration": "indraḥ jayati sarvān",
+            "meaning": "Indra conquers all."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "strong strike",
+          "svara_pattern": "accented",
+          "usage": "Victory chant"
+        }
+      },
+  
+      {
+        "chant_id": "SV-3-18",
+        "source_rigveda": "RV 1.50.2",
+        "deity": "Indra",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः रक्षतु सर्वतः",
+            "transliteration": "indraḥ naḥ rakṣatu sarvataḥ",
+            "meaning": "May Indra protect us from all sides."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "protective tone",
+          "svara_pattern": "balanced",
+          "usage": "Protection chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-19",
+        "source_rigveda": "RV 1.51.1",
+        "deity": "Indra",
+        "theme": "Completion",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः यज्ञं पूर्णं करोतु",
+            "transliteration": "indraḥ yajñaṁ pūrṇaṁ karotu",
+            "meaning": "May Indra complete the sacrifice."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "closing tone",
+          "svara_pattern": "descending",
+          "usage": "Completion chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-20",
+        "source_rigveda": "RV 1.51.2",
+        "deity": "Indra",
+        "theme": "Renewal",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः पुनः बलं ददातु",
+            "transliteration": "indraḥ punaḥ balaṁ dadātu",
+            "meaning": "May Indra grant renewed strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "soft renewal tone",
+          "svara_pattern": "gentle sustain",
+          "usage": "Renewal chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-21",
+        "source_rigveda": "RV 1.52.1",
+        "deity": "Indra",
+        "theme": "Reinforcement",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रं पुनः हवामहे बलाय विजयाय च",
+            "transliteration": "indraṁ punaḥ havāmahe balāya vijayāya ca",
+            "meaning": "We again invoke Indra for strength and victory."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "repetitive invocation",
+          "svara_pattern": "mid-range repetition",
+          "usage": "Reinforcement chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-22",
+        "source_rigveda": "RV 1.52.2",
+        "deity": "Indra",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः पातु सर्वतः शत्रून् हन्तु",
+            "transliteration": "indraḥ naḥ pātu sarvataḥ śatrūn hantu",
+            "meaning": "May Indra protect us and destroy enemies."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "sharp protective tone",
+          "svara_pattern": "high emphasis",
+          "usage": "Protection chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-23",
+        "source_rigveda": "RV 1.53.1",
+        "deity": "Indra",
+        "theme": "Strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः बलं महत्तमं ददातु",
+            "transliteration": "indraḥ balaṁ mahattamaṁ dadātu",
+            "meaning": "May Indra grant great strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "expanding arc",
+          "svara_pattern": "broad sustain",
+          "usage": "Strength chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-24",
+        "source_rigveda": "RV 1.53.2",
+        "deity": "Indra",
+        "theme": "Victory",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः शत्रून् अभिभूत्य जयति",
+            "transliteration": "indraḥ śatrūn abhibhūtya jayati",
+            "meaning": "Indra conquers enemies with dominance."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "forceful strike",
+          "svara_pattern": "accented",
+          "usage": "Victory chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-25",
+        "source_rigveda": "RV 1.54.1",
+        "deity": "Indra",
+        "theme": "Prosperity",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः धनं वर्धयतु नः",
+            "transliteration": "indraḥ dhanaṁ vardhayatu naḥ",
+            "meaning": "May Indra increase our wealth."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "gentle expansion",
+          "svara_pattern": "balanced",
+          "usage": "Prosperity chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-26",
+        "source_rigveda": "RV 1.54.2",
+        "deity": "Indra",
+        "theme": "Energy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः ऊर्जा ददातु",
+            "transliteration": "indraḥ ūrjā dadātu",
+            "meaning": "May Indra grant energy."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "rising energetic tone",
+          "svara_pattern": "high sustain",
+          "usage": "Energy chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-27",
+        "source_rigveda": "RV 1.55.1",
+        "deity": "Indra",
+        "theme": "Leadership",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नेता सर्वेषां",
+            "transliteration": "indraḥ netā sarveṣāṁ",
+            "meaning": "Indra is the leader of all."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "commanding tone",
+          "svara_pattern": "high sustain",
+          "usage": "Leadership chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-28",
+        "source_rigveda": "RV 1.55.2",
+        "deity": "Indra",
+        "theme": "Guidance",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः मार्गं दर्शयतु",
+            "transliteration": "indraḥ naḥ mārgaṁ darśayatu",
+            "meaning": "May Indra guide us."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "smooth guiding tone",
+          "svara_pattern": "flowing",
+          "usage": "Guidance chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-29",
+        "source_rigveda": "RV 1.56.1",
+        "deity": "Indra",
+        "theme": "Victory",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः जयति सर्वान् शत्रून्",
+            "transliteration": "indraḥ jayati sarvān śatrūn",
+            "meaning": "Indra conquers all enemies."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "strong strike",
+          "svara_pattern": "accented",
+          "usage": "Victory chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-30",
+        "source_rigveda": "RV 1.56.2",
+        "deity": "Indra",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः रक्षतु सर्वतः",
+            "transliteration": "indraḥ naḥ rakṣatu sarvataḥ",
+            "meaning": "May Indra protect us from all directions."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "protective tone",
+          "svara_pattern": "balanced",
+          "usage": "Protection chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-31",
+        "source_rigveda": "RV 1.57.1",
+        "deity": "Indra",
+        "theme": "Completion",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः यज्ञं पूर्णं करोतु",
+            "transliteration": "indraḥ yajñaṁ pūrṇaṁ karotu",
+            "meaning": "May Indra complete the sacrifice."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "closing tone",
+          "svara_pattern": "descending",
+          "usage": "Completion chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-32",
+        "source_rigveda": "RV 1.57.2",
+        "deity": "Indra",
+        "theme": "Renewal",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः पुनः बलं ददातु",
+            "transliteration": "indraḥ punaḥ balaṁ dadātu",
+            "meaning": "May Indra grant renewed strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "soft renewal tone",
+          "svara_pattern": "gentle sustain",
+          "usage": "Renewal chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-33",
+        "source_rigveda": "RV 1.58.1",
+        "deity": "Indra",
+        "theme": "Power",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः महद् बलं धारयति",
+            "transliteration": "indraḥ mahad balaṁ dhārayati",
+            "meaning": "Indra holds great power."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "broad tone",
+          "svara_pattern": "wide sustain",
+          "usage": "Power chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-34",
+        "source_rigveda": "RV 1.58.2",
+        "deity": "Indra",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः पातु",
+            "transliteration": "indraḥ naḥ pātu",
+            "meaning": "May Indra protect us."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "protective tone",
+          "svara_pattern": "mid sustain",
+          "usage": "Protection chant"
+        }
+      },
+
+      {
+        "chant_id": "SV-3-35",
+        "source_rigveda": "RV 1.59.1",
+        "deity": "Indra",
+        "theme": "Strength",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः बलं ददातु",
+            "transliteration": "indraḥ balaṁ dadātu",
+            "meaning": "May Indra grant strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "firm tone",
+          "svara_pattern": "steady sustain",
+          "usage": "Strength chant"
+        }
+      },  
+      {
+        "chant_id": "SV-3-36",
+        "source_rigveda": "RV 1.59.2",
+        "deity": "Indra",
+        "theme": "Energy",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः ऊर्जा वहतु",
+            "transliteration": "indraḥ ūrjā vahatu",
+            "meaning": "May Indra carry energy."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "flowing tone",
+          "svara_pattern": "smooth oscillation",
+          "usage": "Energy chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-37",
+        "source_rigveda": "RV 1.60.1",
+        "deity": "Indra",
+        "theme": "Victory",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः जयति सर्वान्",
+            "transliteration": "indraḥ jayati sarvān",
+            "meaning": "Indra conquers all."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "strong strike",
+          "svara_pattern": "accented",
+          "usage": "Victory chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-38",
+        "source_rigveda": "RV 1.60.2",
+        "deity": "Indra",
+        "theme": "Protection",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः नः रक्षतु",
+            "transliteration": "indraḥ naḥ rakṣatu",
+            "meaning": "May Indra protect us."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "protective tone",
+          "svara_pattern": "balanced",
+          "usage": "Protection chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-39",
+        "source_rigveda": "RV 1.61.1",
+        "deity": "Indra",
+        "theme": "Completion",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः यज्ञं पूर्णं करोतु",
+            "transliteration": "indraḥ yajñaṁ pūrṇaṁ karotu",
+            "meaning": "May Indra complete the ritual."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "closing tone",
+          "svara_pattern": "descending",
+          "usage": "Completion chant"
+        }
+      },
+      {
+        "chant_id": "SV-3-40",
+        "source_rigveda": "RV 1.61.2",
+        "deity": "Indra",
+        "theme": "Renewal",
+        "verses": [
+          {
+            "verse_id": 1,
+            "sanskrit": "इन्द्रः पुनः बलं ददातु",
+            "transliteration": "indraḥ punaḥ balaṁ dadātu",
+            "meaning": "May Indra renew strength."
+          }
+        ],
+        "chant": {
+          "type": "Saman",
+          "melody": "soft renewal tone",
+          "svara_pattern": "gentle sustain",
+          "usage": "Renewal chant"
+        }
+      },
+      
+			{
+				"chant_id": "SV-3-41",
+				"source_rigveda": "RV 1.62.1",
+				"deity": "Indra",
+				"theme": "Reinforcement",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रं पुनः हवामहे बलाय च विजयाय च",
+						"transliteration": "indraṁ punaḥ havāmahe balāya ca vijayāya ca",
+						"meaning": "We again invoke Indra for strength and victory."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "repetitive invocation",
+					"svara_pattern": "mid-range repetition",
+					"usage": "Reinforcement chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-42",
+				"source_rigveda": "RV 1.62.2",
+				"deity": "Indra",
+				"theme": "Protection",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः नः पातु सर्वतः शत्रून् हन्तु",
+						"transliteration": "indraḥ naḥ pātu sarvataḥ śatrūn hantu",
+						"meaning": "May Indra protect us and destroy enemies."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "sharp protective tone",
+					"svara_pattern": "high emphasis",
+					"usage": "Protection chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-43",
+				"source_rigveda": "RV 1.63.1",
+				"deity": "Indra",
+				"theme": "Strength",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः बलं महत्तमं ददातु",
+						"transliteration": "indraḥ balaṁ mahattamaṁ dadātu",
+						"meaning": "May Indra grant great strength."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "expanding arc",
+					"svara_pattern": "broad sustain",
+					"usage": "Strength chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-44",
+				"source_rigveda": "RV 1.63.2",
+				"deity": "Indra",
+				"theme": "Victory",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः शत्रून् अभिभूत्य जयति",
+						"transliteration": "indraḥ śatrūn abhibhūtya jayati",
+						"meaning": "Indra conquers enemies with dominance."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "forceful strike",
+					"svara_pattern": "accented",
+					"usage": "Victory chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-45",
+				"source_rigveda": "RV 1.64.1",
+				"deity": "Indra",
+				"theme": "Prosperity",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः धनं वर्धयतु नः",
+						"transliteration": "indraḥ dhanaṁ vardhayatu naḥ",
+						"meaning": "May Indra increase our wealth."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "gentle expansion",
+					"svara_pattern": "balanced",
+					"usage": "Prosperity chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-46",
+				"source_rigveda": "RV 1.64.2",
+				"deity": "Indra",
+				"theme": "Energy",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः ऊर्जा ददातु",
+						"transliteration": "indraḥ ūrjā dadātu",
+						"meaning": "May Indra grant energy."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "rising energetic tone",
+					"svara_pattern": "high sustain",
+					"usage": "Energy chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-47",
+				"source_rigveda": "RV 1.65.1",
+				"deity": "Indra",
+				"theme": "Leadership",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः नेता सर्वेषां",
+						"transliteration": "indraḥ netā sarveṣāṁ",
+						"meaning": "Indra is the leader of all."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "commanding tone",
+					"svara_pattern": "high sustain",
+					"usage": "Leadership chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-48",
+				"source_rigveda": "RV 1.65.2",
+				"deity": "Indra",
+				"theme": "Guidance",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः नः मार्गं दर्शयतु",
+						"transliteration": "indraḥ naḥ mārgaṁ darśayatu",
+						"meaning": "May Indra guide us."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "smooth guiding tone",
+					"svara_pattern": "flowing",
+					"usage": "Guidance chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-49",
+				"source_rigveda": "RV 1.66.1",
+				"deity": "Indra",
+				"theme": "Victory",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः जयति सर्वान् शत्रून्",
+						"transliteration": "indraḥ jayati sarvān śatrūn",
+						"meaning": "Indra conquers all enemies."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "strong strike",
+					"svara_pattern": "accented",
+					"usage": "Victory chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-50",
+				"source_rigveda": "RV 1.66.2",
+				"deity": "Indra",
+				"theme": "Protection",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः नः रक्षतु सर्वतः",
+						"transliteration": "indraḥ naḥ rakṣatu sarvataḥ",
+						"meaning": "May Indra protect us from all directions."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "protective tone",
+					"svara_pattern": "balanced",
+					"usage": "Protection chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-51",
+				"source_rigveda": "RV 1.67.1",
+				"deity": "Indra",
+				"theme": "Completion",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः यज्ञं पूर्णं करोतु",
+						"transliteration": "indraḥ yajñaṁ pūrṇaṁ karotu",
+						"meaning": "May Indra complete the sacrifice."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "closing tone",
+					"svara_pattern": "descending",
+					"usage": "Completion chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-52",
+				"source_rigveda": "RV 1.67.2",
+				"deity": "Indra",
+				"theme": "Renewal",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः पुनः बलं ददातु",
+						"transliteration": "indraḥ punaḥ balaṁ dadātu",
+						"meaning": "May Indra grant renewed strength."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "soft renewal tone",
+					"svara_pattern": "gentle sustain",
+					"usage": "Renewal chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-53",
+				"source_rigveda": "RV 1.68.1",
+				"deity": "Indra",
+				"theme": "Power",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः महद् बलं धारयति",
+						"transliteration": "indraḥ mahad balaṁ dhārayati",
+						"meaning": "Indra holds great power."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "broad tone",
+					"svara_pattern": "wide sustain",
+					"usage": "Power chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-54",
+				"source_rigveda": "RV 1.68.2",
+				"deity": "Indra",
+				"theme": "Protection",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः नः पातु",
+						"transliteration": "indraḥ naḥ pātu",
+						"meaning": "May Indra protect us."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "protective tone",
+					"svara_pattern": "mid sustain",
+					"usage": "Protection chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-55",
+				"source_rigveda": "RV 1.69.1",
+				"deity": "Indra",
+				"theme": "Strength",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः बलं ददातु",
+						"transliteration": "indraḥ balaṁ dadātu",
+						"meaning": "May Indra grant strength."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "firm tone",
+					"svara_pattern": "steady sustain",
+					"usage": "Strength chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-56",
+				"source_rigveda": "RV 1.69.2",
+				"deity": "Indra",
+				"theme": "Energy",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः ऊर्जा वहतु",
+						"transliteration": "indraḥ ūrjā vahatu",
+						"meaning": "May Indra carry energy."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "flowing tone",
+					"svara_pattern": "smooth oscillation",
+					"usage": "Energy chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-57",
+				"source_rigveda": "RV 1.70.1",
+				"deity": "Indra",
+				"theme": "Victory",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः जयति सर्वान्",
+						"transliteration": "indraḥ jayati sarvān",
+						"meaning": "Indra conquers all."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "strong strike",
+					"svara_pattern": "accented",
+					"usage": "Victory chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-58",
+				"source_rigveda": "RV 1.70.2",
+				"deity": "Indra",
+				"theme": "Protection",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः नः रक्षतु",
+						"transliteration": "indraḥ naḥ rakṣatu",
+						"meaning": "May Indra protect us."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "protective tone",
+					"svara_pattern": "balanced",
+					"usage": "Protection chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-59",
+				"source_rigveda": "RV 1.71.1",
+				"deity": "Indra",
+				"theme": "Completion",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः यज्ञं पूर्णं करोतु",
+						"transliteration": "indraḥ yajñaṁ pūrṇaṁ karotu",
+						"meaning": "May Indra complete the ritual."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "closing tone",
+					"svara_pattern": "descending",
+					"usage": "Completion chant"
+				}
+			},
+	
+			{
+				"chant_id": "SV-3-60",
+				"source_rigveda": "RV 1.71.2",
+				"deity": "Indra",
+				"theme": "Cycle renewal",
+				"verses": [
+					{
+						"verse_id": 1,
+						"sanskrit": "इन्द्रः पुनः बलं ददातु च प्रवर्तयतु",
+						"transliteration": "indraḥ punaḥ balaṁ dadātu ca pravartayatu",
+						"meaning": "May Indra renew strength and set the cycle in motion again."
+					}
+				],
+				"chant": {
+					"type": "Saman",
+					"melody": "deep renewal tone",
+					"svara_pattern": "descending closure",
+					"usage": "Cycle renewal chant"
+				}
+			}
+    ]
+  }
+}

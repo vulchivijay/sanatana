@@ -1,0 +1,1077 @@
+{
+  "book5": {
+    "id": "SV-BOOK-5",
+    "title": "Samaveda Chapter 5 – Ritual Chanting, Meaning & Translation",
+    "description": "Explore Samaveda Chapter 5 with sacred chants used in Vedic rituals, including Sanskrit text, meanings, and musical recitation for yajnas and ceremonies.",
+    "meta": {
+      "title": "Samaveda Chapter 5 – Ritual Chanting, Meaning & Translation",
+      "canonical": "https://sanatanadharmam.in/vedas/samaveda/chapter5",
+      "description": "Explore Samaveda Chapter 5 with ritual chants, Sanskrit text, meanings, and musical recitation used in Vedic yajnas.",
+      "keywords": [
+        "samaveda chapter 5",
+        "vedic ritual chanting",
+        "samaveda yajna chants",
+        "vedic ceremonies chanting",
+        "samaveda ritual hymns",
+        "yajna mantra samaveda",
+        "samaveda chanting meaning",
+        "samaveda mantra explanation",
+        "sanatana dharma samaveda",
+        "samaveda chapter 5 summary"
+      ],
+      "robots": "index, follow, max-image-preview:large",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter5"
+    },
+    "openGraph": {
+      "title": "Samaveda Chapter 5 – Ritual Chants & Meaning",
+      "description": "Read Samaveda Chapter 5 with sacred chants used in Vedic rituals, Sanskrit text, and explanations.",
+      "url": "https://sanatanadharmam.in/vedas/samaveda/chapter5",
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "images": [
+        {
+          "url": "https://sanatanadharmam.in/images/og/samaveda-chapter5.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "Samaveda Chapter 5 Ritual Chants and Meaning"
+        }
+      ]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Samaveda Chapter 5 – Ritual Chanting and Meaning",
+          "description": "Detailed presentation of Samaveda Chapter 5 including ritual chants, Sanskrit text, translations, and musical recitation.",
+          "author": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sanatanadharmam.in/images/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://sanatanadharmam.in/vedas/samaveda/chapter5"
+          },
+          "datePublished": "2024-01-01",
+          "dateModified": "2026-01-01",
+          "inLanguage": "en",
+          "about": {
+            "@type": "CreativeWork",
+            "name": "Samaveda Chapter 5",
+            "description": "The fifth chapter of the Samaveda focusing on ritual chanting and its application in Vedic yajnas and ceremonies."
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "Samaveda Chapter 5",
+          "url": "https://sanatanadharmam.in/vedas/samaveda/chapter5"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sanatanadharmam.in"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vedas",
+              "item": "https://sanatanadharmam.in/vedas"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Samaveda",
+              "item": "https://sanatanadharmam.in/vedas/samaveda"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Chapter 5",
+              "item": "https://sanatanadharmam.in/vedas/samaveda/chapter5"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in",
+          "logo": "https://sanatanadharmam.in/images/logo.png"
+        }
+      ]
+    },
+    "chants": [
+      {
+        "id": 1,
+        "chant_id": "SV-5-1",
+        "rigveda_ref": "RV 1.102.1",
+        "theme": "Invocation",
+        "text": {
+          "sanskrit": "वायुम् हवामहे जीवनस्य अधिपतिम्",
+          "transliteration": "vāyum havāmahe jīvanasya adhipatim",
+          "meaning": "We invoke Vayu, the lord of life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "airy soft tone",
+          "usage": "Invocation"
+        }
+      },
+      {
+        "id": 2,
+        "chant_id": "SV-5-2",
+        "rigveda_ref": "RV 1.102.2",
+        "theme": "Breath",
+        "text": {
+          "sanskrit": "वायुः प्राणं वहति सर्वेषां",
+          "transliteration": "vāyuḥ prāṇaṁ vahati sarveṣām",
+          "meaning": "Vayu carries the life breath of all."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "flowing breath tone",
+          "usage": "Prana awareness"
+        }
+      },
+      {
+        "id": 3,
+        "chant_id": "SV-5-3",
+        "rigveda_ref": "RV 1.103.1",
+        "theme": "Energy",
+        "text": {
+          "sanskrit": "वायुः ऊर्जा ददातु नः",
+          "transliteration": "vāyuḥ ūrjā dadātu naḥ",
+          "meaning": "May Vayu grant us energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "light rising",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 4,
+        "chant_id": "SV-5-4",
+        "rigveda_ref": "RV 1.103.2",
+        "theme": "Movement",
+        "text": {
+          "sanskrit": "वायुः सर्वं चलयति",
+          "transliteration": "vāyuḥ sarvaṁ calayati",
+          "meaning": "Vayu moves everything."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "dynamic wave",
+          "usage": "Movement"
+        }
+      },
+      {
+        "id": 5,
+        "chant_id": "SV-5-5",
+        "rigveda_ref": "RV 1.104.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "वायुः जीवनं ददातु",
+          "transliteration": "vāyuḥ jīvanaṁ dadātu",
+          "meaning": "May Vayu grant life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "vital tone",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 6,
+        "chant_id": "SV-5-6",
+        "rigveda_ref": "RV 1.104.2",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "वायुः बलं वर्धयतु",
+          "transliteration": "vāyuḥ balaṁ vardhayatu",
+          "meaning": "May Vayu increase strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 7,
+        "chant_id": "SV-5-7",
+        "rigveda_ref": "RV 1.105.1",
+        "theme": "Flow",
+        "text": {
+          "sanskrit": "वायुः धारा इव वहति",
+          "transliteration": "vāyuḥ dhārā iva vahati",
+          "meaning": "Vayu flows like a stream."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "wave-like",
+          "usage": "Flow"
+        }
+      },
+      {
+        "id": 8,
+        "chant_id": "SV-5-8",
+        "rigveda_ref": "RV 1.105.2",
+        "theme": "Purification",
+        "text": {
+          "sanskrit": "वायुः शुद्धिं करोतु",
+          "transliteration": "vāyuḥ śuddhiṁ karotu",
+          "meaning": "May Vayu purify."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clean tone",
+          "usage": "Purification"
+        }
+      },
+      {
+        "id": 9,
+        "chant_id": "SV-5-9",
+        "rigveda_ref": "RV 1.106.1",
+        "theme": "Connection",
+        "text": {
+          "sanskrit": "वायुः देवान् वहति",
+          "transliteration": "vāyuḥ devān vahati",
+          "meaning": "Vayu carries the gods."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "ascending",
+          "usage": "Divine connection"
+        }
+      },
+      {
+        "id": 10,
+        "chant_id": "SV-5-10",
+        "rigveda_ref": "RV 1.106.2",
+        "theme": "Breath control",
+        "text": {
+          "sanskrit": "वायुः प्राणं धारयति",
+          "transliteration": "vāyuḥ prāṇaṁ dhārayati",
+          "meaning": "Vayu sustains the breath."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Prana control"
+        }
+      },
+      {
+        "id": 11,
+        "chant_id": "SV-5-11",
+        "rigveda_ref": "RV 1.107.1",
+        "theme": "Expansion",
+        "text": {
+          "sanskrit": "वायुः विस्तारं ददातु",
+          "transliteration": "vāyuḥ vistāraṁ dadātu",
+          "meaning": "May Vayu expand life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Expansion"
+        }
+      },
+      {
+        "id": 12,
+        "chant_id": "SV-5-12",
+        "rigveda_ref": "RV 1.107.2",
+        "theme": "Clarity",
+        "text": {
+          "sanskrit": "वायुः प्रकाशं ददातु",
+          "transliteration": "vāyuḥ prakāśaṁ dadātu",
+          "meaning": "May Vayu grant clarity."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "bright",
+          "usage": "Clarity"
+        }
+      },
+      {
+        "id": 13,
+        "chant_id": "SV-5-13",
+        "rigveda_ref": "RV 1.108.1",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "वायुः बलं ददातु",
+          "transliteration": "vāyuḥ balaṁ dadātu",
+          "meaning": "May Vayu grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 14,
+        "chant_id": "SV-5-14",
+        "rigveda_ref": "RV 1.108.2",
+        "theme": "Continuity",
+        "text": {
+          "sanskrit": "वायुः निरन्तरं वहतु",
+          "transliteration": "vāyuḥ nirantaraṁ vahatu",
+          "meaning": "May Vayu flow continuously."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "flowing",
+          "usage": "Continuity"
+        }
+      },
+      {
+        "id": 15,
+        "chant_id": "SV-5-15",
+        "rigveda_ref": "RV 1.109.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "वायुः नः रक्षतु",
+          "transliteration": "vāyuḥ naḥ rakṣatu",
+          "meaning": "May Vayu protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 16,
+        "chant_id": "SV-5-16",
+        "rigveda_ref": "RV 1.109.2",
+        "theme": "Energy flow",
+        "text": {
+          "sanskrit": "वायुः ऊर्जा वहतु",
+          "transliteration": "vāyuḥ ūrjā vahatu",
+          "meaning": "May Vayu carry energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "wave",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 17,
+        "chant_id": "SV-5-17",
+        "rigveda_ref": "RV 1.110.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "वायुः प्राणं ददातु",
+          "transliteration": "vāyuḥ prāṇaṁ dadātu",
+          "meaning": "May Vayu grant life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "vital",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 18,
+        "chant_id": "SV-5-18",
+        "rigveda_ref": "RV 1.110.2",
+        "theme": "Freedom",
+        "text": {
+          "sanskrit": "वायुः मुक्तिं ददातु",
+          "transliteration": "vāyuḥ muktiṁ dadātu",
+          "meaning": "May Vayu grant liberation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "light",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 19,
+        "chant_id": "SV-5-19",
+        "rigveda_ref": "RV 1.111.1",
+        "theme": "Completion",
+        "text": {
+          "sanskrit": "वायुः यज्ञं पूर्णं करोतु",
+          "transliteration": "vāyuḥ yajñaṁ pūrṇaṁ karotu",
+          "meaning": "May Vayu complete the ritual."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "closing",
+          "usage": "Completion"
+        }
+      },
+      {
+        "id": 20,
+        "chant_id": "SV-5-20",
+        "rigveda_ref": "RV 1.111.2",
+        "theme": "Renewal",
+        "text": {
+          "sanskrit": "वायुः पुनः प्रवर्तयतु",
+          "transliteration": "vāyuḥ punaḥ pravartayatu",
+          "meaning": "May Vayu restart the cycle."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "soft renewal",
+          "usage": "Renewal"
+        }
+      },
+      {
+        "id": 21,
+        "chant_id": "SV-5-21",
+        "rigveda_ref": "RV 1.112.1",
+        "theme": "Reinforcement",
+        "text": {
+          "sanskrit": "वायुम् पुनः हवामहे प्राणस्य अधिपतिम्",
+          "transliteration": "vāyum punaḥ havāmahe prāṇasya adhipatim",
+          "meaning": "We again invoke Vayu, lord of life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "soft repetitive",
+          "usage": "Reinforcement"
+        }
+      },
+      {
+        "id": 22,
+        "chant_id": "SV-5-22",
+        "rigveda_ref": "RV 1.112.2",
+        "theme": "Breath",
+        "text": {
+          "sanskrit": "वायुः प्राणं धारयति",
+          "transliteration": "vāyuḥ prāṇaṁ dhārayati",
+          "meaning": "Vayu sustains breath."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady flow",
+          "usage": "Prana awareness"
+        }
+      },
+      {
+        "id": 23,
+        "chant_id": "SV-5-23",
+        "rigveda_ref": "RV 1.113.1",
+        "theme": "Energy",
+        "text": {
+          "sanskrit": "वायुः ऊर्जा ददातु",
+          "transliteration": "vāyuḥ ūrjā dadātu",
+          "meaning": "May Vayu grant energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "rising tone",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 24,
+        "chant_id": "SV-5-24",
+        "rigveda_ref": "RV 1.113.2",
+        "theme": "Movement",
+        "text": {
+          "sanskrit": "वायुः सर्वं चलयति",
+          "transliteration": "vāyuḥ sarvaṁ calayati",
+          "meaning": "Vayu moves everything."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "dynamic",
+          "usage": "Movement"
+        }
+      },
+      {
+        "id": 25,
+        "chant_id": "SV-5-25",
+        "rigveda_ref": "RV 1.114.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "वायुः जीवनं ददातु",
+          "transliteration": "vāyuḥ jīvanaṁ dadātu",
+          "meaning": "May Vayu grant life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "vital",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 26,
+        "chant_id": "SV-5-26",
+        "rigveda_ref": "RV 1.114.2",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "वायुः बलं वर्धयतु",
+          "transliteration": "vāyuḥ balaṁ vardhayatu",
+          "meaning": "May Vayu increase strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 27,
+        "chant_id": "SV-5-27",
+        "rigveda_ref": "RV 1.115.1",
+        "theme": "Flow",
+        "text": {
+          "sanskrit": "वायुः धारा इव वहति",
+          "transliteration": "vāyuḥ dhārā iva vahati",
+          "meaning": "Vayu flows like a stream."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "wave-like",
+          "usage": "Flow"
+        }
+      },
+      {
+        "id": 28,
+        "chant_id": "SV-5-28",
+        "rigveda_ref": "RV 1.115.2",
+        "theme": "Purification",
+        "text": {
+          "sanskrit": "वायुः शुद्धिं करोतु",
+          "transliteration": "vāyuḥ śuddhiṁ karotu",
+          "meaning": "May Vayu purify."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clean",
+          "usage": "Purification"
+        }
+      },
+      {
+        "id": 29,
+        "chant_id": "SV-5-29",
+        "rigveda_ref": "RV 1.116.1",
+        "theme": "Connection",
+        "text": {
+          "sanskrit": "वायुः देवान् वहति",
+          "transliteration": "vāyuḥ devān vahati",
+          "meaning": "Vayu carries the gods."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "ascending",
+          "usage": "Connection"
+        }
+      },
+      {
+        "id": 30,
+        "chant_id": "SV-5-30",
+        "rigveda_ref": "RV 1.116.2",
+        "theme": "Breath control",
+        "text": {
+          "sanskrit": "वायुः प्राणं धारयति",
+          "transliteration": "vāyuḥ prāṇaṁ dhārayati",
+          "meaning": "Vayu sustains breath."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Prana control"
+        }
+      },
+      {
+        "id": 31,
+        "chant_id": "SV-5-31",
+        "rigveda_ref": "RV 1.117.1",
+        "theme": "Expansion",
+        "text": {
+          "sanskrit": "वायुः विस्तारं ददातु",
+          "transliteration": "vāyuḥ vistāraṁ dadātu",
+          "meaning": "May Vayu expand life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Expansion"
+        }
+      },
+      {
+        "id": 32,
+        "chant_id": "SV-5-32",
+        "rigveda_ref": "RV 1.117.2",
+        "theme": "Clarity",
+        "text": {
+          "sanskrit": "वायुः प्रकाशं ददातु",
+          "transliteration": "vāyuḥ prakāśaṁ dadātu",
+          "meaning": "May Vayu grant clarity."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "bright",
+          "usage": "Clarity"
+        }
+      },
+      {
+        "id": 33,
+        "chant_id": "SV-5-33",
+        "rigveda_ref": "RV 1.118.1",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "वायुः बलं ददातु",
+          "transliteration": "vāyuḥ balaṁ dadātu",
+          "meaning": "May Vayu grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 34,
+        "chant_id": "SV-5-34",
+        "rigveda_ref": "RV 1.118.2",
+        "theme": "Continuity",
+        "text": {
+          "sanskrit": "वायुः निरन्तरं वहतु",
+          "transliteration": "vāyuḥ nirantaraṁ vahatu",
+          "meaning": "May Vayu flow continuously."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "flowing",
+          "usage": "Continuity"
+        }
+      },
+      {
+        "id": 35,
+        "chant_id": "SV-5-35",
+        "rigveda_ref": "RV 1.119.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "वायुः नः रक्षतु",
+          "transliteration": "vāyuḥ naḥ rakṣatu",
+          "meaning": "May Vayu protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 36,
+        "chant_id": "SV-5-36",
+        "rigveda_ref": "RV 1.119.2",
+        "theme": "Energy flow",
+        "text": {
+          "sanskrit": "वायुः ऊर्जा वहतु",
+          "transliteration": "vāyuḥ ūrjā vahatu",
+          "meaning": "May Vayu carry energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "wave",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 37,
+        "chant_id": "SV-5-37",
+        "rigveda_ref": "RV 1.120.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "वायुः प्राणं ददातु",
+          "transliteration": "vāyuḥ prāṇaṁ dadātu",
+          "meaning": "May Vayu grant life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "vital",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 38,
+        "chant_id": "SV-5-38",
+        "rigveda_ref": "RV 1.120.2",
+        "theme": "Freedom",
+        "text": {
+          "sanskrit": "वायुः मुक्तिं ददातु",
+          "transliteration": "vāyuḥ muktiṁ dadātu",
+          "meaning": "May Vayu grant liberation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "light",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 39,
+        "chant_id": "SV-5-39",
+        "rigveda_ref": "RV 1.121.1",
+        "theme": "Completion",
+        "text": {
+          "sanskrit": "वायुः यज्ञं पूर्णं करोतु",
+          "transliteration": "vāyuḥ yajñaṁ pūrṇaṁ karotu",
+          "meaning": "May Vayu complete the ritual."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "closing",
+          "usage": "Completion"
+        }
+      },
+      {
+        "id": 40,
+        "chant_id": "SV-5-40",
+        "rigveda_ref": "RV 1.121.2",
+        "theme": "Renewal",
+        "text": {
+          "sanskrit": "वायुः पुनः प्रवर्तयतु",
+          "transliteration": "vāyuḥ punaḥ pravartayatu",
+          "meaning": "May Vayu restart the cycle."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "soft renewal",
+          "usage": "Renewal"
+        }
+      },
+      {
+        "id": 41,
+        "chant_id": "SV-5-41",
+        "rigveda_ref": "RV 1.122.1",
+        "theme": "Reinforcement",
+        "text": {
+          "sanskrit": "वायुम् पुनः हवामहे प्राणस्य अधिपतिम्",
+          "transliteration": "vāyum punaḥ havāmahe prāṇasya adhipatim",
+          "meaning": "We again invoke Vayu, lord of life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "soft repetitive",
+          "usage": "Reinforcement"
+        }
+      },
+      {
+        "id": 42,
+        "chant_id": "SV-5-42",
+        "rigveda_ref": "RV 1.122.2",
+        "theme": "Breath",
+        "text": {
+          "sanskrit": "वायुः प्राणं धारयति",
+          "transliteration": "vāyuḥ prāṇaṁ dhārayati",
+          "meaning": "Vayu sustains breath."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady flow",
+          "usage": "Prana awareness"
+        }
+      },
+      {
+        "id": 43,
+        "chant_id": "SV-5-43",
+        "rigveda_ref": "RV 1.123.1",
+        "theme": "Energy",
+        "text": {
+          "sanskrit": "वायुः ऊर्जा ददातु",
+          "transliteration": "vāyuḥ ūrjā dadātu",
+          "meaning": "May Vayu grant energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "rising tone",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 44,
+        "chant_id": "SV-5-44",
+        "rigveda_ref": "RV 1.123.2",
+        "theme": "Movement",
+        "text": {
+          "sanskrit": "वायुः सर्वं चलयति",
+          "transliteration": "vāyuḥ sarvaṁ calayati",
+          "meaning": "Vayu moves everything."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "dynamic",
+          "usage": "Movement"
+        }
+      },
+      {
+        "id": 45,
+        "chant_id": "SV-5-45",
+        "rigveda_ref": "RV 1.124.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "वायुः जीवनं ददातु",
+          "transliteration": "vāyuḥ jīvanaṁ dadātu",
+          "meaning": "May Vayu grant life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "vital",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 46,
+        "chant_id": "SV-5-46",
+        "rigveda_ref": "RV 1.124.2",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "वायुः बलं वर्धयतु",
+          "transliteration": "vāyuḥ balaṁ vardhayatu",
+          "meaning": "May Vayu increase strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 47,
+        "chant_id": "SV-5-47",
+        "rigveda_ref": "RV 1.125.1",
+        "theme": "Flow",
+        "text": {
+          "sanskrit": "वायुः धारा इव वहति",
+          "transliteration": "vāyuḥ dhārā iva vahati",
+          "meaning": "Vayu flows like a stream."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "wave-like",
+          "usage": "Flow"
+        }
+      },
+      {
+        "id": 48,
+        "chant_id": "SV-5-48",
+        "rigveda_ref": "RV 1.125.2",
+        "theme": "Purification",
+        "text": {
+          "sanskrit": "वायुः शुद्धिं करोतु",
+          "transliteration": "vāyuḥ śuddhiṁ karotu",
+          "meaning": "May Vayu purify."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "clean",
+          "usage": "Purification"
+        }
+      },
+      {
+        "id": 49,
+        "chant_id": "SV-5-49",
+        "rigveda_ref": "RV 1.126.1",
+        "theme": "Connection",
+        "text": {
+          "sanskrit": "वायुः देवान् वहति",
+          "transliteration": "vāyuḥ devān vahati",
+          "meaning": "Vayu carries the gods."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "ascending",
+          "usage": "Connection"
+        }
+      },
+      {
+        "id": 50,
+        "chant_id": "SV-5-50",
+        "rigveda_ref": "RV 1.126.2",
+        "theme": "Breath control",
+        "text": {
+          "sanskrit": "वायुः प्राणं धारयति",
+          "transliteration": "vāyuḥ prāṇaṁ dhārayati",
+          "meaning": "Vayu sustains breath."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Prana control"
+        }
+      },
+      {
+        "id": 51,
+        "chant_id": "SV-5-51",
+        "rigveda_ref": "RV 1.127.1",
+        "theme": "Expansion",
+        "text": {
+          "sanskrit": "वायुः विस्तारं ददातु",
+          "transliteration": "vāyuḥ vistāraṁ dadātu",
+          "meaning": "May Vayu expand life."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "expanding",
+          "usage": "Expansion"
+        }
+      },
+      {
+        "id": 52,
+        "chant_id": "SV-5-52",
+        "rigveda_ref": "RV 1.127.2",
+        "theme": "Clarity",
+        "text": {
+          "sanskrit": "वायुः प्रकाशं ददातु",
+          "transliteration": "vāyuḥ prakāśaṁ dadātu",
+          "meaning": "May Vayu grant clarity."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "bright",
+          "usage": "Clarity"
+        }
+      },
+      {
+        "id": 53,
+        "chant_id": "SV-5-53",
+        "rigveda_ref": "RV 1.128.1",
+        "theme": "Strength",
+        "text": {
+          "sanskrit": "वायुः बलं ददातु",
+          "transliteration": "vāyuḥ balaṁ dadātu",
+          "meaning": "May Vayu grant strength."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "steady",
+          "usage": "Strength"
+        }
+      },
+      {
+        "id": 54,
+        "chant_id": "SV-5-54",
+        "rigveda_ref": "RV 1.128.2",
+        "theme": "Continuity",
+        "text": {
+          "sanskrit": "वायुः निरन्तरं वहतु",
+          "transliteration": "vāyuḥ nirantaraṁ vahatu",
+          "meaning": "May Vayu flow continuously."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "flowing",
+          "usage": "Continuity"
+        }
+      },
+      {
+        "id": 55,
+        "chant_id": "SV-5-55",
+        "rigveda_ref": "RV 1.129.1",
+        "theme": "Protection",
+        "text": {
+          "sanskrit": "वायुः नः रक्षतु",
+          "transliteration": "vāyuḥ naḥ rakṣatu",
+          "meaning": "May Vayu protect us."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "protective",
+          "usage": "Protection"
+        }
+      },
+      {
+        "id": 56,
+        "chant_id": "SV-5-56",
+        "rigveda_ref": "RV 1.129.2",
+        "theme": "Energy flow",
+        "text": {
+          "sanskrit": "वायुः ऊर्जा वहतु",
+          "transliteration": "vāyuḥ ūrjā vahatu",
+          "meaning": "May Vayu carry energy."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "wave",
+          "usage": "Energy"
+        }
+      },
+      {
+        "id": 57,
+        "chant_id": "SV-5-57",
+        "rigveda_ref": "RV 1.130.1",
+        "theme": "Vitality",
+        "text": {
+          "sanskrit": "वायुः प्राणं ददातु",
+          "transliteration": "vāyuḥ prāṇaṁ dadātu",
+          "meaning": "May Vayu grant life force."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "vital",
+          "usage": "Vitality"
+        }
+      },
+      {
+        "id": 58,
+        "chant_id": "SV-5-58",
+        "rigveda_ref": "RV 1.130.2",
+        "theme": "Freedom",
+        "text": {
+          "sanskrit": "वायुः मुक्तिं ददातु",
+          "transliteration": "vāyuḥ muktiṁ dadātu",
+          "meaning": "May Vayu grant liberation."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "light",
+          "usage": "Liberation"
+        }
+      },
+      {
+        "id": 59,
+        "chant_id": "SV-5-59",
+        "rigveda_ref": "RV 1.131.1",
+        "theme": "Completion",
+        "text": {
+          "sanskrit": "वायुः यज्ञं पूर्णं करोतु",
+          "transliteration": "vāyuḥ yajñaṁ pūrṇaṁ karotu",
+          "meaning": "May Vayu complete the ritual."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "closing",
+          "usage": "Completion"
+        }
+      },
+      {
+        "id": 60,
+        "chant_id": "SV-5-60",
+        "rigveda_ref": "RV 1.131.2",
+        "theme": "Cycle renewal",
+        "text": {
+          "sanskrit": "वायुः पुनः प्रवर्तयतु",
+          "transliteration": "vāyuḥ punaḥ pravartayatu",
+          "meaning": "May Vayu restart the cycle again."
+        },
+        "chant_meta": {
+          "type": "Saman",
+          "melody": "soft renewal",
+          "usage": "Renewal"
+        }
+      }
+    ]
+  }
+}

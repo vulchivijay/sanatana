@@ -1,0 +1,1017 @@
+{
+  "mandala6": {
+    "id": "RV-MANDALA-6",
+    "title": "Rigveda Mandala 6 – Hymns, Meaning & Translation",
+    "description": "Explore Rigveda Mandala 6 with complete hymns, Sanskrit text, meanings, and translations. Discover the hymns of the Bharadvaja Rishis dedicated to Agni, Indra, and divine forces.",
+    "meta": {
+      "title": "Rigveda Mandala 6 – Hymns, Meaning & Translation",
+      "canonical": "https://sanatanadharmam.in/vedas/rigveda/mandala-6",
+      "description": "Explore Rigveda Mandala 6 with Sanskrit hymns, meanings, and translations. Includes hymns of the Bharadvaja Rishis dedicated to Agni and Indra.",
+      "keywords": [
+        "rigveda mandala 6",
+        "bharadvaja rigveda",
+        "rigveda book 6 hymns",
+        "agni hymns rigveda mandala 6",
+        "indra hymns rigveda mandala 6",
+        "rigveda mandala 6 translation",
+        "vedic hymns mandala 6",
+        "rigveda mantra explanation mandala 6",
+        "sanatana dharma rigveda mandala 6",
+        "rigveda mandala 6 summary"
+      ],
+      "robots": "index, follow, max-image-preview:large",
+      "url": "https://sanatanadharmam.in/vedas/rigveda/mandala-6"
+    },
+    "openGraph": {
+      "title": "Rigveda Mandala 6 – Hymns, Meaning & Spiritual Insights",
+      "description": "Read Rigveda Mandala 6 with Sanskrit text, translations, and explanations of hymns by the Bharadvaja Rishis.",
+      "url": "https://sanatanadharmam.in/vedas/rigveda/mandala-6",
+      "siteName": "Sanatanadharmam",
+      "type": "article",
+      "images": [
+        {
+          "url": "https://sanatanadharmam.in/images/og/rigveda-mandala6.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "Rigveda Mandala 6 Hymns and Meaning"
+        }
+      ]
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Rigveda Mandala 6 – Hymns and Meaning",
+          "description": "Detailed presentation of Rigveda Mandala 6 including original hymns, Sanskrit text, translations, and explanations.",
+          "author": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Sanatanadharmam",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://sanatanadharmam.in/images/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://sanatanadharmam.in/vedas/rigveda/mandala-6"
+          },
+          "datePublished": "2024-01-01",
+          "dateModified": "2026-01-01",
+          "inLanguage": "en",
+          "about": {
+            "@type": "CreativeWork",
+            "name": "Rigveda Mandala 6",
+            "description": "The sixth Mandala of the Rigveda attributed to the Bharadvaja Rishis, containing hymns to Agni, Indra, and other deities."
+          }
+        },
+        {
+          "@type": "WebPage",
+          "name": "Rigveda Mandala 6",
+          "url": "https://sanatanadharmam.in/vedas/rigveda/mandala-6"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://sanatanadharmam.in"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Vedas",
+              "item": "https://sanatanadharmam.in/vedas"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Rigveda",
+              "item": "https://sanatanadharmam.in/vedas/rigveda"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Mandala 6",
+              "item": "https://sanatanadharmam.in/vedas/rigveda/mandala-6"
+            }
+          ]
+        },
+        {
+          "@type": "Organization",
+          "name": "Sanatanadharmam",
+          "url": "https://sanatanadharmam.in",
+          "logo": "https://sanatanadharmam.in/images/logo.png"
+        }
+      ]
+    },
+    "suktas": [
+      {
+        "id": "RV-6-1",
+        "sukta_number": 1,
+        "title": "Sukta 1",
+        "verses": [
+          {
+            "id": "RV-6-1-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-2",
+        "sukta_number": 2,
+        "title": "Sukta 2",
+        "verses": [
+          {
+            "id": "RV-6-2-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-3",
+        "sukta_number": 3,
+        "title": "Sukta 3",
+        "verses": [
+          {
+            "id": "RV-6-3-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-4",
+        "sukta_number": 4,
+        "title": "Sukta 4",
+        "verses": [
+          {
+            "id": "RV-6-4-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-5",
+        "sukta_number": 5,
+        "title": "Sukta 5",
+        "verses": [
+          {
+            "id": "RV-6-5-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-6",
+        "sukta_number": 6,
+        "title": "Sukta 6",
+        "verses": [
+          {
+            "id": "RV-6-6-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-7",
+        "sukta_number": 7,
+        "title": "Sukta 7",
+        "verses": [
+          {
+            "id": "RV-6-7-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-8",
+        "sukta_number": 8,
+        "title": "Sukta 8",
+        "verses": [
+          {
+            "id": "RV-6-8-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-9",
+        "sukta_number": 9,
+        "title": "Sukta 9",
+        "verses": [
+          {
+            "id": "RV-6-9-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-10",
+        "sukta_number": 10,
+        "title": "Sukta 10",
+        "verses": [
+          {
+            "id": "RV-6-10-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-11",
+        "sukta_number": 11,
+        "title": "Sukta 11",
+        "verses": [
+          {
+            "id": "RV-6-11-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-12",
+        "sukta_number": 12,
+        "title": "Sukta 12",
+        "verses": [
+          {
+            "id": "RV-6-12-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-13",
+        "sukta_number": 13,
+        "title": "Sukta 13",
+        "verses": [
+          {
+            "id": "RV-6-13-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-14",
+        "sukta_number": 14,
+        "title": "Sukta 14",
+        "verses": [
+          {
+            "id": "RV-6-14-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-15",
+        "sukta_number": 15,
+        "title": "Sukta 15",
+        "verses": [
+          {
+            "id": "RV-6-15-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-16",
+        "sukta_number": 16,
+        "title": "Sukta 16",
+        "verses": [
+          {
+            "id": "RV-6-16-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-17",
+        "sukta_number": 17,
+        "title": "Sukta 17",
+        "verses": [
+          {
+            "id": "RV-6-17-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-18",
+        "sukta_number": 18,
+        "title": "Sukta 18",
+        "verses": [
+          {
+            "id": "RV-6-18-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-19",
+        "sukta_number": 19,
+        "title": "Sukta 19",
+        "verses": [
+          {
+            "id": "RV-6-19-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-20",
+        "sukta_number": 20,
+        "title": "Sukta 20",
+        "verses": [
+          {
+            "id": "RV-6-20-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-21",
+        "sukta_number": 21,
+        "title": "Sukta 21",
+        "verses": [
+          {
+            "id": "RV-6-21-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-22",
+        "sukta_number": 22,
+        "title": "Sukta 22",
+        "verses": [
+          {
+            "id": "RV-6-22-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-23",
+        "sukta_number": 23,
+        "title": "Sukta 23",
+        "verses": [
+          {
+            "id": "RV-6-23-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-24",
+        "sukta_number": 24,
+        "title": "Sukta 24",
+        "verses": [
+          {
+            "id": "RV-6-24-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-25",
+        "sukta_number": 25,
+        "title": "Sukta 25",
+        "verses": [
+          {
+            "id": "RV-6-25-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-26",
+        "sukta_number": 26,
+        "title": "Sukta 26",
+        "verses": [
+          {
+            "id": "RV-6-26-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-27",
+        "sukta_number": 27,
+        "title": "Sukta 27",
+        "verses": [
+          {
+            "id": "RV-6-27-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-28",
+        "sukta_number": 28,
+        "title": "Sukta 28",
+        "verses": [
+          {
+            "id": "RV-6-28-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-29",
+        "sukta_number": 29,
+        "title": "Sukta 29",
+        "verses": [
+          {
+            "id": "RV-6-29-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-30",
+        "sukta_number": 30,
+        "title": "Sukta 30",
+        "verses": [
+          {
+            "id": "RV-6-30-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-31",
+        "sukta_number": 31,
+        "title": "Sukta 31",
+        "verses": [
+          {
+            "id": "RV-6-31-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-32",
+        "sukta_number": 32,
+        "title": "Sukta 32",
+        "verses": [
+          {
+            "id": "RV-6-32-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-33",
+        "sukta_number": 33,
+        "title": "Sukta 33",
+        "verses": [
+          {
+            "id": "RV-6-33-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-34",
+        "sukta_number": 34,
+        "title": "Sukta 34",
+        "verses": [
+          {
+            "id": "RV-6-34-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-35",
+        "sukta_number": 35,
+        "title": "Sukta 35",
+        "verses": [
+          {
+            "id": "RV-6-35-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-36",
+        "sukta_number": 36,
+        "title": "Sukta 36",
+        "verses": [
+          {
+            "id": "RV-6-36-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-37",
+        "sukta_number": 37,
+        "title": "Sukta 37",
+        "verses": [
+          {
+            "id": "RV-6-37-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-38",
+        "sukta_number": 38,
+        "title": "Sukta 38",
+        "verses": [
+          {
+            "id": "RV-6-38-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-39",
+        "sukta_number": 39,
+        "title": "Sukta 39",
+        "verses": [
+          {
+            "id": "RV-6-39-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-40",
+        "sukta_number": 40,
+        "title": "Sukta 40",
+        "verses": [
+          {
+            "id": "RV-6-40-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-41",
+        "sukta_number": 41,
+        "title": "Sukta 41",
+        "verses": [
+          {
+            "id": "RV-6-41-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-42",
+        "sukta_number": 42,
+        "title": "Sukta 42",
+        "verses": [
+          {
+            "id": "RV-6-42-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-43",
+        "sukta_number": 43,
+        "title": "Sukta 43",
+        "verses": [
+          {
+            "id": "RV-6-43-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-44",
+        "sukta_number": 44,
+        "title": "Sukta 44",
+        "verses": [
+          {
+            "id": "RV-6-44-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-45",
+        "sukta_number": 45,
+        "title": "Sukta 45",
+        "verses": [
+          {
+            "id": "RV-6-45-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-46",
+        "sukta_number": 46,
+        "title": "Sukta 46",
+        "verses": [
+          {
+            "id": "RV-6-46-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-47",
+        "sukta_number": 47,
+        "title": "Sukta 47",
+        "verses": [
+          {
+            "id": "RV-6-47-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-48",
+        "sukta_number": 48,
+        "title": "Sukta 48",
+        "verses": [
+          {
+            "id": "RV-6-48-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-49",
+        "sukta_number": 49,
+        "title": "Sukta 49",
+        "verses": [
+          {
+            "id": "RV-6-49-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      },
+      {
+        "id": "RV-6-50",
+        "sukta_number": 50,
+        "title": "Sukta 50",
+        "verses": [
+          {
+            "id": "RV-6-50-1",
+            "verse_number": 1,
+            "sanskrit": "अग्निमीळे पुरोहितं",
+            "transliteration": "agnim īḷe purohitaṃ",
+            "meaning": {
+              "literal": "I praise Agni, the priest.",
+              "interpretive": "Invocation of divine fire.",
+              "applied": "Initiation and energy."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

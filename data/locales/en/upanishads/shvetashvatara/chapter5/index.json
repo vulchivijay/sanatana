@@ -1,0 +1,26 @@
+﻿{
+  "shvetashvatara_chapter5": {
+    "title": "Shvetashvatara Chapter 5",
+    "description": "Chapter 5 from Shvetashvatara.",
+    "meta": {
+      "title": "Shvetashvatara Chapter 5",
+      "canonical": "https://sanatanadharmam.in/upanishads/shvetashvatara/chapter-5",
+      "description": "Chapter 5 from Shvetashvatara.",
+      "url": "https://sanatanadharmam.in/upanishads/shvetashvatara/chapter-5"
+    },
+    "openGraph": {
+      "title": "Shvetashvatara Chapter 5",
+      "description": "Chapter 5 from Shvetashvatara.",
+      "url": "https://sanatanadharmam.in/upanishads/shvetashvatara/chapter-5",
+      "siteName": "Sanatanadharmam",
+      "type": "article"
+    },
+    "introduction": "This chapter belongs to Shvetashvatara.",
+    "scripture_text": "Chapter-level summary text for Shvetashvatara, Chapter 5.",
+    "philosophical_explanation": "Each chapter deepens inquiry into Atman, Brahman, and liberation through contemplative dialogue.",
+    "chapter": {
+      "number": 5,
+      "path": "/upanishads/shvetashvatara/chapter-5"
+    }
+  }
+}
