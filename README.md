@@ -51,6 +51,7 @@ For inquiries, permissions, or to report misuse of this repository, please conta
 	- `.github/workflows/deploy-to-github-pages.yml` builds the `production` branch and force-publishes the complete `out/` export to the `gh-pages` branch, including the custom-domain `CNAME` and `.nojekyll` marker.
 	- In repository Settings → Pages, select **Deploy from a branch**, then choose `gh-pages` and the `/ (root)` folder. This matches the workflow's branch deployment.
 	- The contact form needs a third-party HTTPS endpoint because GitHub Pages cannot run the Next.js API route. Add the public repository Actions variable `NEXT_PUBLIC_CONTACT_ENDPOINT` with an endpoint that accepts `POST` JSON `{ "values": { ... } }`, allows requests from `https://sanatanadharmam.in`, and returns a JSON response. If it is not configured, the form reports that it is unavailable instead of submitting to a missing Pages API route.
+	- To enable Google Analytics or Google Tag Manager, add the repository Actions variables `NEXT_PUBLIC_GA_ID` and/or `NEXT_PUBLIC_GTM_ID`. The workflow reports whether Search Console verification, Analytics, and Tag Manager are present in the exported build; Analytics tags load only after visitor consent.
 
 If you'd like, I can also pin an updated `baseline-browser-mapping` version in `package.json` for you to `npm install` locally. Let me know if you want me to do that.
 
